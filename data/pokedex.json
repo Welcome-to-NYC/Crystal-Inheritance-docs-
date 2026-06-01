@@ -97,7 +97,34 @@
   "spriteFile": "sprites/Pikachu.png",
   "spriteEra": "gen2",
   "pokeapiName": "pikachu",
-  "sortKey": 250
+  "sortKey": 250,
+  "baseStats": {
+   "hp": 35,
+   "atk": 65,
+   "def": 40,
+   "spa": 60,
+   "spd": 50,
+   "spe": 95,
+   "bst": 345
+  },
+  "baseStatsFaithful": {
+   "hp": 35,
+   "atk": 55,
+   "def": 40,
+   "spa": 50,
+   "spd": 50,
+   "spe": 90,
+   "bst": 320
+  },
+  "abilities": {
+   "regular": [
+    "Static"
+   ],
+   "hidden": "Lightning Rod"
+  },
+  "srcTypes": [
+   "Electric"
+  ]
  },
  {
   "key": "Raichu",
@@ -142,7 +169,25 @@
   "spriteFile": "sprites/Raichu.png",
   "spriteEra": "gen2",
   "pokeapiName": "raichu",
-  "sortKey": 260
+  "sortKey": 260,
+  "baseStats": {
+   "hp": 60,
+   "atk": 90,
+   "def": 55,
+   "spa": 90,
+   "spd": 80,
+   "spe": 110,
+   "bst": 485
+  },
+  "abilities": {
+   "regular": [
+    "Static"
+   ],
+   "hidden": "Lightning Rod"
+  },
+  "srcTypes": [
+   "Electric"
+  ]
  },
  {
   "key": "Raichu_Alolan",
@@ -184,7 +229,26 @@
   "spriteFile": "sprites/Raichu_Alolan.png",
   "spriteEra": "modern",
   "pokeapiName": "raichu-alola",
-  "sortKey": 261
+  "sortKey": 261,
+  "baseStats": {
+   "hp": 60,
+   "atk": 85,
+   "def": 50,
+   "spa": 95,
+   "spd": 80,
+   "spe": 110,
+   "bst": 480
+  },
+  "abilities": {
+   "regular": [
+    "Static"
+   ],
+   "hidden": "Motor Drive"
+  },
+  "srcTypes": [
+   "Electric",
+   "Psychic"
+  ]
  },
  {
   "key": "Nidorina",
@@ -259,7 +323,26 @@
   "spriteFile": "sprites/Nidorina.png",
   "spriteEra": "gen2",
   "pokeapiName": "nidorina",
-  "sortKey": 300
+  "sortKey": 300,
+  "baseStats": {
+   "hp": 70,
+   "atk": 62,
+   "def": 67,
+   "spa": 55,
+   "spd": 55,
+   "spe": 56,
+   "bst": 365
+  },
+  "abilities": {
+   "regular": [
+    "Poison Point",
+    "Sheer Force"
+   ],
+   "hidden": "Rivalry"
+  },
+  "srcTypes": [
+   "Poison"
+  ]
  },
  {
   "key": "Nidoqueen",
@@ -313,7 +396,27 @@
   "spriteFile": "sprites/Nidoqueen.png",
   "spriteEra": "gen2",
   "pokeapiName": "nidoqueen",
-  "sortKey": 310
+  "sortKey": 310,
+  "baseStats": {
+   "hp": 90,
+   "atk": 92,
+   "def": 87,
+   "spa": 75,
+   "spd": 85,
+   "spe": 76,
+   "bst": 505
+  },
+  "abilities": {
+   "regular": [
+    "Poison Point",
+    "Sheer Force"
+   ],
+   "hidden": "Parental Bond"
+  },
+  "srcTypes": [
+   "Poison",
+   "Ground"
+  ]
  },
  {
   "key": "Nidoran",
@@ -393,7 +496,25 @@
   "spriteFile": "sprites/Nidoran.png",
   "spriteEra": "gen2",
   "pokeapiName": "nidoran-m",
-  "sortKey": 320
+  "sortKey": 320,
+  "baseStats": {
+   "hp": 50,
+   "atk": 52,
+   "def": 46,
+   "spa": 40,
+   "spd": 40,
+   "spe": 45,
+   "bst": 273
+  },
+  "abilities": {
+   "regular": [
+    "Poison Point"
+   ],
+   "hidden": "Hustle"
+  },
+  "srcTypes": [
+   "Poison"
+  ]
  },
  {
   "key": "Nidorino",
@@ -468,7 +589,26 @@
   "spriteFile": "sprites/Nidorino.png",
   "spriteEra": "gen2",
   "pokeapiName": "nidorino",
-  "sortKey": 330
+  "sortKey": 330,
+  "baseStats": {
+   "hp": 61,
+   "atk": 72,
+   "def": 57,
+   "spa": 55,
+   "spd": 55,
+   "spe": 65,
+   "bst": 365
+  },
+  "abilities": {
+   "regular": [
+    "Poison Point",
+    "Sheer Force"
+   ],
+   "hidden": "Rivalry"
+  },
+  "srcTypes": [
+   "Poison"
+  ]
  },
  {
   "key": "Nidoking",
@@ -522,7 +662,27 @@
   "spriteFile": "sprites/Nidoking.png",
   "spriteEra": "gen2",
   "pokeapiName": "nidoking",
-  "sortKey": 340
+  "sortKey": 340,
+  "baseStats": {
+   "hp": 81,
+   "atk": 102,
+   "def": 77,
+   "spa": 85,
+   "spd": 75,
+   "spe": 85,
+   "bst": 505
+  },
+  "abilities": {
+   "regular": [
+    "Poison Point",
+    "Sheer Force"
+   ],
+   "hidden": "Parental Bond"
+  },
+  "srcTypes": [
+   "Poison",
+   "Ground"
+  ]
  },
  {
   "key": "Clefairy",
@@ -629,7 +789,26 @@
   "spriteFile": "sprites/Clefairy.png",
   "spriteEra": "gen2",
   "pokeapiName": "clefairy",
-  "sortKey": 350
+  "sortKey": 350,
+  "baseStats": {
+   "hp": 70,
+   "atk": 45,
+   "def": 48,
+   "spa": 60,
+   "spd": 65,
+   "spe": 35,
+   "bst": 323
+  },
+  "abilities": {
+   "regular": [
+    "Cute Charm",
+    "Magic Guard"
+   ],
+   "hidden": "Unaware"
+  },
+  "srcTypes": [
+   "Fairy"
+  ]
  },
  {
   "key": "Clefable",
@@ -710,7 +889,26 @@
   "spriteFile": "sprites/Clefable.png",
   "spriteEra": "gen2",
   "pokeapiName": "clefable",
-  "sortKey": 360
+  "sortKey": 360,
+  "baseStats": {
+   "hp": 95,
+   "atk": 70,
+   "def": 73,
+   "spa": 95,
+   "spd": 90,
+   "spe": 60,
+   "bst": 483
+  },
+  "abilities": {
+   "regular": [
+    "Cute Charm",
+    "Magic Guard"
+   ],
+   "hidden": "Unaware"
+  },
+  "srcTypes": [
+   "Fairy"
+  ]
  },
  {
   "key": "Vulpix",
@@ -822,7 +1020,25 @@
   "spriteFile": "sprites/Vulpix.png",
   "spriteEra": "gen2",
   "pokeapiName": "vulpix",
-  "sortKey": 370
+  "sortKey": 370,
+  "baseStats": {
+   "hp": 38,
+   "atk": 41,
+   "def": 40,
+   "spa": 50,
+   "spd": 65,
+   "spe": 65,
+   "bst": 299
+  },
+  "abilities": {
+   "regular": [
+    "Drought"
+   ],
+   "hidden": "Flash Fire"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Vulpix_Alolan",
@@ -929,7 +1145,25 @@
   "spriteFile": "sprites/Vulpix_Alolan.png",
   "spriteEra": "modern",
   "pokeapiName": "vulpix-alola",
-  "sortKey": 371
+  "sortKey": 371,
+  "baseStats": {
+   "hp": 38,
+   "atk": 41,
+   "def": 40,
+   "spa": 50,
+   "spd": 65,
+   "spe": 65,
+   "bst": 299
+  },
+  "abilities": {
+   "regular": [
+    "Snow Cloak"
+   ],
+   "hidden": "Snow Warning"
+  },
+  "srcTypes": [
+   "Ice"
+  ]
  },
  {
   "key": "Ninetales",
@@ -982,7 +1216,31 @@
   "spriteFile": "sprites/Ninetales.png",
   "spriteEra": "gen2",
   "pokeapiName": "ninetales",
-  "sortKey": 380
+  "sortKey": 380,
+  "baseStats": {
+   "hp": 73,
+   "atk": 76,
+   "def": 75,
+   "spa": 81,
+   "spd": 100,
+   "spe": 100,
+   "bst": 505
+  },
+  "abilities": {
+   "regular": [
+    "Drought"
+   ],
+   "hidden": "Flash Fire"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Flash Fire"
+   ],
+   "hidden": "Drought"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Ninetales_Alolan",
@@ -1044,7 +1302,26 @@
   "spriteFile": "sprites/Ninetales_Alolan.png",
   "spriteEra": "modern",
   "pokeapiName": "ninetales-alola",
-  "sortKey": 381
+  "sortKey": 381,
+  "baseStats": {
+   "hp": 73,
+   "atk": 67,
+   "def": 75,
+   "spa": 81,
+   "spd": 100,
+   "spe": 109,
+   "bst": 505
+  },
+  "abilities": {
+   "regular": [
+    "Snow Cloak"
+   ],
+   "hidden": "Snow Warning"
+  },
+  "srcTypes": [
+   "Ice",
+   "Fairy"
+  ]
  },
  {
   "key": "Zubat",
@@ -1128,7 +1405,26 @@
   "spriteFile": "sprites/Zubat.png",
   "spriteEra": "gen2",
   "pokeapiName": "zubat",
-  "sortKey": 410
+  "sortKey": 410,
+  "baseStats": {
+   "hp": 40,
+   "atk": 45,
+   "def": 35,
+   "spa": 30,
+   "spd": 40,
+   "spe": 55,
+   "bst": 245
+  },
+  "abilities": {
+   "regular": [
+    "Inner Focus"
+   ],
+   "hidden": "Infiltrator"
+  },
+  "srcTypes": [
+   "Poison",
+   "Flying"
+  ]
  },
  {
   "key": "Golbat",
@@ -1220,7 +1516,33 @@
   "spriteFile": "sprites/Golbat.png",
   "spriteEra": "gen2",
   "pokeapiName": "golbat",
-  "sortKey": 420
+  "sortKey": 420,
+  "baseStats": {
+   "hp": 75,
+   "atk": 80,
+   "def": 70,
+   "spa": 65,
+   "spd": 75,
+   "spe": 90,
+   "bst": 455
+  },
+  "abilities": {
+   "regular": [
+    "Inner Focus",
+    "Anticipation"
+   ],
+   "hidden": "Infiltrator"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Inner Focus"
+   ],
+   "hidden": "Infiltrator"
+  },
+  "srcTypes": [
+   "Poison",
+   "Flying"
+  ]
  },
  {
   "key": "Oddish",
@@ -1308,7 +1630,26 @@
   "spriteFile": "sprites/Oddish.png",
   "spriteEra": "gen2",
   "pokeapiName": "oddish",
-  "sortKey": 430
+  "sortKey": 430,
+  "baseStats": {
+   "hp": 45,
+   "atk": 50,
+   "def": 55,
+   "spa": 75,
+   "spd": 65,
+   "spe": 30,
+   "bst": 320
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll"
+   ],
+   "hidden": "Run Away"
+  },
+  "srcTypes": [
+   "Grass",
+   "Poison"
+  ]
  },
  {
   "key": "Gloom",
@@ -1397,7 +1738,26 @@
   "spriteFile": "sprites/Gloom.png",
   "spriteEra": "gen2",
   "pokeapiName": "gloom",
-  "sortKey": 440
+  "sortKey": 440,
+  "baseStats": {
+   "hp": 60,
+   "atk": 65,
+   "def": 70,
+   "spa": 85,
+   "spd": 75,
+   "spe": 40,
+   "bst": 395
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll"
+   ],
+   "hidden": "Stench"
+  },
+  "srcTypes": [
+   "Grass",
+   "Poison"
+  ]
  },
  {
   "key": "Vileplume",
@@ -1451,7 +1811,26 @@
   "spriteFile": "sprites/Vileplume.png",
   "spriteEra": "gen2",
   "pokeapiName": "vileplume",
-  "sortKey": 450
+  "sortKey": 450,
+  "baseStats": {
+   "hp": 75,
+   "atk": 80,
+   "def": 85,
+   "spa": 110,
+   "spd": 90,
+   "spe": 50,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll"
+   ],
+   "hidden": "Effect Spore"
+  },
+  "srcTypes": [
+   "Grass",
+   "Poison"
+  ]
  },
  {
   "key": "Paras",
@@ -1531,7 +1910,27 @@
   "spriteFile": "sprites/Paras.png",
   "spriteEra": "gen2",
   "pokeapiName": "paras",
-  "sortKey": 460
+  "sortKey": 460,
+  "baseStats": {
+   "hp": 35,
+   "atk": 70,
+   "def": 55,
+   "spa": 45,
+   "spd": 55,
+   "spe": 25,
+   "bst": 285
+  },
+  "abilities": {
+   "regular": [
+    "Effect Spore",
+    "Dry Skin"
+   ],
+   "hidden": "Poison Heal"
+  },
+  "srcTypes": [
+   "Bug",
+   "Grass"
+  ]
  },
  {
   "key": "Parasect",
@@ -1605,7 +2004,36 @@
   "spriteFile": "sprites/Parasect.png",
   "spriteEra": "gen2",
   "pokeapiName": "parasect",
-  "sortKey": 470
+  "sortKey": 470,
+  "baseStats": {
+   "hp": 60,
+   "atk": 115,
+   "def": 100,
+   "spa": 60,
+   "spd": 80,
+   "spe": 30,
+   "bst": 445
+  },
+  "baseStatsFaithful": {
+   "hp": 60,
+   "atk": 95,
+   "def": 80,
+   "spa": 60,
+   "spd": 80,
+   "spe": 30,
+   "bst": 405
+  },
+  "abilities": {
+   "regular": [
+    "Effect Spore",
+    "Dry Skin"
+   ],
+   "hidden": "Damp"
+  },
+  "srcTypes": [
+   "Bug",
+   "Grass"
+  ]
  },
  {
   "key": "Mankey",
@@ -1696,7 +2124,26 @@
   "spriteFile": "sprites/Mankey.png",
   "spriteEra": "gen2",
   "pokeapiName": "mankey",
-  "sortKey": 560
+  "sortKey": 560,
+  "baseStats": {
+   "hp": 40,
+   "atk": 80,
+   "def": 35,
+   "spa": 35,
+   "spd": 45,
+   "spe": 70,
+   "bst": 305
+  },
+  "abilities": {
+   "regular": [
+    "Vital Spirit",
+    "Anger Point"
+   ],
+   "hidden": "Defiant"
+  },
+  "srcTypes": [
+   "Fighting"
+  ]
  },
  {
   "key": "Primeape",
@@ -1791,7 +2238,26 @@
   "spriteFile": "sprites/Primeape.png",
   "spriteEra": "gen2",
   "pokeapiName": "primeape",
-  "sortKey": 570
+  "sortKey": 570,
+  "baseStats": {
+   "hp": 65,
+   "atk": 105,
+   "def": 60,
+   "spa": 60,
+   "spd": 70,
+   "spe": 95,
+   "bst": 455
+  },
+  "abilities": {
+   "regular": [
+    "Vital Spirit",
+    "Anger Point"
+   ],
+   "hidden": "Defiant"
+  },
+  "srcTypes": [
+   "Fighting"
+  ]
  },
  {
   "key": "Growlithe",
@@ -1899,7 +2365,26 @@
   "spriteFile": "sprites/Growlithe.png",
   "spriteEra": "gen2",
   "pokeapiName": "growlithe",
-  "sortKey": 580
+  "sortKey": 580,
+  "baseStats": {
+   "hp": 55,
+   "atk": 70,
+   "def": 45,
+   "spa": 70,
+   "spd": 50,
+   "spe": 60,
+   "bst": 350
+  },
+  "abilities": {
+   "regular": [
+    "Intimidate",
+    "Flash Fire"
+   ],
+   "hidden": "Justified"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Growlithe_Hisuian",
@@ -2003,7 +2488,26 @@
   "spriteFile": "sprites/Growlithe_Hisuian.png",
   "spriteEra": "modern",
   "pokeapiName": "growlithe-hisui",
-  "sortKey": 583
+  "sortKey": 583,
+  "baseStats": {
+   "hp": 60,
+   "atk": 75,
+   "def": 45,
+   "spa": 65,
+   "spd": 50,
+   "spe": 55,
+   "bst": 350
+  },
+  "abilities": {
+   "regular": [
+    "Intimidate",
+    "Flash Fire"
+   ],
+   "hidden": "Justified"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Arcanine",
@@ -2072,7 +2576,26 @@
   "spriteFile": "sprites/Arcanine.png",
   "spriteEra": "gen2",
   "pokeapiName": "arcanine",
-  "sortKey": 590
+  "sortKey": 590,
+  "baseStats": {
+   "hp": 90,
+   "atk": 110,
+   "def": 80,
+   "spa": 100,
+   "spd": 80,
+   "spe": 95,
+   "bst": 555
+  },
+  "abilities": {
+   "regular": [
+    "Intimidate",
+    "Flash Fire"
+   ],
+   "hidden": "Justified"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Arcanine_Hisuian",
@@ -2142,7 +2665,27 @@
   "spriteFile": "sprites/Arcanine_Hisuian.png",
   "spriteEra": "modern",
   "pokeapiName": "arcanine-hisui",
-  "sortKey": 593
+  "sortKey": 593,
+  "baseStats": {
+   "hp": 95,
+   "atk": 115,
+   "def": 80,
+   "spa": 95,
+   "spd": 80,
+   "spe": 90,
+   "bst": 555
+  },
+  "abilities": {
+   "regular": [
+    "Intimidate",
+    "Flash Fire"
+   ],
+   "hidden": "Justified"
+  },
+  "srcTypes": [
+   "Fire",
+   "Rock"
+  ]
  },
  {
   "key": "Poliwag",
@@ -2221,7 +2764,26 @@
   "spriteFile": "sprites/Poliwag.png",
   "spriteEra": "gen2",
   "pokeapiName": "poliwag",
-  "sortKey": 600
+  "sortKey": 600,
+  "baseStats": {
+   "hp": 40,
+   "atk": 50,
+   "def": 40,
+   "spa": 40,
+   "spd": 40,
+   "spe": 90,
+   "bst": 300
+  },
+  "abilities": {
+   "regular": [
+    "Water Absorb",
+    "Damp"
+   ],
+   "hidden": "Swift Swim"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Poliwhirl",
@@ -2305,7 +2867,26 @@
   "spriteFile": "sprites/Poliwhirl.png",
   "spriteEra": "gen2",
   "pokeapiName": "poliwhirl",
-  "sortKey": 610
+  "sortKey": 610,
+  "baseStats": {
+   "hp": 65,
+   "atk": 65,
+   "def": 65,
+   "spa": 50,
+   "spd": 50,
+   "spe": 90,
+   "bst": 385
+  },
+  "abilities": {
+   "regular": [
+    "Water Absorb",
+    "Damp"
+   ],
+   "hidden": "Swift Swim"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Poliwrath",
@@ -2367,7 +2948,27 @@
   "spriteFile": "sprites/Poliwrath.png",
   "spriteEra": "gen2",
   "pokeapiName": "poliwrath",
-  "sortKey": 620
+  "sortKey": 620,
+  "baseStats": {
+   "hp": 90,
+   "atk": 95,
+   "def": 95,
+   "spa": 70,
+   "spd": 90,
+   "spe": 70,
+   "bst": 510
+  },
+  "abilities": {
+   "regular": [
+    "Water Absorb",
+    "Damp"
+   ],
+   "hidden": "Swift Swim"
+  },
+  "srcTypes": [
+   "Water",
+   "Fighting"
+  ]
  },
  {
   "key": "Abra",
@@ -2394,7 +2995,26 @@
   "spriteFile": "sprites/Abra.png",
   "spriteEra": "gen2",
   "pokeapiName": "abra",
-  "sortKey": 630
+  "sortKey": 630,
+  "baseStats": {
+   "hp": 25,
+   "atk": 20,
+   "def": 15,
+   "spa": 105,
+   "spd": 55,
+   "spe": 90,
+   "bst": 310
+  },
+  "abilities": {
+   "regular": [
+    "Synchronize",
+    "Magic Guard"
+   ],
+   "hidden": "Trace"
+  },
+  "srcTypes": [
+   "Psychic"
+  ]
  },
  {
   "key": "Kadabra",
@@ -2477,7 +3097,26 @@
   "spriteFile": "sprites/Kadabra.png",
   "spriteEra": "gen2",
   "pokeapiName": "kadabra",
-  "sortKey": 640
+  "sortKey": 640,
+  "baseStats": {
+   "hp": 40,
+   "atk": 35,
+   "def": 30,
+   "spa": 120,
+   "spd": 70,
+   "spe": 105,
+   "bst": 400
+  },
+  "abilities": {
+   "regular": [
+    "Synchronize",
+    "Magic Guard"
+   ],
+   "hidden": "Trace"
+  },
+  "srcTypes": [
+   "Psychic"
+  ]
  },
  {
   "key": "Alakazam",
@@ -2558,7 +3197,26 @@
   "spriteFile": "sprites/Alakazam.png",
   "spriteEra": "gen2",
   "pokeapiName": "alakazam",
-  "sortKey": 650
+  "sortKey": 650,
+  "baseStats": {
+   "hp": 55,
+   "atk": 50,
+   "def": 45,
+   "spa": 135,
+   "spd": 95,
+   "spe": 120,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Synchronize",
+    "Magic Guard"
+   ],
+   "hidden": "Trace"
+  },
+  "srcTypes": [
+   "Psychic"
+  ]
  },
  {
   "key": "Machop",
@@ -2649,7 +3307,26 @@
   "spriteFile": "sprites/Machop.png",
   "spriteEra": "gen2",
   "pokeapiName": "machop",
-  "sortKey": 660
+  "sortKey": 660,
+  "baseStats": {
+   "hp": 70,
+   "atk": 80,
+   "def": 50,
+   "spa": 35,
+   "spd": 35,
+   "spe": 35,
+   "bst": 305
+  },
+  "abilities": {
+   "regular": [
+    "Guts",
+    "No Guard"
+   ],
+   "hidden": "Steadfast"
+  },
+  "srcTypes": [
+   "Fighting"
+  ]
  },
  {
   "key": "Machoke",
@@ -2740,7 +3417,26 @@
   "spriteFile": "sprites/Machoke.png",
   "spriteEra": "gen2",
   "pokeapiName": "machoke",
-  "sortKey": 670
+  "sortKey": 670,
+  "baseStats": {
+   "hp": 80,
+   "atk": 100,
+   "def": 70,
+   "spa": 50,
+   "spd": 60,
+   "spe": 45,
+   "bst": 405
+  },
+  "abilities": {
+   "regular": [
+    "Guts",
+    "No Guard"
+   ],
+   "hidden": "Steadfast"
+  },
+  "srcTypes": [
+   "Fighting"
+  ]
  },
  {
   "key": "Machamp",
@@ -2833,7 +3529,26 @@
   "spriteFile": "sprites/Machamp.png",
   "spriteEra": "gen2",
   "pokeapiName": "machamp",
-  "sortKey": 680
+  "sortKey": 680,
+  "baseStats": {
+   "hp": 90,
+   "atk": 130,
+   "def": 80,
+   "spa": 65,
+   "spd": 85,
+   "spe": 55,
+   "bst": 505
+  },
+  "abilities": {
+   "regular": [
+    "Guts",
+    "No Guard"
+   ],
+   "hidden": "Steadfast"
+  },
+  "srcTypes": [
+   "Fighting"
+  ]
  },
  {
   "key": "Bellsprout",
@@ -2913,7 +3628,26 @@
   "spriteFile": "sprites/Bellsprout.png",
   "spriteEra": "gen2",
   "pokeapiName": "bellsprout",
-  "sortKey": 690
+  "sortKey": 690,
+  "baseStats": {
+   "hp": 50,
+   "atk": 75,
+   "def": 35,
+   "spa": 70,
+   "spd": 30,
+   "spe": 40,
+   "bst": 300
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll"
+   ],
+   "hidden": "Gluttony"
+  },
+  "srcTypes": [
+   "Grass",
+   "Poison"
+  ]
  },
  {
   "key": "Weepinbell",
@@ -2993,7 +3727,26 @@
   "spriteFile": "sprites/Weepinbell.png",
   "spriteEra": "gen2",
   "pokeapiName": "weepinbell",
-  "sortKey": 700
+  "sortKey": 700,
+  "baseStats": {
+   "hp": 65,
+   "atk": 90,
+   "def": 50,
+   "spa": 85,
+   "spd": 45,
+   "spe": 55,
+   "bst": 390
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll"
+   ],
+   "hidden": "Gluttony"
+  },
+  "srcTypes": [
+   "Grass",
+   "Poison"
+  ]
  },
  {
   "key": "Victreebel",
@@ -3035,7 +3788,26 @@
   "spriteFile": "sprites/Victreebel.png",
   "spriteEra": "gen2",
   "pokeapiName": "victreebel",
-  "sortKey": 710
+  "sortKey": 710,
+  "baseStats": {
+   "hp": 80,
+   "atk": 105,
+   "def": 65,
+   "spa": 100,
+   "spd": 70,
+   "spe": 70,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll"
+   ],
+   "hidden": "Gluttony"
+  },
+  "srcTypes": [
+   "Grass",
+   "Poison"
+  ]
  },
  {
   "key": "Tentacool",
@@ -3123,7 +3895,27 @@
   "spriteFile": "sprites/Tentacool.png",
   "spriteEra": "gen2",
   "pokeapiName": "tentacool",
-  "sortKey": 720
+  "sortKey": 720,
+  "baseStats": {
+   "hp": 40,
+   "atk": 40,
+   "def": 35,
+   "spa": 50,
+   "spd": 100,
+   "spe": 70,
+   "bst": 335
+  },
+  "abilities": {
+   "regular": [
+    "Clear Body",
+    "Liquid Ooze"
+   ],
+   "hidden": "Rain Dish"
+  },
+  "srcTypes": [
+   "Water",
+   "Poison"
+  ]
  },
  {
   "key": "Tentacruel",
@@ -3209,7 +4001,27 @@
   "spriteFile": "sprites/Tentacruel.png",
   "spriteEra": "gen2",
   "pokeapiName": "tentacruel",
-  "sortKey": 730
+  "sortKey": 730,
+  "baseStats": {
+   "hp": 80,
+   "atk": 70,
+   "def": 65,
+   "spa": 80,
+   "spd": 120,
+   "spe": 100,
+   "bst": 515
+  },
+  "abilities": {
+   "regular": [
+    "Clear Body",
+    "Liquid Ooze"
+   ],
+   "hidden": "Rain Dish"
+  },
+  "srcTypes": [
+   "Water",
+   "Poison"
+  ]
  },
  {
   "key": "Geodude",
@@ -3302,7 +4114,27 @@
   "spriteFile": "sprites/Geodude.png",
   "spriteEra": "gen2",
   "pokeapiName": "geodude",
-  "sortKey": 740
+  "sortKey": 740,
+  "baseStats": {
+   "hp": 40,
+   "atk": 80,
+   "def": 100,
+   "spa": 30,
+   "spd": 30,
+   "spe": 20,
+   "bst": 300
+  },
+  "abilities": {
+   "regular": [
+    "Rock Head",
+    "Sturdy"
+   ],
+   "hidden": "Galvanize"
+  },
+  "srcTypes": [
+   "Rock",
+   "Ground"
+  ]
  },
  {
   "key": "Geodude_Alolan",
@@ -3390,7 +4222,27 @@
   "spriteFile": "sprites/Geodude_Alolan.png",
   "spriteEra": "modern",
   "pokeapiName": "geodude-alola",
-  "sortKey": 741
+  "sortKey": 741,
+  "baseStats": {
+   "hp": 40,
+   "atk": 80,
+   "def": 100,
+   "spa": 30,
+   "spd": 30,
+   "spe": 20,
+   "bst": 300
+  },
+  "abilities": {
+   "regular": [
+    "Magnet Pull",
+    "Sturdy"
+   ],
+   "hidden": "Galvanize"
+  },
+  "srcTypes": [
+   "Rock",
+   "Electric"
+  ]
  },
  {
   "key": "Graveler",
@@ -3483,7 +4335,27 @@
   "spriteFile": "sprites/Graveler.png",
   "spriteEra": "gen2",
   "pokeapiName": "graveler",
-  "sortKey": 750
+  "sortKey": 750,
+  "baseStats": {
+   "hp": 55,
+   "atk": 95,
+   "def": 115,
+   "spa": 45,
+   "spd": 45,
+   "spe": 35,
+   "bst": 390
+  },
+  "abilities": {
+   "regular": [
+    "Rock Head",
+    "Sturdy"
+   ],
+   "hidden": "Galvanize"
+  },
+  "srcTypes": [
+   "Rock",
+   "Ground"
+  ]
  },
  {
   "key": "Graveler_Alolan",
@@ -3571,7 +4443,27 @@
   "spriteFile": "sprites/Graveler_Alolan.png",
   "spriteEra": "modern",
   "pokeapiName": "graveler-alola",
-  "sortKey": 751
+  "sortKey": 751,
+  "baseStats": {
+   "hp": 55,
+   "atk": 95,
+   "def": 115,
+   "spa": 45,
+   "spd": 45,
+   "spe": 35,
+   "bst": 390
+  },
+  "abilities": {
+   "regular": [
+    "Magnet Pull",
+    "Sturdy"
+   ],
+   "hidden": "Galvanize"
+  },
+  "srcTypes": [
+   "Rock",
+   "Electric"
+  ]
  },
  {
   "key": "Golem",
@@ -3657,7 +4549,27 @@
   "spriteFile": "sprites/Golem.png",
   "spriteEra": "gen2",
   "pokeapiName": "golem",
-  "sortKey": 760
+  "sortKey": 760,
+  "baseStats": {
+   "hp": 80,
+   "atk": 120,
+   "def": 130,
+   "spa": 55,
+   "spd": 65,
+   "spe": 45,
+   "bst": 495
+  },
+  "abilities": {
+   "regular": [
+    "Rock Head",
+    "Sturdy"
+   ],
+   "hidden": "Galvanize"
+  },
+  "srcTypes": [
+   "Rock",
+   "Ground"
+  ]
  },
  {
   "key": "Golem_Alolan",
@@ -3743,7 +4655,27 @@
   "spriteFile": "sprites/Golem_Alolan.png",
   "spriteEra": "modern",
   "pokeapiName": "golem-alola",
-  "sortKey": 761
+  "sortKey": 761,
+  "baseStats": {
+   "hp": 80,
+   "atk": 120,
+   "def": 130,
+   "spa": 55,
+   "spd": 65,
+   "spe": 45,
+   "bst": 495
+  },
+  "abilities": {
+   "regular": [
+    "Magnet Pull",
+    "Sturdy"
+   ],
+   "hidden": "Galvanize"
+  },
+  "srcTypes": [
+   "Rock",
+   "Electric"
+  ]
  },
  {
   "key": "Ponyta",
@@ -3827,7 +4759,26 @@
   "spriteFile": "sprites/Ponyta.png",
   "spriteEra": "gen2",
   "pokeapiName": "ponyta",
-  "sortKey": 770
+  "sortKey": 770,
+  "baseStats": {
+   "hp": 50,
+   "atk": 85,
+   "def": 55,
+   "spa": 65,
+   "spd": 65,
+   "spe": 90,
+   "bst": 410
+  },
+  "abilities": {
+   "regular": [
+    "Run Away",
+    "Flash Fire"
+   ],
+   "hidden": "Flame Body"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Ponyta_Galarian",
@@ -3906,7 +4857,26 @@
   "spriteFile": "sprites/Ponyta_Galarian.png",
   "spriteEra": "modern",
   "pokeapiName": "ponyta-galar",
-  "sortKey": 772
+  "sortKey": 772,
+  "baseStats": {
+   "hp": 50,
+   "atk": 85,
+   "def": 55,
+   "spa": 65,
+   "spd": 65,
+   "spe": 90,
+   "bst": 410
+  },
+  "abilities": {
+   "regular": [
+    "Run Away",
+    "Pastel Veil"
+   ],
+   "hidden": "Anticipation"
+  },
+  "srcTypes": [
+   "Psychic"
+  ]
  },
  {
   "key": "Rapidash",
@@ -3991,7 +4961,26 @@
   "spriteFile": "sprites/Rapidash.png",
   "spriteEra": "gen2",
   "pokeapiName": "rapidash",
-  "sortKey": 780
+  "sortKey": 780,
+  "baseStats": {
+   "hp": 65,
+   "atk": 100,
+   "def": 70,
+   "spa": 80,
+   "spd": 80,
+   "spe": 105,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Run Away",
+    "Flash Fire"
+   ],
+   "hidden": "Flame Body"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Rapidash_Galarian",
@@ -4073,7 +5062,27 @@
   "spriteFile": "sprites/Rapidash_Galarian.png",
   "spriteEra": "modern",
   "pokeapiName": "rapidash-galar",
-  "sortKey": 782
+  "sortKey": 782,
+  "baseStats": {
+   "hp": 65,
+   "atk": 100,
+   "def": 70,
+   "spa": 80,
+   "spd": 80,
+   "spe": 105,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Run Away",
+    "Pastel Veil"
+   ],
+   "hidden": "Anticipation"
+  },
+  "srcTypes": [
+   "Psychic",
+   "Fairy"
+  ]
  },
  {
   "key": "Slowpoke",
@@ -4167,7 +5176,27 @@
   "spriteFile": "sprites/Slowpoke.png",
   "spriteEra": "gen2",
   "pokeapiName": "slowpoke",
-  "sortKey": 790
+  "sortKey": 790,
+  "baseStats": {
+   "hp": 90,
+   "atk": 65,
+   "def": 65,
+   "spa": 40,
+   "spd": 40,
+   "spe": 15,
+   "bst": 315
+  },
+  "abilities": {
+   "regular": [
+    "Oblivious",
+    "Own Tempo"
+   ],
+   "hidden": "Regenerator"
+  },
+  "srcTypes": [
+   "Water",
+   "Psychic"
+  ]
  },
  {
   "key": "Slowpoke_Galarian",
@@ -4255,7 +5284,26 @@
   "spriteFile": "sprites/Slowpoke_Galarian.png",
   "spriteEra": "modern",
   "pokeapiName": "slowpoke-galar",
-  "sortKey": 792
+  "sortKey": 792,
+  "baseStats": {
+   "hp": 90,
+   "atk": 65,
+   "def": 65,
+   "spa": 40,
+   "spd": 40,
+   "spe": 15,
+   "bst": 315
+  },
+  "abilities": {
+   "regular": [
+    "Gluttony",
+    "Own Tempo"
+   ],
+   "hidden": "Regenerator"
+  },
+  "srcTypes": [
+   "Psychic"
+  ]
  },
  {
   "key": "Slowbro",
@@ -4337,7 +5385,27 @@
   "spriteFile": "sprites/Slowbro.png",
   "spriteEra": "gen2",
   "pokeapiName": "slowbro",
-  "sortKey": 800
+  "sortKey": 800,
+  "baseStats": {
+   "hp": 95,
+   "atk": 75,
+   "def": 110,
+   "spa": 100,
+   "spd": 80,
+   "spe": 30,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Oblivious",
+    "Own Tempo"
+   ],
+   "hidden": "Regenerator"
+  },
+  "srcTypes": [
+   "Water",
+   "Psychic"
+  ]
  },
  {
   "key": "Slowbro_Galarian",
@@ -4419,7 +5487,27 @@
   "spriteFile": "sprites/Slowbro_Galarian.png",
   "spriteEra": "modern",
   "pokeapiName": "slowbro-galar",
-  "sortKey": 802
+  "sortKey": 802,
+  "baseStats": {
+   "hp": 95,
+   "atk": 100,
+   "def": 95,
+   "spa": 100,
+   "spd": 70,
+   "spe": 30,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Quick Draw",
+    "Own Tempo"
+   ],
+   "hidden": "Regenerator"
+  },
+  "srcTypes": [
+   "Poison",
+   "Psychic"
+  ]
  },
  {
   "key": "Magnemite",
@@ -4515,7 +5603,27 @@
   "spriteFile": "sprites/Magnemite.png",
   "spriteEra": "gen2",
   "pokeapiName": "magnemite",
-  "sortKey": 810
+  "sortKey": 810,
+  "baseStats": {
+   "hp": 25,
+   "atk": 35,
+   "def": 70,
+   "spa": 95,
+   "spd": 55,
+   "spe": 45,
+   "bst": 325
+  },
+  "abilities": {
+   "regular": [
+    "Magnet Pull",
+    "Sturdy"
+   ],
+   "hidden": "Analytic"
+  },
+  "srcTypes": [
+   "Electric",
+   "Steel"
+  ]
  },
  {
   "key": "Magneton",
@@ -4615,7 +5723,27 @@
   "spriteFile": "sprites/Magneton.png",
   "spriteEra": "gen2",
   "pokeapiName": "magneton",
-  "sortKey": 820
+  "sortKey": 820,
+  "baseStats": {
+   "hp": 50,
+   "atk": 60,
+   "def": 95,
+   "spa": 120,
+   "spd": 70,
+   "spe": 70,
+   "bst": 465
+  },
+  "abilities": {
+   "regular": [
+    "Magnet Pull",
+    "Sturdy"
+   ],
+   "hidden": "Analytic"
+  },
+  "srcTypes": [
+   "Electric",
+   "Steel"
+  ]
  },
  {
   "key": "Grimer",
@@ -4703,7 +5831,26 @@
   "spriteFile": "sprites/Grimer.png",
   "spriteEra": "gen2",
   "pokeapiName": "grimer",
-  "sortKey": 880
+  "sortKey": 880,
+  "baseStats": {
+   "hp": 80,
+   "atk": 80,
+   "def": 50,
+   "spa": 40,
+   "spd": 50,
+   "spe": 25,
+   "bst": 325
+  },
+  "abilities": {
+   "regular": [
+    "Stench",
+    "Sticky Hold"
+   ],
+   "hidden": "Poison Touch"
+  },
+  "srcTypes": [
+   "Poison"
+  ]
  },
  {
   "key": "Grimer_Alolan",
@@ -4787,7 +5934,27 @@
   "spriteFile": "sprites/Grimer_Alolan.png",
   "spriteEra": "modern",
   "pokeapiName": "grimer-alola",
-  "sortKey": 881
+  "sortKey": 881,
+  "baseStats": {
+   "hp": 80,
+   "atk": 80,
+   "def": 50,
+   "spa": 40,
+   "spd": 50,
+   "spe": 25,
+   "bst": 325
+  },
+  "abilities": {
+   "regular": [
+    "Poison Touch",
+    "Gluttony"
+   ],
+   "hidden": "Corrosion"
+  },
+  "srcTypes": [
+   "Poison",
+   "Dark"
+  ]
  },
  {
   "key": "Muk",
@@ -4868,7 +6035,26 @@
   "spriteFile": "sprites/Muk.png",
   "spriteEra": "gen2",
   "pokeapiName": "muk",
-  "sortKey": 890
+  "sortKey": 890,
+  "baseStats": {
+   "hp": 105,
+   "atk": 105,
+   "def": 75,
+   "spa": 65,
+   "spd": 100,
+   "spe": 50,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Stench",
+    "Poison Touch"
+   ],
+   "hidden": "Corrosion"
+  },
+  "srcTypes": [
+   "Poison"
+  ]
  },
  {
   "key": "Muk_Alolan",
@@ -4950,7 +6136,27 @@
   "spriteFile": "sprites/Muk_Alolan.png",
   "spriteEra": "modern",
   "pokeapiName": "muk-alola",
-  "sortKey": 891
+  "sortKey": 891,
+  "baseStats": {
+   "hp": 105,
+   "atk": 105,
+   "def": 75,
+   "spa": 65,
+   "spd": 100,
+   "spe": 50,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Poison Touch",
+    "Gluttony"
+   ],
+   "hidden": "Corrosion"
+  },
+  "srcTypes": [
+   "Poison",
+   "Dark"
+  ]
  },
  {
   "key": "Gastly",
@@ -5034,7 +6240,26 @@
   "spriteFile": "sprites/Gastly.png",
   "spriteEra": "gen2",
   "pokeapiName": "gastly",
-  "sortKey": 920
+  "sortKey": 920,
+  "baseStats": {
+   "hp": 30,
+   "atk": 35,
+   "def": 30,
+   "spa": 100,
+   "spd": 35,
+   "spe": 80,
+   "bst": 310
+  },
+  "abilities": {
+   "regular": [
+    "Levitate"
+   ],
+   "hidden": "Cursed Body"
+  },
+  "srcTypes": [
+   "Ghost",
+   "Poison"
+  ]
  },
  {
   "key": "Haunter",
@@ -5122,7 +6347,26 @@
   "spriteFile": "sprites/Haunter.png",
   "spriteEra": "gen2",
   "pokeapiName": "haunter",
-  "sortKey": 930
+  "sortKey": 930,
+  "baseStats": {
+   "hp": 45,
+   "atk": 50,
+   "def": 45,
+   "spa": 115,
+   "spd": 55,
+   "spe": 95,
+   "bst": 405
+  },
+  "abilities": {
+   "regular": [
+    "Levitate"
+   ],
+   "hidden": "Cursed Body"
+  },
+  "srcTypes": [
+   "Ghost",
+   "Poison"
+  ]
  },
  {
   "key": "Gengar",
@@ -5204,7 +6448,33 @@
   "spriteFile": "sprites/Gengar.png",
   "spriteEra": "gen2",
   "pokeapiName": "gengar",
-  "sortKey": 940
+  "sortKey": 940,
+  "baseStats": {
+   "hp": 60,
+   "atk": 65,
+   "def": 60,
+   "spa": 130,
+   "spd": 75,
+   "spe": 110,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Cursed Body",
+    "Levitate"
+   ],
+   "hidden": "Shadow Tag"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Cursed Body"
+   ],
+   "hidden": "Shadow Tag"
+  },
+  "srcTypes": [
+   "Ghost",
+   "Poison"
+  ]
  },
  {
   "key": "Onix",
@@ -5308,7 +6578,36 @@
   "spriteFile": "sprites/Onix.png",
   "spriteEra": "gen2",
   "pokeapiName": "onix",
-  "sortKey": 950
+  "sortKey": 950,
+  "baseStats": {
+   "hp": 35,
+   "atk": 80,
+   "def": 160,
+   "spa": 30,
+   "spd": 45,
+   "spe": 70,
+   "bst": 420
+  },
+  "baseStatsFaithful": {
+   "hp": 35,
+   "atk": 45,
+   "def": 160,
+   "spa": 30,
+   "spd": 45,
+   "spe": 70,
+   "bst": 385
+  },
+  "abilities": {
+   "regular": [
+    "Rock Head",
+    "Sturdy"
+   ],
+   "hidden": "Weak Armor"
+  },
+  "srcTypes": [
+   "Rock",
+   "Ground"
+  ]
  },
  {
   "key": "Voltorb",
@@ -5404,7 +6703,26 @@
   "spriteFile": "sprites/Voltorb.png",
   "spriteEra": "gen2",
   "pokeapiName": "voltorb",
-  "sortKey": 1000
+  "sortKey": 1000,
+  "baseStats": {
+   "hp": 40,
+   "atk": 30,
+   "def": 50,
+   "spa": 55,
+   "spd": 55,
+   "spe": 100,
+   "bst": 330
+  },
+  "abilities": {
+   "regular": [
+    "Soundproof",
+    "Static"
+   ],
+   "hidden": "Aftermath"
+  },
+  "srcTypes": [
+   "Electric"
+  ]
  },
  {
   "key": "Voltorb_Hisuian",
@@ -5496,7 +6814,27 @@
   "spriteFile": "sprites/Voltorb_Hisuian.png",
   "spriteEra": "modern",
   "pokeapiName": "voltorb-hisui",
-  "sortKey": 1003
+  "sortKey": 1003,
+  "baseStats": {
+   "hp": 40,
+   "atk": 30,
+   "def": 50,
+   "spa": 55,
+   "spd": 55,
+   "spe": 100,
+   "bst": 330
+  },
+  "abilities": {
+   "regular": [
+    "Soundproof",
+    "Static"
+   ],
+   "hidden": "Aftermath"
+  },
+  "srcTypes": [
+   "Electric",
+   "Grass"
+  ]
  },
  {
   "key": "Electrode",
@@ -5581,7 +6919,26 @@
   "spriteFile": "sprites/Electrode.png",
   "spriteEra": "gen2",
   "pokeapiName": "electrode",
-  "sortKey": 1010
+  "sortKey": 1010,
+  "baseStats": {
+   "hp": 60,
+   "atk": 50,
+   "def": 70,
+   "spa": 80,
+   "spd": 80,
+   "spe": 150,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Soundproof",
+    "Static"
+   ],
+   "hidden": "Aftermath"
+  },
+  "srcTypes": [
+   "Electric"
+  ]
  },
  {
   "key": "Electrode_Hisuian",
@@ -5671,7 +7028,26 @@
   "spriteFile": "sprites/Electrode_Hisuian.png",
   "spriteEra": "modern",
   "pokeapiName": "electrode-hisui",
-  "sortKey": 1013
+  "sortKey": 1013,
+  "baseStats": {
+   "hp": 60,
+   "atk": 50,
+   "def": 70,
+   "spa": 80,
+   "spd": 80,
+   "spe": 150,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Static"
+   ],
+   "hidden": "Aftermath"
+  },
+  "srcTypes": [
+   "Electric",
+   "Grass"
+  ]
  },
  {
   "key": "Exeggcute",
@@ -5760,7 +7136,26 @@
   "spriteFile": "sprites/Exeggcute.png",
   "spriteEra": "gen2",
   "pokeapiName": "exeggcute",
-  "sortKey": 1020
+  "sortKey": 1020,
+  "baseStats": {
+   "hp": 60,
+   "atk": 40,
+   "def": 80,
+   "spa": 60,
+   "spd": 45,
+   "spe": 40,
+   "bst": 325
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll"
+   ],
+   "hidden": "Harvest"
+  },
+  "srcTypes": [
+   "Grass",
+   "Psychic"
+  ]
  },
  {
   "key": "Exeggutor",
@@ -5810,7 +7205,26 @@
   "spriteFile": "sprites/Exeggutor.png",
   "spriteEra": "gen2",
   "pokeapiName": "exeggutor",
-  "sortKey": 1030
+  "sortKey": 1030,
+  "baseStats": {
+   "hp": 95,
+   "atk": 95,
+   "def": 85,
+   "spa": 125,
+   "spd": 75,
+   "spe": 55,
+   "bst": 530
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll"
+   ],
+   "hidden": "Harvest"
+  },
+  "srcTypes": [
+   "Grass",
+   "Psychic"
+  ]
  },
  {
   "key": "Exeggutor_Alolan",
@@ -5860,7 +7274,26 @@
   "spriteFile": "sprites/Exeggutor_Alolan.png",
   "spriteEra": "modern",
   "pokeapiName": "exeggutor-alola",
-  "sortKey": 1031
+  "sortKey": 1031,
+  "baseStats": {
+   "hp": 95,
+   "atk": 105,
+   "def": 85,
+   "spa": 125,
+   "spd": 75,
+   "spe": 45,
+   "bst": 530
+  },
+  "abilities": {
+   "regular": [
+    "Frisk"
+   ],
+   "hidden": "Harvest"
+  },
+  "srcTypes": [
+   "Grass",
+   "Dragon"
+  ]
  },
  {
   "key": "Hitmonlee",
@@ -5945,7 +7378,26 @@
   "spriteFile": "sprites/Hitmonlee.png",
   "spriteEra": "gen2",
   "pokeapiName": "hitmonlee",
-  "sortKey": 1060
+  "sortKey": 1060,
+  "baseStats": {
+   "hp": 50,
+   "atk": 120,
+   "def": 53,
+   "spa": 35,
+   "spd": 110,
+   "spe": 87,
+   "bst": 455
+  },
+  "abilities": {
+   "regular": [
+    "Limber",
+    "Reckless"
+   ],
+   "hidden": "Unburden"
+  },
+  "srcTypes": [
+   "Fighting"
+  ]
  },
  {
   "key": "Hitmonchan",
@@ -6034,7 +7486,26 @@
   "spriteFile": "sprites/Hitmonchan.png",
   "spriteEra": "gen2",
   "pokeapiName": "hitmonchan",
-  "sortKey": 1070
+  "sortKey": 1070,
+  "baseStats": {
+   "hp": 50,
+   "atk": 105,
+   "def": 79,
+   "spa": 35,
+   "spd": 110,
+   "spe": 76,
+   "bst": 455
+  },
+  "abilities": {
+   "regular": [
+    "Keen Eye",
+    "Iron Fist"
+   ],
+   "hidden": "Inner Focus"
+  },
+  "srcTypes": [
+   "Fighting"
+  ]
  },
  {
   "key": "Koffing",
@@ -6118,7 +7589,26 @@
   "spriteFile": "sprites/Koffing.png",
   "spriteEra": "gen2",
   "pokeapiName": "koffing",
-  "sortKey": 1090
+  "sortKey": 1090,
+  "baseStats": {
+   "hp": 40,
+   "atk": 65,
+   "def": 95,
+   "spa": 60,
+   "spd": 45,
+   "spe": 35,
+   "bst": 340
+  },
+  "abilities": {
+   "regular": [
+    "Levitate",
+    "Neutralizing Gas"
+   ],
+   "hidden": "Stench"
+  },
+  "srcTypes": [
+   "Poison"
+  ]
  },
  {
   "key": "Weezing",
@@ -6191,7 +7681,26 @@
   "spriteFile": "sprites/Weezing.png",
   "spriteEra": "gen2",
   "pokeapiName": "weezing",
-  "sortKey": 1100
+  "sortKey": 1100,
+  "baseStats": {
+   "hp": 65,
+   "atk": 90,
+   "def": 120,
+   "spa": 85,
+   "spd": 70,
+   "spe": 60,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Levitate",
+    "Neutralizing Gas"
+   ],
+   "hidden": "Aftermath"
+  },
+  "srcTypes": [
+   "Poison"
+  ]
  },
  {
   "key": "Weezing_Galarian",
@@ -6269,7 +7778,27 @@
   "spriteFile": "sprites/Weezing_Galarian.png",
   "spriteEra": "modern",
   "pokeapiName": "weezing-galar",
-  "sortKey": 1102
+  "sortKey": 1102,
+  "baseStats": {
+   "hp": 65,
+   "atk": 90,
+   "def": 120,
+   "spa": 85,
+   "spd": 70,
+   "spe": 60,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Levitate",
+    "Neutralizing Gas"
+   ],
+   "hidden": "White Smoke"
+  },
+  "srcTypes": [
+   "Poison",
+   "Fairy"
+  ]
  },
  {
   "key": "Rhyhorn",
@@ -6361,7 +7890,26 @@
   "spriteFile": "sprites/Rhyhorn.png",
   "spriteEra": "gen2",
   "pokeapiName": "rhyhorn",
-  "sortKey": 1110
+  "sortKey": 1110,
+  "baseStats": {
+   "hp": 80,
+   "atk": 85,
+   "def": 95,
+   "spa": 30,
+   "spd": 30,
+   "spe": 25,
+   "bst": 345
+  },
+  "abilities": {
+   "regular": [
+    "Rock Head"
+   ],
+   "hidden": "Reckless"
+  },
+  "srcTypes": [
+   "Ground",
+   "Rock"
+  ]
  },
  {
   "key": "Rhydon",
@@ -6457,7 +8005,43 @@
   "spriteFile": "sprites/Rhydon.png",
   "spriteEra": "gen2",
   "pokeapiName": "rhydon",
-  "sortKey": 1120
+  "sortKey": 1120,
+  "baseStats": {
+   "hp": 110,
+   "atk": 135,
+   "def": 125,
+   "spa": 48,
+   "spd": 48,
+   "spe": 40,
+   "bst": 506
+  },
+  "baseStatsFaithful": {
+   "hp": 105,
+   "atk": 130,
+   "def": 120,
+   "spa": 45,
+   "spd": 45,
+   "spe": 40,
+   "bst": 485
+  },
+  "abilities": {
+   "regular": [
+    "Rock Head",
+    "Solid Rock"
+   ],
+   "hidden": "Reckless"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Lightning Rod",
+    "Rock Head"
+   ],
+   "hidden": "Reckless"
+  },
+  "srcTypes": [
+   "Ground",
+   "Rock"
+  ]
  },
  {
   "key": "Chansey",
@@ -6548,7 +8132,26 @@
   "spriteFile": "sprites/Chansey.png",
   "spriteEra": "gen2",
   "pokeapiName": "chansey",
-  "sortKey": 1130
+  "sortKey": 1130,
+  "baseStats": {
+   "hp": 250,
+   "atk": 5,
+   "def": 5,
+   "spa": 35,
+   "spd": 105,
+   "spe": 50,
+   "bst": 450
+  },
+  "abilities": {
+   "regular": [
+    "Natural Cure",
+    "Serene Grace"
+   ],
+   "hidden": "Natural Cure"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Tangela",
@@ -6643,7 +8246,26 @@
   "spriteFile": "sprites/Tangela.png",
   "spriteEra": "gen2",
   "pokeapiName": "tangela",
-  "sortKey": 1140
+  "sortKey": 1140,
+  "baseStats": {
+   "hp": 65,
+   "atk": 55,
+   "def": 115,
+   "spa": 100,
+   "spd": 40,
+   "spe": 60,
+   "bst": 435
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll",
+    "Regenerator"
+   ],
+   "hidden": "Tangling Hair"
+  },
+  "srcTypes": [
+   "Grass"
+  ]
  },
  {
   "key": "Horsea",
@@ -6714,7 +8336,26 @@
   "spriteFile": "sprites/Horsea.png",
   "spriteEra": "gen2",
   "pokeapiName": "horsea",
-  "sortKey": 1160
+  "sortKey": 1160,
+  "baseStats": {
+   "hp": 30,
+   "atk": 40,
+   "def": 70,
+   "spa": 70,
+   "spd": 25,
+   "spe": 60,
+   "bst": 295
+  },
+  "abilities": {
+   "regular": [
+    "Swift Swim",
+    "Sniper"
+   ],
+   "hidden": "Damp"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Seadra",
@@ -6785,7 +8426,26 @@
   "spriteFile": "sprites/Seadra.png",
   "spriteEra": "gen2",
   "pokeapiName": "seadra",
-  "sortKey": 1170
+  "sortKey": 1170,
+  "baseStats": {
+   "hp": 55,
+   "atk": 65,
+   "def": 95,
+   "spa": 95,
+   "spd": 45,
+   "spe": 85,
+   "bst": 440
+  },
+  "abilities": {
+   "regular": [
+    "Poison Point",
+    "Sniper"
+   ],
+   "hidden": "Damp"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Scyther",
@@ -6873,7 +8533,27 @@
   "spriteFile": "sprites/Scyther.png",
   "spriteEra": "gen2",
   "pokeapiName": "scyther",
-  "sortKey": 1230
+  "sortKey": 1230,
+  "baseStats": {
+   "hp": 70,
+   "atk": 110,
+   "def": 80,
+   "spa": 55,
+   "spd": 80,
+   "spe": 105,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Swarm",
+    "Technician"
+   ],
+   "hidden": "Steadfast"
+  },
+  "srcTypes": [
+   "Bug",
+   "Flying"
+  ]
  },
  {
   "key": "Jynx",
@@ -6967,7 +8647,43 @@
   "spriteFile": "sprites/Jynx.png",
   "spriteEra": "gen2",
   "pokeapiName": "jynx",
-  "sortKey": 1240
+  "sortKey": 1240,
+  "baseStats": {
+   "hp": 70,
+   "atk": 60,
+   "def": 40,
+   "spa": 120,
+   "spd": 100,
+   "spe": 95,
+   "bst": 485
+  },
+  "baseStatsFaithful": {
+   "hp": 65,
+   "atk": 50,
+   "def": 35,
+   "spa": 115,
+   "spd": 95,
+   "spe": 95,
+   "bst": 455
+  },
+  "abilities": {
+   "regular": [
+    "Oblivious",
+    "Filter"
+   ],
+   "hidden": "Dry Skin"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Oblivious",
+    "Forewarn"
+   ],
+   "hidden": "Dry Skin"
+  },
+  "srcTypes": [
+   "Ice",
+   "Psychic"
+  ]
  },
  {
   "key": "Electabuzz",
@@ -7046,7 +8762,34 @@
   "spriteFile": "sprites/Electabuzz.png",
   "spriteEra": "gen2",
   "pokeapiName": "electabuzz",
-  "sortKey": 1250
+  "sortKey": 1250,
+  "baseStats": {
+   "hp": 65,
+   "atk": 88,
+   "def": 57,
+   "spa": 95,
+   "spd": 85,
+   "spe": 105,
+   "bst": 495
+  },
+  "baseStatsFaithful": {
+   "hp": 65,
+   "atk": 83,
+   "def": 57,
+   "spa": 95,
+   "spd": 85,
+   "spe": 105,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Static"
+   ],
+   "hidden": "Vital Spirit"
+  },
+  "srcTypes": [
+   "Electric"
+  ]
  },
  {
   "key": "Magmar",
@@ -7125,7 +8868,25 @@
   "spriteFile": "sprites/Magmar.png",
   "spriteEra": "gen2",
   "pokeapiName": "magmar",
-  "sortKey": 1260
+  "sortKey": 1260,
+  "baseStats": {
+   "hp": 65,
+   "atk": 95,
+   "def": 57,
+   "spa": 100,
+   "spd": 85,
+   "spe": 93,
+   "bst": 495
+  },
+  "abilities": {
+   "regular": [
+    "Flame Body"
+   ],
+   "hidden": "Vital Spirit"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Pinsir",
@@ -7208,7 +8969,26 @@
   "spriteFile": "sprites/Pinsir.png",
   "spriteEra": "gen2",
   "pokeapiName": "pinsir",
-  "sortKey": 1270
+  "sortKey": 1270,
+  "baseStats": {
+   "hp": 65,
+   "atk": 125,
+   "def": 100,
+   "spa": 55,
+   "spd": 70,
+   "spe": 85,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Hyper Cutter",
+    "Mold Breaker"
+   ],
+   "hidden": "Moxie"
+  },
+  "srcTypes": [
+   "Bug"
+  ]
  },
  {
   "key": "Tauros",
@@ -7289,7 +9069,25 @@
   "spriteFile": "sprites/Tauros.png",
   "spriteEra": "gen2",
   "pokeapiName": "tauros",
-  "sortKey": 1280
+  "sortKey": 1280,
+  "baseStats": {
+   "hp": 75,
+   "atk": 100,
+   "def": 95,
+   "spa": 40,
+   "spd": 70,
+   "spe": 110,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Intimidate"
+   ],
+   "hidden": "Sheer Force"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Magikarp",
@@ -7324,7 +9122,25 @@
   "spriteFile": "sprites/Magikarp.png",
   "spriteEra": "gen2",
   "pokeapiName": "magikarp",
-  "sortKey": 1290
+  "sortKey": 1290,
+  "baseStats": {
+   "hp": 20,
+   "atk": 10,
+   "def": 55,
+   "spa": 15,
+   "spd": 20,
+   "spe": 80,
+   "bst": 200
+  },
+  "abilities": {
+   "regular": [
+    "Swift Swim"
+   ],
+   "hidden": "Rattled"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Gyarados",
@@ -7414,7 +9230,27 @@
   "spriteFile": "sprites/Gyarados.png",
   "spriteEra": "gen2",
   "pokeapiName": "gyarados",
-  "sortKey": 1300
+  "sortKey": 1300,
+  "baseStats": {
+   "hp": 95,
+   "atk": 125,
+   "def": 79,
+   "spa": 60,
+   "spd": 100,
+   "spe": 81,
+   "bst": 540
+  },
+  "abilities": {
+   "regular": [
+    "Intimidate",
+    "Moxie"
+   ],
+   "hidden": "Mold Breaker"
+  },
+  "srcTypes": [
+   "Water",
+   "Flying"
+  ]
  },
  {
   "key": "Lapras",
@@ -7508,7 +9344,27 @@
   "spriteFile": "sprites/Lapras.png",
   "spriteEra": "gen2",
   "pokeapiName": "lapras",
-  "sortKey": 1310
+  "sortKey": 1310,
+  "baseStats": {
+   "hp": 130,
+   "atk": 85,
+   "def": 80,
+   "spa": 85,
+   "spd": 95,
+   "spe": 60,
+   "bst": 535
+  },
+  "abilities": {
+   "regular": [
+    "Water Absorb",
+    "Shell Armor"
+   ],
+   "hidden": "Hydration"
+  },
+  "srcTypes": [
+   "Water",
+   "Ice"
+  ]
  },
  {
   "key": "Ditto",
@@ -7529,7 +9385,34 @@
   "spriteFile": "sprites/Ditto.png",
   "spriteEra": "gen2",
   "pokeapiName": "ditto",
-  "sortKey": 1320
+  "sortKey": 1320,
+  "baseStats": {
+   "hp": 78,
+   "atk": 28,
+   "def": 48,
+   "spa": 28,
+   "spd": 48,
+   "spe": 108,
+   "bst": 338
+  },
+  "baseStatsFaithful": {
+   "hp": 48,
+   "atk": 48,
+   "def": 48,
+   "spa": 48,
+   "spd": 48,
+   "spe": 48,
+   "bst": 288
+  },
+  "abilities": {
+   "regular": [
+    "Limber"
+   ],
+   "hidden": "Imposter"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Eevee",
@@ -7651,7 +9534,26 @@
   "spriteFile": "sprites/Eevee.png",
   "spriteEra": "gen2",
   "pokeapiName": "eevee",
-  "sortKey": 1330
+  "sortKey": 1330,
+  "baseStats": {
+   "hp": 55,
+   "atk": 55,
+   "def": 50,
+   "spa": 45,
+   "spd": 65,
+   "spe": 55,
+   "bst": 325
+  },
+  "abilities": {
+   "regular": [
+    "Run Away",
+    "Adaptability"
+   ],
+   "hidden": "Anticipation"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Vaporeon",
@@ -7728,7 +9630,25 @@
   "spriteFile": "sprites/Vaporeon.png",
   "spriteEra": "gen2",
   "pokeapiName": "vaporeon",
-  "sortKey": 1340
+  "sortKey": 1340,
+  "baseStats": {
+   "hp": 130,
+   "atk": 65,
+   "def": 60,
+   "spa": 110,
+   "spd": 95,
+   "spe": 65,
+   "bst": 525
+  },
+  "abilities": {
+   "regular": [
+    "Water Absorb"
+   ],
+   "hidden": "Hydration"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Jolteon",
@@ -7805,7 +9725,32 @@
   "spriteFile": "sprites/Jolteon.png",
   "spriteEra": "gen2",
   "pokeapiName": "jolteon",
-  "sortKey": 1350
+  "sortKey": 1350,
+  "baseStats": {
+   "hp": 65,
+   "atk": 65,
+   "def": 60,
+   "spa": 110,
+   "spd": 95,
+   "spe": 130,
+   "bst": 525
+  },
+  "abilities": {
+   "regular": [
+    "Volt Absorb",
+    "Static"
+   ],
+   "hidden": "Quick Feet"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Volt Absorb"
+   ],
+   "hidden": "Quick Feet"
+  },
+  "srcTypes": [
+   "Electric"
+  ]
  },
  {
   "key": "Flareon",
@@ -7882,7 +9827,32 @@
   "spriteFile": "sprites/Flareon.png",
   "spriteEra": "gen2",
   "pokeapiName": "flareon",
-  "sortKey": 1360
+  "sortKey": 1360,
+  "baseStats": {
+   "hp": 65,
+   "atk": 130,
+   "def": 60,
+   "spa": 95,
+   "spd": 110,
+   "spe": 65,
+   "bst": 525
+  },
+  "abilities": {
+   "regular": [
+    "Flash Fire",
+    "Drought"
+   ],
+   "hidden": "Guts"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Flash Fire"
+   ],
+   "hidden": "Guts"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Porygon",
@@ -7961,7 +9931,26 @@
   "spriteFile": "sprites/Porygon.png",
   "spriteEra": "gen2",
   "pokeapiName": "porygon",
-  "sortKey": 1370
+  "sortKey": 1370,
+  "baseStats": {
+   "hp": 65,
+   "atk": 60,
+   "def": 70,
+   "spa": 85,
+   "spd": 75,
+   "spe": 40,
+   "bst": 395
+  },
+  "abilities": {
+   "regular": [
+    "Trace",
+    "Download"
+   ],
+   "hidden": "Analytic"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Snorlax",
@@ -8038,7 +10027,26 @@
   "spriteFile": "sprites/Snorlax.png",
   "spriteEra": "gen2",
   "pokeapiName": "snorlax",
-  "sortKey": 1430
+  "sortKey": 1430,
+  "baseStats": {
+   "hp": 160,
+   "atk": 110,
+   "def": 65,
+   "spa": 65,
+   "spd": 110,
+   "spe": 30,
+   "bst": 540
+  },
+  "abilities": {
+   "regular": [
+    "Immunity",
+    "Thick Fat"
+   ],
+   "hidden": "Gluttony"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Dratini",
@@ -8117,7 +10125,25 @@
   "spriteFile": "sprites/Dratini.png",
   "spriteEra": "gen2",
   "pokeapiName": "dratini",
-  "sortKey": 1470
+  "sortKey": 1470,
+  "baseStats": {
+   "hp": 41,
+   "atk": 64,
+   "def": 45,
+   "spa": 50,
+   "spd": 50,
+   "spe": 50,
+   "bst": 300
+  },
+  "abilities": {
+   "regular": [
+    "Shed Skin"
+   ],
+   "hidden": "Marvel Scale"
+  },
+  "srcTypes": [
+   "Dragon"
+  ]
  },
  {
   "key": "Dragonair",
@@ -8196,7 +10222,25 @@
   "spriteFile": "sprites/Dragonair.png",
   "spriteEra": "gen2",
   "pokeapiName": "dragonair",
-  "sortKey": 1480
+  "sortKey": 1480,
+  "baseStats": {
+   "hp": 61,
+   "atk": 84,
+   "def": 65,
+   "spa": 70,
+   "spd": 70,
+   "spe": 70,
+   "bst": 420
+  },
+  "abilities": {
+   "regular": [
+    "Shed Skin"
+   ],
+   "hidden": "Marvel Scale"
+  },
+  "srcTypes": [
+   "Dragon"
+  ]
  },
  {
   "key": "Dragonite",
@@ -8302,7 +10346,33 @@
   "spriteFile": "sprites/Dragonite.png",
   "spriteEra": "gen2",
   "pokeapiName": "dragonite",
-  "sortKey": 1490
+  "sortKey": 1490,
+  "baseStats": {
+   "hp": 91,
+   "atk": 134,
+   "def": 95,
+   "spa": 100,
+   "spd": 100,
+   "spe": 80,
+   "bst": 600
+  },
+  "abilities": {
+   "regular": [
+    "Inner Focus",
+    "Marvel Scale"
+   ],
+   "hidden": "Multiscale"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Inner Focus"
+   ],
+   "hidden": "Multiscale"
+  },
+  "srcTypes": [
+   "Dragon",
+   "Flying"
+  ]
  },
  {
   "key": "Chikorita",
@@ -8393,7 +10463,32 @@
   "spriteFile": "sprites/Chikorita.png",
   "spriteEra": "gen2",
   "pokeapiName": "chikorita",
-  "sortKey": 1520
+  "sortKey": 1520,
+  "baseStats": {
+   "hp": 45,
+   "atk": 49,
+   "def": 65,
+   "spa": 49,
+   "spd": 65,
+   "spe": 45,
+   "bst": 318
+  },
+  "abilities": {
+   "regular": [
+    "Overgrow",
+    "Natural Cure"
+   ],
+   "hidden": "Leaf Guard"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Overgrow"
+   ],
+   "hidden": "Leaf Guard"
+  },
+  "srcTypes": [
+   "Grass"
+  ]
  },
  {
   "key": "Bayleef",
@@ -8489,7 +10584,32 @@
   "spriteFile": "sprites/Bayleef.png",
   "spriteEra": "gen2",
   "pokeapiName": "bayleef",
-  "sortKey": 1530
+  "sortKey": 1530,
+  "baseStats": {
+   "hp": 60,
+   "atk": 62,
+   "def": 80,
+   "spa": 63,
+   "spd": 80,
+   "spe": 60,
+   "bst": 405
+  },
+  "abilities": {
+   "regular": [
+    "Overgrow",
+    "Natural Cure"
+   ],
+   "hidden": "Leaf Guard"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Overgrow"
+   ],
+   "hidden": "Leaf Guard"
+  },
+  "srcTypes": [
+   "Grass"
+  ]
  },
  {
   "key": "Meganium",
@@ -8578,7 +10698,26 @@
   "spriteFile": "sprites/Meganium.png",
   "spriteEra": "gen2",
   "pokeapiName": "meganium",
-  "sortKey": 1540
+  "sortKey": 1540,
+  "baseStats": {
+   "hp": 80,
+   "atk": 82,
+   "def": 100,
+   "spa": 83,
+   "spd": 100,
+   "spe": 80,
+   "bst": 525
+  },
+  "abilities": {
+   "regular": [
+    "Overgrow",
+    "Natural Cure"
+   ],
+   "hidden": "Leaf Guard"
+  },
+  "srcTypes": [
+   "Grass"
+  ]
  },
  {
   "key": "Meganium_Ancestor",
@@ -8639,7 +10778,27 @@
   "spriteFile": "sprites/Meganium_Ancestor.png",
   "spriteEra": "gen2",
   "pokeapiName": "meganium",
-  "sortKey": 1545
+  "sortKey": 1545,
+  "baseStats": {
+   "hp": 80,
+   "atk": 100,
+   "def": 82,
+   "spa": 100,
+   "spd": 83,
+   "spe": 80,
+   "bst": 525
+  },
+  "abilities": {
+   "regular": [
+    "Compound Eyes",
+    "Shed Skin"
+   ],
+   "hidden": "Tinted Lens"
+  },
+  "srcTypes": [
+   "Bug",
+   "Fairy"
+  ]
  },
  {
   "key": "Cyndaquil",
@@ -8722,7 +10881,32 @@
   "spriteFile": "sprites/Cyndaquil.png",
   "spriteEra": "gen2",
   "pokeapiName": "cyndaquil",
-  "sortKey": 1550
+  "sortKey": 1550,
+  "baseStats": {
+   "hp": 39,
+   "atk": 52,
+   "def": 43,
+   "spa": 60,
+   "spd": 50,
+   "spe": 65,
+   "bst": 309
+  },
+  "abilities": {
+   "regular": [
+    "Blaze",
+    "Flame Body"
+   ],
+   "hidden": "Flash Fire"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Blaze"
+   ],
+   "hidden": "Flash Fire"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Quilava",
@@ -8802,7 +10986,32 @@
   "spriteFile": "sprites/Quilava.png",
   "spriteEra": "gen2",
   "pokeapiName": "quilava",
-  "sortKey": 1560
+  "sortKey": 1560,
+  "baseStats": {
+   "hp": 58,
+   "atk": 64,
+   "def": 58,
+   "spa": 80,
+   "spd": 65,
+   "spe": 80,
+   "bst": 405
+  },
+  "abilities": {
+   "regular": [
+    "Blaze",
+    "Flash Fire"
+   ],
+   "hidden": "White Smoke"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Blaze"
+   ],
+   "hidden": "Flash Fire"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Typhlosion",
@@ -8875,7 +11084,26 @@
   "spriteFile": "sprites/Typhlosion.png",
   "spriteEra": "gen2",
   "pokeapiName": "typhlosion",
-  "sortKey": 1570
+  "sortKey": 1570,
+  "baseStats": {
+   "hp": 78,
+   "atk": 84,
+   "def": 78,
+   "spa": 109,
+   "spd": 85,
+   "spe": 100,
+   "bst": 534
+  },
+  "abilities": {
+   "regular": [
+    "Blaze",
+    "Flash Fire"
+   ],
+   "hidden": "White Smoke"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Typhlosion_Hisuian",
@@ -8949,7 +11177,27 @@
   "spriteFile": "sprites/Typhlosion_Hisuian.png",
   "spriteEra": "modern",
   "pokeapiName": "typhlosion-hisui",
-  "sortKey": 1573
+  "sortKey": 1573,
+  "baseStats": {
+   "hp": 73,
+   "atk": 84,
+   "def": 78,
+   "spa": 119,
+   "spd": 85,
+   "spe": 95,
+   "bst": 534
+  },
+  "abilities": {
+   "regular": [
+    "Blaze",
+    "Flash Fire"
+   ],
+   "hidden": "White Smoke"
+  },
+  "srcTypes": [
+   "Fire",
+   "Ghost"
+  ]
  },
  {
   "key": "Totodile",
@@ -9040,7 +11288,32 @@
   "spriteFile": "sprites/Totodile.png",
   "spriteEra": "gen2",
   "pokeapiName": "totodile",
-  "sortKey": 1580
+  "sortKey": 1580,
+  "baseStats": {
+   "hp": 50,
+   "atk": 65,
+   "def": 64,
+   "spa": 44,
+   "spd": 48,
+   "spe": 43,
+   "bst": 314
+  },
+  "abilities": {
+   "regular": [
+    "Torrent",
+    "Guts"
+   ],
+   "hidden": "Sheer Force"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Torrent"
+   ],
+   "hidden": "Sheer Force"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Croconaw",
@@ -9136,7 +11409,32 @@
   "spriteFile": "sprites/Croconaw.png",
   "spriteEra": "gen2",
   "pokeapiName": "croconaw",
-  "sortKey": 1590
+  "sortKey": 1590,
+  "baseStats": {
+   "hp": 65,
+   "atk": 80,
+   "def": 80,
+   "spa": 59,
+   "spd": 63,
+   "spe": 58,
+   "bst": 405
+  },
+  "abilities": {
+   "regular": [
+    "Torrent",
+    "Guts"
+   ],
+   "hidden": "Sheer Force"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Torrent"
+   ],
+   "hidden": "Sheer Force"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Feraligatr",
@@ -9229,7 +11527,32 @@
   "spriteFile": "sprites/Feraligatr.png",
   "spriteEra": "gen2",
   "pokeapiName": "feraligatr",
-  "sortKey": 1600
+  "sortKey": 1600,
+  "baseStats": {
+   "hp": 85,
+   "atk": 105,
+   "def": 100,
+   "spa": 79,
+   "spd": 83,
+   "spe": 78,
+   "bst": 530
+  },
+  "abilities": {
+   "regular": [
+    "Torrent",
+    "Intimidate"
+   ],
+   "hidden": "Sheer Force"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Torrent"
+   ],
+   "hidden": "Sheer Force"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Feraligatr_Ancestor",
@@ -9306,7 +11629,27 @@
   "spriteFile": "sprites/Feraligatr_Ancestor.png",
   "spriteEra": "gen2",
   "pokeapiName": "feraligatr",
-  "sortKey": 1605
+  "sortKey": 1605,
+  "baseStats": {
+   "hp": 85,
+   "atk": 79,
+   "def": 83,
+   "spa": 105,
+   "spd": 110,
+   "spe": 68,
+   "bst": 530
+  },
+  "abilities": {
+   "regular": [
+    "Intimidate",
+    "Guts"
+   ],
+   "hidden": "Water Absorb"
+  },
+  "srcTypes": [
+   "Ground",
+   "Electric"
+  ]
  },
  {
   "key": "Sentret",
@@ -9385,7 +11728,26 @@
   "spriteFile": "sprites/Sentret.png",
   "spriteEra": "gen2",
   "pokeapiName": "sentret",
-  "sortKey": 1610
+  "sortKey": 1610,
+  "baseStats": {
+   "hp": 35,
+   "atk": 46,
+   "def": 34,
+   "spa": 35,
+   "spd": 45,
+   "spe": 20,
+   "bst": 215
+  },
+  "abilities": {
+   "regular": [
+    "Run Away",
+    "Keen Eye"
+   ],
+   "hidden": "Frisk"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Furret",
@@ -9462,7 +11824,35 @@
   "spriteFile": "sprites/Furret.png",
   "spriteEra": "gen2",
   "pokeapiName": "furret",
-  "sortKey": 1620
+  "sortKey": 1620,
+  "baseStats": {
+   "hp": 85,
+   "atk": 86,
+   "def": 64,
+   "spa": 45,
+   "spd": 55,
+   "spe": 108,
+   "bst": 443
+  },
+  "baseStatsFaithful": {
+   "hp": 85,
+   "atk": 76,
+   "def": 64,
+   "spa": 45,
+   "spd": 55,
+   "spe": 90,
+   "bst": 415
+  },
+  "abilities": {
+   "regular": [
+    "Run Away",
+    "Keen Eye"
+   ],
+   "hidden": "Frisk"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Hoothoot",
@@ -9563,7 +11953,27 @@
   "spriteFile": "sprites/Hoothoot.png",
   "spriteEra": "gen2",
   "pokeapiName": "hoothoot",
-  "sortKey": 1630
+  "sortKey": 1630,
+  "baseStats": {
+   "hp": 60,
+   "atk": 30,
+   "def": 30,
+   "spa": 36,
+   "spd": 56,
+   "spe": 50,
+   "bst": 262
+  },
+  "abilities": {
+   "regular": [
+    "Insomnia",
+    "Keen Eye"
+   ],
+   "hidden": "Tinted Lens"
+  },
+  "srcTypes": [
+   "Normal",
+   "Flying"
+  ]
  },
  {
   "key": "Noctowl",
@@ -9657,7 +12067,36 @@
   "spriteFile": "sprites/Noctowl.png",
   "spriteEra": "gen2",
   "pokeapiName": "noctowl",
-  "sortKey": 1640
+  "sortKey": 1640,
+  "baseStats": {
+   "hp": 100,
+   "atk": 50,
+   "def": 50,
+   "spa": 96,
+   "spd": 96,
+   "spe": 70,
+   "bst": 462
+  },
+  "baseStatsFaithful": {
+   "hp": 100,
+   "atk": 50,
+   "def": 50,
+   "spa": 86,
+   "spd": 96,
+   "spe": 70,
+   "bst": 452
+  },
+  "abilities": {
+   "regular": [
+    "Insomnia",
+    "Keen Eye"
+   ],
+   "hidden": "Tinted Lens"
+  },
+  "srcTypes": [
+   "Normal",
+   "Flying"
+  ]
  },
  {
   "key": "Noctowl_Immortal",
@@ -9723,7 +12162,27 @@
   "spriteFile": "sprites/Noctowl_Immortal.png",
   "spriteEra": "gen2",
   "pokeapiName": "noctowl",
-  "sortKey": 1645
+  "sortKey": 1645,
+  "baseStats": {
+   "hp": 100,
+   "atk": 86,
+   "def": 60,
+   "spa": 50,
+   "spd": 96,
+   "spe": 80,
+   "bst": 472
+  },
+  "abilities": {
+   "regular": [
+    "Technician",
+    "Tinted Lens"
+   ],
+   "hidden": "Compound Eyes"
+  },
+  "srcTypes": [
+   "Flying",
+   "Ghost"
+  ]
  },
  {
   "key": "Ledyba",
@@ -9803,7 +12262,36 @@
   "spriteFile": "sprites/Ledyba.png",
   "spriteEra": "gen2",
   "pokeapiName": "ledyba",
-  "sortKey": 1650
+  "sortKey": 1650,
+  "baseStats": {
+   "hp": 40,
+   "atk": 40,
+   "def": 30,
+   "spa": 20,
+   "spd": 80,
+   "spe": 55,
+   "bst": 265
+  },
+  "baseStatsFaithful": {
+   "hp": 40,
+   "atk": 20,
+   "def": 30,
+   "spa": 40,
+   "spd": 80,
+   "spe": 55,
+   "bst": 265
+  },
+  "abilities": {
+   "regular": [
+    "Swarm",
+    "Early Bird"
+   ],
+   "hidden": "Rattled"
+  },
+  "srcTypes": [
+   "Bug",
+   "Flying"
+  ]
  },
  {
   "key": "Ledian",
@@ -9881,7 +12369,36 @@
   "spriteFile": "sprites/Ledian.png",
   "spriteEra": "gen2",
   "pokeapiName": "ledian",
-  "sortKey": 1660
+  "sortKey": 1660,
+  "baseStats": {
+   "hp": 55,
+   "atk": 95,
+   "def": 50,
+   "spa": 35,
+   "spd": 110,
+   "spe": 85,
+   "bst": 430
+  },
+  "baseStatsFaithful": {
+   "hp": 55,
+   "atk": 35,
+   "def": 50,
+   "spa": 55,
+   "spd": 110,
+   "spe": 85,
+   "bst": 390
+  },
+  "abilities": {
+   "regular": [
+    "Swarm",
+    "Early Bird"
+   ],
+   "hidden": "Iron Fist"
+  },
+  "srcTypes": [
+   "Bug",
+   "Flying"
+  ]
  },
  {
   "key": "Spinarak",
@@ -9973,7 +12490,27 @@
   "spriteFile": "sprites/Spinarak.png",
   "spriteEra": "gen2",
   "pokeapiName": "spinarak",
-  "sortKey": 1670
+  "sortKey": 1670,
+  "baseStats": {
+   "hp": 40,
+   "atk": 60,
+   "def": 40,
+   "spa": 40,
+   "spd": 40,
+   "spe": 30,
+   "bst": 250
+  },
+  "abilities": {
+   "regular": [
+    "Swarm",
+    "Insomnia"
+   ],
+   "hidden": "Sniper"
+  },
+  "srcTypes": [
+   "Bug",
+   "Poison"
+  ]
  },
  {
   "key": "Ariados",
@@ -10067,7 +12604,36 @@
   "spriteFile": "sprites/Ariados.png",
   "spriteEra": "gen2",
   "pokeapiName": "ariados",
-  "sortKey": 1680
+  "sortKey": 1680,
+  "baseStats": {
+   "hp": 70,
+   "atk": 90,
+   "def": 70,
+   "spa": 60,
+   "spd": 70,
+   "spe": 80,
+   "bst": 440
+  },
+  "baseStatsFaithful": {
+   "hp": 70,
+   "atk": 90,
+   "def": 70,
+   "spa": 60,
+   "spd": 70,
+   "spe": 40,
+   "bst": 400
+  },
+  "abilities": {
+   "regular": [
+    "Swarm",
+    "Insomnia"
+   ],
+   "hidden": "Sniper"
+  },
+  "srcTypes": [
+   "Bug",
+   "Poison"
+  ]
  },
  {
   "key": "Crobat",
@@ -10161,7 +12727,33 @@
   "spriteFile": "sprites/Crobat.png",
   "spriteEra": "gen2",
   "pokeapiName": "crobat",
-  "sortKey": 1690
+  "sortKey": 1690,
+  "baseStats": {
+   "hp": 85,
+   "atk": 90,
+   "def": 80,
+   "spa": 70,
+   "spd": 80,
+   "spe": 130,
+   "bst": 535
+  },
+  "abilities": {
+   "regular": [
+    "Inner Focus",
+    "Anticipation"
+   ],
+   "hidden": "Infiltrator"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Inner Focus"
+   ],
+   "hidden": "Infiltrator"
+  },
+  "srcTypes": [
+   "Poison",
+   "Flying"
+  ]
  },
  {
   "key": "Chinchou",
@@ -10249,7 +12841,27 @@
   "spriteFile": "sprites/Chinchou.png",
   "spriteEra": "gen2",
   "pokeapiName": "chinchou",
-  "sortKey": 1700
+  "sortKey": 1700,
+  "baseStats": {
+   "hp": 75,
+   "atk": 38,
+   "def": 38,
+   "spa": 56,
+   "spd": 56,
+   "spe": 67,
+   "bst": 330
+  },
+  "abilities": {
+   "regular": [
+    "Volt Absorb",
+    "Illuminate"
+   ],
+   "hidden": "Water Absorb"
+  },
+  "srcTypes": [
+   "Water",
+   "Electric"
+  ]
  },
  {
   "key": "Lanturn",
@@ -10331,7 +12943,36 @@
   "spriteFile": "sprites/Lanturn.png",
   "spriteEra": "gen2",
   "pokeapiName": "lanturn",
-  "sortKey": 1710
+  "sortKey": 1710,
+  "baseStats": {
+   "hp": 125,
+   "atk": 58,
+   "def": 58,
+   "spa": 86,
+   "spd": 86,
+   "spe": 67,
+   "bst": 480
+  },
+  "baseStatsFaithful": {
+   "hp": 125,
+   "atk": 58,
+   "def": 58,
+   "spa": 76,
+   "spd": 76,
+   "spe": 67,
+   "bst": 460
+  },
+  "abilities": {
+   "regular": [
+    "Volt Absorb",
+    "Illuminate"
+   ],
+   "hidden": "Water Absorb"
+  },
+  "srcTypes": [
+   "Water",
+   "Electric"
+  ]
  },
  {
   "key": "Togetic",
@@ -10419,7 +13060,26 @@
   "spriteFile": "sprites/Togetic.png",
   "spriteEra": "gen2",
   "pokeapiName": "togetic",
-  "sortKey": 1760
+  "sortKey": 1760,
+  "baseStats": {
+   "hp": 55,
+   "atk": 40,
+   "def": 85,
+   "spa": 80,
+   "spd": 105,
+   "spe": 40,
+   "bst": 405
+  },
+  "abilities": {
+   "regular": [
+    "Serene Grace"
+   ],
+   "hidden": "Super Luck"
+  },
+  "srcTypes": [
+   "Fairy",
+   "Flying"
+  ]
  },
  {
   "key": "Natu",
@@ -10508,7 +13168,27 @@
   "spriteFile": "sprites/Natu.png",
   "spriteEra": "gen2",
   "pokeapiName": "natu",
-  "sortKey": 1770
+  "sortKey": 1770,
+  "baseStats": {
+   "hp": 40,
+   "atk": 50,
+   "def": 45,
+   "spa": 70,
+   "spd": 45,
+   "spe": 70,
+   "bst": 320
+  },
+  "abilities": {
+   "regular": [
+    "Synchronize",
+    "Early Bird"
+   ],
+   "hidden": "Magic Bounce"
+  },
+  "srcTypes": [
+   "Psychic",
+   "Flying"
+  ]
  },
  {
   "key": "Xatu",
@@ -10590,7 +13270,27 @@
   "spriteFile": "sprites/Xatu.png",
   "spriteEra": "gen2",
   "pokeapiName": "xatu",
-  "sortKey": 1780
+  "sortKey": 1780,
+  "baseStats": {
+   "hp": 65,
+   "atk": 75,
+   "def": 70,
+   "spa": 95,
+   "spd": 70,
+   "spe": 95,
+   "bst": 470
+  },
+  "abilities": {
+   "regular": [
+    "Synchronize",
+    "Early Bird"
+   ],
+   "hidden": "Magic Bounce"
+  },
+  "srcTypes": [
+   "Psychic",
+   "Flying"
+  ]
  },
  {
   "key": "Xatu_Ancestor",
@@ -10664,7 +13364,27 @@
   "spriteFile": "sprites/Xatu_Ancestor.png",
   "spriteEra": "gen2",
   "pokeapiName": "xatu",
-  "sortKey": 1785
+  "sortKey": 1785,
+  "baseStats": {
+   "hp": 65,
+   "atk": 50,
+   "def": 95,
+   "spa": 120,
+   "spd": 95,
+   "spe": 45,
+   "bst": 470
+  },
+  "abilities": {
+   "regular": [
+    "Trace",
+    "Magic Guard"
+   ],
+   "hidden": "Magic Bounce"
+  },
+  "srcTypes": [
+   "Psychic",
+   "Rock"
+  ]
  },
  {
   "key": "Mareep",
@@ -10747,7 +13467,32 @@
   "spriteFile": "sprites/Mareep.png",
   "spriteEra": "gen2",
   "pokeapiName": "mareep",
-  "sortKey": 1790
+  "sortKey": 1790,
+  "baseStats": {
+   "hp": 55,
+   "atk": 40,
+   "def": 40,
+   "spa": 65,
+   "spd": 45,
+   "spe": 35,
+   "bst": 280
+  },
+  "abilities": {
+   "regular": [
+    "Static",
+    "Volt Absorb"
+   ],
+   "hidden": "Motor Drive"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Static"
+   ],
+   "hidden": "Static"
+  },
+  "srcTypes": [
+   "Electric"
+  ]
  },
  {
   "key": "Flaaffy",
@@ -10830,7 +13575,40 @@
   "spriteFile": "sprites/Flaaffy.png",
   "spriteEra": "gen2",
   "pokeapiName": "flaaffy",
-  "sortKey": 1800
+  "sortKey": 1800,
+  "baseStats": {
+   "hp": 70,
+   "atk": 60,
+   "def": 60,
+   "spa": 85,
+   "spd": 65,
+   "spe": 50,
+   "bst": 390
+  },
+  "baseStatsFaithful": {
+   "hp": 70,
+   "atk": 55,
+   "def": 55,
+   "spa": 80,
+   "spd": 60,
+   "spe": 45,
+   "bst": 365
+  },
+  "abilities": {
+   "regular": [
+    "Static"
+   ],
+   "hidden": "Motor Drive"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Static"
+   ],
+   "hidden": "Static"
+  },
+  "srcTypes": [
+   "Electric"
+  ]
  },
  {
   "key": "Ampharos",
@@ -10927,7 +13705,34 @@
   "spriteFile": "sprites/Ampharos.png",
   "spriteEra": "gen2",
   "pokeapiName": "ampharos",
-  "sortKey": 1810
+  "sortKey": 1810,
+  "baseStats": {
+   "hp": 95,
+   "atk": 75,
+   "def": 90,
+   "spa": 125,
+   "spd": 95,
+   "spe": 65,
+   "bst": 545
+  },
+  "baseStatsFaithful": {
+   "hp": 90,
+   "atk": 75,
+   "def": 85,
+   "spa": 115,
+   "spd": 90,
+   "spe": 55,
+   "bst": 510
+  },
+  "abilities": {
+   "regular": [
+    "Static"
+   ],
+   "hidden": "Volt Absorb"
+  },
+  "srcTypes": [
+   "Electric"
+  ]
  },
  {
   "key": "Bellossom",
@@ -10980,7 +13785,40 @@
   "spriteFile": "sprites/Bellossom.png",
   "spriteEra": "gen2",
   "pokeapiName": "bellossom",
-  "sortKey": 1820
+  "sortKey": 1820,
+  "baseStats": {
+   "hp": 75,
+   "atk": 80,
+   "def": 95,
+   "spa": 100,
+   "spd": 110,
+   "spe": 50,
+   "bst": 510
+  },
+  "baseStatsFaithful": {
+   "hp": 75,
+   "atk": 80,
+   "def": 95,
+   "spa": 90,
+   "spd": 100,
+   "spe": 50,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll"
+   ],
+   "hidden": "Own Tempo"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Chlorophyll"
+   ],
+   "hidden": "Chlorophyll"
+  },
+  "srcTypes": [
+   "Grass"
+  ]
  },
  {
   "key": "Marill",
@@ -11064,7 +13902,27 @@
   "spriteFile": "sprites/Marill.png",
   "spriteEra": "gen2",
   "pokeapiName": "marill",
-  "sortKey": 1830
+  "sortKey": 1830,
+  "baseStats": {
+   "hp": 70,
+   "atk": 20,
+   "def": 50,
+   "spa": 20,
+   "spd": 50,
+   "spe": 40,
+   "bst": 250
+  },
+  "abilities": {
+   "regular": [
+    "Thick Fat",
+    "Huge Power"
+   ],
+   "hidden": "Sap Sipper"
+  },
+  "srcTypes": [
+   "Water",
+   "Fairy"
+  ]
  },
  {
   "key": "Azumarill",
@@ -11142,7 +14000,36 @@
   "spriteFile": "sprites/Azumarill.png",
   "spriteEra": "gen2",
   "pokeapiName": "azumarill",
-  "sortKey": 1840
+  "sortKey": 1840,
+  "baseStats": {
+   "hp": 100,
+   "atk": 50,
+   "def": 80,
+   "spa": 90,
+   "spd": 80,
+   "spe": 50,
+   "bst": 450
+  },
+  "baseStatsFaithful": {
+   "hp": 100,
+   "atk": 50,
+   "def": 80,
+   "spa": 60,
+   "spd": 80,
+   "spe": 50,
+   "bst": 420
+  },
+  "abilities": {
+   "regular": [
+    "Thick Fat",
+    "Huge Power"
+   ],
+   "hidden": "Sap Sipper"
+  },
+  "srcTypes": [
+   "Water",
+   "Fairy"
+  ]
  },
  {
   "key": "Sudowoodo",
@@ -11219,7 +14106,26 @@
   "spriteFile": "sprites/Sudowoodo.png",
   "spriteEra": "gen2",
   "pokeapiName": "sudowoodo",
-  "sortKey": 1850
+  "sortKey": 1850,
+  "baseStats": {
+   "hp": 70,
+   "atk": 100,
+   "def": 115,
+   "spa": 30,
+   "spd": 65,
+   "spe": 30,
+   "bst": 410
+  },
+  "abilities": {
+   "regular": [
+    "Sturdy",
+    "Rock Head"
+   ],
+   "hidden": "Rattled"
+  },
+  "srcTypes": [
+   "Rock"
+  ]
  },
  {
   "key": "Politoed",
@@ -11264,7 +14170,34 @@
   "spriteFile": "sprites/Politoed.png",
   "spriteEra": "gen2",
   "pokeapiName": "politoed",
-  "sortKey": 1860
+  "sortKey": 1860,
+  "baseStats": {
+   "hp": 90,
+   "atk": 75,
+   "def": 80,
+   "spa": 90,
+   "spd": 100,
+   "spe": 80,
+   "bst": 515
+  },
+  "baseStatsFaithful": {
+   "hp": 90,
+   "atk": 75,
+   "def": 75,
+   "spa": 90,
+   "spd": 100,
+   "spe": 70,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Drizzle"
+   ],
+   "hidden": "Water Absorb"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Hoppip",
@@ -11348,7 +14281,26 @@
   "spriteFile": "sprites/Hoppip.png",
   "spriteEra": "gen2",
   "pokeapiName": "hoppip",
-  "sortKey": 1870
+  "sortKey": 1870,
+  "baseStats": {
+   "hp": 35,
+   "atk": 35,
+   "def": 40,
+   "spa": 35,
+   "spd": 55,
+   "spe": 50,
+   "bst": 250
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll"
+   ],
+   "hidden": "Infiltrator"
+  },
+  "srcTypes": [
+   "Grass",
+   "Flying"
+  ]
  },
  {
   "key": "Skiploom",
@@ -11440,7 +14392,26 @@
   "spriteFile": "sprites/Skiploom.png",
   "spriteEra": "gen2",
   "pokeapiName": "skiploom",
-  "sortKey": 1880
+  "sortKey": 1880,
+  "baseStats": {
+   "hp": 55,
+   "atk": 45,
+   "def": 50,
+   "spa": 45,
+   "spd": 65,
+   "spe": 80,
+   "bst": 340
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll"
+   ],
+   "hidden": "Infiltrator"
+  },
+  "srcTypes": [
+   "Grass",
+   "Flying"
+  ]
  },
  {
   "key": "Jumpluff",
@@ -11526,7 +14497,26 @@
   "spriteFile": "sprites/Jumpluff.png",
   "spriteEra": "gen2",
   "pokeapiName": "jumpluff",
-  "sortKey": 1890
+  "sortKey": 1890,
+  "baseStats": {
+   "hp": 75,
+   "atk": 55,
+   "def": 70,
+   "spa": 55,
+   "spd": 95,
+   "spe": 110,
+   "bst": 460
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll"
+   ],
+   "hidden": "Infiltrator"
+  },
+  "srcTypes": [
+   "Grass",
+   "Flying"
+  ]
  },
  {
   "key": "Aipom",
@@ -11605,7 +14595,26 @@
   "spriteFile": "sprites/Aipom.png",
   "spriteEra": "gen2",
   "pokeapiName": "aipom",
-  "sortKey": 1900
+  "sortKey": 1900,
+  "baseStats": {
+   "hp": 55,
+   "atk": 70,
+   "def": 55,
+   "spa": 40,
+   "spd": 55,
+   "spe": 85,
+   "bst": 360
+  },
+  "abilities": {
+   "regular": [
+    "Run Away",
+    "Pickup"
+   ],
+   "hidden": "Moody"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Sunkern",
@@ -11688,7 +14697,26 @@
   "spriteFile": "sprites/Sunkern.png",
   "spriteEra": "gen2",
   "pokeapiName": "sunkern",
-  "sortKey": 1910
+  "sortKey": 1910,
+  "baseStats": {
+   "hp": 30,
+   "atk": 30,
+   "def": 30,
+   "spa": 30,
+   "spd": 30,
+   "spe": 30,
+   "bst": 180
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll",
+    "Solar Power"
+   ],
+   "hidden": "Early Bird"
+  },
+  "srcTypes": [
+   "Grass"
+  ]
  },
  {
   "key": "Sunflora",
@@ -11769,7 +14797,34 @@
   "spriteFile": "sprites/Sunflora.png",
   "spriteEra": "gen2",
   "pokeapiName": "sunflora",
-  "sortKey": 1920
+  "sortKey": 1920,
+  "baseStats": {
+   "hp": 75,
+   "atk": 55,
+   "def": 75,
+   "spa": 105,
+   "spd": 85,
+   "spe": 85,
+   "bst": 480
+  },
+  "baseStatsFaithful": {
+   "hp": 75,
+   "atk": 75,
+   "def": 55,
+   "spa": 105,
+   "spd": 85,
+   "spe": 30,
+   "bst": 425
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll"
+   ],
+   "hidden": "Early Bird"
+  },
+  "srcTypes": [
+   "Grass"
+  ]
  },
  {
   "key": "Yanma",
@@ -11865,7 +14920,27 @@
   "spriteFile": "sprites/Yanma.png",
   "spriteEra": "gen2",
   "pokeapiName": "yanma",
-  "sortKey": 1930
+  "sortKey": 1930,
+  "baseStats": {
+   "hp": 65,
+   "atk": 65,
+   "def": 45,
+   "spa": 75,
+   "spd": 45,
+   "spe": 95,
+   "bst": 390
+  },
+  "abilities": {
+   "regular": [
+    "Speed Boost",
+    "Compound Eyes"
+   ],
+   "hidden": "Swarm"
+  },
+  "srcTypes": [
+   "Bug",
+   "Flying"
+  ]
  },
  {
   "key": "Wooper",
@@ -11937,7 +15012,27 @@
   "spriteFile": "sprites/Wooper.png",
   "spriteEra": "gen2",
   "pokeapiName": "wooper",
-  "sortKey": 1940
+  "sortKey": 1940,
+  "baseStats": {
+   "hp": 55,
+   "atk": 45,
+   "def": 45,
+   "spa": 25,
+   "spd": 25,
+   "spe": 15,
+   "bst": 210
+  },
+  "abilities": {
+   "regular": [
+    "Damp",
+    "Water Absorb"
+   ],
+   "hidden": "Unaware"
+  },
+  "srcTypes": [
+   "Water",
+   "Ground"
+  ]
  },
  {
   "key": "Quagsire",
@@ -12007,7 +15102,26 @@
   "spriteFile": "sprites/Quagsire.png",
   "spriteEra": "gen2",
   "pokeapiName": "quagsire",
-  "sortKey": 1950
+  "sortKey": 1950,
+  "baseStats": {
+   "hp": 95,
+   "atk": 85,
+   "def": 85,
+   "spa": 65,
+   "spd": 65,
+   "spe": 35,
+   "bst": 430
+  },
+  "abilities": {
+   "regular": [
+    "Water Absorb"
+   ],
+   "hidden": "Unaware"
+  },
+  "srcTypes": [
+   "Water",
+   "Ground"
+  ]
  },
  {
   "key": "Espeon",
@@ -12084,7 +15198,32 @@
   "spriteFile": "sprites/Espeon.png",
   "spriteEra": "gen2",
   "pokeapiName": "espeon",
-  "sortKey": 1960
+  "sortKey": 1960,
+  "baseStats": {
+   "hp": 65,
+   "atk": 65,
+   "def": 60,
+   "spa": 130,
+   "spd": 95,
+   "spe": 110,
+   "bst": 525
+  },
+  "abilities": {
+   "regular": [
+    "Synchronize",
+    "Magic Guard"
+   ],
+   "hidden": "Magic Bounce"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Synchronize"
+   ],
+   "hidden": "Magic Bounce"
+  },
+  "srcTypes": [
+   "Psychic"
+  ]
  },
  {
   "key": "Umbreon",
@@ -12161,7 +15300,25 @@
   "spriteFile": "sprites/Umbreon.png",
   "spriteEra": "gen2",
   "pokeapiName": "umbreon",
-  "sortKey": 1970
+  "sortKey": 1970,
+  "baseStats": {
+   "hp": 95,
+   "atk": 65,
+   "def": 110,
+   "spa": 60,
+   "spd": 130,
+   "spe": 65,
+   "bst": 525
+  },
+  "abilities": {
+   "regular": [
+    "Synchronize"
+   ],
+   "hidden": "Inner Focus"
+  },
+  "srcTypes": [
+   "Dark"
+  ]
  },
  {
   "key": "Murkrow",
@@ -12245,7 +15402,27 @@
   "spriteFile": "sprites/Murkrow.png",
   "spriteEra": "gen2",
   "pokeapiName": "murkrow",
-  "sortKey": 1980
+  "sortKey": 1980,
+  "baseStats": {
+   "hp": 60,
+   "atk": 85,
+   "def": 42,
+   "spa": 85,
+   "spd": 42,
+   "spe": 91,
+   "bst": 405
+  },
+  "abilities": {
+   "regular": [
+    "Insomnia",
+    "Super Luck"
+   ],
+   "hidden": "Prankster"
+  },
+  "srcTypes": [
+   "Dark",
+   "Flying"
+  ]
  },
  {
   "key": "Slowking",
@@ -12339,7 +15516,27 @@
   "spriteFile": "sprites/Slowking.png",
   "spriteEra": "gen2",
   "pokeapiName": "slowking",
-  "sortKey": 1990
+  "sortKey": 1990,
+  "baseStats": {
+   "hp": 95,
+   "atk": 75,
+   "def": 80,
+   "spa": 100,
+   "spd": 110,
+   "spe": 30,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Own Tempo",
+    "Regenerator"
+   ],
+   "hidden": "Poison Heal"
+  },
+  "srcTypes": [
+   "Water",
+   "Psychic"
+  ]
  },
  {
   "key": "Slowking_Galarian",
@@ -12429,7 +15626,27 @@
   "spriteFile": "sprites/Slowking_Galarian.png",
   "spriteEra": "modern",
   "pokeapiName": "slowking-galar",
-  "sortKey": 1992
+  "sortKey": 1992,
+  "baseStats": {
+   "hp": 95,
+   "atk": 65,
+   "def": 80,
+   "spa": 110,
+   "spd": 110,
+   "spe": 30,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Gluttony",
+    "Own Tempo"
+   ],
+   "hidden": "Regenerator"
+  },
+  "srcTypes": [
+   "Poison",
+   "Psychic"
+  ]
  },
  {
   "key": "Misdreavus",
@@ -12516,7 +15733,25 @@
   "spriteFile": "sprites/Misdreavus.png",
   "spriteEra": "gen2",
   "pokeapiName": "misdreavus",
-  "sortKey": 2000
+  "sortKey": 2000,
+  "baseStats": {
+   "hp": 60,
+   "atk": 60,
+   "def": 60,
+   "spa": 85,
+   "spd": 85,
+   "spe": 85,
+   "bst": 435
+  },
+  "abilities": {
+   "regular": [
+    "Levitate"
+   ],
+   "hidden": "Prankster"
+  },
+  "srcTypes": [
+   "Ghost"
+  ]
  },
  {
   "key": "Unown",
@@ -12549,7 +15784,25 @@
   "spriteFile": "sprites/Unown.png",
   "spriteEra": "gen2",
   "pokeapiName": "unown",
-  "sortKey": 2010
+  "sortKey": 2010,
+  "baseStats": {
+   "hp": 48,
+   "atk": 72,
+   "def": 48,
+   "spa": 100,
+   "spd": 48,
+   "spe": 48,
+   "bst": 364
+  },
+  "abilities": {
+   "regular": [
+    "Levitate"
+   ],
+   "hidden": "Levitate"
+  },
+  "srcTypes": [
+   "Psychic"
+  ]
  },
  {
   "key": "Girafarig",
@@ -12633,7 +15886,36 @@
   "spriteFile": "sprites/Girafarig.png",
   "spriteEra": "gen2",
   "pokeapiName": "girafarig",
-  "sortKey": 2030
+  "sortKey": 2030,
+  "baseStats": {
+   "hp": 70,
+   "atk": 80,
+   "def": 65,
+   "spa": 110,
+   "spd": 65,
+   "spe": 105,
+   "bst": 495
+  },
+  "baseStatsFaithful": {
+   "hp": 70,
+   "atk": 80,
+   "def": 65,
+   "spa": 90,
+   "spd": 65,
+   "spe": 85,
+   "bst": 455
+  },
+  "abilities": {
+   "regular": [
+    "Inner Focus",
+    "Early Bird"
+   ],
+   "hidden": "Sap Sipper"
+  },
+  "srcTypes": [
+   "Dark",
+   "Psychic"
+  ]
  },
  {
   "key": "Pineco",
@@ -12712,7 +15994,25 @@
   "spriteFile": "sprites/Pineco.png",
   "spriteEra": "gen2",
   "pokeapiName": "pineco",
-  "sortKey": 2040
+  "sortKey": 2040,
+  "baseStats": {
+   "hp": 50,
+   "atk": 65,
+   "def": 90,
+   "spa": 35,
+   "spd": 35,
+   "spe": 15,
+   "bst": 290
+  },
+  "abilities": {
+   "regular": [
+    "Sturdy"
+   ],
+   "hidden": "Overcoat"
+  },
+  "srcTypes": [
+   "Bug"
+  ]
  },
  {
   "key": "Forretress",
@@ -12806,7 +16106,26 @@
   "spriteFile": "sprites/Forretress.png",
   "spriteEra": "gen2",
   "pokeapiName": "forretress",
-  "sortKey": 2050
+  "sortKey": 2050,
+  "baseStats": {
+   "hp": 75,
+   "atk": 90,
+   "def": 140,
+   "spa": 60,
+   "spd": 60,
+   "spe": 40,
+   "bst": 465
+  },
+  "abilities": {
+   "regular": [
+    "Sturdy"
+   ],
+   "hidden": "Overcoat"
+  },
+  "srcTypes": [
+   "Bug",
+   "Steel"
+  ]
  },
  {
   "key": "Dunsparce",
@@ -12917,7 +16236,34 @@
   "spriteFile": "sprites/Dunsparce.png",
   "spriteEra": "gen2",
   "pokeapiName": "dunsparce",
-  "sortKey": 2060
+  "sortKey": 2060,
+  "baseStats": {
+   "hp": 105,
+   "atk": 80,
+   "def": 70,
+   "spa": 65,
+   "spd": 65,
+   "spe": 45,
+   "bst": 430
+  },
+  "baseStatsFaithful": {
+   "hp": 100,
+   "atk": 70,
+   "def": 70,
+   "spa": 65,
+   "spd": 65,
+   "spe": 45,
+   "bst": 415
+  },
+  "abilities": {
+   "regular": [
+    "Serene Grace"
+   ],
+   "hidden": "Rattled"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Gligar",
@@ -13001,7 +16347,27 @@
   "spriteFile": "sprites/Gligar.png",
   "spriteEra": "gen2",
   "pokeapiName": "gligar",
-  "sortKey": 2070
+  "sortKey": 2070,
+  "baseStats": {
+   "hp": 65,
+   "atk": 75,
+   "def": 105,
+   "spa": 35,
+   "spd": 65,
+   "spe": 85,
+   "bst": 430
+  },
+  "abilities": {
+   "regular": [
+    "Hyper Cutter",
+    "Sand Veil"
+   ],
+   "hidden": "Immunity"
+  },
+  "srcTypes": [
+   "Ground",
+   "Flying"
+  ]
  },
  {
   "key": "Steelix",
@@ -13103,7 +16469,27 @@
   "spriteFile": "sprites/Steelix.png",
   "spriteEra": "gen2",
   "pokeapiName": "steelix",
-  "sortKey": 2080
+  "sortKey": 2080,
+  "baseStats": {
+   "hp": 75,
+   "atk": 85,
+   "def": 200,
+   "spa": 55,
+   "spd": 65,
+   "spe": 30,
+   "bst": 510
+  },
+  "abilities": {
+   "regular": [
+    "Sheer Force",
+    "Sturdy"
+   ],
+   "hidden": "Sand Force"
+  },
+  "srcTypes": [
+   "Steel",
+   "Ground"
+  ]
  },
  {
   "key": "Snubbull",
@@ -13174,7 +16560,26 @@
   "spriteFile": "sprites/Snubbull.png",
   "spriteEra": "gen2",
   "pokeapiName": "snubbull",
-  "sortKey": 2090
+  "sortKey": 2090,
+  "baseStats": {
+   "hp": 60,
+   "atk": 80,
+   "def": 50,
+   "spa": 40,
+   "spd": 40,
+   "spe": 30,
+   "bst": 300
+  },
+  "abilities": {
+   "regular": [
+    "Intimidate",
+    "Run Away"
+   ],
+   "hidden": "Rattled"
+  },
+  "srcTypes": [
+   "Fairy"
+  ]
  },
  {
   "key": "Granbull",
@@ -13243,7 +16648,26 @@
   "spriteFile": "sprites/Granbull.png",
   "spriteEra": "gen2",
   "pokeapiName": "granbull",
-  "sortKey": 2100
+  "sortKey": 2100,
+  "baseStats": {
+   "hp": 90,
+   "atk": 120,
+   "def": 75,
+   "spa": 60,
+   "spd": 60,
+   "spe": 45,
+   "bst": 450
+  },
+  "abilities": {
+   "regular": [
+    "Intimidate",
+    "Quick Feet"
+   ],
+   "hidden": "Rattled"
+  },
+  "srcTypes": [
+   "Fairy"
+  ]
  },
  {
   "key": "Qwilfish",
@@ -13339,7 +16763,27 @@
   "spriteFile": "sprites/Qwilfish.png",
   "spriteEra": "gen2",
   "pokeapiName": "qwilfish",
-  "sortKey": 2110
+  "sortKey": 2110,
+  "baseStats": {
+   "hp": 65,
+   "atk": 95,
+   "def": 85,
+   "spa": 55,
+   "spd": 55,
+   "spe": 85,
+   "bst": 440
+  },
+  "abilities": {
+   "regular": [
+    "Poison Point",
+    "Swift Swim"
+   ],
+   "hidden": "Intimidate"
+  },
+  "srcTypes": [
+   "Water",
+   "Poison"
+  ]
  },
  {
   "key": "Qwilfish_Hisuian",
@@ -13435,7 +16879,27 @@
   "spriteFile": "sprites/Qwilfish_Hisuian.png",
   "spriteEra": "modern",
   "pokeapiName": "qwilfish-hisui",
-  "sortKey": 2113
+  "sortKey": 2113,
+  "baseStats": {
+   "hp": 65,
+   "atk": 95,
+   "def": 85,
+   "spa": 55,
+   "spd": 55,
+   "spe": 85,
+   "bst": 440
+  },
+  "abilities": {
+   "regular": [
+    "Poison Point",
+    "Swift Swim"
+   ],
+   "hidden": "Intimidate"
+  },
+  "srcTypes": [
+   "Dark",
+   "Poison"
+  ]
  },
  {
   "key": "Scizor",
@@ -13521,7 +16985,27 @@
   "spriteFile": "sprites/Scizor.png",
   "spriteEra": "gen2",
   "pokeapiName": "scizor",
-  "sortKey": 2120
+  "sortKey": 2120,
+  "baseStats": {
+   "hp": 70,
+   "atk": 130,
+   "def": 100,
+   "spa": 55,
+   "spd": 80,
+   "spe": 65,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Swarm",
+    "Technician"
+   ],
+   "hidden": "Light Metal"
+  },
+  "srcTypes": [
+   "Bug",
+   "Steel"
+  ]
  },
  {
   "key": "Shuckle",
@@ -13607,7 +17091,27 @@
   "spriteFile": "sprites/Shuckle.png",
   "spriteEra": "gen2",
   "pokeapiName": "shuckle",
-  "sortKey": 2130
+  "sortKey": 2130,
+  "baseStats": {
+   "hp": 20,
+   "atk": 10,
+   "def": 230,
+   "spa": 10,
+   "spd": 230,
+   "spe": 5,
+   "bst": 505
+  },
+  "abilities": {
+   "regular": [
+    "Sturdy",
+    "Gluttony"
+   ],
+   "hidden": "Contrary"
+  },
+  "srcTypes": [
+   "Bug",
+   "Rock"
+  ]
  },
  {
   "key": "Heracross",
@@ -13689,7 +17193,27 @@
   "spriteFile": "sprites/Heracross.png",
   "spriteEra": "gen2",
   "pokeapiName": "heracross",
-  "sortKey": 2140
+  "sortKey": 2140,
+  "baseStats": {
+   "hp": 80,
+   "atk": 125,
+   "def": 75,
+   "spa": 40,
+   "spd": 95,
+   "spe": 85,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Moxie",
+    "Guts"
+   ],
+   "hidden": "Skill Link"
+  },
+  "srcTypes": [
+   "Bug",
+   "Fighting"
+  ]
  },
  {
   "key": "Sneasel",
@@ -13778,7 +17302,27 @@
   "spriteFile": "sprites/Sneasel.png",
   "spriteEra": "gen2",
   "pokeapiName": "sneasel",
-  "sortKey": 2150
+  "sortKey": 2150,
+  "baseStats": {
+   "hp": 55,
+   "atk": 95,
+   "def": 55,
+   "spa": 35,
+   "spd": 75,
+   "spe": 115,
+   "bst": 430
+  },
+  "abilities": {
+   "regular": [
+    "Inner Focus",
+    "Keen Eye"
+   ],
+   "hidden": "Pickpocket"
+  },
+  "srcTypes": [
+   "Dark",
+   "Ice"
+  ]
  },
  {
   "key": "Sneasel_Hisuian",
@@ -13862,7 +17406,27 @@
   "spriteFile": "sprites/Sneasel_Hisuian.png",
   "spriteEra": "modern",
   "pokeapiName": "sneasel-hisui",
-  "sortKey": 2153
+  "sortKey": 2153,
+  "baseStats": {
+   "hp": 55,
+   "atk": 95,
+   "def": 55,
+   "spa": 35,
+   "spd": 75,
+   "spe": 115,
+   "bst": 430
+  },
+  "abilities": {
+   "regular": [
+    "Inner Focus",
+    "Keen Eye"
+   ],
+   "hidden": "Pickpocket"
+  },
+  "srcTypes": [
+   "Poison",
+   "Fighting"
+  ]
  },
  {
   "key": "Teddiursa",
@@ -13945,7 +17509,26 @@
   "spriteFile": "sprites/Teddiursa.png",
   "spriteEra": "gen2",
   "pokeapiName": "teddiursa",
-  "sortKey": 2160
+  "sortKey": 2160,
+  "baseStats": {
+   "hp": 60,
+   "atk": 80,
+   "def": 50,
+   "spa": 50,
+   "spd": 50,
+   "spe": 40,
+   "bst": 330
+  },
+  "abilities": {
+   "regular": [
+    "Quick Feet",
+    "Pickup"
+   ],
+   "hidden": "Tough Claws"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Ursaring",
@@ -14032,7 +17615,26 @@
   "spriteFile": "sprites/Ursaring.png",
   "spriteEra": "gen2",
   "pokeapiName": "ursaring",
-  "sortKey": 2170
+  "sortKey": 2170,
+  "baseStats": {
+   "hp": 90,
+   "atk": 130,
+   "def": 75,
+   "spa": 75,
+   "spd": 75,
+   "spe": 55,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Guts",
+    "Quick Feet"
+   ],
+   "hidden": "Tough Claws"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Slugma",
@@ -14120,7 +17722,26 @@
   "spriteFile": "sprites/Slugma.png",
   "spriteEra": "gen2",
   "pokeapiName": "slugma",
-  "sortKey": 2180
+  "sortKey": 2180,
+  "baseStats": {
+   "hp": 40,
+   "atk": 40,
+   "def": 40,
+   "spa": 70,
+   "spd": 40,
+   "spe": 20,
+   "bst": 250
+  },
+  "abilities": {
+   "regular": [
+    "Magma Armor",
+    "Flame Body"
+   ],
+   "hidden": "Weak Armor"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Magcargo",
@@ -14202,7 +17823,36 @@
   "spriteFile": "sprites/Magcargo.png",
   "spriteEra": "gen2",
   "pokeapiName": "magcargo",
-  "sortKey": 2190
+  "sortKey": 2190,
+  "baseStats": {
+   "hp": 60,
+   "atk": 50,
+   "def": 135,
+   "spa": 115,
+   "spd": 115,
+   "spe": 30,
+   "bst": 505
+  },
+  "baseStatsFaithful": {
+   "hp": 60,
+   "atk": 50,
+   "def": 120,
+   "spa": 90,
+   "spd": 80,
+   "spe": 30,
+   "bst": 430
+  },
+  "abilities": {
+   "regular": [
+    "Magma Armor",
+    "Flame Body"
+   ],
+   "hidden": "Weak Armor"
+  },
+  "srcTypes": [
+   "Fire",
+   "Rock"
+  ]
  },
  {
   "key": "Magcargo_Ancestor",
@@ -14272,7 +17922,27 @@
   "spriteFile": "sprites/Magcargo_Ancestor.png",
   "spriteEra": "gen2",
   "pokeapiName": "magcargo",
-  "sortKey": 2195
+  "sortKey": 2195,
+  "baseStats": {
+   "hp": 60,
+   "atk": 85,
+   "def": 60,
+   "spa": 75,
+   "spd": 60,
+   "spe": 90,
+   "bst": 430
+  },
+  "abilities": {
+   "regular": [
+    "Corrosion",
+    "Weak Armor"
+   ],
+   "hidden": "Speed Boost"
+  },
+  "srcTypes": [
+   "Poison",
+   "Steel"
+  ]
  },
  {
   "key": "Swinub",
@@ -14356,7 +18026,27 @@
   "spriteFile": "sprites/Swinub.png",
   "spriteEra": "gen2",
   "pokeapiName": "swinub",
-  "sortKey": 2200
+  "sortKey": 2200,
+  "baseStats": {
+   "hp": 50,
+   "atk": 50,
+   "def": 40,
+   "spa": 30,
+   "spd": 30,
+   "spe": 50,
+   "bst": 250
+  },
+  "abilities": {
+   "regular": [
+    "Oblivious",
+    "Snow Cloak"
+   ],
+   "hidden": "Thick Fat"
+  },
+  "srcTypes": [
+   "Ice",
+   "Ground"
+  ]
  },
  {
   "key": "Piloswine",
@@ -14448,7 +18138,27 @@
   "spriteFile": "sprites/Piloswine.png",
   "spriteEra": "gen2",
   "pokeapiName": "piloswine",
-  "sortKey": 2210
+  "sortKey": 2210,
+  "baseStats": {
+   "hp": 100,
+   "atk": 100,
+   "def": 80,
+   "spa": 60,
+   "spd": 60,
+   "spe": 50,
+   "bst": 450
+  },
+  "abilities": {
+   "regular": [
+    "Oblivious",
+    "Snow Cloak"
+   ],
+   "hidden": "Thick Fat"
+  },
+  "srcTypes": [
+   "Ice",
+   "Ground"
+  ]
  },
  {
   "key": "Corsola",
@@ -14538,7 +18248,36 @@
   "spriteFile": "sprites/Corsola.png",
   "spriteEra": "gen2",
   "pokeapiName": "corsola",
-  "sortKey": 2220
+  "sortKey": 2220,
+  "baseStats": {
+   "hp": 65,
+   "atk": 55,
+   "def": 115,
+   "spa": 105,
+   "spd": 115,
+   "spe": 35,
+   "bst": 490
+  },
+  "baseStatsFaithful": {
+   "hp": 65,
+   "atk": 55,
+   "def": 95,
+   "spa": 65,
+   "spd": 95,
+   "spe": 35,
+   "bst": 410
+  },
+  "abilities": {
+   "regular": [
+    "Hustle",
+    "Natural Cure"
+   ],
+   "hidden": "Regenerator"
+  },
+  "srcTypes": [
+   "Water",
+   "Rock"
+  ]
  },
  {
   "key": "Corsola_Galarian",
@@ -14627,7 +18366,26 @@
   "spriteFile": "sprites/Corsola_Galarian.png",
   "spriteEra": "modern",
   "pokeapiName": "corsola-galar",
-  "sortKey": 2222
+  "sortKey": 2222,
+  "baseStats": {
+   "hp": 60,
+   "atk": 55,
+   "def": 100,
+   "spa": 65,
+   "spd": 100,
+   "spe": 30,
+   "bst": 410
+  },
+  "abilities": {
+   "regular": [
+    "Weak Armor"
+   ],
+   "hidden": "Cursed Body"
+  },
+  "srcTypes": [
+   "Ghost",
+   "Rock"
+  ]
  },
  {
   "key": "Remoraid",
@@ -14710,7 +18468,26 @@
   "spriteFile": "sprites/Remoraid.png",
   "spriteEra": "gen2",
   "pokeapiName": "remoraid",
-  "sortKey": 2230
+  "sortKey": 2230,
+  "baseStats": {
+   "hp": 35,
+   "atk": 65,
+   "def": 35,
+   "spa": 65,
+   "spd": 35,
+   "spe": 65,
+   "bst": 300
+  },
+  "abilities": {
+   "regular": [
+    "Hustle",
+    "Sniper"
+   ],
+   "hidden": "Moody"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Octillery",
@@ -14815,7 +18592,26 @@
   "spriteFile": "sprites/Octillery.png",
   "spriteEra": "gen2",
   "pokeapiName": "octillery",
-  "sortKey": 2240
+  "sortKey": 2240,
+  "baseStats": {
+   "hp": 75,
+   "atk": 105,
+   "def": 75,
+   "spa": 105,
+   "spd": 75,
+   "spe": 45,
+   "bst": 480
+  },
+  "abilities": {
+   "regular": [
+    "Suction Cups",
+    "Sniper"
+   ],
+   "hidden": "Moody"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Mantine",
@@ -14897,7 +18693,27 @@
   "spriteFile": "sprites/Mantine.png",
   "spriteEra": "gen2",
   "pokeapiName": "mantine",
-  "sortKey": 2260
+  "sortKey": 2260,
+  "baseStats": {
+   "hp": 85,
+   "atk": 40,
+   "def": 70,
+   "spa": 80,
+   "spd": 140,
+   "spe": 70,
+   "bst": 485
+  },
+  "abilities": {
+   "regular": [
+    "Swift Swim",
+    "Water Absorb"
+   ],
+   "hidden": "Water Veil"
+  },
+  "srcTypes": [
+   "Water",
+   "Flying"
+  ]
  },
  {
   "key": "Skarmory",
@@ -14979,7 +18795,27 @@
   "spriteFile": "sprites/Skarmory.png",
   "spriteEra": "gen2",
   "pokeapiName": "skarmory",
-  "sortKey": 2270
+  "sortKey": 2270,
+  "baseStats": {
+   "hp": 65,
+   "atk": 80,
+   "def": 140,
+   "spa": 40,
+   "spd": 70,
+   "spe": 70,
+   "bst": 465
+  },
+  "abilities": {
+   "regular": [
+    "Keen Eye",
+    "Sturdy"
+   ],
+   "hidden": "Weak Armor"
+  },
+  "srcTypes": [
+   "Steel",
+   "Flying"
+  ]
  },
  {
   "key": "Houndour",
@@ -15067,7 +18903,27 @@
   "spriteFile": "sprites/Houndour.png",
   "spriteEra": "gen2",
   "pokeapiName": "houndour",
-  "sortKey": 2280
+  "sortKey": 2280,
+  "baseStats": {
+   "hp": 45,
+   "atk": 60,
+   "def": 30,
+   "spa": 80,
+   "spd": 50,
+   "spe": 65,
+   "bst": 330
+  },
+  "abilities": {
+   "regular": [
+    "Early Bird",
+    "Flash Fire"
+   ],
+   "hidden": "Unnerve"
+  },
+  "srcTypes": [
+   "Dark",
+   "Fire"
+  ]
  },
  {
   "key": "Houndoom",
@@ -15149,7 +19005,27 @@
   "spriteFile": "sprites/Houndoom.png",
   "spriteEra": "gen2",
   "pokeapiName": "houndoom",
-  "sortKey": 2290
+  "sortKey": 2290,
+  "baseStats": {
+   "hp": 75,
+   "atk": 90,
+   "def": 50,
+   "spa": 110,
+   "spd": 80,
+   "spe": 95,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Early Bird",
+    "Flash Fire"
+   ],
+   "hidden": "Solar Power"
+  },
+  "srcTypes": [
+   "Dark",
+   "Fire"
+  ]
  },
  {
   "key": "Kingdra",
@@ -15219,7 +19095,27 @@
   "spriteFile": "sprites/Kingdra.png",
   "spriteEra": "gen2",
   "pokeapiName": "kingdra",
-  "sortKey": 2300
+  "sortKey": 2300,
+  "baseStats": {
+   "hp": 75,
+   "atk": 95,
+   "def": 95,
+   "spa": 95,
+   "spd": 95,
+   "spe": 85,
+   "bst": 540
+  },
+  "abilities": {
+   "regular": [
+    "Swift Swim",
+    "Sniper"
+   ],
+   "hidden": "Damp"
+  },
+  "srcTypes": [
+   "Water",
+   "Dragon"
+  ]
  },
  {
   "key": "Phanpy",
@@ -15294,7 +19190,25 @@
   "spriteFile": "sprites/Phanpy.png",
   "spriteEra": "gen2",
   "pokeapiName": "phanpy",
-  "sortKey": 2310
+  "sortKey": 2310,
+  "baseStats": {
+   "hp": 90,
+   "atk": 60,
+   "def": 60,
+   "spa": 40,
+   "spd": 40,
+   "spe": 40,
+   "bst": 330
+  },
+  "abilities": {
+   "regular": [
+    "Pickup"
+   ],
+   "hidden": "Sand Veil"
+  },
+  "srcTypes": [
+   "Ground"
+  ]
  },
  {
   "key": "Donphan",
@@ -15371,7 +19285,25 @@
   "spriteFile": "sprites/Donphan.png",
   "spriteEra": "gen2",
   "pokeapiName": "donphan",
-  "sortKey": 2320
+  "sortKey": 2320,
+  "baseStats": {
+   "hp": 90,
+   "atk": 120,
+   "def": 120,
+   "spa": 60,
+   "spd": 60,
+   "spe": 50,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Sturdy"
+   ],
+   "hidden": "Sand Veil"
+  },
+  "srcTypes": [
+   "Ground"
+  ]
  },
  {
   "key": "Porygon2",
@@ -15454,7 +19386,26 @@
   "spriteFile": "sprites/Porygon2.png",
   "spriteEra": "gen2",
   "pokeapiName": "porygon2",
-  "sortKey": 2330
+  "sortKey": 2330,
+  "baseStats": {
+   "hp": 85,
+   "atk": 80,
+   "def": 90,
+   "spa": 105,
+   "spd": 95,
+   "spe": 60,
+   "bst": 515
+  },
+  "abilities": {
+   "regular": [
+    "Trace",
+    "Download"
+   ],
+   "hidden": "Analytic"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Stantler",
@@ -15533,7 +19484,26 @@
   "spriteFile": "sprites/Stantler.png",
   "spriteEra": "gen2",
   "pokeapiName": "stantler",
-  "sortKey": 2340
+  "sortKey": 2340,
+  "baseStats": {
+   "hp": 73,
+   "atk": 95,
+   "def": 62,
+   "spa": 85,
+   "spd": 65,
+   "spe": 85,
+   "bst": 465
+  },
+  "abilities": {
+   "regular": [
+    "Intimidate",
+    "Sap Sipper"
+   ],
+   "hidden": "Berserk"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Hitmontop",
@@ -15610,7 +19580,26 @@
   "spriteFile": "sprites/Hitmontop.png",
   "spriteEra": "gen2",
   "pokeapiName": "hitmontop",
-  "sortKey": 2370
+  "sortKey": 2370,
+  "baseStats": {
+   "hp": 50,
+   "atk": 95,
+   "def": 95,
+   "spa": 35,
+   "spd": 110,
+   "spe": 70,
+   "bst": 455
+  },
+  "abilities": {
+   "regular": [
+    "Intimidate",
+    "Technician"
+   ],
+   "hidden": "Steadfast"
+  },
+  "srcTypes": [
+   "Fighting"
+  ]
  },
  {
   "key": "Miltank",
@@ -15679,7 +19668,26 @@
   "spriteFile": "sprites/Miltank.png",
   "spriteEra": "gen2",
   "pokeapiName": "miltank",
-  "sortKey": 2410
+  "sortKey": 2410,
+  "baseStats": {
+   "hp": 95,
+   "atk": 80,
+   "def": 105,
+   "spa": 40,
+   "spd": 70,
+   "spe": 100,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Thick Fat",
+    "Scrappy"
+   ],
+   "hidden": "Sap Sipper"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Blissey",
@@ -15764,7 +19772,26 @@
   "spriteFile": "sprites/Blissey.png",
   "spriteEra": "gen2",
   "pokeapiName": "blissey",
-  "sortKey": 2420
+  "sortKey": 2420,
+  "baseStats": {
+   "hp": 255,
+   "atk": 10,
+   "def": 10,
+   "spa": 75,
+   "spd": 135,
+   "spe": 55,
+   "bst": 540
+  },
+  "abilities": {
+   "regular": [
+    "Natural Cure",
+    "Serene Grace"
+   ],
+   "hidden": "Natural Cure"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Raikou",
@@ -15845,7 +19872,25 @@
   "spriteFile": "sprites/Raikou.png",
   "spriteEra": "gen2",
   "pokeapiName": "raikou",
-  "sortKey": 2430
+  "sortKey": 2430,
+  "baseStats": {
+   "hp": 90,
+   "atk": 85,
+   "def": 75,
+   "spa": 115,
+   "spd": 100,
+   "spe": 115,
+   "bst": 580
+  },
+  "abilities": {
+   "regular": [
+    "Pressure"
+   ],
+   "hidden": "Inner Focus"
+  },
+  "srcTypes": [
+   "Electric"
+  ]
  },
  {
   "key": "Entei",
@@ -15926,7 +19971,25 @@
   "spriteFile": "sprites/Entei.png",
   "spriteEra": "gen2",
   "pokeapiName": "entei",
-  "sortKey": 2440
+  "sortKey": 2440,
+  "baseStats": {
+   "hp": 115,
+   "atk": 115,
+   "def": 85,
+   "spa": 90,
+   "spd": 75,
+   "spe": 100,
+   "bst": 580
+  },
+  "abilities": {
+   "regular": [
+    "Pressure"
+   ],
+   "hidden": "Inner Focus"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Suicune",
@@ -16007,7 +20070,25 @@
   "spriteFile": "sprites/Suicune.png",
   "spriteEra": "gen2",
   "pokeapiName": "suicune",
-  "sortKey": 2450
+  "sortKey": 2450,
+  "baseStats": {
+   "hp": 100,
+   "atk": 75,
+   "def": 115,
+   "spa": 90,
+   "spd": 115,
+   "spe": 85,
+   "bst": 580
+  },
+  "abilities": {
+   "regular": [
+    "Pressure"
+   ],
+   "hidden": "Inner Focus"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Larvitar",
@@ -16095,7 +20176,33 @@
   "spriteFile": "sprites/Larvitar.png",
   "spriteEra": "gen2",
   "pokeapiName": "larvitar",
-  "sortKey": 2460
+  "sortKey": 2460,
+  "baseStats": {
+   "hp": 50,
+   "atk": 64,
+   "def": 50,
+   "spa": 45,
+   "spd": 50,
+   "spe": 41,
+   "bst": 300
+  },
+  "abilities": {
+   "regular": [
+    "Guts",
+    "Battle Armor"
+   ],
+   "hidden": "Sand Veil"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Guts"
+   ],
+   "hidden": "Sand Veil"
+  },
+  "srcTypes": [
+   "Rock",
+   "Ground"
+  ]
  },
  {
   "key": "Pupitar",
@@ -16191,7 +20298,26 @@
   "spriteFile": "sprites/Pupitar.png",
   "spriteEra": "gen2",
   "pokeapiName": "pupitar",
-  "sortKey": 2470
+  "sortKey": 2470,
+  "baseStats": {
+   "hp": 70,
+   "atk": 84,
+   "def": 70,
+   "spa": 65,
+   "spd": 70,
+   "spe": 51,
+   "bst": 410
+  },
+  "abilities": {
+   "regular": [
+    "Shed Skin"
+   ],
+   "hidden": "Rock Head"
+  },
+  "srcTypes": [
+   "Rock",
+   "Ground"
+  ]
  },
  {
   "key": "Tyranitar",
@@ -16289,7 +20415,26 @@
   "spriteFile": "sprites/Tyranitar.png",
   "spriteEra": "gen2",
   "pokeapiName": "tyranitar",
-  "sortKey": 2480
+  "sortKey": 2480,
+  "baseStats": {
+   "hp": 100,
+   "atk": 134,
+   "def": 110,
+   "spa": 95,
+   "spd": 100,
+   "spe": 61,
+   "bst": 600
+  },
+  "abilities": {
+   "regular": [
+    "Sand Stream"
+   ],
+   "hidden": "Unnerve"
+  },
+  "srcTypes": [
+   "Rock",
+   "Dark"
+  ]
  },
  {
   "key": "Lugia",
@@ -16367,7 +20512,26 @@
   "spriteFile": "sprites/Lugia.png",
   "spriteEra": "gen2",
   "pokeapiName": "lugia",
-  "sortKey": 2490
+  "sortKey": 2490,
+  "baseStats": {
+   "hp": 106,
+   "atk": 90,
+   "def": 130,
+   "spa": 90,
+   "spd": 154,
+   "spe": 110,
+   "bst": 680
+  },
+  "abilities": {
+   "regular": [
+    "Drizzle"
+   ],
+   "hidden": "Pressure"
+  },
+  "srcTypes": [
+   "Psychic",
+   "Flying"
+  ]
  },
  {
   "key": "Ho_Oh",
@@ -16445,7 +20609,26 @@
   "spriteFile": "sprites/Ho_Oh.png",
   "spriteEra": "gen2",
   "pokeapiName": "ho-oh",
-  "sortKey": 2500
+  "sortKey": 2500,
+  "baseStats": {
+   "hp": 106,
+   "atk": 130,
+   "def": 90,
+   "spa": 110,
+   "spd": 154,
+   "spe": 90,
+   "bst": 680
+  },
+  "abilities": {
+   "regular": [
+    "Pressure"
+   ],
+   "hidden": "Regenerator"
+  },
+  "srcTypes": [
+   "Fire",
+   "Flying"
+  ]
  },
  {
   "key": "Celebi",
@@ -16499,7 +20682,26 @@
   "spriteFile": "sprites/Celebi.png",
   "spriteEra": "gen2",
   "pokeapiName": "celebi",
-  "sortKey": 2510
+  "sortKey": 2510,
+  "baseStats": {
+   "hp": 100,
+   "atk": 100,
+   "def": 100,
+   "spa": 100,
+   "spd": 100,
+   "spe": 100,
+   "bst": 600
+  },
+  "abilities": {
+   "regular": [
+    "Natural Cure"
+   ],
+   "hidden": "Natural Cure"
+  },
+  "srcTypes": [
+   "Psychic",
+   "Grass"
+  ]
  },
  {
   "key": "Ralts",
@@ -16567,7 +20769,27 @@
   "spriteFile": "sprites/Ralts.png",
   "spriteEra": "modern",
   "pokeapiName": "ralts",
-  "sortKey": 2800
+  "sortKey": 2800,
+  "baseStats": {
+   "hp": 28,
+   "atk": 25,
+   "def": 25,
+   "spa": 45,
+   "spd": 35,
+   "spe": 40,
+   "bst": 198
+  },
+  "abilities": {
+   "regular": [
+    "Synchronize",
+    "Trace"
+   ],
+   "hidden": "Pixilate"
+  },
+  "srcTypes": [
+   "Psychic",
+   "Fairy"
+  ]
  },
  {
   "key": "Kirlia",
@@ -16640,7 +20862,27 @@
   "spriteFile": "sprites/Kirlia.png",
   "spriteEra": "modern",
   "pokeapiName": "kirlia",
-  "sortKey": 2810
+  "sortKey": 2810,
+  "baseStats": {
+   "hp": 38,
+   "atk": 35,
+   "def": 35,
+   "spa": 65,
+   "spd": 55,
+   "spe": 50,
+   "bst": 278
+  },
+  "abilities": {
+   "regular": [
+    "Synchronize",
+    "Trace"
+   ],
+   "hidden": "Pixilate"
+  },
+  "srcTypes": [
+   "Psychic",
+   "Fairy"
+  ]
  },
  {
   "key": "Gardevoir",
@@ -16710,7 +20952,27 @@
   "spriteFile": "sprites/Gardevoir.png",
   "spriteEra": "modern",
   "pokeapiName": "gardevoir",
-  "sortKey": 2820
+  "sortKey": 2820,
+  "baseStats": {
+   "hp": 68,
+   "atk": 65,
+   "def": 65,
+   "spa": 125,
+   "spd": 115,
+   "spe": 80,
+   "bst": 518
+  },
+  "abilities": {
+   "regular": [
+    "Synchronize",
+    "Trace"
+   ],
+   "hidden": "Pixilate"
+  },
+  "srcTypes": [
+   "Psychic",
+   "Fairy"
+  ]
  },
  {
   "key": "Duskull",
@@ -16781,7 +21043,25 @@
   "spriteFile": "sprites/Duskull.png",
   "spriteEra": "modern",
   "pokeapiName": "duskull",
-  "sortKey": 3550
+  "sortKey": 3550,
+  "baseStats": {
+   "hp": 20,
+   "atk": 40,
+   "def": 90,
+   "spa": 30,
+   "spd": 90,
+   "spe": 25,
+   "bst": 295
+  },
+  "abilities": {
+   "regular": [
+    "Levitate"
+   ],
+   "hidden": "Cursed Body"
+  },
+  "srcTypes": [
+   "Ghost"
+  ]
  },
  {
   "key": "Dusclops",
@@ -16840,7 +21120,25 @@
   "spriteFile": "sprites/Dusclops.png",
   "spriteEra": "modern",
   "pokeapiName": "dusclops",
-  "sortKey": 3560
+  "sortKey": 3560,
+  "baseStats": {
+   "hp": 40,
+   "atk": 70,
+   "def": 130,
+   "spa": 60,
+   "spd": 130,
+   "spe": 25,
+   "bst": 455
+  },
+  "abilities": {
+   "regular": [
+    "Pressure"
+   ],
+   "hidden": "Cursed Body"
+  },
+  "srcTypes": [
+   "Ghost"
+  ]
  },
  {
   "key": "Snorunt",
@@ -16912,7 +21210,26 @@
   "spriteFile": "sprites/Snorunt.png",
   "spriteEra": "modern",
   "pokeapiName": "snorunt",
-  "sortKey": 3610
+  "sortKey": 3610,
+  "baseStats": {
+   "hp": 50,
+   "atk": 50,
+   "def": 50,
+   "spa": 50,
+   "spd": 50,
+   "spe": 50,
+   "bst": 300
+  },
+  "abilities": {
+   "regular": [
+    "Inner Focus",
+    "Ice Body"
+   ],
+   "hidden": "Moody"
+  },
+  "srcTypes": [
+   "Ice"
+  ]
  },
  {
   "key": "Glalie",
@@ -16965,7 +21282,26 @@
   "spriteFile": "sprites/Glalie.png",
   "spriteEra": "modern",
   "pokeapiName": "glalie",
-  "sortKey": 3620
+  "sortKey": 3620,
+  "baseStats": {
+   "hp": 80,
+   "atk": 80,
+   "def": 80,
+   "spa": 80,
+   "spd": 80,
+   "spe": 80,
+   "bst": 480
+  },
+  "abilities": {
+   "regular": [
+    "Inner Focus",
+    "Ice Body"
+   ],
+   "hidden": "Moody"
+  },
+  "srcTypes": [
+   "Ice"
+  ]
  },
  {
   "key": "Starly",
@@ -17037,7 +21373,26 @@
   "spriteFile": "sprites/Starly.png",
   "spriteEra": "modern",
   "pokeapiName": "starly",
-  "sortKey": 3960
+  "sortKey": 3960,
+  "baseStats": {
+   "hp": 40,
+   "atk": 55,
+   "def": 30,
+   "spa": 30,
+   "spd": 30,
+   "spe": 60,
+   "bst": 245
+  },
+  "abilities": {
+   "regular": [
+    "Keen Eye"
+   ],
+   "hidden": "Reckless"
+  },
+  "srcTypes": [
+   "Normal",
+   "Flying"
+  ]
  },
  {
   "key": "Staravia",
@@ -17109,7 +21464,26 @@
   "spriteFile": "sprites/Staravia.png",
   "spriteEra": "modern",
   "pokeapiName": "staravia",
-  "sortKey": 3970
+  "sortKey": 3970,
+  "baseStats": {
+   "hp": 55,
+   "atk": 75,
+   "def": 50,
+   "spa": 40,
+   "spd": 40,
+   "spe": 80,
+   "bst": 340
+  },
+  "abilities": {
+   "regular": [
+    "Intimidate"
+   ],
+   "hidden": "Reckless"
+  },
+  "srcTypes": [
+   "Normal",
+   "Flying"
+  ]
  },
  {
   "key": "Staraptor",
@@ -17179,7 +21553,26 @@
   "spriteFile": "sprites/Staraptor.png",
   "spriteEra": "modern",
   "pokeapiName": "staraptor",
-  "sortKey": 3980
+  "sortKey": 3980,
+  "baseStats": {
+   "hp": 85,
+   "atk": 120,
+   "def": 70,
+   "spa": 50,
+   "spd": 60,
+   "spe": 100,
+   "bst": 485
+  },
+  "abilities": {
+   "regular": [
+    "Intimidate"
+   ],
+   "hidden": "Reckless"
+  },
+  "srcTypes": [
+   "Normal",
+   "Flying"
+  ]
  },
  {
   "key": "Shinx",
@@ -17250,7 +21643,26 @@
   "spriteFile": "sprites/Shinx.png",
   "spriteEra": "modern",
   "pokeapiName": "shinx",
-  "sortKey": 4030
+  "sortKey": 4030,
+  "baseStats": {
+   "hp": 45,
+   "atk": 65,
+   "def": 34,
+   "spa": 40,
+   "spd": 34,
+   "spe": 45,
+   "bst": 263
+  },
+  "abilities": {
+   "regular": [
+    "Rivalry",
+    "Intimidate"
+   ],
+   "hidden": "Guts"
+  },
+  "srcTypes": [
+   "Electric"
+  ]
  },
  {
   "key": "Luxio",
@@ -17313,7 +21725,26 @@
   "spriteFile": "sprites/Luxio.png",
   "spriteEra": "modern",
   "pokeapiName": "luxio",
-  "sortKey": 4040
+  "sortKey": 4040,
+  "baseStats": {
+   "hp": 60,
+   "atk": 85,
+   "def": 49,
+   "spa": 60,
+   "spd": 49,
+   "spe": 60,
+   "bst": 363
+  },
+  "abilities": {
+   "regular": [
+    "Rivalry",
+    "Intimidate"
+   ],
+   "hidden": "Guts"
+  },
+  "srcTypes": [
+   "Electric"
+  ]
  },
  {
   "key": "Luxray",
@@ -17374,7 +21805,27 @@
   "spriteFile": "sprites/Luxray.png",
   "spriteEra": "modern",
   "pokeapiName": "luxray",
-  "sortKey": 4050
+  "sortKey": 4050,
+  "baseStats": {
+   "hp": 80,
+   "atk": 120,
+   "def": 79,
+   "spa": 95,
+   "spd": 79,
+   "spe": 70,
+   "bst": 523
+  },
+  "abilities": {
+   "regular": [
+    "Rivalry",
+    "Intimidate"
+   ],
+   "hidden": "Guts"
+  },
+  "srcTypes": [
+   "Electric",
+   "Dragon"
+  ]
  },
  {
   "key": "Cranidos",
@@ -17465,7 +21916,25 @@
   "spriteFile": "sprites/Cranidos.png",
   "spriteEra": "modern",
   "pokeapiName": "cranidos",
-  "sortKey": 4080
+  "sortKey": 4080,
+  "baseStats": {
+   "hp": 67,
+   "atk": 125,
+   "def": 40,
+   "spa": 30,
+   "spd": 30,
+   "spe": 58,
+   "bst": 350
+  },
+  "abilities": {
+   "regular": [
+    "Mold Breaker"
+   ],
+   "hidden": "Sheer Force"
+  },
+  "srcTypes": [
+   "Rock"
+  ]
  },
  {
   "key": "Rampardos",
@@ -17546,7 +22015,25 @@
   "spriteFile": "sprites/Rampardos.png",
   "spriteEra": "modern",
   "pokeapiName": "rampardos",
-  "sortKey": 4090
+  "sortKey": 4090,
+  "baseStats": {
+   "hp": 97,
+   "atk": 165,
+   "def": 60,
+   "spa": 65,
+   "spd": 50,
+   "spe": 58,
+   "bst": 495
+  },
+  "abilities": {
+   "regular": [
+    "Mold Breaker"
+   ],
+   "hidden": "Sheer Force"
+  },
+  "srcTypes": [
+   "Rock"
+  ]
  },
  {
   "key": "Shieldon",
@@ -17642,7 +22129,26 @@
   "spriteFile": "sprites/Shieldon.png",
   "spriteEra": "modern",
   "pokeapiName": "shieldon",
-  "sortKey": 4100
+  "sortKey": 4100,
+  "baseStats": {
+   "hp": 30,
+   "atk": 42,
+   "def": 118,
+   "spa": 42,
+   "spd": 88,
+   "spe": 30,
+   "bst": 350
+  },
+  "abilities": {
+   "regular": [
+    "Sturdy"
+   ],
+   "hidden": "Soundproof"
+  },
+  "srcTypes": [
+   "Rock",
+   "Steel"
+  ]
  },
  {
   "key": "Bastiodon",
@@ -17732,7 +22238,26 @@
   "spriteFile": "sprites/Bastiodon.png",
   "spriteEra": "modern",
   "pokeapiName": "bastiodon",
-  "sortKey": 4110
+  "sortKey": 4110,
+  "baseStats": {
+   "hp": 60,
+   "atk": 52,
+   "def": 168,
+   "spa": 47,
+   "spd": 138,
+   "spe": 30,
+   "bst": 495
+  },
+  "abilities": {
+   "regular": [
+    "Sturdy"
+   ],
+   "hidden": "Soundproof"
+  },
+  "srcTypes": [
+   "Rock",
+   "Steel"
+  ]
  },
  {
   "key": "Ambipom",
@@ -17797,7 +22322,26 @@
   "spriteFile": "sprites/Ambipom.png",
   "spriteEra": "modern",
   "pokeapiName": "ambipom",
-  "sortKey": 4240
+  "sortKey": 4240,
+  "baseStats": {
+   "hp": 75,
+   "atk": 100,
+   "def": 66,
+   "spa": 60,
+   "spd": 66,
+   "spe": 115,
+   "bst": 482
+  },
+  "abilities": {
+   "regular": [
+    "Technician",
+    "Pickup"
+   ],
+   "hidden": "Moody"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Drifloon",
@@ -17869,7 +22413,26 @@
   "spriteFile": "sprites/Drifloon.png",
   "spriteEra": "modern",
   "pokeapiName": "drifloon",
-  "sortKey": 4250
+  "sortKey": 4250,
+  "baseStats": {
+   "hp": 90,
+   "atk": 50,
+   "def": 34,
+   "spa": 60,
+   "spd": 44,
+   "spe": 70,
+   "bst": 348
+  },
+  "abilities": {
+   "regular": [
+    "Aftermath"
+   ],
+   "hidden": "Unburden"
+  },
+  "srcTypes": [
+   "Ghost",
+   "Flying"
+  ]
  },
  {
   "key": "Drifblim",
@@ -17939,7 +22502,26 @@
   "spriteFile": "sprites/Drifblim.png",
   "spriteEra": "modern",
   "pokeapiName": "drifblim",
-  "sortKey": 4260
+  "sortKey": 4260,
+  "baseStats": {
+   "hp": 150,
+   "atk": 80,
+   "def": 44,
+   "spa": 90,
+   "spd": 54,
+   "spe": 80,
+   "bst": 498
+  },
+  "abilities": {
+   "regular": [
+    "Aftermath"
+   ],
+   "hidden": "Unburden"
+  },
+  "srcTypes": [
+   "Ghost",
+   "Flying"
+  ]
  },
  {
   "key": "Mismagius",
@@ -18016,7 +22598,34 @@
   "spriteFile": "sprites/Mismagius.png",
   "spriteEra": "modern",
   "pokeapiName": "mismagius",
-  "sortKey": 4290
+  "sortKey": 4290,
+  "baseStats": {
+   "hp": 60,
+   "atk": 60,
+   "def": 60,
+   "spa": 110,
+   "spd": 110,
+   "spe": 110,
+   "bst": 510
+  },
+  "baseStatsFaithful": {
+   "hp": 60,
+   "atk": 60,
+   "def": 60,
+   "spa": 105,
+   "spd": 105,
+   "spe": 105,
+   "bst": 495
+  },
+  "abilities": {
+   "regular": [
+    "Levitate"
+   ],
+   "hidden": "Levitate"
+  },
+  "srcTypes": [
+   "Ghost"
+  ]
  },
  {
   "key": "Honchkrow",
@@ -18078,7 +22687,36 @@
   "spriteFile": "sprites/Honchkrow.png",
   "spriteEra": "modern",
   "pokeapiName": "honchkrow",
-  "sortKey": 4300
+  "sortKey": 4300,
+  "baseStats": {
+   "hp": 105,
+   "atk": 125,
+   "def": 52,
+   "spa": 105,
+   "spd": 52,
+   "spe": 71,
+   "bst": 510
+  },
+  "baseStatsFaithful": {
+   "hp": 100,
+   "atk": 125,
+   "def": 52,
+   "spa": 105,
+   "spd": 52,
+   "spe": 71,
+   "bst": 505
+  },
+  "abilities": {
+   "regular": [
+    "Insomnia",
+    "Super Luck"
+   ],
+   "hidden": "Moxie"
+  },
+  "srcTypes": [
+   "Dark",
+   "Flying"
+  ]
  },
  {
   "key": "Bronzor",
@@ -18142,7 +22780,26 @@
   "spriteFile": "sprites/Bronzor.png",
   "spriteEra": "modern",
   "pokeapiName": "bronzor",
-  "sortKey": 4360
+  "sortKey": 4360,
+  "baseStats": {
+   "hp": 57,
+   "atk": 24,
+   "def": 86,
+   "spa": 24,
+   "spd": 86,
+   "spe": 23,
+   "bst": 300
+  },
+  "abilities": {
+   "regular": [
+    "Levitate"
+   ],
+   "hidden": "Drizzle"
+  },
+  "srcTypes": [
+   "Steel",
+   "Psychic"
+  ]
  },
  {
   "key": "Bronzong",
@@ -18200,7 +22857,26 @@
   "spriteFile": "sprites/Bronzong.png",
   "spriteEra": "modern",
   "pokeapiName": "bronzong",
-  "sortKey": 4370
+  "sortKey": 4370,
+  "baseStats": {
+   "hp": 67,
+   "atk": 89,
+   "def": 116,
+   "spa": 79,
+   "spd": 116,
+   "spe": 33,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Levitate"
+   ],
+   "hidden": "Drizzle"
+  },
+  "srcTypes": [
+   "Steel",
+   "Psychic"
+  ]
  },
  {
   "key": "Spiritomb",
@@ -18258,7 +22934,26 @@
   "spriteFile": "sprites/Spiritomb.png",
   "spriteEra": "modern",
   "pokeapiName": "spiritomb",
-  "sortKey": 4420
+  "sortKey": 4420,
+  "baseStats": {
+   "hp": 50,
+   "atk": 92,
+   "def": 108,
+   "spa": 92,
+   "spd": 108,
+   "spe": 35,
+   "bst": 485
+  },
+  "abilities": {
+   "regular": [
+    "Pressure"
+   ],
+   "hidden": "Infiltrator"
+  },
+  "srcTypes": [
+   "Ghost",
+   "Dark"
+  ]
  },
  {
   "key": "Gible",
@@ -18326,7 +23021,26 @@
   "spriteFile": "sprites/Gible.png",
   "spriteEra": "modern",
   "pokeapiName": "gible",
-  "sortKey": 4430
+  "sortKey": 4430,
+  "baseStats": {
+   "hp": 58,
+   "atk": 70,
+   "def": 45,
+   "spa": 40,
+   "spd": 45,
+   "spe": 42,
+   "bst": 300
+  },
+  "abilities": {
+   "regular": [
+    "Sand Rush"
+   ],
+   "hidden": "Dry Skin"
+  },
+  "srcTypes": [
+   "Dragon",
+   "Ground"
+  ]
  },
  {
   "key": "Gabite",
@@ -18386,7 +23100,26 @@
   "spriteFile": "sprites/Gabite.png",
   "spriteEra": "modern",
   "pokeapiName": "gabite",
-  "sortKey": 4440
+  "sortKey": 4440,
+  "baseStats": {
+   "hp": 68,
+   "atk": 90,
+   "def": 65,
+   "spa": 50,
+   "spd": 55,
+   "spe": 82,
+   "bst": 410
+  },
+  "abilities": {
+   "regular": [
+    "Sand Rush"
+   ],
+   "hidden": "Dry Skin"
+  },
+  "srcTypes": [
+   "Dragon",
+   "Ground"
+  ]
  },
  {
   "key": "Garchomp",
@@ -18440,7 +23173,26 @@
   "spriteFile": "sprites/Garchomp.png",
   "spriteEra": "modern",
   "pokeapiName": "garchomp",
-  "sortKey": 4450
+  "sortKey": 4450,
+  "baseStats": {
+   "hp": 108,
+   "atk": 130,
+   "def": 95,
+   "spa": 80,
+   "spd": 85,
+   "spe": 102,
+   "bst": 600
+  },
+  "abilities": {
+   "regular": [
+    "Sand Rush"
+   ],
+   "hidden": "Dry Skin"
+  },
+  "srcTypes": [
+   "Dragon",
+   "Ground"
+  ]
  },
  {
   "key": "Riolu",
@@ -18511,7 +23263,26 @@
   "spriteFile": "sprites/Riolu.png",
   "spriteEra": "modern",
   "pokeapiName": "riolu",
-  "sortKey": 4470
+  "sortKey": 4470,
+  "baseStats": {
+   "hp": 40,
+   "atk": 70,
+   "def": 40,
+   "spa": 35,
+   "spd": 40,
+   "spe": 60,
+   "bst": 285
+  },
+  "abilities": {
+   "regular": [
+    "Steadfast",
+    "Inner Focus"
+   ],
+   "hidden": "Justified"
+  },
+  "srcTypes": [
+   "Fighting"
+  ]
  },
  {
   "key": "Lucario",
@@ -18589,7 +23360,27 @@
   "spriteFile": "sprites/Lucario.png",
   "spriteEra": "modern",
   "pokeapiName": "lucario",
-  "sortKey": 4480
+  "sortKey": 4480,
+  "baseStats": {
+   "hp": 70,
+   "atk": 110,
+   "def": 70,
+   "spa": 115,
+   "spd": 70,
+   "spe": 90,
+   "bst": 525
+  },
+  "abilities": {
+   "regular": [
+    "Steadfast",
+    "Inner Focus"
+   ],
+   "hidden": "Justified"
+  },
+  "srcTypes": [
+   "Fighting",
+   "Steel"
+  ]
  },
  {
   "key": "Hippopotas",
@@ -18652,7 +23443,25 @@
   "spriteFile": "sprites/Hippopotas.png",
   "spriteEra": "modern",
   "pokeapiName": "hippopotas",
-  "sortKey": 4490
+  "sortKey": 4490,
+  "baseStats": {
+   "hp": 68,
+   "atk": 72,
+   "def": 78,
+   "spa": 38,
+   "spd": 42,
+   "spe": 32,
+   "bst": 330
+  },
+  "abilities": {
+   "regular": [
+    "Sand Stream"
+   ],
+   "hidden": "Sand Force"
+  },
+  "srcTypes": [
+   "Ground"
+  ]
  },
  {
   "key": "Hippowdon",
@@ -18709,7 +23518,25 @@
   "spriteFile": "sprites/Hippowdon.png",
   "spriteEra": "modern",
   "pokeapiName": "hippowdon",
-  "sortKey": 4500
+  "sortKey": 4500,
+  "baseStats": {
+   "hp": 108,
+   "atk": 112,
+   "def": 118,
+   "spa": 68,
+   "spd": 72,
+   "spe": 47,
+   "bst": 525
+  },
+  "abilities": {
+   "regular": [
+    "Sand Stream"
+   ],
+   "hidden": "Sand Force"
+  },
+  "srcTypes": [
+   "Ground"
+  ]
  },
  {
   "key": "Croagunk",
@@ -18785,7 +23612,26 @@
   "spriteFile": "sprites/Croagunk.png",
   "spriteEra": "modern",
   "pokeapiName": "croagunk",
-  "sortKey": 4530
+  "sortKey": 4530,
+  "baseStats": {
+   "hp": 48,
+   "atk": 61,
+   "def": 40,
+   "spa": 61,
+   "spd": 40,
+   "spe": 50,
+   "bst": 300
+  },
+  "abilities": {
+   "regular": [
+    "Dry Skin"
+   ],
+   "hidden": "Poison Touch"
+  },
+  "srcTypes": [
+   "Poison",
+   "Fighting"
+  ]
  },
  {
   "key": "Toxicroak",
@@ -18859,7 +23705,26 @@
   "spriteFile": "sprites/Toxicroak.png",
   "spriteEra": "modern",
   "pokeapiName": "toxicroak",
-  "sortKey": 4540
+  "sortKey": 4540,
+  "baseStats": {
+   "hp": 83,
+   "atk": 106,
+   "def": 65,
+   "spa": 86,
+   "spd": 65,
+   "spe": 85,
+   "bst": 490
+  },
+  "abilities": {
+   "regular": [
+    "Dry Skin"
+   ],
+   "hidden": "Poison Touch"
+  },
+  "srcTypes": [
+   "Poison",
+   "Fighting"
+  ]
  },
  {
   "key": "Snover",
@@ -18919,7 +23784,26 @@
   "spriteFile": "sprites/Snover.png",
   "spriteEra": "modern",
   "pokeapiName": "snover",
-  "sortKey": 4590
+  "sortKey": 4590,
+  "baseStats": {
+   "hp": 60,
+   "atk": 62,
+   "def": 50,
+   "spa": 62,
+   "spd": 60,
+   "spe": 40,
+   "bst": 334
+  },
+  "abilities": {
+   "regular": [
+    "Snow Warning"
+   ],
+   "hidden": "Soundproof"
+  },
+  "srcTypes": [
+   "Grass",
+   "Ice"
+  ]
  },
  {
   "key": "Abomasnow",
@@ -18969,7 +23853,26 @@
   "spriteFile": "sprites/Abomasnow.png",
   "spriteEra": "modern",
   "pokeapiName": "abomasnow",
-  "sortKey": 4600
+  "sortKey": 4600,
+  "baseStats": {
+   "hp": 90,
+   "atk": 92,
+   "def": 75,
+   "spa": 92,
+   "spd": 85,
+   "spe": 60,
+   "bst": 494
+  },
+  "abilities": {
+   "regular": [
+    "Snow Warning"
+   ],
+   "hidden": "Soundproof"
+  },
+  "srcTypes": [
+   "Grass",
+   "Ice"
+  ]
  },
  {
   "key": "Weavile",
@@ -19051,7 +23954,26 @@
   "spriteFile": "sprites/Weavile.png",
   "spriteEra": "modern",
   "pokeapiName": "weavile",
-  "sortKey": 4610
+  "sortKey": 4610,
+  "baseStats": {
+   "hp": 70,
+   "atk": 120,
+   "def": 65,
+   "spa": 45,
+   "spd": 85,
+   "spe": 125,
+   "bst": 510
+  },
+  "abilities": {
+   "regular": [
+    "Pressure"
+   ],
+   "hidden": "Pickpocket"
+  },
+  "srcTypes": [
+   "Dark",
+   "Ice"
+  ]
  },
  {
   "key": "Magnezone",
@@ -19153,7 +24075,27 @@
   "spriteFile": "sprites/Magnezone.png",
   "spriteEra": "modern",
   "pokeapiName": "magnezone",
-  "sortKey": 4620
+  "sortKey": 4620,
+  "baseStats": {
+   "hp": 70,
+   "atk": 70,
+   "def": 115,
+   "spa": 130,
+   "spd": 90,
+   "spe": 60,
+   "bst": 535
+  },
+  "abilities": {
+   "regular": [
+    "Magnet Pull",
+    "Sturdy"
+   ],
+   "hidden": "Analytic"
+  },
+  "srcTypes": [
+   "Electric",
+   "Steel"
+  ]
  },
  {
   "key": "Rhyperior",
@@ -19251,7 +24193,36 @@
   "spriteFile": "sprites/Rhyperior.png",
   "spriteEra": "modern",
   "pokeapiName": "rhyperior",
-  "sortKey": 4640
+  "sortKey": 4640,
+  "baseStats": {
+   "hp": 120,
+   "atk": 145,
+   "def": 135,
+   "spa": 58,
+   "spd": 58,
+   "spe": 40,
+   "bst": 556
+  },
+  "baseStatsFaithful": {
+   "hp": 115,
+   "atk": 140,
+   "def": 130,
+   "spa": 55,
+   "spd": 55,
+   "spe": 40,
+   "bst": 535
+  },
+  "abilities": {
+   "regular": [
+    "Lightning Rod",
+    "Solid Rock"
+   ],
+   "hidden": "Reckless"
+  },
+  "srcTypes": [
+   "Ground",
+   "Rock"
+  ]
  },
  {
   "key": "Tangrowth",
@@ -19340,7 +24311,26 @@
   "spriteFile": "sprites/Tangrowth.png",
   "spriteEra": "modern",
   "pokeapiName": "tangrowth",
-  "sortKey": 4650
+  "sortKey": 4650,
+  "baseStats": {
+   "hp": 100,
+   "atk": 100,
+   "def": 125,
+   "spa": 110,
+   "spd": 50,
+   "spe": 50,
+   "bst": 535
+  },
+  "abilities": {
+   "regular": [
+    "Chlorophyll",
+    "Regenerator"
+   ],
+   "hidden": "Tangling Hair"
+  },
+  "srcTypes": [
+   "Grass"
+  ]
  },
  {
   "key": "Electivire",
@@ -19425,7 +24415,34 @@
   "spriteFile": "sprites/Electivire.png",
   "spriteEra": "modern",
   "pokeapiName": "electivire",
-  "sortKey": 4660
+  "sortKey": 4660,
+  "baseStats": {
+   "hp": 75,
+   "atk": 123,
+   "def": 67,
+   "spa": 95,
+   "spd": 85,
+   "spe": 105,
+   "bst": 550
+  },
+  "baseStatsFaithful": {
+   "hp": 75,
+   "atk": 123,
+   "def": 67,
+   "spa": 95,
+   "spd": 85,
+   "spe": 95,
+   "bst": 540
+  },
+  "abilities": {
+   "regular": [
+    "Motor Drive"
+   ],
+   "hidden": "Iron Fist"
+  },
+  "srcTypes": [
+   "Electric"
+  ]
  },
  {
   "key": "Magmortar",
@@ -19510,7 +24527,34 @@
   "spriteFile": "sprites/Magmortar.png",
   "spriteEra": "modern",
   "pokeapiName": "magmortar",
-  "sortKey": 4670
+  "sortKey": 4670,
+  "baseStats": {
+   "hp": 75,
+   "atk": 95,
+   "def": 67,
+   "spa": 125,
+   "spd": 95,
+   "spe": 93,
+   "bst": 550
+  },
+  "baseStatsFaithful": {
+   "hp": 75,
+   "atk": 95,
+   "def": 67,
+   "spa": 125,
+   "spd": 95,
+   "spe": 83,
+   "bst": 540
+  },
+  "abilities": {
+   "regular": [
+    "Flame Body"
+   ],
+   "hidden": "Vital Spirit"
+  },
+  "srcTypes": [
+   "Fire"
+  ]
  },
  {
   "key": "Togekiss",
@@ -19556,7 +24600,26 @@
   "spriteFile": "sprites/Togekiss.png",
   "spriteEra": "modern",
   "pokeapiName": "togekiss",
-  "sortKey": 4680
+  "sortKey": 4680,
+  "baseStats": {
+   "hp": 85,
+   "atk": 50,
+   "def": 95,
+   "spa": 120,
+   "spd": 115,
+   "spe": 80,
+   "bst": 545
+  },
+  "abilities": {
+   "regular": [
+    "Serene Grace"
+   ],
+   "hidden": "Super Luck"
+  },
+  "srcTypes": [
+   "Fairy",
+   "Flying"
+  ]
  },
  {
   "key": "Yanmega",
@@ -19654,7 +24717,34 @@
   "spriteFile": "sprites/Yanmega.png",
   "spriteEra": "modern",
   "pokeapiName": "yanmega",
-  "sortKey": 4690
+  "sortKey": 4690,
+  "baseStats": {
+   "hp": 86,
+   "atk": 76,
+   "def": 86,
+   "spa": 116,
+   "spd": 56,
+   "spe": 95,
+   "bst": 515
+  },
+  "abilities": {
+   "regular": [
+    "Speed Boost",
+    "Tinted Lens"
+   ],
+   "hidden": "Levitate"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Speed Boost",
+    "Tinted Lens"
+   ],
+   "hidden": "Frisk"
+  },
+  "srcTypes": [
+   "Bug",
+   "Flying"
+  ]
  },
  {
   "key": "Leafeon",
@@ -19731,7 +24821,32 @@
   "spriteFile": "sprites/Leafeon.png",
   "spriteEra": "modern",
   "pokeapiName": "leafeon",
-  "sortKey": 4700
+  "sortKey": 4700,
+  "baseStats": {
+   "hp": 65,
+   "atk": 110,
+   "def": 130,
+   "spa": 60,
+   "spd": 65,
+   "spe": 95,
+   "bst": 525
+  },
+  "abilities": {
+   "regular": [
+    "Leaf Guard",
+    "Chlorophyll"
+   ],
+   "hidden": "Harvest"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Leaf Guard"
+   ],
+   "hidden": "Chlorophyll"
+  },
+  "srcTypes": [
+   "Grass"
+  ]
  },
  {
   "key": "Glaceon",
@@ -19808,7 +24923,32 @@
   "spriteFile": "sprites/Glaceon.png",
   "spriteEra": "modern",
   "pokeapiName": "glaceon",
-  "sortKey": 4710
+  "sortKey": 4710,
+  "baseStats": {
+   "hp": 65,
+   "atk": 60,
+   "def": 110,
+   "spa": 130,
+   "spd": 95,
+   "spe": 65,
+   "bst": 525
+  },
+  "abilities": {
+   "regular": [
+    "Snow Cloak",
+    "Snow Warning"
+   ],
+   "hidden": "Ice Body"
+  },
+  "abilitiesFaithful": {
+   "regular": [
+    "Snow Cloak"
+   ],
+   "hidden": "Ice Body"
+  },
+  "srcTypes": [
+   "Ice"
+  ]
  },
  {
   "key": "Gliscor",
@@ -19886,7 +25026,27 @@
   "spriteFile": "sprites/Gliscor.png",
   "spriteEra": "modern",
   "pokeapiName": "gliscor",
-  "sortKey": 4720
+  "sortKey": 4720,
+  "baseStats": {
+   "hp": 75,
+   "atk": 95,
+   "def": 125,
+   "spa": 45,
+   "spd": 75,
+   "spe": 95,
+   "bst": 510
+  },
+  "abilities": {
+   "regular": [
+    "Hyper Cutter",
+    "Sand Veil"
+   ],
+   "hidden": "Poison Heal"
+  },
+  "srcTypes": [
+   "Ground",
+   "Flying"
+  ]
  },
  {
   "key": "Mamoswine",
@@ -19972,7 +25132,27 @@
   "spriteFile": "sprites/Mamoswine.png",
   "spriteEra": "modern",
   "pokeapiName": "mamoswine",
-  "sortKey": 4730
+  "sortKey": 4730,
+  "baseStats": {
+   "hp": 110,
+   "atk": 130,
+   "def": 80,
+   "spa": 70,
+   "spd": 60,
+   "spe": 80,
+   "bst": 530
+  },
+  "abilities": {
+   "regular": [
+    "Oblivious",
+    "Snow Cloak"
+   ],
+   "hidden": "Thick Fat"
+  },
+  "srcTypes": [
+   "Ice",
+   "Ground"
+  ]
  },
  {
   "key": "Porygon_Z",
@@ -20053,7 +25233,26 @@
   "spriteFile": "sprites/Porygon_Z.png",
   "spriteEra": "modern",
   "pokeapiName": "porygon-z",
-  "sortKey": 4740
+  "sortKey": 4740,
+  "baseStats": {
+   "hp": 85,
+   "atk": 80,
+   "def": 70,
+   "spa": 135,
+   "spd": 75,
+   "spe": 90,
+   "bst": 535
+  },
+  "abilities": {
+   "regular": [
+    "Adaptability",
+    "Download"
+   ],
+   "hidden": "Analytic"
+  },
+  "srcTypes": [
+   "Normal"
+  ]
  },
  {
   "key": "Gallade",
@@ -20123,7 +25322,27 @@
   "spriteFile": "sprites/Gallade.png",
   "spriteEra": "modern",
   "pokeapiName": "gallade",
-  "sortKey": 4750
+  "sortKey": 4750,
+  "baseStats": {
+   "hp": 68,
+   "atk": 125,
+   "def": 65,
+   "spa": 65,
+   "spd": 115,
+   "spe": 80,
+   "bst": 518
+  },
+  "abilities": {
+   "regular": [
+    "Steadfast",
+    "Justified"
+   ],
+   "hidden": "Inner Focus"
+  },
+  "srcTypes": [
+   "Psychic",
+   "Fighting"
+  ]
  },
  {
   "key": "Dusknoir",
@@ -20176,7 +25395,25 @@
   "spriteFile": "sprites/Dusknoir.png",
   "spriteEra": "modern",
   "pokeapiName": "dusknoir",
-  "sortKey": 4770
+  "sortKey": 4770,
+  "baseStats": {
+   "hp": 45,
+   "atk": 100,
+   "def": 135,
+   "spa": 65,
+   "spd": 135,
+   "spe": 45,
+   "bst": 525
+  },
+  "abilities": {
+   "regular": [
+    "Pressure"
+   ],
+   "hidden": "Cursed Body"
+  },
+  "srcTypes": [
+   "Ghost"
+  ]
  },
  {
   "key": "Froslass",
@@ -20238,7 +25475,26 @@
   "spriteFile": "sprites/Froslass.png",
   "spriteEra": "modern",
   "pokeapiName": "froslass",
-  "sortKey": 4780
+  "sortKey": 4780,
+  "baseStats": {
+   "hp": 70,
+   "atk": 80,
+   "def": 70,
+   "spa": 80,
+   "spd": 70,
+   "spe": 110,
+   "bst": 480
+  },
+  "abilities": {
+   "regular": [
+    "Snow Cloak"
+   ],
+   "hidden": "Cursed Body"
+  },
+  "srcTypes": [
+   "Ice",
+   "Ghost"
+  ]
  },
  {
   "key": "Rotom",
@@ -20292,7 +25548,26 @@
   "spriteFile": "sprites/Rotom.png",
   "spriteEra": "modern",
   "pokeapiName": "rotom",
-  "sortKey": 4790
+  "sortKey": 4790,
+  "baseStats": {
+   "hp": 50,
+   "atk": 50,
+   "def": 77,
+   "spa": 95,
+   "spd": 77,
+   "spe": 91,
+   "bst": 440
+  },
+  "abilities": {
+   "regular": [
+    "Levitate"
+   ],
+   "hidden": "Prankster"
+  },
+  "srcTypes": [
+   "Electric",
+   "Ghost"
+  ]
  },
  {
   "key": "Heatran",
@@ -20342,7 +25617,26 @@
   "spriteFile": "sprites/Heatran.png",
   "spriteEra": "modern",
   "pokeapiName": "heatran",
-  "sortKey": 4850
+  "sortKey": 4850,
+  "baseStats": {
+   "hp": 91,
+   "atk": 90,
+   "def": 106,
+   "spa": 130,
+   "spd": 106,
+   "spe": 77,
+   "bst": 600
+  },
+  "abilities": {
+   "regular": [
+    "Flash Fire"
+   ],
+   "hidden": "Flame Body"
+  },
+  "srcTypes": [
+   "Fire",
+   "Steel"
+  ]
  },
  {
   "key": "Oshawott",
@@ -20425,7 +25719,26 @@
   "spriteFile": "sprites/Oshawott.png",
   "spriteEra": "modern",
   "pokeapiName": "oshawott",
-  "sortKey": 5010
+  "sortKey": 5010,
+  "baseStats": {
+   "hp": 55,
+   "atk": 55,
+   "def": 45,
+   "spa": 63,
+   "spd": 45,
+   "spe": 45,
+   "bst": 308
+  },
+  "abilities": {
+   "regular": [
+    "Torrent",
+    "Shell Armor"
+   ],
+   "hidden": "Technician"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Dewott",
@@ -20509,7 +25822,26 @@
   "spriteFile": "sprites/Dewott.png",
   "spriteEra": "modern",
   "pokeapiName": "dewott",
-  "sortKey": 5020
+  "sortKey": 5020,
+  "baseStats": {
+   "hp": 75,
+   "atk": 75,
+   "def": 60,
+   "spa": 83,
+   "spd": 60,
+   "spe": 60,
+   "bst": 413
+  },
+  "abilities": {
+   "regular": [
+    "Torrent",
+    "Shell Armor"
+   ],
+   "hidden": "Technician"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Samurott",
@@ -20582,7 +25914,26 @@
   "spriteFile": "sprites/Samurott.png",
   "spriteEra": "modern",
   "pokeapiName": "samurott",
-  "sortKey": 5030
+  "sortKey": 5030,
+  "baseStats": {
+   "hp": 95,
+   "atk": 100,
+   "def": 85,
+   "spa": 108,
+   "spd": 70,
+   "spe": 70,
+   "bst": 528
+  },
+  "abilities": {
+   "regular": [
+    "Torrent",
+    "Shell Armor"
+   ],
+   "hidden": "Technician"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Samurott_Hisuian",
@@ -20656,7 +26007,27 @@
   "spriteFile": "sprites/Samurott_Hisuian.png",
   "spriteEra": "modern",
   "pokeapiName": "samurott-hisui",
-  "sortKey": 5033
+  "sortKey": 5033,
+  "baseStats": {
+   "hp": 90,
+   "atk": 108,
+   "def": 80,
+   "spa": 100,
+   "spd": 65,
+   "spe": 85,
+   "bst": 528
+  },
+  "abilities": {
+   "regular": [
+    "Torrent",
+    "Shell Armor"
+   ],
+   "hidden": "Technician"
+  },
+  "srcTypes": [
+   "Water",
+   "Dark"
+  ]
  },
  {
   "key": "Basculin",
@@ -20727,7 +26098,26 @@
   "spriteFile": "sprites/Basculin.png",
   "spriteEra": "modern",
   "pokeapiName": "basculin-red-striped",
-  "sortKey": 5500
+  "sortKey": 5500,
+  "baseStats": {
+   "hp": 70,
+   "atk": 92,
+   "def": 65,
+   "spa": 80,
+   "spd": 55,
+   "spe": 98,
+   "bst": 460
+  },
+  "abilities": {
+   "regular": [
+    "Reckless",
+    "Adaptability"
+   ],
+   "hidden": "Mold Breaker"
+  },
+  "srcTypes": [
+   "Water"
+  ]
  },
  {
   "key": "Zorua",
@@ -20806,7 +26196,27 @@
   "spriteFile": "sprites/Zorua.png",
   "spriteEra": "modern",
   "pokeapiName": "zorua",
-  "sortKey": 5700
+  "sortKey": 5700,
+  "baseStats": {
+   "hp": 35,
+   "atk": 60,
+   "def": 40,
+   "spa": 85,
+   "spd": 40,
+   "spe": 70,
+   "bst": 330
+  },
+  "abilities": {
+   "regular": [
+    "Insomnia",
+    "Compound Eyes"
+   ],
+   "hidden": "Imposter"
+  },
+  "srcTypes": [
+   "Normal",
+   "Ghost"
+  ]
  },
  {
   "key": "Zoroark",
@@ -20887,7 +26297,27 @@
   "spriteFile": "sprites/Zoroark.png",
   "spriteEra": "modern",
   "pokeapiName": "zoroark",
-  "sortKey": 5710
+  "sortKey": 5710,
+  "baseStats": {
+   "hp": 55,
+   "atk": 100,
+   "def": 60,
+   "spa": 125,
+   "spd": 60,
+   "spe": 110,
+   "bst": 510
+  },
+  "abilities": {
+   "regular": [
+    "Insomnia",
+    "Compound Eyes"
+   ],
+   "hidden": "Imposter"
+  },
+  "srcTypes": [
+   "Normal",
+   "Ghost"
+  ]
  },
  {
   "key": "Rufflet",
@@ -20951,7 +26381,27 @@
   "spriteFile": "sprites/Rufflet.png",
   "spriteEra": "modern",
   "pokeapiName": "rufflet",
-  "sortKey": 6270
+  "sortKey": 6270,
+  "baseStats": {
+   "hp": 70,
+   "atk": 83,
+   "def": 50,
+   "spa": 37,
+   "spd": 50,
+   "spe": 60,
+   "bst": 350
+  },
+  "abilities": {
+   "regular": [
+    "Keen Eye",
+    "Sheer Force"
+   ],
+   "hidden": "Hustle"
+  },
+  "srcTypes": [
+   "Normal",
+   "Flying"
+  ]
  },
  {
   "key": "Braviary",
@@ -21021,7 +26471,27 @@
   "spriteFile": "sprites/Braviary.png",
   "spriteEra": "modern",
   "pokeapiName": "braviary",
-  "sortKey": 6280
+  "sortKey": 6280,
+  "baseStats": {
+   "hp": 110,
+   "atk": 83,
+   "def": 70,
+   "spa": 112,
+   "spd": 70,
+   "spe": 65,
+   "bst": 510
+  },
+  "abilities": {
+   "regular": [
+    "Keen Eye",
+    "Sheer Force"
+   ],
+   "hidden": "Tinted Lens"
+  },
+  "srcTypes": [
+   "Psychic",
+   "Flying"
+  ]
  },
  {
   "key": "Sylveon",
@@ -21098,7 +26568,25 @@
   "spriteFile": "sprites/Sylveon.png",
   "spriteEra": "modern",
   "pokeapiName": "sylveon",
-  "sortKey": 7000
+  "sortKey": 7000,
+  "baseStats": {
+   "hp": 95,
+   "atk": 65,
+   "def": 65,
+   "spa": 110,
+   "spd": 130,
+   "spe": 60,
+   "bst": 525
+  },
+  "abilities": {
+   "regular": [
+    "Cute Charm"
+   ],
+   "hidden": "Pixilate"
+  },
+  "srcTypes": [
+   "Fairy"
+  ]
  },
  {
   "key": "Goomy",
@@ -21169,7 +26657,25 @@
   "spriteFile": "sprites/Goomy.png",
   "spriteEra": "modern",
   "pokeapiName": "goomy",
-  "sortKey": 7040
+  "sortKey": 7040,
+  "baseStats": {
+   "hp": 45,
+   "atk": 50,
+   "def": 35,
+   "spa": 55,
+   "spd": 75,
+   "spe": 40,
+   "bst": 300
+  },
+  "abilities": {
+   "regular": [
+    "Shell Armor"
+   ],
+   "hidden": "Sap Sipper"
+  },
+  "srcTypes": [
+   "Dragon"
+  ]
  },
  {
   "key": "Sliggoo",
@@ -21248,7 +26754,26 @@
   "spriteFile": "sprites/Sliggoo.png",
   "spriteEra": "modern",
   "pokeapiName": "sliggoo",
-  "sortKey": 7050
+  "sortKey": 7050,
+  "baseStats": {
+   "hp": 58,
+   "atk": 75,
+   "def": 83,
+   "spa": 83,
+   "spd": 113,
+   "spe": 40,
+   "bst": 452
+  },
+  "abilities": {
+   "regular": [
+    "Shell Armor"
+   ],
+   "hidden": "Sap Sipper"
+  },
+  "srcTypes": [
+   "Steel",
+   "Dragon"
+  ]
  },
  {
   "key": "Goodra",
@@ -21333,7 +26858,26 @@
   "spriteFile": "sprites/Goodra.png",
   "spriteEra": "modern",
   "pokeapiName": "goodra",
-  "sortKey": 7060
+  "sortKey": 7060,
+  "baseStats": {
+   "hp": 80,
+   "atk": 100,
+   "def": 100,
+   "spa": 110,
+   "spd": 150,
+   "spe": 60,
+   "bst": 600
+  },
+  "abilities": {
+   "regular": [
+    "Shell Armor"
+   ],
+   "hidden": "Sap Sipper"
+  },
+  "srcTypes": [
+   "Steel",
+   "Dragon"
+  ]
  },
  {
   "key": "Bergmite",
@@ -21420,7 +26964,26 @@
   "spriteFile": "sprites/Bergmite.png",
   "spriteEra": "modern",
   "pokeapiName": "bergmite",
-  "sortKey": 7120
+  "sortKey": 7120,
+  "baseStats": {
+   "hp": 55,
+   "atk": 69,
+   "def": 85,
+   "spa": 32,
+   "spd": 35,
+   "spe": 28,
+   "bst": 304
+  },
+  "abilities": {
+   "regular": [
+    "Own Tempo",
+    "Ice Body"
+   ],
+   "hidden": "Slush Rush"
+  },
+  "srcTypes": [
+   "Ice"
+  ]
  },
  {
   "key": "Avalugg",
@@ -21501,7 +27064,26 @@
   "spriteFile": "sprites/Avalugg.png",
   "spriteEra": "modern",
   "pokeapiName": "avalugg",
-  "sortKey": 7130
+  "sortKey": 7130,
+  "baseStats": {
+   "hp": 95,
+   "atk": 127,
+   "def": 184,
+   "spa": 34,
+   "spd": 36,
+   "spe": 38,
+   "bst": 514
+  },
+  "abilities": {
+   "regular": [
+    "Ice Body"
+   ],
+   "hidden": "Slush Rush"
+  },
+  "srcTypes": [
+   "Ice",
+   "Rock"
+  ]
  },
  {
   "key": "Rowlet",
@@ -21585,7 +27167,27 @@
   "spriteFile": "sprites/Rowlet.png",
   "spriteEra": "modern",
   "pokeapiName": "rowlet",
-  "sortKey": 7220
+  "sortKey": 7220,
+  "baseStats": {
+   "hp": 68,
+   "atk": 55,
+   "def": 55,
+   "spa": 50,
+   "spd": 50,
+   "spe": 42,
+   "bst": 320
+  },
+  "abilities": {
+   "regular": [
+    "Overgrow",
+    "Overcoat"
+   ],
+   "hidden": "Sniper"
+  },
+  "srcTypes": [
+   "Grass",
+   "Flying"
+  ]
  },
  {
   "key": "Dartrix",
@@ -21670,7 +27272,27 @@
   "spriteFile": "sprites/Dartrix.png",
   "spriteEra": "modern",
   "pokeapiName": "dartrix",
-  "sortKey": 7230
+  "sortKey": 7230,
+  "baseStats": {
+   "hp": 78,
+   "atk": 75,
+   "def": 75,
+   "spa": 70,
+   "spd": 70,
+   "spe": 52,
+   "bst": 420
+  },
+  "abilities": {
+   "regular": [
+    "Overgrow",
+    "Overcoat"
+   ],
+   "hidden": "Sniper"
+  },
+  "srcTypes": [
+   "Grass",
+   "Flying"
+  ]
  },
  {
   "key": "Decidueye",
@@ -21744,7 +27366,27 @@
   "spriteFile": "sprites/Decidueye.png",
   "spriteEra": "modern",
   "pokeapiName": "decidueye",
-  "sortKey": 7240
+  "sortKey": 7240,
+  "baseStats": {
+   "hp": 78,
+   "atk": 107,
+   "def": 75,
+   "spa": 100,
+   "spd": 100,
+   "spe": 70,
+   "bst": 530
+  },
+  "abilities": {
+   "regular": [
+    "Overgrow",
+    "Overcoat"
+   ],
+   "hidden": "Sniper"
+  },
+  "srcTypes": [
+   "Grass",
+   "Ghost"
+  ]
  },
  {
   "key": "Decidueye_Hisuian",
@@ -21818,7 +27460,27 @@
   "spriteFile": "sprites/Decidueye_Hisuian.png",
   "spriteEra": "modern",
   "pokeapiName": "decidueye-hisui",
-  "sortKey": 7243
+  "sortKey": 7243,
+  "baseStats": {
+   "hp": 88,
+   "atk": 112,
+   "def": 80,
+   "spa": 95,
+   "spd": 95,
+   "spe": 60,
+   "bst": 530
+  },
+  "abilities": {
+   "regular": [
+    "Overgrow",
+    "Overcoat"
+   ],
+   "hidden": "Sniper"
+  },
+  "srcTypes": [
+   "Grass",
+   "Fighting"
+  ]
  },
  {
   "key": "Wyrdeer",
@@ -21892,7 +27554,27 @@
   "spriteFile": "sprites/Wyrdeer.png",
   "spriteEra": "modern",
   "pokeapiName": "wyrdeer",
-  "sortKey": 8990
+  "sortKey": 8990,
+  "baseStats": {
+   "hp": 103,
+   "atk": 105,
+   "def": 72,
+   "spa": 105,
+   "spd": 75,
+   "spe": 65,
+   "bst": 525
+  },
+  "abilities": {
+   "regular": [
+    "Intimidate",
+    "Sap Sipper"
+   ],
+   "hidden": "Berserk"
+  },
+  "srcTypes": [
+   "Normal",
+   "Psychic"
+  ]
  },
  {
   "key": "Kleavor",
@@ -21978,7 +27660,27 @@
   "spriteFile": "sprites/Kleavor.png",
   "spriteEra": "modern",
   "pokeapiName": "kleavor",
-  "sortKey": 9000
+  "sortKey": 9000,
+  "baseStats": {
+   "hp": 70,
+   "atk": 135,
+   "def": 95,
+   "spa": 45,
+   "spd": 70,
+   "spe": 85,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Swarm",
+    "Sheer Force"
+   ],
+   "hidden": "Steadfast"
+  },
+  "srcTypes": [
+   "Bug",
+   "Rock"
+  ]
  },
  {
   "key": "Ursaluna",
@@ -22064,7 +27766,27 @@
   "spriteFile": "sprites/Ursaluna.png",
   "spriteEra": "modern",
   "pokeapiName": "ursaluna",
-  "sortKey": 9010
+  "sortKey": 9010,
+  "baseStats": {
+   "hp": 130,
+   "atk": 140,
+   "def": 105,
+   "spa": 45,
+   "spd": 80,
+   "spe": 50,
+   "bst": 550
+  },
+  "abilities": {
+   "regular": [
+    "Guts",
+    "Quick Feet"
+   ],
+   "hidden": "Tough Claws"
+  },
+  "srcTypes": [
+   "Ground",
+   "Normal"
+  ]
  },
  {
   "key": "Ursaluna_Bloodmoon",
@@ -22150,7 +27872,27 @@
   "spriteFile": "sprites/Ursaluna_Bloodmoon.png",
   "spriteEra": "modern",
   "pokeapiName": "ursaluna-bloodmoon",
-  "sortKey": 9010
+  "sortKey": 9010,
+  "baseStats": {
+   "hp": 113,
+   "atk": 70,
+   "def": 120,
+   "spa": 135,
+   "spd": 65,
+   "spe": 52,
+   "bst": 555
+  },
+  "abilities": {
+   "regular": [
+    "Guts",
+    "Quick Feet"
+   ],
+   "hidden": "Tough Claws"
+  },
+  "srcTypes": [
+   "Ground",
+   "Normal"
+  ]
  },
  {
   "key": "Basculegion",
@@ -22204,7 +27946,26 @@
   "spriteFile": "sprites/Basculegion.png",
   "spriteEra": "modern",
   "pokeapiName": "basculegion-male",
-  "sortKey": 9020
+  "sortKey": 9020,
+  "baseStats": {
+   "hp": 120,
+   "atk": 112,
+   "def": 65,
+   "spa": 80,
+   "spd": 75,
+   "spe": 78,
+   "bst": 530
+  },
+  "abilities": {
+   "regular": [
+    "Swift Swim"
+   ],
+   "hidden": "Mold Breaker"
+  },
+  "srcTypes": [
+   "Water",
+   "Ghost"
+  ]
  },
  {
   "key": "Sneasler",
@@ -22286,7 +28047,26 @@
   "spriteFile": "sprites/Sneasler.png",
   "spriteEra": "modern",
   "pokeapiName": "sneasler",
-  "sortKey": 9030
+  "sortKey": 9030,
+  "baseStats": {
+   "hp": 80,
+   "atk": 130,
+   "def": 60,
+   "spa": 40,
+   "spd": 80,
+   "spe": 120,
+   "bst": 510
+  },
+  "abilities": {
+   "regular": [
+    "Pressure"
+   ],
+   "hidden": "Unburden"
+  },
+  "srcTypes": [
+   "Fighting",
+   "Poison"
+  ]
  },
  {
   "key": "Overqwil",
@@ -22376,7 +28156,27 @@
   "spriteFile": "sprites/Overqwil.png",
   "spriteEra": "modern",
   "pokeapiName": "overqwil",
-  "sortKey": 9040
+  "sortKey": 9040,
+  "baseStats": {
+   "hp": 85,
+   "atk": 115,
+   "def": 95,
+   "spa": 65,
+   "spd": 65,
+   "spe": 85,
+   "bst": 510
+  },
+  "abilities": {
+   "regular": [
+    "Poison Point",
+    "Aftermath"
+   ],
+   "hidden": "Swift Swim"
+  },
+  "srcTypes": [
+   "Dark",
+   "Poison"
+  ]
  },
  {
   "key": "Annihilape",
@@ -22466,7 +28266,27 @@
   "spriteFile": "sprites/Annihilape.png",
   "spriteEra": "modern",
   "pokeapiName": "annihilape",
-  "sortKey": 9790
+  "sortKey": 9790,
+  "baseStats": {
+   "hp": 110,
+   "atk": 115,
+   "def": 80,
+   "spa": 50,
+   "spd": 90,
+   "spe": 90,
+   "bst": 535
+  },
+  "abilities": {
+   "regular": [
+    "Gorilla Tactics",
+    "Inner Focus"
+   ],
+   "hidden": "Defiant"
+  },
+  "srcTypes": [
+   "Fighting",
+   "Ghost"
+  ]
  },
  {
   "key": "Farigiraf",
@@ -22548,7 +28368,27 @@
   "spriteFile": "sprites/Farigiraf.png",
   "spriteEra": "modern",
   "pokeapiName": "farigiraf",
-  "sortKey": 9810
+  "sortKey": 9810,
+  "baseStats": {
+   "hp": 120,
+   "atk": 90,
+   "def": 70,
+   "spa": 110,
+   "spd": 70,
+   "spe": 60,
+   "bst": 520
+  },
+  "abilities": {
+   "regular": [
+    "Inner Focus",
+    "Early Bird"
+   ],
+   "hidden": "Sap Sipper"
+  },
+  "srcTypes": [
+   "Normal",
+   "Psychic"
+  ]
  },
  {
   "key": "Dudunsparce",
@@ -22665,7 +28505,26 @@
   "spriteFile": "sprites/Dudunsparce.png",
   "spriteEra": "modern",
   "pokeapiName": "dudunsparce-two-segment",
-  "sortKey": 9820
+  "sortKey": 9820,
+  "baseStats": {
+   "hp": 125,
+   "atk": 100,
+   "def": 80,
+   "spa": 85,
+   "spd": 75,
+   "spe": 55,
+   "bst": 520
+  },
+  "abilities": {
+   "regular": [
+    "Serene Grace"
+   ],
+   "hidden": "Rattled"
+  },
+  "srcTypes": [
+   "Normal",
+   "Dragon"
+  ]
  },
  {
   "key": "Minsir",
@@ -22736,6 +28595,25 @@
   "spriteFile": null,
   "spriteEra": null,
   "pokeapiName": null,
-  "sortKey": 99990
+  "sortKey": 99990,
+  "baseStats": {
+   "hp": 75,
+   "atk": 145,
+   "def": 110,
+   "spa": 55,
+   "spd": 70,
+   "spe": 45,
+   "bst": 500
+  },
+  "abilities": {
+   "regular": [
+    "Hustle"
+   ],
+   "hidden": "Moxie"
+  },
+  "srcTypes": [
+   "Bug",
+   "Dark"
+  ]
  }
 ]

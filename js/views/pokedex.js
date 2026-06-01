@@ -141,6 +141,42 @@ function openDetail(m, FAITH) {
 
   const body = el('div', { class: 'detail__body' });
 
+  // abilities
+  if (m.abilities) {
+    const ab = el('div', { class: 'abil-row' });
+    (m.abilities.regular || []).forEach(a => ab.append(el('span', { class: 'abil' }, a)));
+    if (m.abilities.hidden) ab.append(el('span', { class: 'abil abil--ha' }, m.abilities.hidden));
+    const block = el('div', { class: 'detail__block' }, el('h4', {}, 'Abilities'), ab);
+    if (m.abilitiesFaithful) {
+      const f = m.abilitiesFaithful;
+      const ftxt = [...(f.regular || []), f.hidden ? f.hidden + ' (HA)' : null].filter(Boolean).join(' · ');
+      block.append(el('p', { class: 'faithful-note' }, el('b', {}, 'Faithful: '), ftxt));
+    }
+    body.append(block);
+  }
+
+  // base stats
+  if (m.baseStats) {
+    const s = m.baseStats;
+    const order = [['HP', 'hp'], ['Atk', 'atk'], ['Def', 'def'], ['SpA', 'spa'], ['SpD', 'spd'], ['Spe', 'spe']];
+    const rows = order.map(([lab, key]) => {
+      const v = s[key], hue = Math.min(v, 160) / 160 * 120;
+      return el('div', { class: 'stat-row' },
+        el('span', { class: 'lab' }, lab),
+        el('span', { class: 'val' }, v),
+        el('div', { class: 'stat-bar' }, el('div', { class: 'stat-fill', style: { width: Math.min(v / 180 * 100, 100) + '%', background: `linear-gradient(90deg, hsl(${hue},68%,42%), hsl(${hue},80%,58%))` } })));
+    });
+    const panel = el('div', { class: 'detail__block' }, el('h4', {}, 'Base stats'),
+      el('div', { class: 'stats' }, rows,
+        el('div', { class: 'stat-total' }, el('span', { class: 'lab' }, 'Total'), el('span', { class: 'val' }, s.bst))));
+    if (m.baseStatsFaithful) {
+      const f = m.baseStatsFaithful;
+      const diff = order.filter(([, k]) => f[k] !== s[k]).map(([lab, k]) => `${lab} ${f[k]}`).join(' · ');
+      panel.append(el('p', { class: 'faithful-note' }, el('b', {}, 'Faithful mode: '), `${diff} (BST ${f.bst})`));
+    }
+    body.append(panel);
+  }
+
   // faithful note
   const fc = FAITH[norm(m.name)];
   if (fc) body.append(el('div', { class: 'detail__block' },

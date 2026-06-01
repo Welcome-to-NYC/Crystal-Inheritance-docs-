@@ -292,6 +292,28 @@ img { display: block; }
 .evo-arrow em { font-style: normal; font-size: 10.5px; color: var(--muted); max-width: 110px; text-align: center; }
 .evo-branch { display: grid; gap: 8px; }
 
+/* base stats + abilities */
+.stats { display: grid; gap: 7px; }
+.stat-row { display: grid; grid-template-columns: 42px 34px 1fr; gap: 10px; align-items: center; }
+.stat-row .lab { font-family: var(--font-display); font-weight: 600; font-size: 12px; letter-spacing: .05em;
+  text-transform: uppercase; color: var(--muted); }
+.stat-row .val { font-family: var(--font-pixel); font-size: 11px; color: var(--ink); text-align: right; }
+.stat-bar { height: 9px; background: rgba(255,255,255,.05); overflow: hidden;
+  clip-path: polygon(4px 0,100% 0,100% calc(100% - 4px),calc(100% - 4px) 100%,0 100%,0 4px); }
+.stat-fill { height: 100%; border-radius: 0 2px 2px 0; box-shadow: 0 0 8px rgba(255,255,255,.15) inset; transition: width .5s ease; }
+.stat-total { display: flex; justify-content: space-between; align-items: baseline; margin-top: 4px;
+  padding-top: 8px; border-top: 1px solid var(--line); }
+.stat-total .lab { font-family: var(--font-display); font-weight: 700; text-transform: uppercase; letter-spacing: .08em; font-size: 13px; color: var(--accent); }
+.stat-total .val { font-family: var(--font-pixel); font-size: 14px; color: var(--ink); }
+.abil-row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.abil { font-family: var(--font-display); font-weight: 600; font-size: 13px; letter-spacing: .02em; color: var(--ink);
+  background: rgba(var(--accent-rgb), .1); border: 1px solid rgba(var(--accent-rgb), .3); padding: 5px 11px;
+  clip-path: polygon(6px 0,100% 0,100% calc(100% - 6px),calc(100% - 6px) 100%,0 100%,0 6px); }
+.abil--ha { color: var(--amber); background: rgba(255,194,77,.1); border-color: rgba(255,194,77,.35); }
+.abil--ha::before { content: 'HA'; font-family: var(--font-pixel); font-size: 8px; margin-right: 6px; opacity: .8; }
+.faithful-note { font-size: 12px; color: var(--muted); margin-top: 8px; }
+.faithful-note b { color: var(--amber); }
+
 .learnset-wrap { max-height: 340px; overflow: auto; border: 1px solid var(--line);
   clip-path: polygon(8px 0,100% 0,100% calc(100% - 8px),calc(100% - 8px) 100%,0 100%,0 8px); }
 .find-list { display: flex; flex-wrap: wrap; gap: 8px; }
