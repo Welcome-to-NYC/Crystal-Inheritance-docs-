@@ -52,9 +52,10 @@ export function typeRow(types) { return el('span', { class: 'type-row' }, (types
 export function monSprite(nameOrMon, opts = {}) {
   const mon = typeof nameOrMon === 'string' ? lookupMon(nameOrMon) : nameOrMon;
   const era = mon && Store.dexByKey[mon.key] ? Store.dexByKey[mon.key].spriteEra : (mon && mon.spriteEra);
+  const src = mon && (mon.sprite || mon.spriteFile);
   const tile = el('div', { class: `sprite-tile ${era === 'modern' ? 'modern' : ''} ${opts.class || ''}` });
-  if (mon && mon.sprite) tile.append(el('img', { src: mon.sprite, alt: opts.alt || mon.name || nameOrMon, loading: 'lazy' }));
-  else tile.append(el('div', { class: 'sprite-ph' }, (typeof nameOrMon === 'string' ? nameOrMon : '???')));
+  if (src) tile.append(el('img', { src, alt: opts.alt || (mon && mon.name) || nameOrMon, loading: 'lazy' }));
+  else tile.append(el('div', { class: 'sprite-ph' }, (typeof nameOrMon === 'string' ? nameOrMon : (mon && mon.name) || '???')));
   return tile;
 }
 
@@ -63,7 +64,7 @@ export function monChip(name, opts = {}) {
   const mon = lookupMon(name);
   const inner = [
     el('span', { class: 'monchip__sprite sprite-tile ' + (mon && Store.dexByKey[mon.key] && Store.dexByKey[mon.key].spriteEra === 'modern' ? 'modern' : '') },
-       mon && mon.sprite ? el('img', { src: mon.sprite, alt: name, loading: 'lazy' }) : el('span', { class: 'sprite-ph' }, '?')),
+       mon && (mon.sprite || mon.spriteFile) ? el('img', { src: mon.sprite || mon.spriteFile, alt: name, loading: 'lazy' }) : el('span', { class: 'sprite-ph' }, '?')),
     el('span', { class: 'monchip__name' }, opts.label || name),
   ];
   if (mon && mon.key) return el('a', { class: 'monchip', href: `#/pokedex/${encodeURIComponent(mon.key)}` }, inner);
