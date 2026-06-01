@@ -177,6 +177,19 @@ function openDetail(m, FAITH) {
     body.append(panel);
   }
 
+  // profile / bio
+  if (m.bio) {
+    const b = m.bio, dl = el('dl', { class: 'kv' });
+    const add = (k, v) => { if (v != null && v !== '') dl.append(el('dt', {}, k), el('dd', {}, v)); };
+    add('Catch rate', b.catchRate);
+    add('Base EXP', b.baseExp);
+    add('Gender', b.gender);
+    add('Egg groups', (b.eggGroups || []).join(', '));
+    add('Growth', b.growth);
+    add('EV yield', b.evYield);
+    if (dl.children.length) body.append(el('div', { class: 'detail__block' }, el('h4', {}, 'Profile'), dl));
+  }
+
   // faithful note
   const fc = FAITH[norm(m.name)];
   if (fc) body.append(el('div', { class: 'detail__block' },

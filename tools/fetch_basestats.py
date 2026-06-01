@@ -68,13 +68,61 @@ def parse(txt):
         out["abilities"] = abilities(abil[-1])
         if len(abil) > 1 and abil[0] != abil[-1]:
             out["abilitiesFaithful"] = abilities(abil[0])
-    # type from source (the hack's real typing) — keep as extra, do not override PokeAPI display
-    tm = re.search(r"^\s*db\s+([A-Z_]+),\s*([A-Z_]+)\s*;\s*type", txt, re.M)
-    if tm:
-        t = [tm.group(1)]
-        if tm.group(2) != tm.group(1): t.append(tm.group(2))
-        out["srcTypes"] = [pretty(x) for x in t]
+    # types from source (the hack's REAL typing). Handle faithful conditional:
+    # take the last `db T1,T2 ; type` (the non-faithful / else branch) as default.
+    tmatches = TYPE_RE.findall(txt)
+    if tmatches:
+        out["types"] = map_types(tmatches[-1])
+        if len(tmatches) > 1 and tmatches[0] != tmatches[-1]:
+            out["typesFaithful"] = map_types(tmatches[0])
+    out["bio"] = parse_bio(txt)
     return out
+
+TYPE_RE = re.compile(r"^\s*db\s+([A-Z_]+),\s*([A-Z_]+)\s*;\s*type", re.M)
+TYPE_CLASSES = {"normal","fire","water","electric","grass","ice","fighting","poison","ground",
+                "flying","psychic","bug","rock","ghost","dragon","dark","steel","fairy"}
+UNMAPPED = set()
+def map_type(t):
+    t = t.lower().replace("_type", "")
+    if t not in TYPE_CLASSES:
+        UNMAPPED.add(t)
+    return t
+def map_types(pair):
+    t1, t2 = pair
+    out = [map_type(t1)]
+    if t2 != t1:
+        out.append(map_type(t2))
+    return out
+
+EGG = {"EGG_MONSTER":"Monster","EGG_WATER_1":"Water 1","EGG_BUG":"Bug","EGG_FLYING":"Flying",
+       "EGG_GROUND":"Field","EGG_FAIRY":"Fairy","EGG_PLANT":"Grass","EGG_HUMANSHAPE":"Human-Like",
+       "EGG_WATER_3":"Water 3","EGG_MINERAL":"Mineral","EGG_INDETERMINATE":"Amorphous",
+       "EGG_WATER_2":"Water 2","EGG_DITTO":"Ditto","EGG_DRAGON":"Dragon","EGG_NONE":"Undiscovered"}
+GENDER = {"GENDER_F0":"100% ♂","GENDER_F12_5":"87.5% ♂","GENDER_F25":"75% ♂","GENDER_F50":"50 / 50",
+          "GENDER_F75":"25% ♂","GENDER_F100":"100% ♀","GENDER_UNKNOWN":"Genderless"}
+EV_LABELS = ["HP","Atk","Def","Spe","SpA","SpD"]
+
+def parse_bio(txt):
+    bio = {}
+    cr = re.search(r"^\s*db\s+(\d+)\s*;\s*catch rate", txt, re.M)
+    if cr: bio["catchRate"] = int(cr.group(1))
+    be = re.search(r"^\s*db\s+(\d+)\s*;\s*base exp", txt, re.M)
+    if be: bio["baseExp"] = int(be.group(1))
+    gr = re.search(r"dn\s+(GENDER_\w+),", txt)
+    if gr: bio["gender"] = GENDER.get(gr.group(1), gr.group(1))
+    eg = re.search(r"dn\s+(EGG_\w+),\s*(EGG_\w+)\s*;\s*egg groups", txt)
+    if eg:
+        g = [EGG.get(eg.group(1), eg.group(1))]
+        if eg.group(2) != eg.group(1): g.append(EGG.get(eg.group(2), eg.group(2)))
+        bio["eggGroups"] = g
+    gw = re.search(r"db\s+GROWTH_(\w+)\s*;\s*growth", txt)
+    if gw: bio["growth"] = " ".join(w.capitalize() for w in gw.group(1).split("_"))
+    ev = re.search(r"ev_yield\s+([\d,\s]+)", txt)
+    if ev:
+        vals = [int(x) for x in ev.group(1).split(",")]
+        if len(vals) == 6:
+            bio["evYield"] = ", ".join(f"{v} {EV_LABELS[i]}" for i, v in enumerate(vals) if v)
+    return bio
 
 def work(mon):
     txt = fetch(mon["key"].lower() + ".asm")
@@ -89,16 +137,38 @@ def main():
     miss = []
     for mon in dex:
         v = res.get(mon["key"])
-        if v: mon.update(v)
-        elif "baseStats" not in mon: miss.append(mon["key"])
+        mon.pop("srcTypes", None)  # drop stale field from earlier run
+        if v:
+            if v.get("types"):
+                mon["officialTypes"] = mon.get("types")  # keep PokeAPI types for reference
+            mon.update(v)
+        elif "baseStats" not in mon:
+            miss.append(mon["key"])
+    # keep dex sorted as before
+    dex.sort(key=lambda m: m.get("sortKey", m.get("nationalNo", 9999)))
     json.dump(dex, open(os.path.join(OUT, "pokedex.json"), "w"), ensure_ascii=False, indent=1)
+
+    # sync accurate types into the sprite index (used by other views' lookups)
+    idxp = os.path.join(OUT, "sprite_index.json")
+    idx = json.load(open(idxp))
+    by_key = {m["key"]: m for m in dex}
+    for alias, rec in idx.items():
+        m = by_key.get(rec.get("key"))
+        if m and m.get("types"):
+            rec["types"] = m["types"]
+    json.dump(idx, open(idxp, "w"), ensure_ascii=False, indent=1)
+
     have = sum(1 for m in dex if m.get("baseStats"))
-    print(f"base stats merged: {have}/{len(dex)}")
+    typed = sum(1 for m in dex if m.get("types"))
+    print(f"base stats merged: {have}/{len(dex)} | types from source: {typed}")
     print(f"missing: {miss}")
-    # spot checks
-    for nm in ("Cyndaquil", "Ledyba", "Luxray"):
+    print(f"UNMAPPED type constants: {sorted(UNMAPPED) or 'none'}")
+    print(f"type changes vs official (faithful-doc mons + others):")
+    for nm in ("Luxray", "Sunflora", "Ninetales", "Octillery", "Mismagius", "Girafarig", "Electivire", "Yanmega"):
         m = next((x for x in dex if x["key"] == nm), None)
-        if m: print(f"  {nm}: {m.get('baseStats')} | abil {m.get('abilities')} | faithfulStats {m.get('baseStatsFaithful')}")
+        if m: print(f"  {nm}: official {m.get('officialTypes')} -> source {m.get('types')} | faithful {m.get('typesFaithful','—')}")
+    c = next((x for x in dex if x["key"] == "Cyndaquil"), None)
+    print(f"  Cyndaquil bio: {c.get('bio')}")
 
 if __name__ == "__main__":
     main()

@@ -122,9 +122,20 @@
    ],
    "hidden": "Lightning Rod"
   },
-  "srcTypes": [
-   "Electric"
-  ]
+  "officialTypes": [
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 82,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field",
+    "Fairy"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Raichu",
@@ -185,9 +196,20 @@
    ],
    "hidden": "Lightning Rod"
   },
-  "srcTypes": [
-   "Electric"
-  ]
+  "officialTypes": [
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 243,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field",
+    "Fairy"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 Spe"
+  }
  },
  {
   "key": "Raichu_Alolan",
@@ -245,10 +267,21 @@
    ],
    "hidden": "Motor Drive"
   },
-  "srcTypes": [
-   "Electric",
-   "Psychic"
-  ]
+  "officialTypes": [
+   "electric",
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 179,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field",
+    "Fairy"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 Spe"
+  }
  },
  {
   "key": "Nidorina",
@@ -340,9 +373,20 @@
    ],
    "hidden": "Rivalry"
   },
-  "srcTypes": [
-   "Poison"
-  ]
+  "officialTypes": [
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 128,
+   "gender": "100% ♀",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 HP"
+  }
  },
  {
   "key": "Nidoqueen",
@@ -413,10 +457,21 @@
    ],
    "hidden": "Parental Bond"
   },
-  "srcTypes": [
-   "Poison",
-   "Ground"
-  ]
+  "officialTypes": [
+   "poison",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 230,
+   "gender": "100% ♀",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 HP"
+  }
  },
  {
   "key": "Nidoran",
@@ -512,9 +567,20 @@
    ],
    "hidden": "Hustle"
   },
-  "srcTypes": [
-   "Poison"
-  ]
+  "officialTypes": [
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 235,
+   "baseExp": 59,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 HP"
+  }
  },
  {
   "key": "Nidorino",
@@ -606,9 +672,20 @@
    ],
    "hidden": "Rivalry"
   },
-  "srcTypes": [
-   "Poison"
-  ]
+  "officialTypes": [
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 118,
+   "gender": "100% ♂",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Nidoking",
@@ -679,10 +756,21 @@
    ],
    "hidden": "Parental Bond"
   },
-  "srcTypes": [
-   "Poison",
-   "Ground"
-  ]
+  "officialTypes": [
+   "poison",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 195,
+   "gender": "100% ♂",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Clefairy",
@@ -806,9 +894,19 @@
    ],
    "hidden": "Unaware"
   },
-  "srcTypes": [
-   "Fairy"
-  ]
+  "officialTypes": [
+   "fairy"
+  ],
+  "bio": {
+   "catchRate": 150,
+   "baseExp": 113,
+   "gender": "25% ♂",
+   "eggGroups": [
+    "Fairy"
+   ],
+   "growth": "Fast",
+   "evYield": "2 HP"
+  }
  },
  {
   "key": "Clefable",
@@ -906,9 +1004,19 @@
    ],
    "hidden": "Unaware"
   },
-  "srcTypes": [
-   "Fairy"
-  ]
+  "officialTypes": [
+   "fairy"
+  ],
+  "bio": {
+   "catchRate": 25,
+   "baseExp": 242,
+   "gender": "25% ♂",
+   "eggGroups": [
+    "Fairy"
+   ],
+   "growth": "Fast",
+   "evYield": "3 HP"
+  }
  },
  {
   "key": "Vulpix",
@@ -1036,9 +1144,19 @@
    ],
    "hidden": "Flash Fire"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 63,
+   "gender": "25% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Vulpix_Alolan",
@@ -1161,9 +1279,19 @@
    ],
    "hidden": "Snow Warning"
   },
-  "srcTypes": [
-   "Ice"
-  ]
+  "officialTypes": [
+   "ice"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 63,
+   "gender": "25% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Ninetales",
@@ -1211,7 +1339,8 @@
   ],
   "nationalNo": 38,
   "types": [
-   "fire"
+   "fire",
+   "psychic"
   ],
   "spriteFile": "sprites/Ninetales.png",
   "spriteEra": "gen2",
@@ -1238,9 +1367,22 @@
    ],
    "hidden": "Drought"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire"
+  ],
+  "typesFaithful": [
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 178,
+   "gender": "25% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Spe, 1 SpD"
+  }
  },
  {
   "key": "Ninetales_Alolan",
@@ -1318,10 +1460,20 @@
    ],
    "hidden": "Snow Warning"
   },
-  "srcTypes": [
-   "Ice",
-   "Fairy"
-  ]
+  "officialTypes": [
+   "ice",
+   "fairy"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 178,
+   "gender": "25% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Spe, 1 SpD"
+  }
  },
  {
   "key": "Zubat",
@@ -1421,10 +1573,20 @@
    ],
    "hidden": "Infiltrator"
   },
-  "srcTypes": [
-   "Poison",
-   "Flying"
-  ]
+  "officialTypes": [
+   "poison",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 54,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Golbat",
@@ -1539,10 +1701,20 @@
    ],
    "hidden": "Infiltrator"
   },
-  "srcTypes": [
-   "Poison",
-   "Flying"
-  ]
+  "officialTypes": [
+   "poison",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 90,
+   "baseExp": 159,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Oddish",
@@ -1646,10 +1818,20 @@
    ],
    "hidden": "Run Away"
   },
-  "srcTypes": [
-   "Grass",
-   "Poison"
-  ]
+  "officialTypes": [
+   "grass",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 78,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Gloom",
@@ -1754,10 +1936,20 @@
    ],
    "hidden": "Stench"
   },
-  "srcTypes": [
-   "Grass",
-   "Poison"
-  ]
+  "officialTypes": [
+   "grass",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 132,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Vileplume",
@@ -1827,10 +2019,20 @@
    ],
    "hidden": "Effect Spore"
   },
-  "srcTypes": [
-   "Grass",
-   "Poison"
-  ]
+  "officialTypes": [
+   "grass",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 245,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 SpA"
+  }
  },
  {
   "key": "Paras",
@@ -1927,10 +2129,21 @@
    ],
    "hidden": "Poison Heal"
   },
-  "srcTypes": [
-   "Bug",
-   "Grass"
-  ]
+  "officialTypes": [
+   "bug",
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 70,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug",
+    "Grass"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Parasect",
@@ -2030,10 +2243,21 @@
    ],
    "hidden": "Damp"
   },
-  "srcTypes": [
-   "Bug",
-   "Grass"
-  ]
+  "officialTypes": [
+   "bug",
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 128,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug",
+    "Grass"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Atk, 1 Def"
+  }
  },
  {
   "key": "Mankey",
@@ -2141,9 +2365,19 @@
    ],
    "hidden": "Defiant"
   },
-  "srcTypes": [
-   "Fighting"
-  ]
+  "officialTypes": [
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 74,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Primeape",
@@ -2255,9 +2489,19 @@
    ],
    "hidden": "Defiant"
   },
-  "srcTypes": [
-   "Fighting"
-  ]
+  "officialTypes": [
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 149,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Growlithe",
@@ -2382,9 +2626,19 @@
    ],
    "hidden": "Justified"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 91,
+   "gender": "75% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Growlithe_Hisuian",
@@ -2482,8 +2736,7 @@
   ],
   "nationalNo": 58,
   "types": [
-   "fire",
-   "rock"
+   "fire"
   ],
   "spriteFile": "sprites/Growlithe_Hisuian.png",
   "spriteEra": "modern",
@@ -2505,9 +2758,20 @@
    ],
    "hidden": "Justified"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire",
+   "rock"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 91,
+   "gender": "75% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Arcanine",
@@ -2593,9 +2857,19 @@
    ],
    "hidden": "Justified"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 213,
+   "gender": "75% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Arcanine_Hisuian",
@@ -2682,10 +2956,20 @@
    ],
    "hidden": "Justified"
   },
-  "srcTypes": [
-   "Fire",
-   "Rock"
-  ]
+  "officialTypes": [
+   "fire",
+   "rock"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 213,
+   "gender": "75% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Poliwag",
@@ -2781,9 +3065,19 @@
    ],
    "hidden": "Swift Swim"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 77,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Poliwhirl",
@@ -2884,9 +3178,19 @@
    ],
    "hidden": "Swift Swim"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 131,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Poliwrath",
@@ -2965,10 +3269,20 @@
    ],
    "hidden": "Swift Swim"
   },
-  "srcTypes": [
-   "Water",
-   "Fighting"
-  ]
+  "officialTypes": [
+   "water",
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 185,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 Def"
+  }
  },
  {
   "key": "Abra",
@@ -3012,9 +3326,19 @@
    ],
    "hidden": "Trace"
   },
-  "srcTypes": [
-   "Psychic"
-  ]
+  "officialTypes": [
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 200,
+   "baseExp": 73,
+   "gender": "75% ♂",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Kadabra",
@@ -3114,9 +3438,19 @@
    ],
    "hidden": "Trace"
   },
-  "srcTypes": [
-   "Psychic"
-  ]
+  "officialTypes": [
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 100,
+   "baseExp": 145,
+   "gender": "75% ♂",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Alakazam",
@@ -3214,9 +3548,19 @@
    ],
    "hidden": "Trace"
   },
-  "srcTypes": [
-   "Psychic"
-  ]
+  "officialTypes": [
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 50,
+   "baseExp": 186,
+   "gender": "75% ♂",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 SpA"
+  }
  },
  {
   "key": "Machop",
@@ -3324,9 +3668,19 @@
    ],
    "hidden": "Steadfast"
   },
-  "srcTypes": [
-   "Fighting"
-  ]
+  "officialTypes": [
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 180,
+   "baseExp": 61,
+   "gender": "75% ♂",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Machoke",
@@ -3434,9 +3788,19 @@
    ],
    "hidden": "Steadfast"
   },
-  "srcTypes": [
-   "Fighting"
-  ]
+  "officialTypes": [
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 90,
+   "baseExp": 146,
+   "gender": "75% ♂",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Machamp",
@@ -3546,9 +3910,19 @@
    ],
    "hidden": "Steadfast"
   },
-  "srcTypes": [
-   "Fighting"
-  ]
+  "officialTypes": [
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 253,
+   "gender": "75% ♂",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Bellsprout",
@@ -3644,10 +4018,20 @@
    ],
    "hidden": "Gluttony"
   },
-  "srcTypes": [
-   "Grass",
-   "Poison"
-  ]
+  "officialTypes": [
+   "grass",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 84,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Weepinbell",
@@ -3743,10 +4127,20 @@
    ],
    "hidden": "Gluttony"
   },
-  "srcTypes": [
-   "Grass",
-   "Poison"
-  ]
+  "officialTypes": [
+   "grass",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 151,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Victreebel",
@@ -3804,10 +4198,20 @@
    ],
    "hidden": "Gluttony"
   },
-  "srcTypes": [
-   "Grass",
-   "Poison"
-  ]
+  "officialTypes": [
+   "grass",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 191,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Tentacool",
@@ -3912,10 +4316,20 @@
    ],
    "hidden": "Rain Dish"
   },
-  "srcTypes": [
-   "Water",
-   "Poison"
-  ]
+  "officialTypes": [
+   "water",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 105,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 3"
+   ],
+   "growth": "Slow",
+   "evYield": "1 SpD"
+  }
  },
  {
   "key": "Tentacruel",
@@ -4018,10 +4432,20 @@
    ],
    "hidden": "Rain Dish"
   },
-  "srcTypes": [
-   "Water",
-   "Poison"
-  ]
+  "officialTypes": [
+   "water",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 205,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 3"
+   ],
+   "growth": "Slow",
+   "evYield": "2 SpD"
+  }
  },
  {
   "key": "Geodude",
@@ -4131,10 +4555,20 @@
    ],
    "hidden": "Galvanize"
   },
-  "srcTypes": [
-   "Rock",
-   "Ground"
-  ]
+  "officialTypes": [
+   "rock",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 60,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Def"
+  }
  },
  {
   "key": "Geodude_Alolan",
@@ -4239,10 +4673,20 @@
    ],
    "hidden": "Galvanize"
   },
-  "srcTypes": [
-   "Rock",
-   "Electric"
-  ]
+  "officialTypes": [
+   "rock",
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 86,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Def"
+  }
  },
  {
   "key": "Graveler",
@@ -4352,10 +4796,20 @@
    ],
    "hidden": "Galvanize"
   },
-  "srcTypes": [
-   "Rock",
-   "Ground"
-  ]
+  "officialTypes": [
+   "rock",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 134,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Graveler_Alolan",
@@ -4460,10 +4914,20 @@
    ],
    "hidden": "Galvanize"
   },
-  "srcTypes": [
-   "Rock",
-   "Electric"
-  ]
+  "officialTypes": [
+   "rock",
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 134,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Golem",
@@ -4566,10 +5030,20 @@
    ],
    "hidden": "Galvanize"
   },
-  "srcTypes": [
-   "Rock",
-   "Ground"
-  ]
+  "officialTypes": [
+   "rock",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 209,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 Def"
+  }
  },
  {
   "key": "Golem_Alolan",
@@ -4672,10 +5146,20 @@
    ],
    "hidden": "Galvanize"
   },
-  "srcTypes": [
-   "Rock",
-   "Electric"
-  ]
+  "officialTypes": [
+   "rock",
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 177,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 Def"
+  }
  },
  {
   "key": "Ponyta",
@@ -4776,9 +5260,19 @@
    ],
    "hidden": "Flame Body"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 82,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Ponyta_Galarian",
@@ -4874,9 +5368,19 @@
    ],
    "hidden": "Anticipation"
   },
-  "srcTypes": [
-   "Psychic"
-  ]
+  "officialTypes": [
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 152,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Rapidash",
@@ -4978,9 +5482,19 @@
    ],
    "hidden": "Flame Body"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 192,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Rapidash_Galarian",
@@ -5079,10 +5593,20 @@
    ],
    "hidden": "Anticipation"
   },
-  "srcTypes": [
-   "Psychic",
-   "Fairy"
-  ]
+  "officialTypes": [
+   "psychic",
+   "fairy"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 192,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Slowpoke",
@@ -5193,10 +5717,21 @@
    ],
    "hidden": "Regenerator"
   },
-  "srcTypes": [
-   "Water",
-   "Psychic"
-  ]
+  "officialTypes": [
+   "water",
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 99,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Water 1"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 HP"
+  }
  },
  {
   "key": "Slowpoke_Galarian",
@@ -5301,9 +5836,20 @@
    ],
    "hidden": "Regenerator"
   },
-  "srcTypes": [
-   "Psychic"
-  ]
+  "officialTypes": [
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 99,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Water 1"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 HP"
+  }
  },
  {
   "key": "Slowbro",
@@ -5402,10 +5948,21 @@
    ],
    "hidden": "Regenerator"
   },
-  "srcTypes": [
-   "Water",
-   "Psychic"
-  ]
+  "officialTypes": [
+   "water",
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 164,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Water 1"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Slowbro_Galarian",
@@ -5504,10 +6061,21 @@
    ],
    "hidden": "Regenerator"
   },
-  "srcTypes": [
-   "Poison",
-   "Psychic"
-  ]
+  "officialTypes": [
+   "poison",
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 164,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Water 1"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Magnemite",
@@ -5620,10 +6188,20 @@
    ],
    "hidden": "Analytic"
   },
-  "srcTypes": [
-   "Electric",
-   "Steel"
-  ]
+  "officialTypes": [
+   "electric",
+   "steel"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 89,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Magneton",
@@ -5740,10 +6318,20 @@
    ],
    "hidden": "Analytic"
   },
-  "srcTypes": [
-   "Electric",
-   "Steel"
-  ]
+  "officialTypes": [
+   "electric",
+   "steel"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 161,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Grimer",
@@ -5848,9 +6436,19 @@
    ],
    "hidden": "Poison Touch"
   },
-  "srcTypes": [
-   "Poison"
-  ]
+  "officialTypes": [
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 65,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 HP"
+  }
  },
  {
   "key": "Grimer_Alolan",
@@ -5951,10 +6549,20 @@
    ],
    "hidden": "Corrosion"
   },
-  "srcTypes": [
-   "Poison",
-   "Dark"
-  ]
+  "officialTypes": [
+   "poison",
+   "dark"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 90,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 HP"
+  }
  },
  {
   "key": "Muk",
@@ -6052,9 +6660,19 @@
    ],
    "hidden": "Corrosion"
   },
-  "srcTypes": [
-   "Poison"
-  ]
+  "officialTypes": [
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 157,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 HP, 1 Atk"
+  }
  },
  {
   "key": "Muk_Alolan",
@@ -6153,10 +6771,20 @@
    ],
    "hidden": "Corrosion"
   },
-  "srcTypes": [
-   "Poison",
-   "Dark"
-  ]
+  "officialTypes": [
+   "poison",
+   "dark"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 157,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 HP, 1 Atk"
+  }
  },
  {
   "key": "Gastly",
@@ -6256,10 +6884,20 @@
    ],
    "hidden": "Cursed Body"
   },
-  "srcTypes": [
-   "Ghost",
-   "Poison"
-  ]
+  "officialTypes": [
+   "ghost",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 62,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Haunter",
@@ -6363,10 +7001,20 @@
    ],
    "hidden": "Cursed Body"
   },
-  "srcTypes": [
-   "Ghost",
-   "Poison"
-  ]
+  "officialTypes": [
+   "ghost",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 90,
+   "baseExp": 142,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Gengar",
@@ -6471,10 +7119,20 @@
    ],
    "hidden": "Shadow Tag"
   },
-  "srcTypes": [
-   "Ghost",
-   "Poison"
-  ]
+  "officialTypes": [
+   "ghost",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 250,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 SpA"
+  }
  },
  {
   "key": "Onix",
@@ -6604,10 +7262,20 @@
    ],
    "hidden": "Weak Armor"
   },
-  "srcTypes": [
-   "Rock",
-   "Ground"
-  ]
+  "officialTypes": [
+   "rock",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 108,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Def"
+  }
  },
  {
   "key": "Voltorb",
@@ -6720,9 +7388,19 @@
    ],
    "hidden": "Aftermath"
   },
-  "srcTypes": [
-   "Electric"
-  ]
+  "officialTypes": [
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 66,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Voltorb_Hisuian",
@@ -6831,10 +7509,20 @@
    ],
    "hidden": "Aftermath"
   },
-  "srcTypes": [
-   "Electric",
-   "Grass"
-  ]
+  "officialTypes": [
+   "electric",
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 103,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Electrode",
@@ -6936,9 +7624,19 @@
    ],
    "hidden": "Aftermath"
   },
-  "srcTypes": [
-   "Electric"
-  ]
+  "officialTypes": [
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 172,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Electrode_Hisuian",
@@ -7044,10 +7742,20 @@
    ],
    "hidden": "Aftermath"
   },
-  "srcTypes": [
-   "Electric",
-   "Grass"
-  ]
+  "officialTypes": [
+   "electric",
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 213,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 Spe"
+  }
  },
  {
   "key": "Exeggcute",
@@ -7152,10 +7860,20 @@
    ],
    "hidden": "Harvest"
   },
-  "srcTypes": [
-   "Grass",
-   "Psychic"
-  ]
+  "officialTypes": [
+   "grass",
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 90,
+   "baseExp": 98,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Grass"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Def"
+  }
  },
  {
   "key": "Exeggutor",
@@ -7221,10 +7939,20 @@
    ],
    "hidden": "Harvest"
   },
-  "srcTypes": [
-   "Grass",
-   "Psychic"
-  ]
+  "officialTypes": [
+   "grass",
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 212,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Grass"
+   ],
+   "growth": "Slow",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Exeggutor_Alolan",
@@ -7290,10 +8018,20 @@
    ],
    "hidden": "Harvest"
   },
-  "srcTypes": [
-   "Grass",
-   "Dragon"
-  ]
+  "officialTypes": [
+   "grass",
+   "dragon"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 212,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Grass"
+   ],
+   "growth": "Slow",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Hitmonlee",
@@ -7395,9 +8133,19 @@
    ],
    "hidden": "Unburden"
   },
-  "srcTypes": [
-   "Fighting"
-  ]
+  "officialTypes": [
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 139,
+   "gender": "100% ♂",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Hitmonchan",
@@ -7503,9 +8251,19 @@
    ],
    "hidden": "Inner Focus"
   },
-  "srcTypes": [
-   "Fighting"
-  ]
+  "officialTypes": [
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 140,
+   "gender": "100% ♂",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 SpD"
+  }
  },
  {
   "key": "Koffing",
@@ -7606,9 +8364,19 @@
    ],
    "hidden": "Stench"
   },
-  "srcTypes": [
-   "Poison"
-  ]
+  "officialTypes": [
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 68,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Def"
+  }
  },
  {
   "key": "Weezing",
@@ -7698,9 +8466,19 @@
    ],
    "hidden": "Aftermath"
   },
-  "srcTypes": [
-   "Poison"
-  ]
+  "officialTypes": [
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 173,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Weezing_Galarian",
@@ -7795,10 +8573,20 @@
    ],
    "hidden": "White Smoke"
   },
-  "srcTypes": [
-   "Poison",
-   "Fairy"
-  ]
+  "officialTypes": [
+   "poison",
+   "fairy"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 173,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Rhyhorn",
@@ -7906,10 +8694,21 @@
    ],
    "hidden": "Reckless"
   },
-  "srcTypes": [
-   "Ground",
-   "Rock"
-  ]
+  "officialTypes": [
+   "ground",
+   "rock"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 135,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Def"
+  }
  },
  {
   "key": "Rhydon",
@@ -8038,10 +8837,21 @@
    ],
    "hidden": "Reckless"
   },
-  "srcTypes": [
-   "Ground",
-   "Rock"
-  ]
+  "officialTypes": [
+   "ground",
+   "rock"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 204,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Chansey",
@@ -8149,9 +8959,19 @@
    ],
    "hidden": "Natural Cure"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 30,
+   "baseExp": 255,
+   "gender": "100% ♀",
+   "eggGroups": [
+    "Fairy"
+   ],
+   "growth": "Fast",
+   "evYield": "2 HP"
+  }
  },
  {
   "key": "Tangela",
@@ -8263,9 +9083,19 @@
    ],
    "hidden": "Tangling Hair"
   },
-  "srcTypes": [
-   "Grass"
-  ]
+  "officialTypes": [
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 87,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Grass"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Def"
+  }
  },
  {
   "key": "Horsea",
@@ -8353,9 +9183,20 @@
    ],
    "hidden": "Damp"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 225,
+   "baseExp": 83,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1",
+    "Dragon"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Seadra",
@@ -8443,9 +9284,20 @@
    ],
    "hidden": "Damp"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 155,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1",
+    "Dragon"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Def, 1 SpA"
+  }
  },
  {
   "key": "Scyther",
@@ -8550,10 +9402,20 @@
    ],
    "hidden": "Steadfast"
   },
-  "srcTypes": [
-   "Bug",
-   "Flying"
-  ]
+  "officialTypes": [
+   "bug",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 100,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Jynx",
@@ -8680,10 +9542,20 @@
    ],
    "hidden": "Dry Skin"
   },
-  "srcTypes": [
-   "Ice",
-   "Psychic"
-  ]
+  "officialTypes": [
+   "ice",
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 137,
+   "gender": "100% ♀",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Electabuzz",
@@ -8787,9 +9659,19 @@
    ],
    "hidden": "Vital Spirit"
   },
-  "srcTypes": [
-   "Electric"
-  ]
+  "officialTypes": [
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 156,
+   "gender": "75% ♂",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Magmar",
@@ -8884,9 +9766,19 @@
    ],
    "hidden": "Vital Spirit"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 167,
+   "gender": "75% ♂",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Pinsir",
@@ -8986,9 +9878,19 @@
    ],
    "hidden": "Moxie"
   },
-  "srcTypes": [
-   "Bug"
-  ]
+  "officialTypes": [
+   "bug"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 200,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Tauros",
@@ -9085,9 +9987,19 @@
    ],
    "hidden": "Sheer Force"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 211,
+   "gender": "100% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Atk, 1 Spe"
+  }
  },
  {
   "key": "Magikarp",
@@ -9138,9 +10050,20 @@
    ],
    "hidden": "Rattled"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 20,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 2",
+    "Dragon"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Gyarados",
@@ -9247,10 +10170,21 @@
    ],
    "hidden": "Mold Breaker"
   },
-  "srcTypes": [
-   "Water",
-   "Flying"
-  ]
+  "officialTypes": [
+   "water",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 214,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 2",
+    "Dragon"
+   ],
+   "growth": "Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Lapras",
@@ -9361,10 +10295,21 @@
    ],
    "hidden": "Hydration"
   },
-  "srcTypes": [
-   "Water",
-   "Ice"
-  ]
+  "officialTypes": [
+   "water",
+   "ice"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 219,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Water 1"
+   ],
+   "growth": "Slow",
+   "evYield": "2 HP"
+  }
  },
  {
   "key": "Ditto",
@@ -9410,9 +10355,19 @@
    ],
    "hidden": "Imposter"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 35,
+   "baseExp": 101,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Ditto"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 HP"
+  }
  },
  {
   "key": "Eevee",
@@ -9551,9 +10506,19 @@
    ],
    "hidden": "Anticipation"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 92,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 SpD"
+  }
  },
  {
   "key": "Vaporeon",
@@ -9646,9 +10611,19 @@
    ],
    "hidden": "Hydration"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 196,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 HP"
+  }
  },
  {
   "key": "Jolteon",
@@ -9748,9 +10723,19 @@
    ],
    "hidden": "Quick Feet"
   },
-  "srcTypes": [
-   "Electric"
-  ]
+  "officialTypes": [
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 197,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Flareon",
@@ -9850,9 +10835,19 @@
    ],
    "hidden": "Guts"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 198,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Porygon",
@@ -9948,9 +10943,19 @@
    ],
    "hidden": "Analytic"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 130,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Snorlax",
@@ -10044,9 +11049,19 @@
    ],
    "hidden": "Gluttony"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 25,
+   "baseExp": 154,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Monster"
+   ],
+   "growth": "Slow",
+   "evYield": "2 HP"
+  }
  },
  {
   "key": "Dratini",
@@ -10141,9 +11156,20 @@
    ],
    "hidden": "Marvel Scale"
   },
-  "srcTypes": [
-   "Dragon"
-  ]
+  "officialTypes": [
+   "dragon"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 67,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1",
+    "Dragon"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Dragonair",
@@ -10238,9 +11264,20 @@
    ],
    "hidden": "Marvel Scale"
   },
-  "srcTypes": [
-   "Dragon"
-  ]
+  "officialTypes": [
+   "dragon"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 144,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1",
+    "Dragon"
+   ],
+   "growth": "Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Dragonite",
@@ -10369,10 +11406,21 @@
    ],
    "hidden": "Multiscale"
   },
-  "srcTypes": [
-   "Dragon",
-   "Flying"
-  ]
+  "officialTypes": [
+   "dragon",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 218,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1",
+    "Dragon"
+   ],
+   "growth": "Slow",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Chikorita",
@@ -10486,9 +11534,20 @@
    ],
    "hidden": "Leaf Guard"
   },
-  "srcTypes": [
-   "Grass"
-  ]
+  "officialTypes": [
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 64,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Monster",
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 SpD"
+  }
  },
  {
   "key": "Bayleef",
@@ -10607,9 +11666,20 @@
    ],
    "hidden": "Leaf Guard"
   },
-  "srcTypes": [
-   "Grass"
-  ]
+  "officialTypes": [
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 141,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Monster",
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Def, 1 SpD"
+  }
  },
  {
   "key": "Meganium",
@@ -10715,9 +11785,20 @@
    ],
    "hidden": "Leaf Guard"
   },
-  "srcTypes": [
-   "Grass"
-  ]
+  "officialTypes": [
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 208,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Monster",
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Def, 2 SpD"
+  }
  },
  {
   "key": "Meganium_Ancestor",
@@ -10773,7 +11854,8 @@
   ],
   "nationalNo": 154,
   "types": [
-   "grass"
+   "bug",
+   "fairy"
   ],
   "spriteFile": "sprites/Meganium_Ancestor.png",
   "spriteEra": "gen2",
@@ -10795,10 +11877,20 @@
    ],
    "hidden": "Tinted Lens"
   },
-  "srcTypes": [
-   "Bug",
-   "Fairy"
-  ]
+  "officialTypes": [
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 208,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Monster",
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Atk, 2 SpA"
+  }
  },
  {
   "key": "Cyndaquil",
@@ -10904,9 +11996,19 @@
    ],
    "hidden": "Flash Fire"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 65,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Quilava",
@@ -11009,9 +12111,19 @@
    ],
    "hidden": "Flash Fire"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 142,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Spe, 1 SpA"
+  }
  },
  {
   "key": "Typhlosion",
@@ -11101,9 +12213,19 @@
    ],
    "hidden": "White Smoke"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 209,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 SpA"
+  }
  },
  {
   "key": "Typhlosion_Hisuian",
@@ -11194,10 +12316,20 @@
    ],
    "hidden": "White Smoke"
   },
-  "srcTypes": [
-   "Fire",
-   "Ghost"
-  ]
+  "officialTypes": [
+   "fire",
+   "ghost"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 213,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 SpA"
+  }
  },
  {
   "key": "Totodile",
@@ -11311,9 +12443,20 @@
    ],
    "hidden": "Sheer Force"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 66,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Monster",
+    "Water 1"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Croconaw",
@@ -11432,9 +12575,20 @@
    ],
    "hidden": "Sheer Force"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 143,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Monster",
+    "Water 1"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Atk, 1 Def"
+  }
  },
  {
   "key": "Feraligatr",
@@ -11550,9 +12704,20 @@
    ],
    "hidden": "Sheer Force"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 210,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Monster",
+    "Water 1"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 Atk, 1 Def"
+  }
  },
  {
   "key": "Feraligatr_Ancestor",
@@ -11624,7 +12789,8 @@
   ],
   "nationalNo": 160,
   "types": [
-   "water"
+   "ground",
+   "electric"
   ],
   "spriteFile": "sprites/Feraligatr_Ancestor.png",
   "spriteEra": "gen2",
@@ -11646,10 +12812,20 @@
    ],
    "hidden": "Water Absorb"
   },
-  "srcTypes": [
-   "Ground",
-   "Electric"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 210,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Monster",
+    "Water 1"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 SpA, 1 SpD"
+  }
  },
  {
   "key": "Sentret",
@@ -11745,9 +12921,19 @@
    ],
    "hidden": "Frisk"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 57,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Furret",
@@ -11850,9 +13036,19 @@
    ],
    "hidden": "Frisk"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 90,
+   "baseExp": 116,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Hoothoot",
@@ -11970,10 +13166,20 @@
    ],
    "hidden": "Tinted Lens"
   },
-  "srcTypes": [
-   "Normal",
-   "Flying"
-  ]
+  "officialTypes": [
+   "normal",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 58,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 HP"
+  }
  },
  {
   "key": "Noctowl",
@@ -12093,10 +13299,20 @@
    ],
    "hidden": "Tinted Lens"
   },
-  "srcTypes": [
-   "Normal",
-   "Flying"
-  ]
+  "officialTypes": [
+   "normal",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 90,
+   "baseExp": 162,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 HP"
+  }
  },
  {
   "key": "Noctowl_Immortal",
@@ -12156,8 +13372,8 @@
   ],
   "nationalNo": 164,
   "types": [
-   "normal",
-   "flying"
+   "flying",
+   "ghost"
   ],
   "spriteFile": "sprites/Noctowl_Immortal.png",
   "spriteEra": "gen2",
@@ -12179,10 +13395,20 @@
    ],
    "hidden": "Compound Eyes"
   },
-  "srcTypes": [
-   "Flying",
-   "Ghost"
-  ]
+  "officialTypes": [
+   "normal",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 90,
+   "baseExp": 162,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 HP, 1 Atk"
+  }
  },
  {
   "key": "Ledyba",
@@ -12288,10 +13514,20 @@
    ],
    "hidden": "Rattled"
   },
-  "srcTypes": [
-   "Bug",
-   "Flying"
-  ]
+  "officialTypes": [
+   "bug",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 54,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Fast",
+   "evYield": "1 SpD"
+  }
  },
  {
   "key": "Ledian",
@@ -12395,10 +13631,20 @@
    ],
    "hidden": "Iron Fist"
   },
-  "srcTypes": [
-   "Bug",
-   "Flying"
-  ]
+  "officialTypes": [
+   "bug",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 90,
+   "baseExp": 134,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Fast",
+   "evYield": "2 SpD"
+  }
  },
  {
   "key": "Spinarak",
@@ -12507,10 +13753,20 @@
    ],
    "hidden": "Sniper"
   },
-  "srcTypes": [
-   "Bug",
-   "Poison"
-  ]
+  "officialTypes": [
+   "bug",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 54,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Fast",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Ariados",
@@ -12630,10 +13886,20 @@
    ],
    "hidden": "Sniper"
   },
-  "srcTypes": [
-   "Bug",
-   "Poison"
-  ]
+  "officialTypes": [
+   "bug",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 90,
+   "baseExp": 140,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Fast",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Crobat",
@@ -12750,10 +14016,20 @@
    ],
    "hidden": "Infiltrator"
   },
-  "srcTypes": [
-   "Poison",
-   "Flying"
-  ]
+  "officialTypes": [
+   "poison",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 90,
+   "baseExp": 209,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 Spe"
+  }
  },
  {
   "key": "Chinchou",
@@ -12858,10 +14134,20 @@
    ],
    "hidden": "Water Absorb"
   },
-  "srcTypes": [
-   "Water",
-   "Electric"
-  ]
+  "officialTypes": [
+   "water",
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 90,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 2"
+   ],
+   "growth": "Slow",
+   "evYield": "1 HP"
+  }
  },
  {
   "key": "Lanturn",
@@ -12969,10 +14255,20 @@
    ],
    "hidden": "Water Absorb"
   },
-  "srcTypes": [
-   "Water",
-   "Electric"
-  ]
+  "officialTypes": [
+   "water",
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 156,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 2"
+   ],
+   "growth": "Slow",
+   "evYield": "2 HP"
+  }
  },
  {
   "key": "Togetic",
@@ -13076,10 +14372,21 @@
    ],
    "hidden": "Super Luck"
   },
-  "srcTypes": [
-   "Fairy",
-   "Flying"
-  ]
+  "officialTypes": [
+   "fairy",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 142,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Flying",
+    "Fairy"
+   ],
+   "growth": "Fast",
+   "evYield": "2 SpD"
+  }
  },
  {
   "key": "Natu",
@@ -13185,10 +14492,20 @@
    ],
    "hidden": "Magic Bounce"
   },
-  "srcTypes": [
-   "Psychic",
-   "Flying"
-  ]
+  "officialTypes": [
+   "psychic",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 73,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Xatu",
@@ -13287,10 +14604,20 @@
    ],
    "hidden": "Magic Bounce"
   },
-  "srcTypes": [
-   "Psychic",
-   "Flying"
-  ]
+  "officialTypes": [
+   "psychic",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 171,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Spe, 1 SpA"
+  }
  },
  {
   "key": "Xatu_Ancestor",
@@ -13359,7 +14686,7 @@
   "nationalNo": 178,
   "types": [
    "psychic",
-   "flying"
+   "rock"
   ],
   "spriteFile": "sprites/Xatu_Ancestor.png",
   "spriteEra": "gen2",
@@ -13381,10 +14708,20 @@
    ],
    "hidden": "Magic Bounce"
   },
-  "srcTypes": [
-   "Psychic",
-   "Rock"
-  ]
+  "officialTypes": [
+   "psychic",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 171,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Spe, 1 SpA"
+  }
  },
  {
   "key": "Mareep",
@@ -13490,9 +14827,20 @@
    ],
    "hidden": "Static"
   },
-  "srcTypes": [
-   "Electric"
-  ]
+  "officialTypes": [
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 235,
+   "baseExp": 59,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Flaaffy",
@@ -13606,9 +14954,20 @@
    ],
    "hidden": "Static"
   },
-  "srcTypes": [
-   "Electric"
-  ]
+  "officialTypes": [
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 117,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Ampharos",
@@ -13730,9 +15089,20 @@
    ],
    "hidden": "Volt Absorb"
   },
-  "srcTypes": [
-   "Electric"
-  ]
+  "officialTypes": [
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 220,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 SpA"
+  }
  },
  {
   "key": "Bellossom",
@@ -13780,7 +15150,8 @@
   ],
   "nationalNo": 182,
   "types": [
-   "grass"
+   "grass",
+   "fairy"
   ],
   "spriteFile": "sprites/Bellossom.png",
   "spriteEra": "gen2",
@@ -13816,9 +15187,22 @@
    ],
    "hidden": "Chlorophyll"
   },
-  "srcTypes": [
-   "Grass"
-  ]
+  "officialTypes": [
+   "grass"
+  ],
+  "typesFaithful": [
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 184,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 SpD"
+  }
  },
  {
   "key": "Marill",
@@ -13919,10 +15303,21 @@
    ],
    "hidden": "Sap Sipper"
   },
-  "srcTypes": [
-   "Water",
-   "Fairy"
-  ]
+  "officialTypes": [
+   "water",
+   "fairy"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 58,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1",
+    "Fairy"
+   ],
+   "growth": "Fast",
+   "evYield": "2 HP"
+  }
  },
  {
   "key": "Azumarill",
@@ -14026,10 +15421,21 @@
    ],
    "hidden": "Sap Sipper"
   },
-  "srcTypes": [
-   "Water",
-   "Fairy"
-  ]
+  "officialTypes": [
+   "water",
+   "fairy"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 153,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1",
+    "Fairy"
+   ],
+   "growth": "Fast",
+   "evYield": "3 HP"
+  }
  },
  {
   "key": "Sudowoodo",
@@ -14123,9 +15529,19 @@
    ],
    "hidden": "Rattled"
   },
-  "srcTypes": [
-   "Rock"
-  ]
+  "officialTypes": [
+   "rock"
+  ],
+  "bio": {
+   "catchRate": 65,
+   "baseExp": 135,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Politoed",
@@ -14195,9 +15611,19 @@
    ],
    "hidden": "Water Absorb"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 185,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 SpD"
+  }
  },
  {
   "key": "Hoppip",
@@ -14297,10 +15723,21 @@
    ],
    "hidden": "Infiltrator"
   },
-  "srcTypes": [
-   "Grass",
-   "Flying"
-  ]
+  "officialTypes": [
+   "grass",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 75,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Fairy",
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 SpD"
+  }
  },
  {
   "key": "Skiploom",
@@ -14408,10 +15845,21 @@
    ],
    "hidden": "Infiltrator"
   },
-  "srcTypes": [
-   "Grass",
-   "Flying"
-  ]
+  "officialTypes": [
+   "grass",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 119,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Fairy",
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Jumpluff",
@@ -14513,10 +15961,21 @@
    ],
    "hidden": "Infiltrator"
   },
-  "srcTypes": [
-   "Grass",
-   "Flying"
-  ]
+  "officialTypes": [
+   "grass",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 230,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Fairy",
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 Spe"
+  }
  },
  {
   "key": "Aipom",
@@ -14612,9 +16071,20 @@
    ],
    "hidden": "Moody"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 72,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Fast",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Sunkern",
@@ -14714,9 +16184,19 @@
    ],
    "hidden": "Early Bird"
   },
-  "srcTypes": [
-   "Grass"
-  ]
+  "officialTypes": [
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 235,
+   "baseExp": 52,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Sunflora",
@@ -14792,7 +16272,8 @@
   ],
   "nationalNo": 192,
   "types": [
-   "grass"
+   "grass",
+   "fire"
   ],
   "spriteFile": "sprites/Sunflora.png",
   "spriteEra": "gen2",
@@ -14822,9 +16303,22 @@
    ],
    "hidden": "Early Bird"
   },
-  "srcTypes": [
-   "Grass"
-  ]
+  "officialTypes": [
+   "grass"
+  ],
+  "typesFaithful": [
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 146,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Grass"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Yanma",
@@ -14937,10 +16431,20 @@
    ],
    "hidden": "Swarm"
   },
-  "srcTypes": [
-   "Bug",
-   "Flying"
-  ]
+  "officialTypes": [
+   "bug",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 147,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Wooper",
@@ -15029,10 +16533,21 @@
    ],
    "hidden": "Unaware"
   },
-  "srcTypes": [
-   "Water",
-   "Ground"
-  ]
+  "officialTypes": [
+   "water",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 52,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1",
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 HP"
+  }
  },
  {
   "key": "Quagsire",
@@ -15118,10 +16633,21 @@
    ],
    "hidden": "Unaware"
   },
-  "srcTypes": [
-   "Water",
-   "Ground"
-  ]
+  "officialTypes": [
+   "water",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 90,
+   "baseExp": 137,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1",
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 HP"
+  }
  },
  {
   "key": "Espeon",
@@ -15221,9 +16747,19 @@
    ],
    "hidden": "Magic Bounce"
   },
-  "srcTypes": [
-   "Psychic"
-  ]
+  "officialTypes": [
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 197,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Umbreon",
@@ -15316,9 +16852,19 @@
    ],
    "hidden": "Inner Focus"
   },
-  "srcTypes": [
-   "Dark"
-  ]
+  "officialTypes": [
+   "dark"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 197,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 SpD"
+  }
  },
  {
   "key": "Murkrow",
@@ -15419,10 +16965,20 @@
    ],
    "hidden": "Prankster"
   },
-  "srcTypes": [
-   "Dark",
-   "Flying"
-  ]
+  "officialTypes": [
+   "dark",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 30,
+   "baseExp": 107,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Slowking",
@@ -15533,10 +17089,21 @@
    ],
    "hidden": "Poison Heal"
   },
-  "srcTypes": [
-   "Water",
-   "Psychic"
-  ]
+  "officialTypes": [
+   "water",
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 70,
+   "baseExp": 164,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Water 1"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 SpD"
+  }
  },
  {
   "key": "Slowking_Galarian",
@@ -15643,10 +17210,21 @@
    ],
    "hidden": "Regenerator"
   },
-  "srcTypes": [
-   "Poison",
-   "Psychic"
-  ]
+  "officialTypes": [
+   "poison",
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 70,
+   "baseExp": 164,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Water 1"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 SpD"
+  }
  },
  {
   "key": "Misdreavus",
@@ -15749,9 +17327,19 @@
    ],
    "hidden": "Prankster"
   },
-  "srcTypes": [
-   "Ghost"
-  ]
+  "officialTypes": [
+   "ghost"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 147,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Fast",
+   "evYield": "1 SpD"
+  }
  },
  {
   "key": "Unown",
@@ -15800,9 +17388,19 @@
    ],
    "hidden": "Levitate"
   },
-  "srcTypes": [
-   "Psychic"
-  ]
+  "officialTypes": [
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 225,
+   "baseExp": 61,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Undiscovered"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Atk, 1 SpA"
+  }
  },
  {
   "key": "Girafarig",
@@ -15880,7 +17478,7 @@
   ],
   "nationalNo": 203,
   "types": [
-   "normal",
+   "dark",
    "psychic"
   ],
   "spriteFile": "sprites/Girafarig.png",
@@ -15912,10 +17510,20 @@
    ],
    "hidden": "Sap Sipper"
   },
-  "srcTypes": [
-   "Dark",
-   "Psychic"
-  ]
+  "officialTypes": [
+   "normal",
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 149,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Pineco",
@@ -16010,9 +17618,19 @@
    ],
    "hidden": "Overcoat"
   },
-  "srcTypes": [
-   "Bug"
-  ]
+  "officialTypes": [
+   "bug"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 60,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Def"
+  }
  },
  {
   "key": "Forretress",
@@ -16122,10 +17740,20 @@
    ],
    "hidden": "Overcoat"
   },
-  "srcTypes": [
-   "Bug",
-   "Steel"
-  ]
+  "officialTypes": [
+   "bug",
+   "steel"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 118,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Dunsparce",
@@ -16261,9 +17889,19 @@
    ],
    "hidden": "Rattled"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 145,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 HP"
+  }
  },
  {
   "key": "Gligar",
@@ -16364,10 +18002,20 @@
    ],
    "hidden": "Immunity"
   },
-  "srcTypes": [
-   "Ground",
-   "Flying"
-  ]
+  "officialTypes": [
+   "ground",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 86,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Def"
+  }
  },
  {
   "key": "Steelix",
@@ -16486,10 +18134,20 @@
    ],
    "hidden": "Sand Force"
   },
-  "srcTypes": [
-   "Steel",
-   "Ground"
-  ]
+  "officialTypes": [
+   "steel",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 25,
+   "baseExp": 179,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Snubbull",
@@ -16577,9 +18235,20 @@
    ],
    "hidden": "Rattled"
   },
-  "srcTypes": [
-   "Fairy"
-  ]
+  "officialTypes": [
+   "fairy"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 63,
+   "gender": "25% ♂",
+   "eggGroups": [
+    "Field",
+    "Fairy"
+   ],
+   "growth": "Fast",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Granbull",
@@ -16665,9 +18334,20 @@
    ],
    "hidden": "Rattled"
   },
-  "srcTypes": [
-   "Fairy"
-  ]
+  "officialTypes": [
+   "fairy"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 178,
+   "gender": "25% ♂",
+   "eggGroups": [
+    "Field",
+    "Fairy"
+   ],
+   "growth": "Fast",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Qwilfish",
@@ -16780,10 +18460,20 @@
    ],
    "hidden": "Intimidate"
   },
-  "srcTypes": [
-   "Water",
-   "Poison"
-  ]
+  "officialTypes": [
+   "water",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 100,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 2"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Qwilfish_Hisuian",
@@ -16896,10 +18586,20 @@
    ],
    "hidden": "Intimidate"
   },
-  "srcTypes": [
-   "Dark",
-   "Poison"
-  ]
+  "officialTypes": [
+   "dark",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 100,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 2"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Scizor",
@@ -17002,10 +18702,20 @@
    ],
    "hidden": "Light Metal"
   },
-  "srcTypes": [
-   "Bug",
-   "Steel"
-  ]
+  "officialTypes": [
+   "bug",
+   "steel"
+  ],
+  "bio": {
+   "catchRate": 25,
+   "baseExp": 200,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Shuckle",
@@ -17108,10 +18818,20 @@
    ],
    "hidden": "Contrary"
   },
-  "srcTypes": [
-   "Bug",
-   "Rock"
-  ]
+  "officialTypes": [
+   "bug",
+   "rock"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 80,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Def, 1 SpD"
+  }
  },
  {
   "key": "Heracross",
@@ -17210,10 +18930,20 @@
    ],
    "hidden": "Skill Link"
   },
-  "srcTypes": [
-   "Bug",
-   "Fighting"
-  ]
+  "officialTypes": [
+   "bug",
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 200,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Sneasel",
@@ -17319,10 +19049,20 @@
    ],
    "hidden": "Pickpocket"
   },
-  "srcTypes": [
-   "Dark",
-   "Ice"
-  ]
+  "officialTypes": [
+   "dark",
+   "ice"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 132,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Sneasel_Hisuian",
@@ -17400,8 +19140,8 @@
   ],
   "nationalNo": 215,
   "types": [
-   "fighting",
-   "poison"
+   "poison",
+   "fighting"
   ],
   "spriteFile": "sprites/Sneasel_Hisuian.png",
   "spriteEra": "modern",
@@ -17423,10 +19163,20 @@
    ],
    "hidden": "Pickpocket"
   },
-  "srcTypes": [
-   "Poison",
-   "Fighting"
-  ]
+  "officialTypes": [
+   "fighting",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 132,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Teddiursa",
@@ -17526,9 +19276,19 @@
    ],
    "hidden": "Tough Claws"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 124,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Ursaring",
@@ -17632,9 +19392,19 @@
    ],
    "hidden": "Tough Claws"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 189,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Slugma",
@@ -17739,9 +19509,19 @@
    ],
    "hidden": "Weak Armor"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 78,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Magcargo",
@@ -17849,10 +19629,20 @@
    ],
    "hidden": "Weak Armor"
   },
-  "srcTypes": [
-   "Fire",
-   "Rock"
-  ]
+  "officialTypes": [
+   "fire",
+   "rock"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 154,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Magcargo_Ancestor",
@@ -17916,8 +19706,8 @@
   ],
   "nationalNo": 219,
   "types": [
-   "fire",
-   "rock"
+   "poison",
+   "steel"
   ],
   "spriteFile": "sprites/Magcargo_Ancestor.png",
   "spriteEra": "gen2",
@@ -17939,10 +19729,20 @@
    ],
    "hidden": "Speed Boost"
   },
-  "srcTypes": [
-   "Poison",
-   "Steel"
-  ]
+  "officialTypes": [
+   "fire",
+   "rock"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 154,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Swinub",
@@ -18043,10 +19843,20 @@
    ],
    "hidden": "Thick Fat"
   },
-  "srcTypes": [
-   "Ice",
-   "Ground"
-  ]
+  "officialTypes": [
+   "ice",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 225,
+   "baseExp": 78,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Piloswine",
@@ -18155,10 +19965,20 @@
    ],
    "hidden": "Thick Fat"
   },
-  "srcTypes": [
-   "Ice",
-   "Ground"
-  ]
+  "officialTypes": [
+   "ice",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 160,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "1 HP, 1 Atk"
+  }
  },
  {
   "key": "Corsola",
@@ -18274,10 +20094,21 @@
    ],
    "hidden": "Regenerator"
   },
-  "srcTypes": [
-   "Water",
-   "Rock"
-  ]
+  "officialTypes": [
+   "water",
+   "rock"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 113,
+   "gender": "25% ♂",
+   "eggGroups": [
+    "Water 1",
+    "Water 3"
+   ],
+   "growth": "Fast",
+   "evYield": "1 Def, 1 SpD"
+  }
  },
  {
   "key": "Corsola_Galarian",
@@ -18361,7 +20192,8 @@
   ],
   "nationalNo": 222,
   "types": [
-   "ghost"
+   "ghost",
+   "rock"
   ],
   "spriteFile": "sprites/Corsola_Galarian.png",
   "spriteEra": "modern",
@@ -18382,10 +20214,20 @@
    ],
    "hidden": "Cursed Body"
   },
-  "srcTypes": [
-   "Ghost",
-   "Rock"
-  ]
+  "officialTypes": [
+   "ghost"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 113,
+   "gender": "25% ♂",
+   "eggGroups": [
+    "Water 1",
+    "Water 3"
+   ],
+   "growth": "Fast",
+   "evYield": "1 Def, 1 SpD"
+  }
  },
  {
   "key": "Remoraid",
@@ -18485,9 +20327,20 @@
    ],
    "hidden": "Moody"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 78,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1",
+    "Water 2"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Octillery",
@@ -18587,7 +20440,8 @@
   ],
   "nationalNo": 224,
   "types": [
-   "water"
+   "water",
+   "fire"
   ],
   "spriteFile": "sprites/Octillery.png",
   "spriteEra": "gen2",
@@ -18609,9 +20463,23 @@
    ],
    "hidden": "Moody"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "typesFaithful": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 164,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1",
+    "Water 2"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Atk, 1 SpA"
+  }
  },
  {
   "key": "Mantine",
@@ -18710,10 +20578,20 @@
    ],
    "hidden": "Water Veil"
   },
-  "srcTypes": [
-   "Water",
-   "Flying"
-  ]
+  "officialTypes": [
+   "water",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 25,
+   "baseExp": 168,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1"
+   ],
+   "growth": "Slow",
+   "evYield": "2 SpD"
+  }
  },
  {
   "key": "Skarmory",
@@ -18812,10 +20690,20 @@
    ],
    "hidden": "Weak Armor"
   },
-  "srcTypes": [
-   "Steel",
-   "Flying"
-  ]
+  "officialTypes": [
+   "steel",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 25,
+   "baseExp": 168,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Slow",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Houndour",
@@ -18920,10 +20808,20 @@
    ],
    "hidden": "Unnerve"
   },
-  "srcTypes": [
-   "Dark",
-   "Fire"
-  ]
+  "officialTypes": [
+   "dark",
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 114,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Houndoom",
@@ -19022,10 +20920,20 @@
    ],
    "hidden": "Solar Power"
   },
-  "srcTypes": [
-   "Dark",
-   "Fire"
-  ]
+  "officialTypes": [
+   "dark",
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 204,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Kingdra",
@@ -19112,10 +21020,21 @@
    ],
    "hidden": "Damp"
   },
-  "srcTypes": [
-   "Water",
-   "Dragon"
-  ]
+  "officialTypes": [
+   "water",
+   "dragon"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 207,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 1",
+    "Dragon"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Atk, 1 SpA, 1 SpD"
+  }
  },
  {
   "key": "Phanpy",
@@ -19206,9 +21125,19 @@
    ],
    "hidden": "Sand Veil"
   },
-  "srcTypes": [
-   "Ground"
-  ]
+  "officialTypes": [
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 66,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 HP"
+  }
  },
  {
   "key": "Donphan",
@@ -19301,9 +21230,19 @@
    ],
    "hidden": "Sand Veil"
   },
-  "srcTypes": [
-   "Ground"
-  ]
+  "officialTypes": [
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 189,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Atk, 1 Def"
+  }
  },
  {
   "key": "Porygon2",
@@ -19403,9 +21342,19 @@
    ],
    "hidden": "Analytic"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 180,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Stantler",
@@ -19501,9 +21450,20 @@
    ],
    "hidden": "Berserk"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 163,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Hitmontop",
@@ -19597,9 +21557,19 @@
    ],
    "hidden": "Steadfast"
   },
-  "srcTypes": [
-   "Fighting"
-  ]
+  "officialTypes": [
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 138,
+   "gender": "100% ♂",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 SpD"
+  }
  },
  {
   "key": "Miltank",
@@ -19685,9 +21655,19 @@
    ],
    "hidden": "Sap Sipper"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 200,
+   "gender": "100% ♀",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Blissey",
@@ -19789,9 +21769,19 @@
    ],
    "hidden": "Natural Cure"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 30,
+   "baseExp": 255,
+   "gender": "100% ♀",
+   "eggGroups": [
+    "Fairy"
+   ],
+   "growth": "Fast",
+   "evYield": "3 HP"
+  }
  },
  {
   "key": "Raikou",
@@ -19888,9 +21878,19 @@
    ],
    "hidden": "Inner Focus"
   },
-  "srcTypes": [
-   "Electric"
-  ]
+  "officialTypes": [
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 3,
+   "baseExp": 216,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Undiscovered"
+   ],
+   "growth": "Slow",
+   "evYield": "2 Spe, 1 SpA"
+  }
  },
  {
   "key": "Entei",
@@ -19987,9 +21987,19 @@
    ],
    "hidden": "Inner Focus"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 3,
+   "baseExp": 217,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Undiscovered"
+   ],
+   "growth": "Slow",
+   "evYield": "1 HP, 2 Atk"
+  }
  },
  {
   "key": "Suicune",
@@ -20086,9 +22096,19 @@
    ],
    "hidden": "Inner Focus"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 3,
+   "baseExp": 215,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Undiscovered"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Def, 2 SpD"
+  }
  },
  {
   "key": "Larvitar",
@@ -20199,10 +22219,20 @@
    ],
    "hidden": "Sand Veil"
   },
-  "srcTypes": [
-   "Rock",
-   "Ground"
-  ]
+  "officialTypes": [
+   "rock",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 67,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Pupitar",
@@ -20314,10 +22344,20 @@
    ],
    "hidden": "Rock Head"
   },
-  "srcTypes": [
-   "Rock",
-   "Ground"
-  ]
+  "officialTypes": [
+   "rock",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 144,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster"
+   ],
+   "growth": "Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Tyranitar",
@@ -20431,10 +22471,20 @@
    ],
    "hidden": "Unnerve"
   },
-  "srcTypes": [
-   "Rock",
-   "Dark"
-  ]
+  "officialTypes": [
+   "rock",
+   "dark"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 218,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster"
+   ],
+   "growth": "Slow",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Lugia",
@@ -20528,10 +22578,20 @@
    ],
    "hidden": "Pressure"
   },
-  "srcTypes": [
-   "Psychic",
-   "Flying"
-  ]
+  "officialTypes": [
+   "psychic",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 3,
+   "baseExp": 220,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Undiscovered"
+   ],
+   "growth": "Slow",
+   "evYield": "3 SpD"
+  }
  },
  {
   "key": "Ho_Oh",
@@ -20625,10 +22685,20 @@
    ],
    "hidden": "Regenerator"
   },
-  "srcTypes": [
-   "Fire",
-   "Flying"
-  ]
+  "officialTypes": [
+   "fire",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 3,
+   "baseExp": 220,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Undiscovered"
+   ],
+   "growth": "Slow",
+   "evYield": "3 SpD"
+  }
  },
  {
   "key": "Celebi",
@@ -20698,10 +22768,20 @@
    ],
    "hidden": "Natural Cure"
   },
-  "srcTypes": [
-   "Psychic",
-   "Grass"
-  ]
+  "officialTypes": [
+   "psychic",
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 200,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Undiscovered"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 HP"
+  }
  },
  {
   "key": "Ralts",
@@ -20786,10 +22866,21 @@
    ],
    "hidden": "Pixilate"
   },
-  "srcTypes": [
-   "Psychic",
-   "Fairy"
-  ]
+  "officialTypes": [
+   "psychic",
+   "fairy"
+  ],
+  "bio": {
+   "catchRate": 235,
+   "baseExp": 40,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Human-Like",
+    "Amorphous"
+   ],
+   "growth": "Slow",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Kirlia",
@@ -20879,10 +22970,21 @@
    ],
    "hidden": "Pixilate"
   },
-  "srcTypes": [
-   "Psychic",
-   "Fairy"
-  ]
+  "officialTypes": [
+   "psychic",
+   "fairy"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 97,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Human-Like",
+    "Amorphous"
+   ],
+   "growth": "Slow",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Gardevoir",
@@ -20969,10 +23071,21 @@
    ],
    "hidden": "Pixilate"
   },
-  "srcTypes": [
-   "Psychic",
-   "Fairy"
-  ]
+  "officialTypes": [
+   "psychic",
+   "fairy"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 201,
+   "gender": "100% ♀",
+   "eggGroups": [
+    "Human-Like",
+    "Amorphous"
+   ],
+   "growth": "Slow",
+   "evYield": "3 SpA"
+  }
  },
  {
   "key": "Duskull",
@@ -21059,9 +23172,19 @@
    ],
    "hidden": "Cursed Body"
   },
-  "srcTypes": [
-   "Ghost"
-  ]
+  "officialTypes": [
+   "ghost"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 59,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Fast",
+   "evYield": "1 SpD"
+  }
  },
  {
   "key": "Dusclops",
@@ -21136,9 +23259,19 @@
    ],
    "hidden": "Cursed Body"
   },
-  "srcTypes": [
-   "Ghost"
-  ]
+  "officialTypes": [
+   "ghost"
+  ],
+  "bio": {
+   "catchRate": 90,
+   "baseExp": 159,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Fast",
+   "evYield": "1 Def, 1 SpD"
+  }
  },
  {
   "key": "Snorunt",
@@ -21227,9 +23360,20 @@
    ],
    "hidden": "Moody"
   },
-  "srcTypes": [
-   "Ice"
-  ]
+  "officialTypes": [
+   "ice"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 60,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Fairy",
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 HP"
+  }
  },
  {
   "key": "Glalie",
@@ -21299,9 +23443,20 @@
    ],
    "hidden": "Moody"
   },
-  "srcTypes": [
-   "Ice"
-  ]
+  "officialTypes": [
+   "ice"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 168,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Fairy",
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 HP"
+  }
  },
  {
   "key": "Starly",
@@ -21389,10 +23544,20 @@
    ],
    "hidden": "Reckless"
   },
-  "srcTypes": [
-   "Normal",
-   "Flying"
-  ]
+  "officialTypes": [
+   "normal",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 49,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Spe"
+  }
  },
  {
   "key": "Staravia",
@@ -21480,10 +23645,20 @@
    ],
    "hidden": "Reckless"
   },
-  "srcTypes": [
-   "Normal",
-   "Flying"
-  ]
+  "officialTypes": [
+   "normal",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 119,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Staraptor",
@@ -21569,10 +23744,20 @@
    ],
    "hidden": "Reckless"
   },
-  "srcTypes": [
-   "Normal",
-   "Flying"
-  ]
+  "officialTypes": [
+   "normal",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 243,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Shinx",
@@ -21660,9 +23845,19 @@
    ],
    "hidden": "Guts"
   },
-  "srcTypes": [
-   "Electric"
-  ]
+  "officialTypes": [
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 235,
+   "baseExp": 53,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Luxio",
@@ -21742,9 +23937,19 @@
    ],
    "hidden": "Guts"
   },
-  "srcTypes": [
-   "Electric"
-  ]
+  "officialTypes": [
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 127,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Luxray",
@@ -21800,7 +24005,8 @@
   ],
   "nationalNo": 405,
   "types": [
-   "electric"
+   "electric",
+   "dragon"
   ],
   "spriteFile": "sprites/Luxray.png",
   "spriteEra": "modern",
@@ -21822,10 +24028,19 @@
    ],
    "hidden": "Guts"
   },
-  "srcTypes": [
-   "Electric",
-   "Dragon"
-  ]
+  "officialTypes": [
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 201,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Cranidos",
@@ -21932,9 +24147,19 @@
    ],
    "hidden": "Sheer Force"
   },
-  "srcTypes": [
-   "Rock"
-  ]
+  "officialTypes": [
+   "rock"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 70,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Rampardos",
@@ -22031,9 +24256,19 @@
    ],
    "hidden": "Sheer Force"
   },
-  "srcTypes": [
-   "Rock"
-  ]
+  "officialTypes": [
+   "rock"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 173,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster"
+   ],
+   "growth": "Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Shieldon",
@@ -22145,10 +24380,20 @@
    ],
    "hidden": "Soundproof"
   },
-  "srcTypes": [
-   "Rock",
-   "Steel"
-  ]
+  "officialTypes": [
+   "rock",
+   "steel"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 70,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Def"
+  }
  },
  {
   "key": "Bastiodon",
@@ -22254,10 +24499,20 @@
    ],
    "hidden": "Soundproof"
   },
-  "srcTypes": [
-   "Rock",
-   "Steel"
-  ]
+  "officialTypes": [
+   "rock",
+   "steel"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 173,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Ambipom",
@@ -22339,9 +24594,20 @@
    ],
    "hidden": "Moody"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 169,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Fast",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Drifloon",
@@ -22429,10 +24695,20 @@
    ],
    "hidden": "Unburden"
   },
-  "srcTypes": [
-   "Ghost",
-   "Flying"
-  ]
+  "officialTypes": [
+   "ghost",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 125,
+   "baseExp": 70,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 HP"
+  }
  },
  {
   "key": "Drifblim",
@@ -22518,10 +24794,20 @@
    ],
    "hidden": "Unburden"
   },
-  "srcTypes": [
-   "Ghost",
-   "Flying"
-  ]
+  "officialTypes": [
+   "ghost",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 174,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 HP"
+  }
  },
  {
   "key": "Mismagius",
@@ -22593,7 +24879,8 @@
   ],
   "nationalNo": 429,
   "types": [
-   "ghost"
+   "ghost",
+   "fairy"
   ],
   "spriteFile": "sprites/Mismagius.png",
   "spriteEra": "modern",
@@ -22623,9 +24910,22 @@
    ],
    "hidden": "Levitate"
   },
-  "srcTypes": [
-   "Ghost"
-  ]
+  "officialTypes": [
+   "ghost"
+  ],
+  "typesFaithful": [
+   "ghost"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 187,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Fast",
+   "evYield": "1 SpA, 1 SpD"
+  }
  },
  {
   "key": "Honchkrow",
@@ -22713,10 +25013,20 @@
    ],
    "hidden": "Moxie"
   },
-  "srcTypes": [
-   "Dark",
-   "Flying"
-  ]
+  "officialTypes": [
+   "dark",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 30,
+   "baseExp": 187,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Bronzor",
@@ -22796,10 +25106,20 @@
    ],
    "hidden": "Drizzle"
   },
-  "srcTypes": [
-   "Steel",
-   "Psychic"
-  ]
+  "officialTypes": [
+   "steel",
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 255,
+   "baseExp": 60,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Def"
+  }
  },
  {
   "key": "Bronzong",
@@ -22873,10 +25193,20 @@
    ],
    "hidden": "Drizzle"
   },
-  "srcTypes": [
-   "Steel",
-   "Psychic"
-  ]
+  "officialTypes": [
+   "steel",
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 90,
+   "baseExp": 175,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Def, 1 SpD"
+  }
  },
  {
   "key": "Spiritomb",
@@ -22950,10 +25280,20 @@
    ],
    "hidden": "Infiltrator"
   },
-  "srcTypes": [
-   "Ghost",
-   "Dark"
-  ]
+  "officialTypes": [
+   "ghost",
+   "dark"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 170,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Def, 1 SpD"
+  }
  },
  {
   "key": "Gible",
@@ -23037,10 +25377,21 @@
    ],
    "hidden": "Dry Skin"
   },
-  "srcTypes": [
-   "Dragon",
-   "Ground"
-  ]
+  "officialTypes": [
+   "dragon",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 60,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Dragon"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Gabite",
@@ -23116,10 +25467,21 @@
    ],
    "hidden": "Dry Skin"
   },
-  "srcTypes": [
-   "Dragon",
-   "Ground"
-  ]
+  "officialTypes": [
+   "dragon",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 144,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Dragon"
+   ],
+   "growth": "Slow",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Garchomp",
@@ -23189,10 +25551,21 @@
    ],
    "hidden": "Dry Skin"
   },
-  "srcTypes": [
-   "Dragon",
-   "Ground"
-  ]
+  "officialTypes": [
+   "dragon",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 201,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Dragon"
+   ],
+   "growth": "Slow",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Riolu",
@@ -23280,9 +25653,19 @@
    ],
    "hidden": "Justified"
   },
-  "srcTypes": [
-   "Fighting"
-  ]
+  "officialTypes": [
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 57,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Undiscovered"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Lucario",
@@ -23377,10 +25760,21 @@
    ],
    "hidden": "Justified"
   },
-  "srcTypes": [
-   "Fighting",
-   "Steel"
-  ]
+  "officialTypes": [
+   "fighting",
+   "steel"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 184,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Field",
+    "Human-Like"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Atk, 1 SpA"
+  }
  },
  {
   "key": "Hippopotas",
@@ -23459,9 +25853,19 @@
    ],
    "hidden": "Sand Force"
   },
-  "srcTypes": [
-   "Ground"
-  ]
+  "officialTypes": [
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 140,
+   "baseExp": 66,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Def"
+  }
  },
  {
   "key": "Hippowdon",
@@ -23534,9 +25938,19 @@
    ],
    "hidden": "Sand Force"
   },
-  "srcTypes": [
-   "Ground"
-  ]
+  "officialTypes": [
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 184,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Croagunk",
@@ -23628,10 +26042,20 @@
    ],
    "hidden": "Poison Touch"
   },
-  "srcTypes": [
-   "Poison",
-   "Fighting"
-  ]
+  "officialTypes": [
+   "poison",
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 140,
+   "baseExp": 60,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Toxicroak",
@@ -23721,10 +26145,20 @@
    ],
    "hidden": "Poison Touch"
   },
-  "srcTypes": [
-   "Poison",
-   "Fighting"
-  ]
+  "officialTypes": [
+   "poison",
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 172,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Snover",
@@ -23800,10 +26234,21 @@
    ],
    "hidden": "Soundproof"
   },
-  "srcTypes": [
-   "Grass",
-   "Ice"
-  ]
+  "officialTypes": [
+   "grass",
+   "ice"
+  ],
+  "bio": {
+   "catchRate": 120,
+   "baseExp": 67,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Grass"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Abomasnow",
@@ -23869,10 +26314,21 @@
    ],
    "hidden": "Soundproof"
   },
-  "srcTypes": [
-   "Grass",
-   "Ice"
-  ]
+  "officialTypes": [
+   "grass",
+   "ice"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 173,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Grass"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Atk, 1 SpA"
+  }
  },
  {
   "key": "Weavile",
@@ -23970,10 +26426,20 @@
    ],
    "hidden": "Pickpocket"
   },
-  "srcTypes": [
-   "Dark",
-   "Ice"
-  ]
+  "officialTypes": [
+   "dark",
+   "ice"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 199,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Atk, 1 Spe"
+  }
  },
  {
   "key": "Magnezone",
@@ -24092,10 +26558,20 @@
    ],
    "hidden": "Analytic"
   },
-  "srcTypes": [
-   "Electric",
-   "Steel"
-  ]
+  "officialTypes": [
+   "electric",
+   "steel"
+  ],
+  "bio": {
+   "catchRate": 30,
+   "baseExp": 211,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 SpA"
+  }
  },
  {
   "key": "Rhyperior",
@@ -24219,10 +26695,21 @@
    ],
    "hidden": "Reckless"
   },
-  "srcTypes": [
-   "Ground",
-   "Rock"
-  ]
+  "officialTypes": [
+   "ground",
+   "rock"
+  ],
+  "bio": {
+   "catchRate": 30,
+   "baseExp": 217,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Tangrowth",
@@ -24328,9 +26815,19 @@
    ],
    "hidden": "Tangling Hair"
   },
-  "srcTypes": [
-   "Grass"
-  ]
+  "officialTypes": [
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 30,
+   "baseExp": 187,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Grass"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Electivire",
@@ -24410,7 +26907,8 @@
   ],
   "nationalNo": 466,
   "types": [
-   "electric"
+   "electric",
+   "fighting"
   ],
   "spriteFile": "sprites/Electivire.png",
   "spriteEra": "modern",
@@ -24440,9 +26938,22 @@
    ],
    "hidden": "Iron Fist"
   },
-  "srcTypes": [
-   "Electric"
-  ]
+  "officialTypes": [
+   "electric"
+  ],
+  "typesFaithful": [
+   "electric"
+  ],
+  "bio": {
+   "catchRate": 30,
+   "baseExp": 199,
+   "gender": "75% ♂",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Magmortar",
@@ -24552,9 +27063,19 @@
    ],
    "hidden": "Vital Spirit"
   },
-  "srcTypes": [
-   "Fire"
-  ]
+  "officialTypes": [
+   "fire"
+  ],
+  "bio": {
+   "catchRate": 30,
+   "baseExp": 199,
+   "gender": "75% ♂",
+   "eggGroups": [
+    "Human-Like"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 SpA"
+  }
  },
  {
   "key": "Togekiss",
@@ -24616,10 +27137,21 @@
    ],
    "hidden": "Super Luck"
   },
-  "srcTypes": [
-   "Fairy",
-   "Flying"
-  ]
+  "officialTypes": [
+   "fairy",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 30,
+   "baseExp": 220,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Flying",
+    "Fairy"
+   ],
+   "growth": "Fast",
+   "evYield": "2 SpA, 1 SpD"
+  }
  },
  {
   "key": "Yanmega",
@@ -24712,7 +27244,7 @@
   "nationalNo": 469,
   "types": [
    "bug",
-   "flying"
+   "dragon"
   ],
   "spriteFile": "sprites/Yanmega.png",
   "spriteEra": "modern",
@@ -24741,10 +27273,24 @@
    ],
    "hidden": "Frisk"
   },
-  "srcTypes": [
-   "Bug",
-   "Flying"
-  ]
+  "officialTypes": [
+   "bug",
+   "flying"
+  ],
+  "typesFaithful": [
+   "bug",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 30,
+   "baseExp": 198,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Leafeon",
@@ -24844,9 +27390,19 @@
    ],
    "hidden": "Chlorophyll"
   },
-  "srcTypes": [
-   "Grass"
-  ]
+  "officialTypes": [
+   "grass"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 196,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Glaceon",
@@ -24946,9 +27502,19 @@
    ],
    "hidden": "Ice Body"
   },
-  "srcTypes": [
-   "Ice"
-  ]
+  "officialTypes": [
+   "ice"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 196,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Gliscor",
@@ -25043,10 +27609,20 @@
    ],
    "hidden": "Poison Heal"
   },
-  "srcTypes": [
-   "Ground",
-   "Flying"
-  ]
+  "officialTypes": [
+   "ground",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 30,
+   "baseExp": 192,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Mamoswine",
@@ -25149,10 +27725,20 @@
    ],
    "hidden": "Thick Fat"
   },
-  "srcTypes": [
-   "Ice",
-   "Ground"
-  ]
+  "officialTypes": [
+   "ice",
+   "ground"
+  ],
+  "bio": {
+   "catchRate": 50,
+   "baseExp": 207,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Porygon_Z",
@@ -25250,9 +27836,19 @@
    ],
    "hidden": "Analytic"
   },
-  "srcTypes": [
-   "Normal"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 30,
+   "baseExp": 185,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 SpA"
+  }
  },
  {
   "key": "Gallade",
@@ -25339,10 +27935,21 @@
    ],
    "hidden": "Inner Focus"
   },
-  "srcTypes": [
-   "Psychic",
-   "Fighting"
-  ]
+  "officialTypes": [
+   "psychic",
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 201,
+   "gender": "100% ♂",
+   "eggGroups": [
+    "Human-Like",
+    "Amorphous"
+   ],
+   "growth": "Slow",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Dusknoir",
@@ -25411,9 +28018,19 @@
    ],
    "hidden": "Cursed Body"
   },
-  "srcTypes": [
-   "Ghost"
-  ]
+  "officialTypes": [
+   "ghost"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 236,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Fast",
+   "evYield": "1 Def, 2 SpD"
+  }
  },
  {
   "key": "Froslass",
@@ -25491,10 +28108,21 @@
    ],
    "hidden": "Cursed Body"
   },
-  "srcTypes": [
-   "Ice",
-   "Ghost"
-  ]
+  "officialTypes": [
+   "ice",
+   "ghost"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 168,
+   "gender": "100% ♀",
+   "eggGroups": [
+    "Fairy",
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Rotom",
@@ -25564,10 +28192,20 @@
    ],
    "hidden": "Prankster"
   },
-  "srcTypes": [
-   "Electric",
-   "Ghost"
-  ]
+  "officialTypes": [
+   "electric",
+   "ghost"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 154,
+   "gender": "Genderless",
+   "eggGroups": [
+    "Amorphous"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Spe, 1 SpA"
+  }
  },
  {
   "key": "Heatran",
@@ -25633,10 +28271,20 @@
    ],
    "hidden": "Flame Body"
   },
-  "srcTypes": [
-   "Fire",
-   "Steel"
-  ]
+  "officialTypes": [
+   "fire",
+   "steel"
+  ],
+  "bio": {
+   "catchRate": 3,
+   "baseExp": 201,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Undiscovered"
+   ],
+   "growth": "Slow",
+   "evYield": "3 SpA"
+  }
  },
  {
   "key": "Oshawott",
@@ -25736,9 +28384,19 @@
    ],
    "hidden": "Technician"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 62,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Dewott",
@@ -25839,9 +28497,19 @@
    ],
    "hidden": "Technician"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 145,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Samurott",
@@ -25931,9 +28599,19 @@
    ],
    "hidden": "Technician"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 209,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 SpA"
+  }
  },
  {
   "key": "Samurott_Hisuian",
@@ -26024,10 +28702,20 @@
    ],
    "hidden": "Technician"
   },
-  "srcTypes": [
-   "Water",
-   "Dark"
-  ]
+  "officialTypes": [
+   "water",
+   "dark"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 209,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Basculin",
@@ -26115,9 +28803,19 @@
    ],
    "hidden": "Mold Breaker"
   },
-  "srcTypes": [
-   "Water"
-  ]
+  "officialTypes": [
+   "water"
+  ],
+  "bio": {
+   "catchRate": 25,
+   "baseExp": 161,
+   "gender": "100% ♂",
+   "eggGroups": [
+    "Water 2"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Spe"
+  }
  },
  {
   "key": "Zorua",
@@ -26191,7 +28889,8 @@
   ],
   "nationalNo": 570,
   "types": [
-   "dark"
+   "normal",
+   "ghost"
   ],
   "spriteFile": "sprites/Zorua.png",
   "spriteEra": "modern",
@@ -26213,10 +28912,19 @@
    ],
    "hidden": "Imposter"
   },
-  "srcTypes": [
-   "Normal",
-   "Ghost"
-  ]
+  "officialTypes": [
+   "dark"
+  ],
+  "bio": {
+   "catchRate": 75,
+   "baseExp": 66,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 SpA"
+  }
  },
  {
   "key": "Zoroark",
@@ -26292,7 +29000,8 @@
   ],
   "nationalNo": 571,
   "types": [
-   "dark"
+   "normal",
+   "ghost"
   ],
   "spriteFile": "sprites/Zoroark.png",
   "spriteEra": "modern",
@@ -26314,10 +29023,19 @@
    ],
    "hidden": "Imposter"
   },
-  "srcTypes": [
-   "Normal",
-   "Ghost"
-  ]
+  "officialTypes": [
+   "dark"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 179,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Rufflet",
@@ -26398,10 +29116,20 @@
    ],
    "hidden": "Hustle"
   },
-  "srcTypes": [
-   "Normal",
-   "Flying"
-  ]
+  "officialTypes": [
+   "normal",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 70,
+   "gender": "100% ♂",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Slow",
+   "evYield": "1 Atk"
+  }
  },
  {
   "key": "Braviary",
@@ -26465,7 +29193,7 @@
   ],
   "nationalNo": 628,
   "types": [
-   "normal",
+   "psychic",
    "flying"
   ],
   "spriteFile": "sprites/Braviary.png",
@@ -26488,10 +29216,20 @@
    ],
    "hidden": "Tinted Lens"
   },
-  "srcTypes": [
-   "Psychic",
-   "Flying"
-  ]
+  "officialTypes": [
+   "normal",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 60,
+   "baseExp": 179,
+   "gender": "100% ♂",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Slow",
+   "evYield": "2 SpA"
+  }
  },
  {
   "key": "Sylveon",
@@ -26584,9 +29322,19 @@
    ],
    "hidden": "Pixilate"
   },
-  "srcTypes": [
-   "Fairy"
-  ]
+  "officialTypes": [
+   "fairy"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 196,
+   "gender": "87.5% ♂",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 SpD"
+  }
  },
  {
   "key": "Goomy",
@@ -26673,9 +29421,19 @@
    ],
    "hidden": "Sap Sipper"
   },
-  "srcTypes": [
-   "Dragon"
-  ]
+  "officialTypes": [
+   "dragon"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 60,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Dragon"
+   ],
+   "growth": "Slow",
+   "evYield": "1 SpD"
+  }
  },
  {
   "key": "Sliggoo",
@@ -26749,6 +29507,7 @@
   ],
   "nationalNo": 705,
   "types": [
+   "steel",
    "dragon"
   ],
   "spriteFile": "sprites/Sliggoo.png",
@@ -26770,10 +29529,19 @@
    ],
    "hidden": "Sap Sipper"
   },
-  "srcTypes": [
-   "Steel",
-   "Dragon"
-  ]
+  "officialTypes": [
+   "dragon"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 209,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Dragon"
+   ],
+   "growth": "Slow",
+   "evYield": "2 SpD"
+  }
  },
  {
   "key": "Goodra",
@@ -26853,6 +29621,7 @@
   ],
   "nationalNo": 706,
   "types": [
+   "steel",
    "dragon"
   ],
   "spriteFile": "sprites/Goodra.png",
@@ -26874,10 +29643,19 @@
    ],
    "hidden": "Sap Sipper"
   },
-  "srcTypes": [
-   "Steel",
-   "Dragon"
-  ]
+  "officialTypes": [
+   "dragon"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 209,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Dragon"
+   ],
+   "growth": "Slow",
+   "evYield": "3 SpD"
+  }
  },
  {
   "key": "Bergmite",
@@ -26981,9 +29759,20 @@
    ],
    "hidden": "Slush Rush"
   },
-  "srcTypes": [
-   "Ice"
-  ]
+  "officialTypes": [
+   "ice"
+  ],
+  "bio": {
+   "catchRate": 190,
+   "baseExp": 61,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "1 Def"
+  }
  },
  {
   "key": "Avalugg",
@@ -27059,7 +29848,8 @@
   ],
   "nationalNo": 713,
   "types": [
-   "ice"
+   "ice",
+   "rock"
   ],
   "spriteFile": "sprites/Avalugg.png",
   "spriteEra": "modern",
@@ -27080,10 +29870,20 @@
    ],
    "hidden": "Slush Rush"
   },
-  "srcTypes": [
-   "Ice",
-   "Rock"
-  ]
+  "officialTypes": [
+   "ice"
+  ],
+  "bio": {
+   "catchRate": 55,
+   "baseExp": 180,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Mineral"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Def"
+  }
  },
  {
   "key": "Rowlet",
@@ -27184,10 +29984,20 @@
    ],
    "hidden": "Sniper"
   },
-  "srcTypes": [
-   "Grass",
-   "Flying"
-  ]
+  "officialTypes": [
+   "grass",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 64,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 HP"
+  }
  },
  {
   "key": "Dartrix",
@@ -27289,10 +30099,20 @@
    ],
    "hidden": "Sniper"
   },
-  "srcTypes": [
-   "Grass",
-   "Flying"
-  ]
+  "officialTypes": [
+   "grass",
+   "flying"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 147,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "2 HP"
+  }
  },
  {
   "key": "Decidueye",
@@ -27383,10 +30203,20 @@
    ],
    "hidden": "Sniper"
   },
-  "srcTypes": [
-   "Grass",
-   "Ghost"
-  ]
+  "officialTypes": [
+   "grass",
+   "ghost"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 209,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Flying"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Decidueye_Hisuian",
@@ -27477,10 +30307,20 @@
    ],
    "hidden": "Sniper"
   },
-  "srcTypes": [
-   "Grass",
-   "Fighting"
-  ]
+  "officialTypes": [
+   "grass",
+   "fighting"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 209,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Wyrdeer",
@@ -27571,10 +30411,21 @@
    ],
    "hidden": "Berserk"
   },
-  "srcTypes": [
-   "Normal",
-   "Psychic"
-  ]
+  "officialTypes": [
+   "normal",
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 209,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Monster",
+    "Field"
+   ],
+   "growth": "Slow",
+   "evYield": "1 HP, 1 SpA"
+  }
  },
  {
   "key": "Kleavor",
@@ -27677,10 +30528,20 @@
    ],
    "hidden": "Steadfast"
   },
-  "srcTypes": [
-   "Bug",
-   "Rock"
-  ]
+  "officialTypes": [
+   "bug",
+   "rock"
+  ],
+  "bio": {
+   "catchRate": 15,
+   "baseExp": 175,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Ursaluna",
@@ -27783,10 +30644,20 @@
    ],
    "hidden": "Tough Claws"
   },
-  "srcTypes": [
-   "Ground",
-   "Normal"
-  ]
+  "officialTypes": [
+   "ground",
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 20,
+   "baseExp": 209,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Ursaluna_Bloodmoon",
@@ -27889,10 +30760,20 @@
    ],
    "hidden": "Tough Claws"
   },
-  "srcTypes": [
-   "Ground",
-   "Normal"
-  ]
+  "officialTypes": [
+   "ground",
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 20,
+   "baseExp": 209,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Basculegion",
@@ -27962,10 +30843,20 @@
    ],
    "hidden": "Mold Breaker"
   },
-  "srcTypes": [
-   "Water",
-   "Ghost"
-  ]
+  "officialTypes": [
+   "water",
+   "ghost"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 201,
+   "gender": "100% ♂",
+   "eggGroups": [
+    "Water 2"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 HP"
+  }
  },
  {
   "key": "Sneasler",
@@ -28063,10 +30954,20 @@
    ],
    "hidden": "Unburden"
   },
-  "srcTypes": [
-   "Fighting",
-   "Poison"
-  ]
+  "officialTypes": [
+   "fighting",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 135,
+   "baseExp": 102,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Slow",
+   "evYield": "1 Atk, 1 Spe"
+  }
  },
  {
   "key": "Overqwil",
@@ -28173,10 +31074,20 @@
    ],
    "hidden": "Swift Swim"
   },
-  "srcTypes": [
-   "Dark",
-   "Poison"
-  ]
+  "officialTypes": [
+   "dark",
+   "poison"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 180,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Water 2"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 Atk"
+  }
  },
  {
   "key": "Annihilape",
@@ -28283,10 +31194,20 @@
    ],
    "hidden": "Defiant"
   },
-  "srcTypes": [
-   "Fighting",
-   "Ghost"
-  ]
+  "officialTypes": [
+   "fighting",
+   "ghost"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 189,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 Atk"
+  }
  },
  {
   "key": "Farigiraf",
@@ -28362,8 +31283,8 @@
   ],
   "nationalNo": 981,
   "types": [
-   "normal",
-   "psychic"
+   "psychic",
+   "dark"
   ],
   "spriteFile": "sprites/Farigiraf.png",
   "spriteEra": "modern",
@@ -28385,10 +31306,24 @@
    ],
    "hidden": "Sap Sipper"
   },
-  "srcTypes": [
-   "Normal",
-   "Psychic"
-  ]
+  "officialTypes": [
+   "normal",
+   "psychic"
+  ],
+  "typesFaithful": [
+   "normal",
+   "psychic"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 189,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "3 HP"
+  }
  },
  {
   "key": "Dudunsparce",
@@ -28500,7 +31435,8 @@
   ],
   "nationalNo": 982,
   "types": [
-   "normal"
+   "normal",
+   "dragon"
   ],
   "spriteFile": "sprites/Dudunsparce.png",
   "spriteEra": "modern",
@@ -28521,10 +31457,19 @@
    ],
    "hidden": "Rattled"
   },
-  "srcTypes": [
-   "Normal",
-   "Dragon"
-  ]
+  "officialTypes": [
+   "normal"
+  ],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 115,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Field"
+   ],
+   "growth": "Medium Fast",
+   "evYield": "2 HP"
+  }
  },
  {
   "key": "Minsir",
@@ -28591,7 +31536,10 @@
    }
   ],
   "nationalNo": 9999,
-  "types": [],
+  "types": [
+   "bug",
+   "dark"
+  ],
   "spriteFile": null,
   "spriteEra": null,
   "pokeapiName": null,
@@ -28611,9 +31559,16 @@
    ],
    "hidden": "Moxie"
   },
-  "srcTypes": [
-   "Bug",
-   "Dark"
-  ]
+  "officialTypes": [],
+  "bio": {
+   "catchRate": 45,
+   "baseExp": 240,
+   "gender": "50 / 50",
+   "eggGroups": [
+    "Bug"
+   ],
+   "growth": "Slow",
+   "evYield": "3 Atk"
+  }
  }
 ]
