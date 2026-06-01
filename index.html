@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Crystal Inheritance — Field Archive</title>
+<meta name="description" content="An unofficial field archive & strategy guide for Crystal Inheritance, a Generation II Pokémon Crystal romhack. Pokédex, wild encounters, trainer rosters, items, and TMs." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&family=Rajdhani:wght@500;600;700&family=Spline+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/styles.css" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M8 1 2 6l6 9 6-9z' fill='%2340e6d6'/%3E%3Cpath d='M8 1 2 6l6 9 6-9z' fill='none' stroke='%23ffd479' stroke-width='0.6'/%3E%3C/svg%3E" />
+</head>
+<body>
+<div class="bg-atmos" aria-hidden="true">
+  <div class="bg-glow bg-glow--cyan"></div>
+  <div class="bg-glow bg-glow--amber"></div>
+  <div class="bg-facets"></div>
+  <div class="bg-grain"></div>
+</div>
+
+<header class="nav" id="nav">
+  <a class="nav__brand" href="#/" aria-label="Crystal Inheritance home">
+    <span class="nav__gem" aria-hidden="true"></span>
+    <span class="nav__wordmark">CRYSTAL<br /><em>INHERITANCE</em></span>
+  </a>
+  <nav class="nav__links" id="navLinks">
+    <a href="#/" data-route="">Archive</a>
+    <a href="#/pokedex" data-route="pokedex">Pokédex</a>
+    <a href="#/encounters" data-route="encounters">Encounters</a>
+    <a href="#/trainers" data-route="trainers">Trainers</a>
+    <a href="#/items" data-route="items">Items</a>
+    <a href="#/credits" data-route="credits">Credits</a>
+  </nav>
+  <button class="nav__menu" id="navMenu" aria-label="Toggle navigation">▚</button>
+</header>
+
+<main id="app" class="app">
+  <div class="loading">
+    <span class="loading__gem"></span>
+    <p>Decrypting cartridge data…</p>
+  </div>
+</main>
+
+<footer class="foot">
+  <p class="foot__line">An unofficial fan-made field archive for <strong>Crystal Inheritance v1.0.0</strong> — a Generation II romhack built on Polished Crystal.</p>
+  <p class="foot__sub">Sprites &amp; type data via <a href="https://pokeapi.co" target="_blank" rel="noopener">PokeAPI</a> (Gen II / GBC where available). All game data from the official Crystal Inheritance documentation. Pokémon © Nintendo / Game Freak.</p>
+</footer>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

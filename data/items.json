@@ -1,0 +1,1249 @@
+[
+ {
+  "category": "PokeBalls",
+  "items": [
+   {
+    "name": "Master Ball",
+    "location": "Gauldenrod Guild (Finish trade quest)"
+   },
+   {
+    "name": "Jeze Ball",
+    "location": "Radiant Opals, Eerie Hamlet"
+   },
+   {
+    "name": "Bub Ball",
+    "location": "Lake Foam, Eerie Hamlet"
+   },
+   {
+    "name": "Deci Ball",
+    "location": "Fixed Charge, Eerie Hamlet"
+   },
+   {
+    "name": "Herb Ball",
+    "location": "Tough Leaves, Eerie Hamlet"
+   },
+   {
+    "name": "Fast Ball",
+    "location": "White Apricorn, Eerie Hamlet"
+   },
+   {
+    "name": "Geode",
+    "location": "Hollow Rock, Eerie Hamlet"
+   },
+   {
+    "name": "Love Ball",
+    "location": "Pink Apricorn, Eerie Hamlet"
+   },
+   {
+    "name": "Abilitypatch",
+    "location": "Ilex Forest; Goldenrod Dept Store B1F; Union Cave B2F; Olivine Mart"
+   },
+   {
+    "name": "Ability Cap",
+    "location": "Goldenrod Dept Store, Olivine Mart"
+   },
+   {
+    "name": "Repeat Ball",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Net Ball",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Luxury Ball",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Heal Ball",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Quick Ball",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Dusk Ball",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Dream Ball",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Premier Ball",
+    "location": "Goldenrod Dept Store"
+   }
+  ]
+ },
+ {
+  "category": "Vitamins",
+  "items": [
+   {
+    "name": "HP Up",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Protein",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Iron",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Carbos",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Calcium",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Zinc",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Sacred Ash",
+    "location": "Held by Ho-Oh"
+   },
+   {
+    "name": "Energypowder",
+    "location": "Old Johto Marts"
+   },
+   {
+    "name": "Energy Root",
+    "location": "Old Johto Marts"
+   },
+   {
+    "name": "Heal Powder",
+    "location": "Old Johto Marts"
+   },
+   {
+    "name": "Revival Herb",
+    "location": "Old Johto Marts"
+   }
+  ]
+ },
+ {
+  "category": "Evolution Stones",
+  "items": [
+   {
+    "name": "Leaf Stone",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Fire Stone",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Water Stone",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Thunderstone",
+    "location": "Goldenrod Dept Store"
+   },
+   {
+    "name": "Moon Stone",
+    "location": "Goldenrod Dept Store, Kimono Cabin 1"
+   },
+   {
+    "name": "Sun Stone",
+    "location": "Goldenrod Dept Store, Kimono Cabin 2"
+   },
+   {
+    "name": "Dusk Stone",
+    "location": "Goldenrod Dept Store, Kimono Cabin 3"
+   },
+   {
+    "name": "Dawn Stone",
+    "location": "Goldenrod Dept Store, Route KaJo"
+   },
+   {
+    "name": "Shiny Stone",
+    "location": "Goldenrod Dept Store, Kimono Cabin 4"
+   },
+   {
+    "name": "Ice Stone",
+    "location": "Goldenrod Dept Store, Kajo Acquifer"
+   },
+   {
+    "name": "Odd Souvenir",
+    "location": "Route KaJo, Ruins of Alph Puzzles, Bellchime Trail, Kimono Cabin 4"
+   },
+   {
+    "name": "EXP Share",
+    "location": "Azalea Gate"
+   }
+  ]
+ },
+ {
+  "category": "Berries",
+  "items": [
+   {
+    "name": "Cheri Berry",
+    "location": "Anarres Mart"
+   },
+   {
+    "name": "Chesto Berry",
+    "location": "Anarres Mart"
+   },
+   {
+    "name": "Pecha Berry",
+    "location": "Anarres Mart"
+   },
+   {
+    "name": "Rawst Berry",
+    "location": "Gauldenrod Bazaar"
+   },
+   {
+    "name": "Aspear Berry",
+    "location": "Gauldenrod Bazaar"
+   },
+   {
+    "name": "Leppa Berry",
+    "location": "Gauldenrod Bazaar"
+   },
+   {
+    "name": "Oran Berry",
+    "location": "Anarres Mart"
+   },
+   {
+    "name": "Persim Berry",
+    "location": "Gauldenrod Bazaar"
+   },
+   {
+    "name": "Lum Berry",
+    "location": "Various Fruittrees, Ruins of Alph Chambers"
+   },
+   {
+    "name": "Sitrus Berry",
+    "location": "Various Fruittrees, Ruins of Alph Chambers"
+   },
+   {
+    "name": "Liechi Berry",
+    "location": "Shimmer Saddle Fruittree, Ruins of Alph Chambers"
+   },
+   {
+    "name": "Ganlon Berry",
+    "location": "Ilex Forest Grotto"
+   },
+   {
+    "name": "Salac Berry",
+    "location": "Shimmer Saddle Fruittree, Emperor's Garden Grotto, Ruins of Alph Chambers"
+   },
+   {
+    "name": "Petaya Berry",
+    "location": "Lake of Rage Grotto, Ruins of Alph Chambers"
+   },
+   {
+    "name": "Apicot Berry",
+    "location": "Route Kajo Hidden Grotto"
+   },
+   {
+    "name": "EV Reducing Berries",
+    "location": "Route 32"
+   }
+  ]
+ },
+ {
+  "category": "Type Boosters",
+  "items": [
+   {
+    "name": "Silk Scarf",
+    "location": "Azalea Town"
+   },
+   {
+    "name": "Black Belt",
+    "location": "Stadium Grounds"
+   },
+   {
+    "name": "Sharp Beak",
+    "location": "Azalea Town"
+   },
+   {
+    "name": "Poison Barb",
+    "location": "Azalea Town"
+   },
+   {
+    "name": "Soft Sand",
+    "location": "Calm Coast"
+   },
+   {
+    "name": "Hard Stone",
+    "location": "Union Cave"
+   },
+   {
+    "name": "Silverpowder",
+    "location": "Hollys Holt (Hidden)"
+   },
+   {
+    "name": "Spell Tag",
+    "location": "Anarres House"
+   },
+   {
+    "name": "Metal Coat",
+    "location": "Goldenrod House"
+   },
+   {
+    "name": "Charcoal",
+    "location": "Anarres Town"
+   },
+   {
+    "name": "Mystic Water",
+    "location": "Anarres Gate"
+   },
+   {
+    "name": "Miracle Seed",
+    "location": "Hollys Holt"
+   },
+   {
+    "name": "Magnet",
+    "location": "Goldenrod Magnet Train"
+   },
+   {
+    "name": "Twistedspoon",
+    "location": "Anarres House"
+   },
+   {
+    "name": "Nevermeltice",
+    "location": "Goldenrod House"
+   },
+   {
+    "name": "Dragon Fang",
+    "location": "Goldenrod House"
+   },
+   {
+    "name": "Blackglasses",
+    "location": "Anarres House"
+   }
+  ]
+ },
+ {
+  "category": "Battle Items",
+  "items": [
+   {
+    "name": "Brightpowder",
+    "location": "Route KaJo Cabin (Requires Time Travel)"
+   },
+   {
+    "name": "Scope Lens",
+    "location": "Stadium Box"
+   },
+   {
+    "name": "Quick Claw",
+    "location": "National Park"
+   },
+   {
+    "name": "King's Rock",
+    "location": "Western Capital Theatre"
+   },
+   {
+    "name": "Focus Band",
+    "location": "Sinjoh Crossroads Mart"
+   },
+   {
+    "name": "Leftovers",
+    "location": "Sinjoh Stockroom"
+   },
+   {
+    "name": "Lucky Egg",
+    "location": "Route 34 Gate"
+   },
+   {
+    "name": "Amulet Coin",
+    "location": "Violet Catacombs"
+   },
+   {
+    "name": "Smoke Ball",
+    "location": "Azalea Mart"
+   },
+   {
+    "name": "Berserk Gene",
+    "location": "Wild Toxicroak"
+   },
+   {
+    "name": "Light Ball",
+    "location": "Wild Pikachu"
+   },
+   {
+    "name": "Thick Club",
+    "location": "Held: Snubbull/Granbull (Affects them as it did Cubone!)"
+   },
+   {
+    "name": "Lucky Punch",
+    "location": "Wild Chansey"
+   },
+   {
+    "name": "Air Balloon",
+    "location": "Goldenrod Dept Store Roof"
+   },
+   {
+    "name": "Assault Vest",
+    "location": "Trader's Landing House"
+   },
+   {
+    "name": "Big Root",
+    "location": "Gauldenrod Underground"
+   },
+   {
+    "name": "Destiny Knot",
+    "location": "National Park, Radio Tower"
+   },
+   {
+    "name": "Eviolite",
+    "location": "Day Care"
+   },
+   {
+    "name": "Expert Belt",
+    "location": "Gauldenrod Stockroom"
+   },
+   {
+    "name": "Focus Sash",
+    "location": "Sinjoh Crossroads Mart"
+   },
+   {
+    "name": "Life Orb",
+    "location": "Trader's Landing House"
+   },
+   {
+    "name": "Light Clay",
+    "location": "Union Cave"
+   },
+   {
+    "name": "Muscle Band",
+    "location": "Goldenrod Band House"
+   },
+   {
+    "name": "Protect Pads",
+    "location": "Stadium Grounds"
+   },
+   {
+    "name": "Rocky Helmet",
+    "location": "Serene Springs"
+   },
+   {
+    "name": "Shed Shell",
+    "location": "Bug Catching Contest 2nd prize"
+   },
+   {
+    "name": "Shell Bell",
+    "location": "Calm Coast Cottage"
+   },
+   {
+    "name": "Soothe Bell",
+    "location": "Calm Coast"
+   },
+   {
+    "name": "Wide Lens",
+    "location": "Stadium Box"
+   },
+   {
+    "name": "Wise Glasses",
+    "location": "Goldenrod House"
+   },
+   {
+    "name": "Eject Button",
+    "location": "Ecruteak Battle Shop"
+   },
+   {
+    "name": "Lagging Tail",
+    "location": "Ecruteak Battle Shop"
+   },
+   {
+    "name": "Iron Ball",
+    "location": "Ecruteak Battle Shop"
+   },
+   {
+    "name": "Ring Target",
+    "location": "Ecruteak Battle Shop"
+   },
+   {
+    "name": "Red Card",
+    "location": "Ecruteak Battle Shop"
+   },
+   {
+    "name": "Absorb Bulb",
+    "location": "Ecruteak Battle Shop"
+   },
+   {
+    "name": "Cell Battery",
+    "location": "Ecruteak Battle Shop"
+   },
+   {
+    "name": "Luminous Moss",
+    "location": "Ecruteak Battle Shop"
+   },
+   {
+    "name": "Snowball",
+    "location": "Ecruteak Battle Shop"
+   },
+   {
+    "name": "Eject Pack",
+    "location": "Ecruteak Battle Shop"
+   },
+   {
+    "name": "Heavy Duty Boots",
+    "location": "Olivine Battle Shop"
+   },
+   {
+    "name": "Utility Umbrella",
+    "location": "Olivine Battle Shop"
+   },
+   {
+    "name": "Mental Herb",
+    "location": "Olivine Battle Shop"
+   },
+   {
+    "name": "Power Herb",
+    "location": "Olivine Battle Shop"
+   },
+   {
+    "name": "White Herb",
+    "location": "Anarres Mart"
+   },
+   {
+    "name": "Damp Rock",
+    "location": "Olivine Battle Shop"
+   },
+   {
+    "name": "Heat Rock",
+    "location": "Olivine Battle Shop"
+   },
+   {
+    "name": "Smooth Rock",
+    "location": "Olivine Battle Shop"
+   },
+   {
+    "name": "Icy Rock",
+    "location": "Olivine Battle Shop"
+   },
+   {
+    "name": "Choice Band",
+    "location": "Cianwood Gym"
+   },
+   {
+    "name": "Choice Scarf",
+    "location": "Kimono Cabin 1"
+   },
+   {
+    "name": "Choice Specs",
+    "location": "Grottoed Glacier"
+   },
+   {
+    "name": "Flame Orb",
+    "location": "Olivine Battle Shop"
+   },
+   {
+    "name": "Toxic Orb",
+    "location": "Olivine Battle Shop"
+   },
+   {
+    "name": "Black Sludge",
+    "location": "Route 38"
+   },
+   {
+    "name": "Macho Brace",
+    "location": "Underground Goldenrod Mart"
+   },
+   {
+    "name": "Power Weight",
+    "location": "Underground Goldenrod Mart"
+   },
+   {
+    "name": "Power Bracer",
+    "location": "Underground Goldenrod Mart"
+   },
+   {
+    "name": "Power Belt",
+    "location": "Underground Goldenrod Mart"
+   },
+   {
+    "name": "Power Lens",
+    "location": "Underground Goldenrod Mart"
+   },
+   {
+    "name": "Power Band",
+    "location": "Underground Goldenrod Mart"
+   },
+   {
+    "name": "Power Anklet",
+    "location": "Underground Goldenrod Mart"
+   },
+   {
+    "name": "Dragon Scale",
+    "location": "Cianwood Cave, Western Capital Theatre"
+   },
+   {
+    "name": "Up-Grade",
+    "location": "Goldenrod 1F Dept Store Quiz"
+   },
+   {
+    "name": "Dubious Disc",
+    "location": "Olivine Lighthouse"
+   },
+   {
+    "name": "Protector",
+    "location": "Ruins of Alph Lugia Puzzle, Western Capital Theatre"
+   },
+   {
+    "name": "Electirizer",
+    "location": "Olivine Desal, Western Capital Theatre"
+   },
+   {
+    "name": "Magmarizer",
+    "location": "Ruins of Alph Heatran Puzzle, Western Capital Theatre"
+   },
+   {
+    "name": "Razor Fang",
+    "location": "Rusalka Ruins, Western Capital Theatre"
+   },
+   {
+    "name": "Razor Claw",
+    "location": "Route 40, Western Capital Theatre"
+   }
+  ]
+ },
+ {
+  "category": "Various",
+  "items": [
+   {
+    "name": "Big Pearl",
+    "location": "Fishing"
+   },
+   {
+    "name": "Silver Leaf",
+    "location": "Azalea Mart, Violet Mart, Mahogany Mart"
+   },
+   {
+    "name": "Slowpoketail",
+    "location": "Route 32"
+   },
+   {
+    "name": "Flower Mail",
+    "location": "Goldenrod North Gate"
+   }
+  ]
+ },
+ {
+  "category": "Apricorn Traders",
+  "items": [
+   {
+    "name": "Radiant Opal",
+    "location": "Goldenrod Pokecom: trade for Big Pearl"
+   },
+   {
+    "name": "Shore Foam",
+    "location": "Violet City Pokecenter: trade for Big Pearl"
+   },
+   {
+    "name": "Fixed Charge",
+    "location": "Route 32 Pokecenter: trade for Big Pearl"
+   },
+   {
+    "name": "Tough Leaves",
+    "location": "Azalea Pokecenter: trade for Big Pearl"
+   },
+   {
+    "name": "White Apricorn",
+    "location": "Anarres Dorms: trade for Big Pearl"
+   },
+   {
+    "name": "Hollow Rock",
+    "location": "Gauldenrod Dorms: trade for Big Pearl"
+   },
+   {
+    "name": "Pink Apricorn",
+    "location": "Ecruteak Pokecenter: trade for Big Pearl"
+   }
+  ]
+ },
+ {
+  "category": "Key Items",
+  "items": [
+   {
+    "name": "Celebi Call",
+    "location": "Ilex Forest"
+   },
+   {
+    "name": "Bike",
+    "location": "Goldenrod"
+   },
+   {
+    "name": "Old Rod",
+    "location": "Slowpoke Well B1F Entrance"
+   },
+   {
+    "name": "Good Rod",
+    "location": "Goldenrod"
+   },
+   {
+    "name": "Super Rod",
+    "location": "Olivine"
+   },
+   {
+    "name": "Coin Case",
+    "location": "Bill's house"
+   },
+   {
+    "name": "Itemfinder",
+    "location": "Route 35 - National Park Gate"
+   },
+   {
+    "name": "Basement Key",
+    "location": "Goldenrod Pokemon Center"
+   },
+   {
+    "name": "Clear Bell",
+    "location": "Ecruteak Gym"
+   },
+   {
+    "name": "Adamant Orb",
+    "location": "Route 43 - Mahogany Gate"
+   },
+   {
+    "name": "Shiny Charm",
+    "location": "Route 38 - Ecruteak Gate"
+   }
+  ]
+ },
+ {
+  "category": "TM / HM / Move Tutor",
+  "items": [
+   {
+    "name": "TM01 DYNAMICPUNCH",
+    "location": "Wesley @ Lake of Rage"
+   },
+   {
+    "name": "TM02 DRAGON_CLAW",
+    "location": "Clair"
+   },
+   {
+    "name": "TM03 CURSE",
+    "location": "Ecruteak"
+   },
+   {
+    "name": "TM04 CALM_MIND",
+    "location": "Mahogany Gym"
+   },
+   {
+    "name": "TM05 ROAR",
+    "location": "Calm Coast"
+   },
+   {
+    "name": "TM06 TOXIC",
+    "location": "Route 38"
+   },
+   {
+    "name": "TM07 HAIL",
+    "location": "Gauldenrod TM Mart"
+   },
+   {
+    "name": "TM08 BULK_UP",
+    "location": "Sinjoh House"
+   },
+   {
+    "name": "TM09 VENOSHOCK",
+    "location": "Freida (Route 32)"
+   },
+   {
+    "name": "TM10 HIDDEN_POWER",
+    "location": "Ruins of Alph Celebi Puzzle Item Room"
+   },
+   {
+    "name": "TM11 SUNNY_DAY",
+    "location": "Gauldenrod TM Mart"
+   },
+   {
+    "name": "TM12 HONE_CLAWS",
+    "location": "Cattle Cull"
+   },
+   {
+    "name": "TM13 ICE_BEAM",
+    "location": "Trader's Landing Tavern or Goldenrod Game Corner"
+   },
+   {
+    "name": "TM14 BLIZZARD",
+    "location": "Goldenrod TM Mart"
+   },
+   {
+    "name": "TM15 HYPER_BEAM",
+    "location": "Goldenrod TM Mart"
+   },
+   {
+    "name": "TM16 LIGHT_SCREEN",
+    "location": "Goldenrod TM Mart"
+   },
+   {
+    "name": "TM17 PROTECT",
+    "location": "Goldenrod TM Mart"
+   },
+   {
+    "name": "TM18 RAIN_DANCE",
+    "location": "Gauldenrod TM Mart"
+   },
+   {
+    "name": "TM19 GIGA_DRAIN",
+    "location": "Violet"
+   },
+   {
+    "name": "TM20 SAFEGUARD",
+    "location": "Ilex Forest"
+   },
+   {
+    "name": "TM21 BULLDOZE",
+    "location": "Union Cave 1F"
+   },
+   {
+    "name": "TM22 SOLAR_BEAM",
+    "location": "Goldenrod TM Mart"
+   },
+   {
+    "name": "TM23 IRON_TAIL",
+    "location": "Olivine Gym"
+   },
+   {
+    "name": "TM24 THUNDERBOLT",
+    "location": "Trader's Landing Tavern or Goldenrod Game Corner"
+   },
+   {
+    "name": "TM25 THUNDER",
+    "location": "Goldenrod TM Mart"
+   },
+   {
+    "name": "TM26 EARTHQUAKE",
+    "location": "Ruins of Alph Heatran Puzzle"
+   },
+   {
+    "name": "TM27 RETURN",
+    "location": "Pryce in Tinder Garden"
+   },
+   {
+    "name": "TM28 DIG",
+    "location": "National Park"
+   },
+   {
+    "name": "TM29 PSYCHIC",
+    "location": "Ruins of Alph Lugia Puzzle"
+   },
+   {
+    "name": "TM30 SHADOW_BALL",
+    "location": "Ecruteak (Morty)"
+   },
+   {
+    "name": "TM31 ROCK_SMASH",
+    "location": "Union Cave B1F North"
+   },
+   {
+    "name": "TM32 DOUBLE_TEAM",
+    "location": "Not available"
+   },
+   {
+    "name": "TM33 REFLECT",
+    "location": "Goldenrod TM Mart"
+   },
+   {
+    "name": "TM34 FLASH_CANNON",
+    "location": "Western Capital"
+   },
+   {
+    "name": "TM35 FLAMETHROWER",
+    "location": "Trader's Landing Tavern or Goldenrod Game Corner"
+   },
+   {
+    "name": "TM36 SLUDGE_BOMB",
+    "location": "Ruins of Alph Lugia Puzzle"
+   },
+   {
+    "name": "TM37 SANDSTORM",
+    "location": "Gauldenrod TM Mart"
+   },
+   {
+    "name": "TM38 FIRE_BLAST",
+    "location": "Goldenrod TM Mart"
+   },
+   {
+    "name": "TM39 SWIFT",
+    "location": "Union Cave B1F North"
+   },
+   {
+    "name": "TM40 AERIAL_ACE",
+    "location": "Falkner"
+   },
+   {
+    "name": "TM41 SUBSTITUTE",
+    "location": "Kimono Cabin Part 5"
+   },
+   {
+    "name": "TM42 FACADE",
+    "location": "Goldenrod Gym (after Whitney)"
+   },
+   {
+    "name": "TM43 FLAME_CHARGE",
+    "location": "Stadium Grounds"
+   },
+   {
+    "name": "TM44 REST",
+    "location": "Whirl Islands B1F"
+   },
+   {
+    "name": "TM45 ATTRACT",
+    "location": "Radio Tower (Whitney's Room)"
+   },
+   {
+    "name": "TM46 THIEF",
+    "location": "Azalea/Ilex gate"
+   },
+   {
+    "name": "TM47 STEEL_WING",
+    "location": "Route KaJo"
+   },
+   {
+    "name": "TM48 ROCK_SLIDE",
+    "location": "Arthur, Route 36"
+   },
+   {
+    "name": "TM49 DAZZLINGLEAM",
+    "location": "Stadium Grounds"
+   },
+   {
+    "name": "TM50 LEECH_LIFE",
+    "location": "National Park"
+   },
+   {
+    "name": "TM51 ROOST",
+    "location": "Gauldenrod Tower"
+   },
+   {
+    "name": "TM52 FOCUS_BLAST",
+    "location": "Clast's Cradle"
+   },
+   {
+    "name": "TM53 ENERGY_BALL",
+    "location": "Lake of Rage / Mahogany Gate"
+   },
+   {
+    "name": "TM54 FALSE_SWIPE",
+    "location": "Azalea Town"
+   },
+   {
+    "name": "TM55 SCALD",
+    "location": "Mahogany Town"
+   },
+   {
+    "name": "TM56 X_SCISSOR",
+    "location": "Hollys Holt (Surf)"
+   },
+   {
+    "name": "TM57 WILD_CHARGE",
+    "location": "Lake of Rage"
+   },
+   {
+    "name": "TM58 DARK_PULSE",
+    "location": "Kimono Cabin Part 3"
+   },
+   {
+    "name": "TM59 DRAGON_PULSE",
+    "location": "Cianwood Cove"
+   },
+   {
+    "name": "TM60 DRAIN_PUNCH",
+    "location": "Route 35"
+   },
+   {
+    "name": "TM61 WILL_O_WISP",
+    "location": "Rusalka Ruins"
+   },
+   {
+    "name": "TM62 ACROBATICS",
+    "location": "Monica Route 40"
+   },
+   {
+    "name": "TM63 WATER_PULSE",
+    "location": "Misty Basin"
+   },
+   {
+    "name": "TM64 EXPLOSION",
+    "location": "Clast's Cradle 2F"
+   },
+   {
+    "name": "TM65 SHADOW_CLAW",
+    "location": "Western Capital (Rei)"
+   },
+   {
+    "name": "TM66 POISON_JAB",
+    "location": "Route 43"
+   },
+   {
+    "name": "TM67 AVALANCHE",
+    "location": "Tranquil Tarn"
+   },
+   {
+    "name": "TM68 GIGA_IMPACT",
+    "location": "Sulfur Sty House"
+   },
+   {
+    "name": "TM69 U_TURN",
+    "location": "Bugsy (talk after beating Hollis)"
+   },
+   {
+    "name": "TM70 FLASH",
+    "location": "Traders Landing House"
+   },
+   {
+    "name": "TM71 STONE_EDGE",
+    "location": "Smoky Summit"
+   },
+   {
+    "name": "TM72 VOLT_SWITCH",
+    "location": "Olivine City"
+   },
+   {
+    "name": "TM73 THUNDER_WAVE",
+    "location": "Gauldenrod TM Mart"
+   },
+   {
+    "name": "TM74 GYRO_BALL",
+    "location": "Ruins of Alph - Bronzong Puzzle"
+   },
+   {
+    "name": "TM75 SWORDS_DANCE",
+    "location": "Clast's Cradle"
+   }
+  ]
+ },
+ {
+  "category": "HMs",
+  "items": [
+   {
+    "name": "CUT",
+    "location": "Anarres Tower"
+   },
+   {
+    "name": "FLY",
+    "location": "Goldenrod Underground"
+   },
+   {
+    "name": "SURF",
+    "location": "Western Capital"
+   },
+   {
+    "name": "STRENGTH",
+    "location": "Gauldenrod Tower"
+   },
+   {
+    "name": "WHIRLPOOL",
+    "location": "Whirl Islands B1F (Solve historic puzzle first)"
+   },
+   {
+    "name": "WATERFALL",
+    "location": "Grottoed Glacier"
+   }
+  ]
+ },
+ {
+  "category": "Move Tutors",
+  "items": [
+   {
+    "name": "BATON_PASS",
+    "location": "Timeless Tapestry"
+   },
+   {
+    "name": "BODY_SLAM",
+    "location": "Route 35"
+   },
+   {
+    "name": "COUNTER",
+    "location": "Serene Springs"
+   },
+   {
+    "name": "DOUBLE_EDGE",
+    "location": "Route 40"
+   },
+   {
+    "name": "DREAM_EATER",
+    "location": "Ecruteak"
+   },
+   {
+    "name": "EARTH_POWER",
+    "location": "Lake of Rage House"
+   },
+   {
+    "name": "FIRE_PUNCH",
+    "location": "Outside Goldenrod Game Corner"
+   },
+   {
+    "name": "HEADBUTT",
+    "location": "Hollys Holt"
+   },
+   {
+    "name": "HYPER_VOICE",
+    "location": "Radio Tower 2F"
+   },
+   {
+    "name": "ICE_PUNCH",
+    "location": "Outside Goldenrod Game Corner"
+   },
+   {
+    "name": "ICY_WIND",
+    "location": "Sheltered Shores"
+   },
+   {
+    "name": "IRON_HEAD",
+    "location": "Route 39 Barn"
+   },
+   {
+    "name": "KNOCK_OFF",
+    "location": "Rebel's Redoubt"
+   },
+   {
+    "name": "PAY_DAY",
+    "location": "Route 33"
+   },
+   {
+    "name": "ROLLOUT",
+    "location": "Slowpoke Well B1F"
+   },
+   {
+    "name": "SEED_BOMB",
+    "location": "Emperor's Garden"
+   },
+   {
+    "name": "SEISMIC_TOSS",
+    "location": "Route 36"
+   },
+   {
+    "name": "SLEEP_TALK",
+    "location": "Eerie Hamlet Dorms"
+   },
+   {
+    "name": "SUCKER_PUNCH",
+    "location": "Route 42 Gate"
+   },
+   {
+    "name": "SWAGGER",
+    "location": "Goldenrod Game Corner"
+   },
+   {
+    "name": "THUNDERPUNCH",
+    "location": "Outside Goldenrod Game Corner"
+   },
+   {
+    "name": "ZAP_CANNON",
+    "location": "Route 37"
+   },
+   {
+    "name": "ZEN_HEADBUTT",
+    "location": "Route 39 Barn"
+   }
+  ]
+ },
+ {
+  "category": "Kimono Cabin Checkpoint Rewards",
+  "items": [
+   {
+    "name": "Part 1",
+    "location": "Carbos + Moon Stone + Dratini"
+   },
+   {
+    "name": "Part 2",
+    "location": "Choice Scarf + Sun Stone + Larvitar"
+   },
+   {
+    "name": "Part 3",
+    "location": "TM Dark Pulse + Dusk Stone + Sneasel"
+   },
+   {
+    "name": "Part 4",
+    "location": "Shiny Stone + Lapras"
+   },
+   {
+    "name": "Part 5",
+    "location": "TM Substitute + Eevee"
+   }
+  ]
+ },
+ {
+  "category": "Notable NPCs",
+  "items": [
+   {
+    "name": "Move reminder",
+    "location": "Cianwood"
+   },
+   {
+    "name": "Name rater",
+    "location": "Goldenrod"
+   },
+   {
+    "name": "Photographer",
+    "location": "Ecruteak Shrine"
+   },
+   {
+    "name": "Haircut",
+    "location": "Goldenrod Underground"
+   },
+   {
+    "name": "Happiness rater",
+    "location": "Goldenrod"
+   }
+  ]
+ },
+ {
+  "category": "Trade Quest — Spoilers!",
+  "items": [
+   {
+    "name": "Mint Leaf",
+    "location": "Azalea PokeCenter"
+   },
+   {
+    "name": "Tinymushroom",
+    "location": "Anarres Town, North House"
+   },
+   {
+    "name": "Pink Lemonade",
+    "location": "Gauldenrod, Southwest House"
+   },
+   {
+    "name": "Brick Piece",
+    "location": "Center National Park"
+   },
+   {
+    "name": "Ragecandybar",
+    "location": "Goldenrod Museum 2F"
+   },
+   {
+    "name": "Big Mushroom",
+    "location": "Violet City, West House"
+   },
+   {
+    "name": "Liteblue Mail",
+    "location": "Ecruteak City, West House"
+   },
+   {
+    "name": "Gold Leaf",
+    "location": "Ecruteak City, Central House"
+   },
+   {
+    "name": "Pearl",
+    "location": "Olivine City, Northeast House"
+   },
+   {
+    "name": "Surf Mail",
+    "location": "Olivine Cafe"
+   },
+   {
+    "name": "Old Amber",
+    "location": "Mahogany Town Outside"
+   },
+   {
+    "name": "Sweet Honey",
+    "location": "Eerie Hamlet"
+   },
+   {
+    "name": "Master Ball",
+    "location": "Gauldenrod Guild"
+   }
+  ]
+ }
+]

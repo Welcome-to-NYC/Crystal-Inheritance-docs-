@@ -1,0 +1,210 @@
+{
+ "levelCaps": [
+  {
+   "location": "Anarres",
+   "cap": 16,
+   "optional": false
+  },
+  {
+   "location": "Azalea Gym",
+   "cap": 18,
+   "optional": true
+  },
+  {
+   "location": "Gauldenrod",
+   "cap": 21,
+   "optional": false
+  },
+  {
+   "location": "Stadium Grounds",
+   "cap": 24,
+   "optional": false
+  },
+  {
+   "location": "Goldenrod",
+   "cap": 29,
+   "optional": false
+  },
+  {
+   "location": "Violet",
+   "cap": 33,
+   "optional": false
+  },
+  {
+   "location": "Western Capital",
+   "cap": 36,
+   "optional": false
+  },
+  {
+   "location": "Trader's Landing Docks",
+   "cap": 40,
+   "optional": false
+  },
+  {
+   "location": "Lighthouse",
+   "cap": 43,
+   "optional": false
+  },
+  {
+   "location": "Mahogany",
+   "cap": 45,
+   "optional": false
+  },
+  {
+   "location": "Olivine Gym",
+   "cap": 48,
+   "optional": true
+  },
+  {
+   "location": "Ecruteak Gym",
+   "cap": 49,
+   "optional": true
+  },
+  {
+   "location": "Sinjoh",
+   "cap": 48,
+   "optional": false
+  },
+  {
+   "location": "Empire's Extent Temple",
+   "cap": 50,
+   "optional": true
+  },
+  {
+   "location": "Eerie Hamlet",
+   "cap": 51,
+   "optional": false
+  },
+  {
+   "location": "Clast's Cradle",
+   "cap": 53,
+   "optional": false
+  },
+  {
+   "location": "Final Gauntlet",
+   "cap": 57,
+   "optional": false
+  },
+  {
+   "location": "Final Boss",
+   "cap": 60,
+   "optional": false
+  },
+  {
+   "location": "Cynthia",
+   "cap": 63,
+   "optional": true
+  }
+ ],
+ "faithful": [
+  {
+   "name": "Ledyba",
+   "changes": [
+    "Attack, special attack 20 -> 40"
+   ]
+  },
+  {
+   "name": "Ariados",
+   "changes": [
+    "Speed increased 40 -> 80"
+   ]
+  },
+  {
+   "name": "Unown",
+   "changes": [
+    "Increase attack, special attack 72 -> 100"
+   ]
+  },
+  {
+   "name": "Yanmega",
+   "changes": [
+    "Type change from Bug/Flying -> Bug/Dragon",
+    "HA Levitate -> HA Frisk"
+   ]
+  },
+  {
+   "name": "Sunflora",
+   "changes": [
+    "Speed increase 30 -> 55",
+    "Type change from Grass -> Grass/Fire"
+   ]
+  },
+  {
+   "name": "Ninetales",
+   "changes": [
+    "Type change Fire -> Fire/Psychic"
+   ]
+  },
+  {
+   "name": "Girafarig",
+   "changes": [
+    "Type change from Normal/Psychic -> Dark/Psychic"
+   ]
+  },
+  {
+   "name": "Farigiraf",
+   "changes": [
+    "Type change from Normal/Psychic -> Dark/Psychic"
+   ]
+  },
+  {
+   "name": "Electivire",
+   "changes": [
+    "Type change from Electric -> Electric/Fighting"
+   ]
+  },
+  {
+   "name": "Corsola",
+   "changes": [
+    "Defense, special defense 95->115"
+   ]
+  },
+  {
+   "name": "Octillery",
+   "changes": [
+    "Type change from Water -> Water/Fire"
+   ]
+  },
+  {
+   "name": "Lanturn",
+   "changes": [
+    "Special attack, special defense 76 -> 86"
+   ]
+  },
+  {
+   "name": "Mismagius",
+   "changes": [
+    "Type Ghost -> Ghost/Fairy"
+   ]
+  },
+  {
+   "name": "Luxray",
+   "changes": [
+    "Type Electric -> Electric/Dragon"
+   ]
+  }
+ ],
+ "completionist": {
+  "title": "Completionist Checklist, Crystal Inheritance v1.0.0",
+  "items": [
+   "Reach B2F of Union Cave",
+   "Return the wayward Nomad in the Vortex Caverns",
+   "Solve all the Ruins of Alph puzzles",
+   "Solve the Violet Catacombs puzzle",
+   "Help the old man in Gauldenrod",
+   "Awaken the ancestor Xatu, Magcargo, Meganium, and Feraligatr",
+   "Solve all five of the Kimono Cabin puzzles",
+   "Collect all 14 badges",
+   "Reach the bottom of the Enigma Glacier",
+   "Open the Slowpoke Well B2F chamber",
+   "Save the Route KaJo schoolgirl",
+   "Complete the Master Ball trade quest",
+   "Read your Rival's letter to his father",
+   "Beat the generals on hardmode after you reach the credits once",
+   "Collect all TM and HM",
+   "Complete the Pokedex",
+   "Find all four hidden grottoes",
+   "Defeat Cynthia (Mahogany Gate), Artist Mario (Goldenrod Museum), dwg (Debug Room)"
+  ]
+ }
+}

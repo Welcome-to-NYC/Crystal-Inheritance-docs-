@@ -1,0 +1,7535 @@
+{
+ "easy": [
+  {
+   "name": "Camden",
+   "team": [
+    {
+     "species": "Scizor",
+     "level": 7,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Cut",
+      "Leer",
+      "Agility",
+      "Focus Energy"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Petry",
+   "team": [
+    {
+     "species": "Cranidos",
+     "level": 12,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Rock Smash",
+      "Scary Face",
+      "Screech"
+     ]
+    },
+    {
+     "species": "Shieldon",
+     "level": 12,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Mirror Coat",
+      "Tackle",
+      "Screech",
+      "Rock Smash"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Growlithe",
+     "level": 10,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    },
+    {
+     "species": "Murkrow",
+     "level": 11,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    },
+    {
+     "species": "Rowlet",
+     "level": 12,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Slowpoke",
+     "level": 10,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    },
+    {
+     "species": "Yanma",
+     "level": 11,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    },
+    {
+     "species": "Cyndaquil",
+     "level": 12,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Tangela",
+     "level": 10,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    },
+    {
+     "species": "Togetic",
+     "level": 8,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    },
+    {
+     "species": "Oshawott",
+     "level": 12,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    }
+   ]
+  },
+  {
+   "name": "Ursula",
+   "team": [
+    {
+     "species": "Pineco",
+     "level": 10,
+     "nickname": "Silky",
+     "item": "",
+     "moves": [
+      "Bug Bite"
+     ]
+    },
+    {
+     "species": "Heracross",
+     "level": 12,
+     "nickname": "Hercules",
+     "item": "",
+     "moves": [
+      "Reversal"
+     ]
+    },
+    {
+     "species": "Furret",
+     "level": 13,
+     "nickname": "Kitty",
+     "item": "",
+     "moves": [
+      "Headbutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Silas",
+   "team": [
+    {
+     "species": "Ledyba",
+     "level": 15,
+     "nickname": "Tinnire",
+     "item": "",
+     "moves": [
+      "Air Slash",
+      "Supersonic",
+      "Fury Strikes",
+      "Bug Bite"
+     ]
+    },
+    {
+     "species": "Slowpoke",
+     "level": 15,
+     "nickname": "Speleo",
+     "item": "",
+     "moves": [
+      "Curse",
+      "Water Gun",
+      "Rain Dance",
+      "Rest"
+     ]
+    },
+    {
+     "species": "Spinarak",
+     "level": 15,
+     "nickname": "Inoscula",
+     "item": "",
+     "moves": [
+      "Scary Face",
+      "Poison Sting",
+      "Bug Bite",
+      "Baton Pass"
+     ]
+    },
+    {
+     "species": "Kleavor",
+     "level": 16,
+     "nickname": "Logsidian",
+     "item": "",
+     "moves": [
+      "Cut",
+      "Focus Energy",
+      "Agility",
+      "Leer"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bugsy",
+   "team": [
+    {
+     "species": "Yanma",
+     "level": 16,
+     "nickname": "Sonic",
+     "item": "",
+     "moves": [
+      "Sonic Boom",
+      "Confuse Ray",
+      "Gust",
+      "U Turn"
+     ]
+    },
+    {
+     "species": "Paras",
+     "level": 16,
+     "nickname": "Mickey",
+     "item": "",
+     "moves": [
+      "Sleep Powder",
+      "Slash",
+      "Absorb",
+      "Growth"
+     ]
+    },
+    {
+     "species": "Slugma",
+     "level": 16,
+     "nickname": "Helix",
+     "item": "",
+     "moves": [
+      "Ember",
+      "Rock Throw",
+      "Amnesia",
+      "Recover"
+     ]
+    },
+    {
+     "species": "Scyther",
+     "level": 18,
+     "nickname": "Manny",
+     "item": "",
+     "moves": [
+      "Quick Attack",
+      "Swords Dance",
+      "Pursuit",
+      "U Turn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sandra",
+   "team": [
+    {
+     "species": "Marill",
+     "level": 18,
+     "nickname": "Babble",
+     "item": "",
+     "moves": [
+      "Bubble Beam",
+      "Rollout",
+      "Charm"
+     ]
+    },
+    {
+     "species": "Togetic",
+     "level": 19,
+     "nickname": "Clutch",
+     "item": "",
+     "moves": [
+      "Confusion",
+      "Drain Kiss",
+      "Metronome",
+      "Charm"
+     ]
+    },
+    {
+     "species": "Snubbull",
+     "level": 18,
+     "nickname": "Rusty",
+     "item": "",
+     "moves": [
+      "Play Rough",
+      "Bite",
+      "Scary Face",
+      "Screech"
+     ]
+    },
+    {
+     "species": "Clefairy",
+     "level": 21,
+     "nickname": "Supernova",
+     "item": "",
+     "moves": [
+      "Dazzlingleam",
+      "Thunder Wave",
+      "Encore",
+      "Metronome"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Beth",
+   "team": [
+    {
+     "species": "Dunsparce",
+     "level": 16,
+     "nickname": "Par Four",
+     "item": "",
+     "moves": [
+      "Sandstorm",
+      "Protect",
+      "Headbutt"
+     ]
+    },
+    {
+     "species": "Rhyhorn",
+     "level": 16,
+     "nickname": "Ivory",
+     "item": "",
+     "moves": [
+      "Sandstorm",
+      "Dig"
+     ]
+    },
+    {
+     "species": "Gligar",
+     "level": 15,
+     "nickname": "Scorpius",
+     "item": "",
+     "moves": [
+      "Sandstorm",
+      "Dig",
+      "Poison Sting"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tyrus",
+   "team": [
+    {
+     "species": "Magmar",
+     "level": 20,
+     "nickname": "Culverin",
+     "item": "",
+     "moves": [
+      "Sunny Day",
+      "Strength",
+      "Ember",
+      "Smokescreen"
+     ]
+    },
+    {
+     "species": "Octillery",
+     "level": 22,
+     "nickname": "Levi",
+     "item": "",
+     "moves": [
+      "Ember",
+      "Bubble Beam",
+      "Smokescreen",
+      "Wrap"
+     ]
+    },
+    {
+     "species": "Flareon",
+     "level": 24,
+     "nickname": "Empyre",
+     "item": "",
+     "moves": [
+      "Sunny Day",
+      "Flame Charge",
+      "Rock Smash",
+      "Ember"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Slowpoke",
+     "level": 24,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Curse",
+      "Headbutt",
+      "Water Gun",
+      "Disable"
+     ]
+    },
+    {
+     "species": "Growlithe",
+     "level": 25,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Double Kick",
+      "Ember",
+      "Leer",
+      "Safeguard"
+     ]
+    },
+    {
+     "species": "Murkrow",
+     "level": 25,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Night Shade",
+      "Wing Attack",
+      "Pursuit",
+      "Haze"
+     ]
+    },
+    {
+     "species": "Eevee",
+     "level": 22,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Bite",
+      "Quick Attack",
+      "Leer",
+      "Swift"
+     ]
+    },
+    {
+     "species": "Dartrix",
+     "level": 27,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Wing Attack",
+      "Razor Leaf",
+      "Roost"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Tangela",
+     "level": 24,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Sleep Powder",
+      "Growth",
+      "Mega Drain",
+      "Poisonpowder"
+     ]
+    },
+    {
+     "species": "Slowpoke",
+     "level": 25,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Curse",
+      "Headbutt",
+      "Water Gun",
+      "Disable"
+     ]
+    },
+    {
+     "species": "Yanma",
+     "level": 25,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Sonic Boom",
+      "Protect",
+      "Bug Bite"
+     ]
+    },
+    {
+     "species": "Eevee",
+     "level": 22,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Bite",
+      "Quick Attack",
+      "Leer",
+      "Swift"
+     ]
+    },
+    {
+     "species": "Quilava",
+     "level": 27,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Flame Charge",
+      "Smokescreen",
+      "Quick Attack"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Growlithe",
+     "level": 24,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Double Kick",
+      "Ember",
+      "Leer",
+      "Safeguard"
+     ]
+    },
+    {
+     "species": "Tangela",
+     "level": 25,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Sleep Powder",
+      "Growth",
+      "Mega Drain",
+      "Poisonpowder"
+     ]
+    },
+    {
+     "species": "Togetic",
+     "level": 25,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Dizzy Punch",
+      "Encore",
+      "Disarm Voice",
+      "Charm"
+     ]
+    },
+    {
+     "species": "Eevee",
+     "level": 22,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Bite",
+      "Quick Attack",
+      "Leer",
+      "Swift"
+     ]
+    },
+    {
+     "species": "Dewott",
+     "level": 27,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Leer",
+      "Rage",
+      "Aqua Jet"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Whitney",
+   "team": [
+    {
+     "species": "Clefairy",
+     "level": 27,
+     "nickname": "Resonator",
+     "item": "",
+     "moves": [
+      "Charm",
+      "Hyper Voice",
+      "Metronome",
+      "Sing"
+     ]
+    },
+    {
+     "species": "Nidoqueen",
+     "level": 28,
+     "nickname": "BriarRose",
+     "item": "",
+     "moves": [
+      "Attract",
+      "Rest",
+      "Body Slam",
+      "Bulldoze"
+     ]
+    },
+    {
+     "species": "Miltank",
+     "level": 29,
+     "nickname": "UddrDefeat",
+     "item": "",
+     "moves": [
+      "Rollout",
+      "Charm",
+      "Fresh Snack",
+      "Body Slam"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Li",
+   "team": [
+    {
+     "species": "Haunter",
+     "level": 31,
+     "nickname": "Mortalon",
+     "item": "",
+     "moves": [
+      "Shadow Claw",
+      "Curse",
+      "Safeguard",
+      "Hypnosis"
+     ]
+    },
+    {
+     "species": "Sudowoodo",
+     "level": 28,
+     "nickname": "Petrus",
+     "item": "",
+     "moves": [
+      "Rock Throw",
+      "Counter",
+      "Low Kick",
+      "Feint Attack"
+     ]
+    },
+    {
+     "species": "Victreebel",
+     "level": 31,
+     "nickname": "Dendron",
+     "item": "",
+     "moves": [
+      "Leech Seed",
+      "Razor Leaf",
+      "Poison Jab",
+      "Wrap"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Falkner",
+   "team": [
+    {
+     "species": "Mantine",
+     "level": 30,
+     "nickname": "Catalina",
+     "item": "",
+     "moves": [
+      "Rain Dance",
+      "Water Pulse",
+      "Wing Attack",
+      "Roost"
+     ]
+    },
+    {
+     "species": "Noctowl",
+     "level": 33,
+     "nickname": "Hawker",
+     "item": "",
+     "moves": [
+      "Aerial Ace",
+      "Mud Slap",
+      "Roost",
+      "Hurricane"
+     ]
+    },
+    {
+     "species": "Gligar",
+     "level": 30,
+     "nickname": "Stratofor",
+     "item": "",
+     "moves": [
+      "Toxic",
+      "Aerial Ace",
+      "Bulldoze"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Arcanine",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Flame Charge",
+      "Bite",
+      "Roar",
+      "Double Kick"
+     ]
+    },
+    {
+     "species": "Slowbro",
+     "level": 38,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Water Pulse",
+      "Psybeam",
+      "Curse",
+      "Thunder Wave"
+     ]
+    },
+    {
+     "species": "Honchkrow",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Drill Peck",
+      "Night Shade",
+      "Roost"
+     ]
+    },
+    {
+     "species": "Muk",
+     "level": 38,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Sludge Bomb",
+      "Curse",
+      "Rock Smash",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Sylveon",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Drain Kiss",
+      "Charm",
+      "Shadow Ball"
+     ]
+    },
+    {
+     "species": "Decidueye",
+     "level": 40,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Petal Dance",
+      "Air Slash",
+      "Roost"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Slowbro",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Surf",
+      "Psychic M",
+      "Rest",
+      "Sleep Talk"
+     ]
+    },
+    {
+     "species": "Tangrowth",
+     "level": 38,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Razor Leaf",
+      "Poisonpowder",
+      "Protect",
+      "Giga Drain"
+     ]
+    },
+    {
+     "species": "Yanmega",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Bug Buzz",
+      "Air Slash",
+      "Ancientpower"
+     ]
+    },
+    {
+     "species": "Graveler",
+     "level": 38,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Magnitude",
+      "Rock Blast",
+      "Body Slam"
+     ]
+    },
+    {
+     "species": "Glaceon",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Icy Wind",
+      "Barrier",
+      "Shadow Ball"
+     ]
+    },
+    {
+     "species": "Typhlosion",
+     "level": 40,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Swift",
+      "Flamethrower",
+      "Dig"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Tangrowth",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Razor Leaf",
+      "Toxic",
+      "Rock Slide"
+     ]
+    },
+    {
+     "species": "Arcanine",
+     "level": 38,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Flame Charge",
+      "Double Kick",
+      "Bite",
+      "Roar"
+     ]
+    },
+    {
+     "species": "Togetic",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Thunder Wave",
+      "Air Slash",
+      "Charm",
+      "Metronome"
+     ]
+    },
+    {
+     "species": "Piloswine",
+     "level": 38,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Magnitude",
+      "Ice Shard",
+      "Body Slam",
+      "Fury Strikes"
+     ]
+    },
+    {
+     "species": "Espeon",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Psybeam",
+      "Mud Slap",
+      "Shadow Ball"
+     ]
+    },
+    {
+     "species": "Samurott",
+     "level": 40,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Slash",
+      "Surf",
+      "Crunch"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Amos",
+   "team": [
+    {
+     "species": "Bronzor",
+     "level": 27,
+     "nickname": "Overtone",
+     "item": "",
+     "moves": [
+      "Confusion",
+      "Screech",
+      "Rain Dance"
+     ]
+    },
+    {
+     "species": "Quilava",
+     "level": 30,
+     "nickname": "Everbright",
+     "item": "",
+     "moves": [
+      "Flame Charge",
+      "Defense Curl",
+      "Dig"
+     ]
+    },
+    {
+     "species": "Dartrix",
+     "level": 30,
+     "nickname": "Argus",
+     "item": "",
+     "moves": [
+      "Roost",
+      "Energy Ball",
+      "Wing Attack"
+     ]
+    },
+    {
+     "species": "Dewott",
+     "level": 30,
+     "nickname": "Bulwark",
+     "item": "",
+     "moves": [
+      "Aqua Tail",
+      "Slash",
+      "Headbutt"
+     ]
+    },
+    {
+     "species": "Gallade",
+     "level": 32,
+     "nickname": "Oathkeeper",
+     "item": "",
+     "moves": [
+      "Psybeam",
+      "Karate Chop"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Andrea",
+   "team": [
+    {
+     "species": "Pineco",
+     "level": 25,
+     "nickname": "Kilojoul",
+     "item": "",
+     "moves": [
+      "Spikes",
+      "Explosion",
+      "U Turn"
+     ]
+    },
+    {
+     "species": "Luxio",
+     "level": 25,
+     "nickname": "Dynamp",
+     "item": "",
+     "moves": [
+      "Roar",
+      "Bite",
+      "Spark"
+     ]
+    },
+    {
+     "species": "Sneasel",
+     "level": 28,
+     "nickname": "Chaorctic",
+     "item": "",
+     "moves": [
+      "Ice Shard",
+      "Pursuit",
+      "Quick Attack"
+     ]
+    },
+    {
+     "species": "Jolteon",
+     "level": 30,
+     "nickname": "Indrage",
+     "item": "",
+     "moves": [
+      "Spark",
+      "Double Kick",
+      "Thunder Wave"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sybil",
+   "team": [
+    {
+     "species": "Dusclops",
+     "level": 32,
+     "nickname": "Kenophobia",
+     "item": "",
+     "moves": [
+      "Shadow Claw",
+      "Will O Wisp",
+      "Curse",
+      "Pain Split"
+     ]
+    },
+    {
+     "species": "Haunter",
+     "level": 30,
+     "nickname": "Te No Me",
+     "item": "",
+     "moves": [
+      "Shadow Claw",
+      "Destiny Bond",
+      "Mean Look",
+      "Sucker Punch"
+     ]
+    },
+    {
+     "species": "Misdreavus",
+     "level": 33,
+     "nickname": "Sabrina",
+     "item": "",
+     "moves": [
+      "Thunder Wave",
+      "Psychic M",
+      "Shadow Ball",
+      "Hex"
+     ]
+    },
+    {
+     "species": "Stantler",
+     "level": 33,
+     "nickname": "Pallbearer",
+     "item": "",
+     "moves": [
+      "Hi Jump Kick",
+      "U Turn",
+      "Stomp"
+     ]
+    },
+    {
+     "species": "Typhlosion",
+     "level": 36,
+     "nickname": "Charon",
+     "item": "",
+     "moves": [
+      "Calm Mind",
+      "Shadow Ball",
+      "Swift"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Remy",
+   "team": [
+    {
+     "species": "Ampharos",
+     "level": 39,
+     "nickname": "CandlPower",
+     "item": "",
+     "moves": [
+      "Thunder Wave",
+      "Thunderpunch",
+      "Swift"
+     ]
+    },
+    {
+     "species": "Shuckle",
+     "level": 35,
+     "nickname": "Rumbler",
+     "item": "",
+     "moves": [
+      "Rest",
+      "Defense Curl",
+      "Rollout"
+     ]
+    },
+    {
+     "species": "Corsola",
+     "level": 35,
+     "nickname": "Cnidaran",
+     "item": "",
+     "moves": [
+      "Rock Blast",
+      "Water Pulse",
+      "Toxic"
+     ]
+    },
+    {
+     "species": "Tentacruel",
+     "level": 38,
+     "nickname": "Snare",
+     "item": "",
+     "moves": [
+      "Whirlpool",
+      "Poison Jab",
+      "Rapid Spin"
+     ]
+    },
+    {
+     "species": "Lanturn",
+     "level": 40,
+     "nickname": "Unfathom",
+     "item": "",
+     "moves": [
+      "Surf",
+      "Thunderbolt",
+      "Rest",
+      "Sleep Talk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nemo",
+   "team": [
+    {
+     "species": "Feraligatr",
+     "level": 38,
+     "nickname": "Trapjaw",
+     "item": "",
+     "moves": [
+      "Crunch",
+      "Waterfall",
+      "Scary Face",
+      "Bulldoze"
+     ]
+    },
+    {
+     "species": "Rufflet",
+     "level": 40,
+     "nickname": "Polly",
+     "item": "",
+     "moves": [
+      "Fly",
+      "Wing Attack",
+      "Double Edge",
+      "Charm"
+     ]
+    },
+    {
+     "species": "Slowking",
+     "level": 37,
+     "nickname": "Hipocampus",
+     "item": "",
+     "moves": [
+      "Nasty Plot",
+      "Psychic M",
+      "Bubble Beam"
+     ]
+    },
+    {
+     "species": "Sliggoo",
+     "level": 38,
+     "nickname": "AcidTide",
+     "item": "",
+     "moves": [
+      "Sludge Bomb",
+      "Iron Head",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Vaporeon",
+     "level": 40,
+     "nickname": "Tidechaser",
+     "item": "",
+     "moves": [
+      "Surf",
+      "Reflect",
+      "Ice Beam",
+      "Toxic"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chuck",
+   "team": [
+    {
+     "species": "Primeape",
+     "level": 42,
+     "nickname": "Peppy",
+     "item": "",
+     "moves": [
+      "Dynamicpunch",
+      "Rock Slide",
+      "Screech"
+     ]
+    },
+    {
+     "species": "Gallade",
+     "level": 41,
+     "nickname": "GladAle",
+     "item": "",
+     "moves": [
+      "Zen Headbutt",
+      "Karate Chop",
+      "Bulk Up"
+     ]
+    },
+    {
+     "species": "Toxicroak",
+     "level": 41,
+     "nickname": "Donatello",
+     "item": "",
+     "moves": [
+      "Slash",
+      "Swords Dance",
+      "Poison Jab",
+      "Sucker Punch"
+     ]
+    },
+    {
+     "species": "Poliwrath",
+     "level": 43,
+     "nickname": "TadSwole",
+     "item": "",
+     "moves": [
+      "Surf",
+      "Hypnosis",
+      "Dynamicpunch",
+      "Body Slam"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Pryce",
+   "team": [
+    {
+     "species": "Glalie",
+     "level": 43,
+     "nickname": "Nonpareil",
+     "item": "",
+     "moves": [
+      "Spikes",
+      "Crunch",
+      "Hail",
+      "Icy Wind"
+     ]
+    },
+    {
+     "species": "Lapras",
+     "level": 43,
+     "nickname": "Raspberry",
+     "item": "",
+     "moves": [
+      "Calm Mind",
+      "Surf",
+      "Rest",
+      "Ice Beam"
+     ]
+    },
+    {
+     "species": "Sneasel",
+     "level": 45,
+     "nickname": "SneaSalt",
+     "item": "",
+     "moves": [
+      "Low Kick",
+      "Icicle Crash",
+      "Night Slash",
+      "Ice Shard"
+     ]
+    },
+    {
+     "species": "Mamoswine",
+     "level": 45,
+     "nickname": "Baconator",
+     "item": "",
+     "moves": [
+      "Ice Shard",
+      "Earthquake",
+      "Stomp",
+      "Roar"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Jasmine",
+   "team": [
+    {
+     "species": "Magnezone",
+     "level": 43,
+     "nickname": "Polaris",
+     "item": "",
+     "moves": [
+      "Rain Dance",
+      "Thunder",
+      "Volt Switch",
+      "Flash Cannon"
+     ]
+    },
+    {
+     "species": "Steelix",
+     "level": 45,
+     "nickname": "ShinyHulud",
+     "item": "",
+     "moves": [
+      "Stone Edge",
+      "Earthquake",
+      "Iron Tail"
+     ]
+    },
+    {
+     "species": "Skarmory",
+     "level": 45,
+     "nickname": "Vultron",
+     "item": "",
+     "moves": [
+      "Toxic",
+      "Roost",
+      "Steel Wing",
+      "Drill Peck"
+     ]
+    },
+    {
+     "species": "Rhyperior",
+     "level": 46,
+     "nickname": "Wrecker",
+     "item": "",
+     "moves": [
+      "Rock Slide",
+      "Earthquake",
+      "Megahorn",
+      "Body Slam"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Morty",
+   "team": [
+    {
+     "species": "Haunter",
+     "level": 43,
+     "nickname": "HarryPoltr",
+     "item": "",
+     "moves": [
+      "Sucker Punch",
+      "Ice Punch",
+      "Shadow Claw",
+      "Curse"
+     ]
+    },
+    {
+     "species": "Mismagius",
+     "level": 45,
+     "nickname": "Melisandre",
+     "item": "",
+     "moves": [
+      "Attract",
+      "Nasty Plot",
+      "Moonblast",
+      "Shadow Ball"
+     ]
+    },
+    {
+     "species": "Parasect",
+     "level": 46,
+     "nickname": "BeetleJuce",
+     "item": "",
+     "moves": [
+      "Spore",
+      "X Scissor",
+      "Giga Drain",
+      "Night Shade"
+     ]
+    },
+    {
+     "species": "Wyrdeer",
+     "level": 47,
+     "nickname": "NecroDancr",
+     "item": "",
+     "moves": [
+      "Zen Headbutt",
+      "Double Edge",
+      "Agility",
+      "Double Kick"
+     ]
+    },
+    {
+     "species": "Gengar",
+     "level": 49,
+     "nickname": "Jung-Gar",
+     "item": "",
+     "moves": [
+      "Hex",
+      "Hypnosis",
+      "Shadow Ball",
+      "Dream Eater"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Petra",
+   "team": [
+    {
+     "species": "Abomasnow",
+     "level": 44,
+     "nickname": "Everest",
+     "item": "",
+     "moves": [
+      "Blizzard",
+      "Petal Dance",
+      "Earthquake"
+     ]
+    },
+    {
+     "species": "Sneasler",
+     "level": 46,
+     "nickname": "Kilimanja",
+     "item": "",
+     "moves": [
+      "Poison Jab",
+      "Night Slash",
+      "Slash",
+      "Quick Attack"
+     ]
+    },
+    {
+     "species": "Avalugg",
+     "level": 42,
+     "nickname": "Aconcagua",
+     "item": "",
+     "moves": [
+      "Rock Slide",
+      "Earthquake",
+      "Avalanche"
+     ]
+    },
+    {
+     "species": "Braviary",
+     "level": 44,
+     "nickname": "Denali",
+     "item": "",
+     "moves": [
+      "Air Slash",
+      "Psychic M",
+      "Night Shade"
+     ]
+    },
+    {
+     "species": "Froslass",
+     "level": 48,
+     "nickname": "Blanc",
+     "item": "",
+     "moves": [
+      "Destiny Bond",
+      "Shadow Ball",
+      "Ice Shard",
+      "Ice Beam"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Clair",
+   "team": [
+    {
+     "species": "Dragonair",
+     "level": 45,
+     "nickname": "GordianRa",
+     "item": "",
+     "moves": [
+      "Wrap",
+      "Fire Blast",
+      "Rest",
+      "Thunder Wave"
+     ]
+    },
+    {
+     "species": "Gyarados",
+     "level": 45,
+     "nickname": "AdaGyros",
+     "item": "",
+     "moves": [
+      "Earthquake",
+      "Strength",
+      "Waterfall",
+      "Fly"
+     ]
+    },
+    {
+     "species": "Kingdra",
+     "level": 47,
+     "nickname": "DarkGin",
+     "item": "",
+     "moves": [
+      "Dragon Dance",
+      "Outrage",
+      "Waterfall",
+      "Rest"
+     ]
+    },
+    {
+     "species": "Tauros",
+     "level": 45,
+     "nickname": "RoastU",
+     "item": "",
+     "moves": [
+      "Earthquake",
+      "Double Edge",
+      "Flame Charge"
+     ]
+    },
+    {
+     "species": "Dragonair",
+     "level": 50,
+     "nickname": "OrganRaid",
+     "item": "",
+     "moves": [
+      "Dragon Dance",
+      "Rest",
+      "Sleep Talk",
+      "Dragon Claw"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Silas",
+   "team": [
+    {
+     "species": "Ledian",
+     "level": 48,
+     "nickname": "Tinnire",
+     "item": "",
+     "moves": [
+      "Air Slash",
+      "Close Combat",
+      "X Scissor",
+      "Bug Bite"
+     ]
+    },
+    {
+     "species": "Slowbro",
+     "level": 46,
+     "nickname": "Speleo",
+     "item": "",
+     "moves": [
+      "Curse",
+      "Surf",
+      "Headbutt",
+      "Psychic M"
+     ]
+    },
+    {
+     "species": "Ariados",
+     "level": 48,
+     "nickname": "Inoscula",
+     "item": "",
+     "moves": [
+      "Hypnosis",
+      "Dream Eater",
+      "Giga Drain",
+      "Scary Face"
+     ]
+    },
+    {
+     "species": "Kleavor",
+     "level": 48,
+     "nickname": "Logsidian",
+     "item": "",
+     "moves": [
+      "Rock Slide",
+      "Agility",
+      "X Scissor"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sandra",
+   "team": [
+    {
+     "species": "Azumarill",
+     "level": 48,
+     "nickname": "Babble",
+     "item": "",
+     "moves": [
+      "Surf",
+      "Dazzlingleam",
+      "Aqua Jet",
+      "Rollout"
+     ]
+    },
+    {
+     "species": "Togekiss",
+     "level": 48,
+     "nickname": "Clutch",
+     "item": "",
+     "moves": [
+      "Roost",
+      "Air Slash",
+      "Extrasensory",
+      "Metronome"
+     ]
+    },
+    {
+     "species": "Granbull",
+     "level": 48,
+     "nickname": "Rusty",
+     "item": "",
+     "moves": [
+      "Play Rough",
+      "Crunch",
+      "Body Slam",
+      "Screech"
+     ]
+    },
+    {
+     "species": "Clefable",
+     "level": 50,
+     "nickname": "Supernova",
+     "item": "",
+     "moves": [
+      "Moonblast",
+      "Thunderbolt",
+      "Tri Attack",
+      "Metronome"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Remy",
+   "team": [
+    {
+     "species": "Ampharos",
+     "level": 49,
+     "nickname": "CandlPower",
+     "item": "",
+     "moves": [
+      "Flash",
+      "Thunderbolt",
+      "Thunder Wave"
+     ]
+    },
+    {
+     "species": "Corsola",
+     "level": 45,
+     "nickname": "Cnidaran",
+     "item": "",
+     "moves": [
+      "Recover",
+      "Surf",
+      "Toxic"
+     ]
+    },
+    {
+     "species": "Tentacruel",
+     "level": 48,
+     "nickname": "Snare",
+     "item": "",
+     "moves": [
+      "Whirlpool",
+      "Surf",
+      "Poison Jab",
+      "Recover"
+     ]
+    },
+    {
+     "species": "Shuckle",
+     "level": 45,
+     "nickname": "Rumbler",
+     "item": "",
+     "moves": [
+      "Rest",
+      "Defense Curl",
+      "Rollout",
+      "Wrap"
+     ]
+    },
+    {
+     "species": "Lanturn",
+     "level": 50,
+     "nickname": "Unfathom",
+     "item": "",
+     "moves": [
+      "Surf",
+      "Thunderbolt",
+      "Rest",
+      "Sleep Talk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Amos",
+   "team": [
+    {
+     "species": "Bronzong",
+     "level": 45,
+     "nickname": "Overtone",
+     "item": "",
+     "moves": [
+      "Zen Headbutt",
+      "Thunder",
+      "Rain Dance"
+     ]
+    },
+    {
+     "species": "Electrode",
+     "level": 46,
+     "nickname": "EggStatic",
+     "item": "",
+     "moves": [
+      "Leech Seed",
+      "Volt Switch",
+      "Giga Drain"
+     ]
+    },
+    {
+     "species": "Typhlosion",
+     "level": 49,
+     "nickname": "Everbright",
+     "item": "",
+     "moves": [
+      "Shadow Ball",
+      "Fire Blast",
+      "Will O Wisp"
+     ]
+    },
+    {
+     "species": "Decidueye",
+     "level": 49,
+     "nickname": "Argus",
+     "item": "",
+     "moves": [
+      "Aura Sphere",
+      "Energy Ball",
+      "Air Slash"
+     ]
+    },
+    {
+     "species": "Samurott",
+     "level": 49,
+     "nickname": "Bulwark",
+     "item": "",
+     "moves": [
+      "Slash",
+      "Crunch",
+      "Waterfall"
+     ]
+    },
+    {
+     "species": "Gallade",
+     "level": 51,
+     "nickname": "Oathkeeper",
+     "item": "",
+     "moves": [
+      "Zen Headbutt",
+      "Hi Jump Kick",
+      "Agility"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Andrea",
+   "team": [
+    {
+     "species": "Forretress",
+     "level": 48,
+     "nickname": "Kilojoul",
+     "item": "",
+     "moves": [
+      "Spikes",
+      "Explosion",
+      "U Turn"
+     ]
+    },
+    {
+     "species": "Gabite",
+     "level": 46,
+     "nickname": "Richtogre",
+     "item": "",
+     "moves": [
+      "Bulldoze",
+      "Dragon Claw"
+     ]
+    },
+    {
+     "species": "Weavile",
+     "level": 48,
+     "nickname": "Chaorctic",
+     "item": "",
+     "moves": [
+      "Ice Shard",
+      "Night Slash",
+      "Low Kick"
+     ]
+    },
+    {
+     "species": "Honchkrow",
+     "level": 50,
+     "nickname": "Fujita",
+     "item": "",
+     "moves": [
+      "Drill Peck",
+      "Dark Pulse",
+      "Night Shade",
+      "Roar"
+     ]
+    },
+    {
+     "species": "Luxray",
+     "level": 51,
+     "nickname": "Dynamp",
+     "item": "",
+     "moves": [
+      "Crunch",
+      "Spark",
+      "Double Edge",
+      "Roar"
+     ]
+    },
+    {
+     "species": "Jolteon",
+     "level": 53,
+     "nickname": "Indrage",
+     "item": "",
+     "moves": [
+      "Thunderbolt",
+      "Double Kick",
+      "Shadow Ball",
+      "Quick Attack"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tyrus",
+   "team": [
+    {
+     "species": "Ninetales",
+     "level": 51,
+     "nickname": "NineLives",
+     "item": "",
+     "moves": [
+      "Hypnosis",
+      "Flamethrower",
+      "Psychic M"
+     ]
+    },
+    {
+     "species": "Magmortar",
+     "level": 54,
+     "nickname": "Culverin",
+     "item": "",
+     "moves": [
+      "Sunny Day",
+      "Thunderbolt",
+      "Fire Blast",
+      "Sludge Bomb"
+     ]
+    },
+    {
+     "species": "Sunflora",
+     "level": 55,
+     "nickname": "Helia",
+     "item": "",
+     "moves": [
+      "Sunny Day",
+      "Growth",
+      "Solar Beam",
+      "Flamethrower"
+     ]
+    },
+    {
+     "species": "Octillery",
+     "level": 55,
+     "nickname": "Levi",
+     "item": "",
+     "moves": [
+      "Flamethrower",
+      "Octazooka",
+      "Hyper Beam",
+      "Rock Blast"
+     ]
+    },
+    {
+     "species": "Arcanine",
+     "level": 53,
+     "nickname": "Dauntless",
+     "item": "",
+     "moves": [
+      "Body Slam",
+      "Extremespeed",
+      "Flamethrower",
+      "Rock Slide"
+     ]
+    },
+    {
+     "species": "Flareon",
+     "level": 55,
+     "nickname": "Empyre",
+     "item": "",
+     "moves": [
+      "Flare Blitz",
+      "Flame Charge",
+      "Headbutt",
+      "Dig"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nemo",
+   "team": [
+    {
+     "species": "Feraligatr",
+     "level": 53,
+     "nickname": "Trapjaw",
+     "item": "",
+     "moves": [
+      "Crunch",
+      "Waterfall",
+      "Ice Punch",
+      "Dragon Dance"
+     ]
+    },
+    {
+     "species": "Braviary",
+     "level": 55,
+     "nickname": "Polly",
+     "item": "",
+     "moves": [
+      "Psychic M",
+      "Drill Peck",
+      "Calm Mind",
+      "Roost"
+     ]
+    },
+    {
+     "species": "Slowking",
+     "level": 56,
+     "nickname": "Hipocampus",
+     "item": "",
+     "moves": [
+      "Flamethrower",
+      "Psychic M",
+      "Surf"
+     ]
+    },
+    {
+     "species": "Goodra",
+     "level": 55,
+     "nickname": "AcidTide",
+     "item": "",
+     "moves": [
+      "Dragon Pulse",
+      "Iron Head",
+      "Hidden Power",
+      "Sludge Bomb"
+     ]
+    },
+    {
+     "species": "Quagsire",
+     "level": 56,
+     "nickname": "MudBud",
+     "item": "",
+     "moves": [
+      "Aqua Jet",
+      "Curse",
+      "Earthquake",
+      "Headbutt"
+     ]
+    },
+    {
+     "species": "Vaporeon",
+     "level": 57,
+     "nickname": "Tidechaser",
+     "item": "",
+     "moves": [
+      "Surf",
+      "Reflect",
+      "Ice Beam",
+      "Toxic"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Andrea",
+   "team": [
+    {
+     "species": "Magnezone",
+     "level": 57,
+     "nickname": "Agausstus",
+     "item": "",
+     "moves": [
+      "Tri Attack",
+      "Thunderbolt",
+      "Flash Cannon",
+      "Volt Switch"
+     ]
+    },
+    {
+     "species": "Garchomp",
+     "level": 55,
+     "nickname": "Richtogre",
+     "item": "",
+     "moves": [
+      "Rock Slide",
+      "Dragon Claw",
+      "Earthquake"
+     ]
+    },
+    {
+     "species": "Weavile",
+     "level": 55,
+     "nickname": "Chaorctic",
+     "item": "",
+     "moves": [
+      "Ice Punch",
+      "Night Slash",
+      "Swords Dance",
+      "Ice Shard"
+     ]
+    },
+    {
+     "species": "Honchkrow",
+     "level": 56,
+     "nickname": "Fujita",
+     "item": "",
+     "moves": [
+      "Drill Peck",
+      "Dark Pulse",
+      "Sucker Punch",
+      "Haze"
+     ]
+    },
+    {
+     "species": "Luxray",
+     "level": 57,
+     "nickname": "Dynamp",
+     "item": "",
+     "moves": [
+      "Crunch",
+      "Wild Charge",
+      "Dragonbreath",
+      "Play Rough"
+     ]
+    },
+    {
+     "species": "Jolteon",
+     "level": 57,
+     "nickname": "Indrage",
+     "item": "",
+     "moves": [
+      "Thunderbolt",
+      "Hyper Beam",
+      "Shadow Ball",
+      "Quick Attack"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Vesper",
+   "team": [
+    {
+     "species": "Lugia",
+     "level": 60,
+     "nickname": "Gaelstrom",
+     "item": "",
+     "moves": [
+      "Ancientpower",
+      "Aeroblast",
+      "Whirlpool"
+     ]
+    },
+    {
+     "species": "Nidoking",
+     "level": 55,
+     "nickname": "Seismark",
+     "item": "",
+     "moves": [
+      "Sludge Bomb",
+      "Earthquake",
+      "Thunder"
+     ]
+    },
+    {
+     "species": "Skarmory",
+     "level": 58,
+     "nickname": "Lyrica",
+     "item": "",
+     "moves": [
+      "Drill Peck",
+      "Iron Head",
+      "Curse",
+      "Roost"
+     ]
+    },
+    {
+     "species": "Dragonite",
+     "level": 56,
+     "nickname": "Lazuli",
+     "item": "",
+     "moves": [
+      "Outrage",
+      "Fly",
+      "Roost"
+     ]
+    },
+    {
+     "species": "Scizor",
+     "level": 58,
+     "nickname": "FerrItself",
+     "item": "",
+     "moves": [
+      "Bullet Punch",
+      "Swords Dance",
+      "X Scissor"
+     ]
+    },
+    {
+     "species": "Ho Oh",
+     "level": 60,
+     "nickname": "Eversol",
+     "item": "",
+     "moves": [
+      "Recover",
+      "Sacred Fire",
+      "Brave Bird",
+      "Ancientpower"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kurt",
+   "team": [
+    {
+     "species": "Heracross",
+     "level": 57,
+     "nickname": "Ohmu",
+     "item": "",
+     "moves": [
+      "Megahorn",
+      "Close Combat",
+      "Body Slam"
+     ]
+    },
+    {
+     "species": "Umbreon",
+     "level": 56,
+     "nickname": "Howl",
+     "item": "",
+     "moves": [
+      "Toxic",
+      "Curse",
+      "Sucker Punch"
+     ]
+    },
+    {
+     "species": "Ursaluna",
+     "level": 57,
+     "nickname": "Okkoto",
+     "item": "",
+     "moves": [
+      "Earthquake",
+      "Facade",
+      "Rest",
+      "Sleep Talk"
+     ]
+    },
+    {
+     "species": "Wyrdeer",
+     "level": 58,
+     "nickname": "Yubaba",
+     "item": "",
+     "moves": [
+      "Body Slam",
+      "Zen Headbutt",
+      "Hi Jump Kick"
+     ]
+    },
+    {
+     "species": "Kleavor",
+     "level": 59,
+     "nickname": "Piccolo",
+     "item": "",
+     "moves": [
+      "Rock Slide",
+      "X Scissor",
+      "Quick Attack"
+     ]
+    },
+    {
+     "species": "Celebi",
+     "level": 60,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Calm Mind",
+      "Psychic M",
+      "Energy Ball",
+      "Recover"
+     ]
+    }
+   ]
+  }
+ ],
+ "normal": [
+  {
+   "name": "Camden",
+   "team": [
+    {
+     "species": "Scizor",
+     "level": 7,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Cut",
+      "Leer",
+      "Agility",
+      "Focus Energy"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Petry",
+   "team": [
+    {
+     "species": "Cranidos",
+     "level": 12,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Rock Smash",
+      "Scary Face",
+      "Screech",
+      "Headbutt"
+     ]
+    },
+    {
+     "species": "Shieldon",
+     "level": 12,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Mirror Coat",
+      "Tackle",
+      "Screech",
+      "Rock Smash"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Growlithe",
+     "level": 10,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    },
+    {
+     "species": "Murkrow",
+     "level": 11,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    },
+    {
+     "species": "Rowlet",
+     "level": 12,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Slowpoke",
+     "level": 10,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    },
+    {
+     "species": "Yanma",
+     "level": 11,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    },
+    {
+     "species": "Cyndaquil",
+     "level": 12,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Tangela",
+     "level": 10,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    },
+    {
+     "species": "Togetic",
+     "level": 8,
+     "nickname": "",
+     "item": "",
+     "moves": []
+    },
+    {
+     "species": "Oshawott",
+     "level": 12,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    }
+   ]
+  },
+  {
+   "name": "Ursula",
+   "team": [
+    {
+     "species": "Pineco",
+     "level": 10,
+     "nickname": "Silky",
+     "item": "Rocky Helmet",
+     "moves": [
+      "Bug Bite",
+      "Protect",
+      "String Shot"
+     ]
+    },
+    {
+     "species": "Heracross",
+     "level": 12,
+     "nickname": "Hercules",
+     "item": "",
+     "moves": [
+      "Endure",
+      "Reversal"
+     ]
+    },
+    {
+     "species": "Furret",
+     "level": 13,
+     "nickname": "Kitty",
+     "item": "",
+     "moves": [
+      "Headbutt"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Silas",
+   "team": [
+    {
+     "species": "Ledian",
+     "level": 15,
+     "nickname": "Tinnire",
+     "item": "",
+     "moves": [
+      "Air Slash",
+      "Supersonic",
+      "Fury Strikes",
+      "Bug Bite"
+     ]
+    },
+    {
+     "species": "Slowpoke",
+     "level": 15,
+     "nickname": "Speleo",
+     "item": "",
+     "moves": [
+      "Curse",
+      "Water Gun",
+      "Rain Dance",
+      "Rest"
+     ]
+    },
+    {
+     "species": "Ariados",
+     "level": 15,
+     "nickname": "Inoscula",
+     "item": "",
+     "moves": [
+      "Scary Face",
+      "Poison Sting",
+      "Bug Bite",
+      "Baton Pass"
+     ]
+    },
+    {
+     "species": "Kleavor",
+     "level": 16,
+     "nickname": "Logsidian",
+     "item": "Metal Coat",
+     "moves": [
+      "Cut",
+      "Focus Energy",
+      "Agility",
+      "Leer"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bugsy",
+   "team": [
+    {
+     "species": "Yanma",
+     "level": 16,
+     "nickname": "Sonic",
+     "item": "",
+     "moves": [
+      "Sonic Boom",
+      "Confuse Ray",
+      "Gust",
+      "U Turn"
+     ]
+    },
+    {
+     "species": "Parasect",
+     "level": 16,
+     "nickname": "Mickey",
+     "item": "",
+     "moves": [
+      "Spore",
+      "Slash",
+      "Giga Drain",
+      "Swords Dance"
+     ]
+    },
+    {
+     "species": "Slugma",
+     "level": 18,
+     "nickname": "Helix",
+     "item": "",
+     "moves": [
+      "Ember",
+      "Rock Throw",
+      "Amnesia",
+      "Recover"
+     ]
+    },
+    {
+     "species": "Scyther",
+     "level": 18,
+     "nickname": "Manny",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Quick Attack",
+      "Swords Dance",
+      "Pursuit",
+      "U Turn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sandra",
+   "team": [
+    {
+     "species": "Marill",
+     "level": 19,
+     "nickname": "Babble",
+     "item": "",
+     "moves": [
+      "Bubble Beam",
+      "Rollout",
+      "Charm"
+     ]
+    },
+    {
+     "species": "Togetic",
+     "level": 20,
+     "nickname": "Clutch",
+     "item": "",
+     "moves": [
+      "Extrasensory",
+      "Drain Kiss",
+      "Metronome"
+     ]
+    },
+    {
+     "species": "Snubbull",
+     "level": 20,
+     "nickname": "Rusty",
+     "item": "",
+     "moves": [
+      "Play Rough",
+      "Bite",
+      "Scary Face",
+      "Screech"
+     ]
+    },
+    {
+     "species": "Clefairy",
+     "level": 21,
+     "nickname": "Supernova",
+     "item": "Pink Bow",
+     "moves": [
+      "Moonblast",
+      "Thunder Wave",
+      "Encore",
+      "Tri Attack"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Beth",
+   "team": [
+    {
+     "species": "Dunsparce",
+     "level": 16,
+     "nickname": "Par Four",
+     "item": "Leftovers",
+     "moves": [
+      "Sandstorm",
+      "Protect",
+      "Roost",
+      "Headbutt"
+     ]
+    },
+    {
+     "species": "Rhyhorn",
+     "level": 18,
+     "nickname": "Ivory",
+     "item": "Salac Berry",
+     "moves": [
+      "Sandstorm",
+      "Rock Throw",
+      "Dig",
+      "Strength"
+     ]
+    },
+    {
+     "species": "Gligar",
+     "level": 16,
+     "nickname": "Scorpius",
+     "item": "Poison Barb",
+     "moves": [
+      "Sandstorm",
+      "Aerial Ace",
+      "Dig",
+      "Poison Sting"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tyrus",
+   "team": [
+    {
+     "species": "Magmar",
+     "level": 20,
+     "nickname": "Culverin",
+     "item": "",
+     "moves": [
+      "Sunny Day",
+      "Strength",
+      "Flame Charge",
+      "Smokescreen"
+     ]
+    },
+    {
+     "species": "Sunflora",
+     "level": 21,
+     "nickname": "Helia",
+     "item": "",
+     "moves": [
+      "Sunny Day",
+      "Growth",
+      "Razor Leaf",
+      "Leech Seed"
+     ]
+    },
+    {
+     "species": "Octillery",
+     "level": 22,
+     "nickname": "Levi",
+     "item": "Zoom Lens",
+     "moves": [
+      "Ember",
+      "Octazooka",
+      "Smokescreen"
+     ]
+    },
+    {
+     "species": "Flareon",
+     "level": 24,
+     "nickname": "Empyre",
+     "item": "",
+     "moves": [
+      "Sunny Day",
+      "Flame Charge",
+      "Rock Smash",
+      "Dig"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Slowpoke",
+     "level": 24,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Curse",
+      "Headbutt",
+      "Water Gun",
+      "Disable"
+     ]
+    },
+    {
+     "species": "Growlithe",
+     "level": 25,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Double Kick",
+      "Ember",
+      "Leer",
+      "Safeguard"
+     ]
+    },
+    {
+     "species": "Murkrow",
+     "level": 25,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Night Shade",
+      "Wing Attack",
+      "Pursuit",
+      "Haze"
+     ]
+    },
+    {
+     "species": "Eevee",
+     "level": 22,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Bite",
+      "Quick Attack",
+      "Leer",
+      "Swift"
+     ]
+    },
+    {
+     "species": "Dartrix",
+     "level": 27,
+     "nickname": "",
+     "item": "Miracle Seed",
+     "moves": [
+      "Wing Attack",
+      "Energy Ball",
+      "Roost",
+      "Night Shade"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Tangela",
+     "level": 24,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Sleep Powder",
+      "Growth",
+      "Mega Drain",
+      "Poisonpowder"
+     ]
+    },
+    {
+     "species": "Slowpoke",
+     "level": 25,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Curse",
+      "Headbutt",
+      "Water Gun",
+      "Disable"
+     ]
+    },
+    {
+     "species": "Yanma",
+     "level": 25,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Sonic Boom",
+      "Double Team",
+      "Protect",
+      "Bug Bite"
+     ]
+    },
+    {
+     "species": "Eevee",
+     "level": 22,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Bite",
+      "Quick Attack",
+      "Leer",
+      "Swift"
+     ]
+    },
+    {
+     "species": "Quilava",
+     "level": 27,
+     "nickname": "",
+     "item": "Charcoal",
+     "moves": [
+      "Flame Charge",
+      "Smokescreen",
+      "Dig",
+      "Quick Attack"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Growlithe",
+     "level": 24,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Double Kick",
+      "Ember",
+      "Leer",
+      "Safeguard"
+     ]
+    },
+    {
+     "species": "Tangela",
+     "level": 25,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Sleep Powder",
+      "Growth",
+      "Mega Drain",
+      "Poisonpowder"
+     ]
+    },
+    {
+     "species": "Togetic",
+     "level": 25,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Dizzy Punch",
+      "Encore",
+      "Disarm Voice",
+      "Charm"
+     ]
+    },
+    {
+     "species": "Eevee",
+     "level": 22,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Bite",
+      "Quick Attack",
+      "Leer",
+      "Swift"
+     ]
+    },
+    {
+     "species": "Dewott",
+     "level": 27,
+     "nickname": "",
+     "item": "Mystic Water",
+     "moves": [
+      "Leer",
+      "Rage",
+      "Aqua Jet",
+      "Bite"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Whitney",
+   "team": [
+    {
+     "species": "Clefairy",
+     "level": 28,
+     "nickname": "Resonator",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Attract",
+      "Hyper Voice",
+      "Metronome",
+      "Sing"
+     ]
+    },
+    {
+     "species": "Nidoqueen",
+     "level": 28,
+     "nickname": "BriarRose",
+     "item": "Chesto Berry",
+     "moves": [
+      "Attract",
+      "Rest",
+      "Body Slam",
+      "Bulldoze"
+     ]
+    },
+    {
+     "species": "Miltank",
+     "level": 29,
+     "nickname": "UddrDefeat",
+     "item": "Lum Berry",
+     "moves": [
+      "Rollout",
+      "Defense Curl",
+      "Fresh Snack",
+      "Body Slam"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Li",
+   "team": [
+    {
+     "species": "Haunter",
+     "level": 31,
+     "nickname": "Mortalon",
+     "item": "Focus Sash",
+     "moves": [
+      "Shadow Claw",
+      "Curse",
+      "Safeguard",
+      "Hypnosis"
+     ]
+    },
+    {
+     "species": "Sudowoodo",
+     "level": 28,
+     "nickname": "Petrus",
+     "item": "Focus Sash",
+     "moves": [
+      "Rock Throw",
+      "Counter",
+      "Low Kick",
+      "Feint Attack"
+     ]
+    },
+    {
+     "species": "Victreebel",
+     "level": 31,
+     "nickname": "Dendron",
+     "item": "Focus Sash",
+     "moves": [
+      "Leech Seed",
+      "Razor Leaf",
+      "Poison Jab",
+      "Wrap"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Falkner",
+   "team": [
+    {
+     "species": "Mantine",
+     "level": 31,
+     "nickname": "Catalina",
+     "item": "Focus Sash",
+     "moves": [
+      "Rain Dance",
+      "Water Pulse",
+      "Hurricane",
+      "Roost"
+     ]
+    },
+    {
+     "species": "Noctowl",
+     "level": 33,
+     "nickname": "Hawker",
+     "item": "Scope Lens",
+     "moves": [
+      "Aerial Ace",
+      "Mud Slap",
+      "Roost",
+      "Hurricane"
+     ]
+    },
+    {
+     "species": "Gligar",
+     "level": 32,
+     "nickname": "Stratofor",
+     "item": "Soft Sand",
+     "moves": [
+      "Protect",
+      "Aerial Ace",
+      "Bulldoze",
+      "Toxic"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Arcanine",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Flame Charge",
+      "Bite",
+      "Roar",
+      "Double Kick"
+     ]
+    },
+    {
+     "species": "Slowbro",
+     "level": 38,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Water Pulse",
+      "Zen Headbutt",
+      "Curse",
+      "Thunder Wave"
+     ]
+    },
+    {
+     "species": "Honchkrow",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Drill Peck",
+      "Dark Pulse",
+      "Roost",
+      "Night Shade"
+     ]
+    },
+    {
+     "species": "Muk",
+     "level": 38,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Sludge Bomb",
+      "Curse",
+      "Rock Smash",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Sylveon",
+     "level": 37,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Drain Kiss",
+      "Calm Mind",
+      "Shadow Ball",
+      "Charm"
+     ]
+    },
+    {
+     "species": "Decidueye",
+     "level": 40,
+     "nickname": "",
+     "item": "Miracle Seed",
+     "moves": [
+      "Petal Dance",
+      "Air Slash",
+      "Roost",
+      "Night Shade"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Slowbro",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Surf",
+      "Psychic M",
+      "Rest",
+      "Sleep Talk"
+     ]
+    },
+    {
+     "species": "Tangrowth",
+     "level": 38,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Razor Leaf",
+      "Poisonpowder",
+      "Protect",
+      "Giga Drain"
+     ]
+    },
+    {
+     "species": "Yanmega",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Bug Buzz",
+      "Air Slash",
+      "Ancientpower",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Graveler",
+     "level": 38,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Magnitude",
+      "Rock Blast",
+      "Body Slam",
+      "Rock Smash"
+     ]
+    },
+    {
+     "species": "Glaceon",
+     "level": 37,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Icy Wind",
+      "Mirror Coat",
+      "Shadow Ball",
+      "Barrier"
+     ]
+    },
+    {
+     "species": "Typhlosion",
+     "level": 40,
+     "nickname": "",
+     "item": "Charcoal",
+     "moves": [
+      "Smokescreen",
+      "Flamethrower",
+      "Dig",
+      "Swift"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Tangrowth",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Razor Leaf",
+      "Toxic",
+      "Protect",
+      "Rock Slide"
+     ]
+    },
+    {
+     "species": "Arcanine",
+     "level": 38,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Flamethrower",
+      "Double Kick",
+      "Bite",
+      "Roar"
+     ]
+    },
+    {
+     "species": "Togetic",
+     "level": 37,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Thunder Wave",
+      "Air Slash",
+      "Charm",
+      "Metronome"
+     ]
+    },
+    {
+     "species": "Piloswine",
+     "level": 38,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Magnitude",
+      "Ice Shard",
+      "Body Slam",
+      "Fury Strikes"
+     ]
+    },
+    {
+     "species": "Espeon",
+     "level": 37,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Psybeam",
+      "Calm Mind",
+      "Shadow Ball",
+      "Mud Slap"
+     ]
+    },
+    {
+     "species": "Samurott",
+     "level": 40,
+     "nickname": "",
+     "item": "Mystic Water",
+     "moves": [
+      "Slash",
+      "Surf",
+      "Crunch",
+      "Night Slash"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Amos",
+   "team": [
+    {
+     "species": "Bronzor",
+     "level": 27,
+     "nickname": "Overtone",
+     "item": "Metal Coat",
+     "moves": [
+      "Confusion",
+      "Screech",
+      "Rain Dance",
+      "Iron Head"
+     ]
+    },
+    {
+     "species": "Quilava",
+     "level": 30,
+     "nickname": "Everbright",
+     "item": "Charcoal",
+     "moves": [
+      "Flame Charge",
+      "Defense Curl",
+      "Dig",
+      "Rollout"
+     ]
+    },
+    {
+     "species": "Dartrix",
+     "level": 30,
+     "nickname": "Argus",
+     "item": "Miracle Seed",
+     "moves": [
+      "Roost",
+      "Energy Ball",
+      "Wing Attack",
+      "Razor Leaf"
+     ]
+    },
+    {
+     "species": "Dewott",
+     "level": 30,
+     "nickname": "Bulwark",
+     "item": "Mystic Water",
+     "moves": [
+      "Aqua Tail",
+      "Slash",
+      "Headbutt",
+      "Water Pulse"
+     ]
+    },
+    {
+     "species": "Gallade",
+     "level": 32,
+     "nickname": "Oathkeeper",
+     "item": "",
+     "moves": [
+      "Psybeam",
+      "Karate Chop",
+      "Calm Mind",
+      "Bulk Up"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Andrea",
+   "team": [
+    {
+     "species": "Forretress",
+     "level": 30,
+     "nickname": "Kilojoul",
+     "item": "Focus Sash",
+     "moves": [
+      "Spikes",
+      "Explosion",
+      "U Turn"
+     ]
+    },
+    {
+     "species": "Luxio",
+     "level": 27,
+     "nickname": "Dynamp",
+     "item": "",
+     "moves": [
+      "Roar",
+      "Bite",
+      "Spark"
+     ]
+    },
+    {
+     "species": "Sneasel",
+     "level": 29,
+     "nickname": "Chaorctic",
+     "item": "",
+     "moves": [
+      "Ice Shard",
+      "Pursuit",
+      "Quick Attack"
+     ]
+    },
+    {
+     "species": "Jolteon",
+     "level": 33,
+     "nickname": "Indrage",
+     "item": "",
+     "moves": [
+      "Spark",
+      "Double Kick",
+      "Thunder Wave",
+      "Thundershock"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sybil",
+   "team": [
+    {
+     "species": "Dusknoir",
+     "level": 32,
+     "nickname": "Kenophobia",
+     "item": "Leftovers",
+     "moves": [
+      "Shadow Claw",
+      "Will O Wisp",
+      "Curse",
+      "Pain Split"
+     ]
+    },
+    {
+     "species": "Gengar",
+     "level": 30,
+     "nickname": "Te No Me",
+     "item": "Lum Berry",
+     "moves": [
+      "Shadow Claw",
+      "Destiny Bond",
+      "Mean Look",
+      "Sucker Punch"
+     ]
+    },
+    {
+     "species": "Misdreavus",
+     "level": 33,
+     "nickname": "Sabrina",
+     "item": "",
+     "moves": [
+      "Thunder Wave",
+      "Psychic M",
+      "Shadow Ball",
+      "Hex"
+     ]
+    },
+    {
+     "species": "Stantler",
+     "level": 33,
+     "nickname": "Pallbearer",
+     "item": "Zoom Lens",
+     "moves": [
+      "Hi Jump Kick",
+      "Hypnosis",
+      "Stomp",
+      "U Turn"
+     ]
+    },
+    {
+     "species": "Typhlosion",
+     "level": 36,
+     "nickname": "Charon",
+     "item": "Spell Tag",
+     "moves": [
+      "Flame Charge",
+      "Shadow Ball",
+      "Swift",
+      "Calm Mind"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Remy",
+   "team": [
+    {
+     "species": "Ampharos",
+     "level": 39,
+     "nickname": "CandlPower",
+     "item": "",
+     "moves": [
+      "Flash",
+      "Thunderpunch",
+      "Swift",
+      "Thunder Wave"
+     ]
+    },
+    {
+     "species": "Shuckle",
+     "level": 35,
+     "nickname": "Rumbler",
+     "item": "Chesto Berry",
+     "moves": [
+      "Rest",
+      "Defense Curl",
+      "Rollout",
+      "Wrap"
+     ]
+    },
+    {
+     "species": "Corsola",
+     "level": 35,
+     "nickname": "Cnidaran",
+     "item": "",
+     "moves": [
+      "Rock Blast",
+      "Water Pulse",
+      "Toxic",
+      "Recover"
+     ]
+    },
+    {
+     "species": "Tentacruel",
+     "level": 38,
+     "nickname": "Snare",
+     "item": "",
+     "moves": [
+      "Whirlpool",
+      "Poison Jab",
+      "Rapid Spin",
+      "Recover"
+     ]
+    },
+    {
+     "species": "Lanturn",
+     "level": 40,
+     "nickname": "Unfathom",
+     "item": "Chesto Berry",
+     "moves": [
+      "Surf",
+      "Thunderbolt",
+      "Rest",
+      "Sleep Talk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nemo",
+   "team": [
+    {
+     "species": "Feraligatr",
+     "level": 38,
+     "nickname": "Trapjaw",
+     "item": "",
+     "moves": [
+      "Crunch",
+      "Waterfall",
+      "Scary Face",
+      "Bulldoze"
+     ]
+    },
+    {
+     "species": "Rufflet",
+     "level": 40,
+     "nickname": "Polly",
+     "item": "",
+     "moves": [
+      "Fly",
+      "Wing Attack",
+      "Double Edge",
+      "Charm"
+     ]
+    },
+    {
+     "species": "Slowking",
+     "level": 37,
+     "nickname": "Hipocampus",
+     "item": "",
+     "moves": [
+      "Nasty Plot",
+      "Psychic M",
+      "Bubble Beam"
+     ]
+    },
+    {
+     "species": "Sliggoo",
+     "level": 38,
+     "nickname": "AcidTide",
+     "item": "",
+     "moves": [
+      "Hidden Power",
+      "Iron Head",
+      "Protect",
+      "Sludge Bomb"
+     ]
+    },
+    {
+     "species": "Vaporeon",
+     "level": 40,
+     "nickname": "Tidechaser",
+     "item": "Leftovers",
+     "moves": [
+      "Scald",
+      "Reflect",
+      "Ice Beam",
+      "Toxic"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chuck",
+   "team": [
+    {
+     "species": "Primeape",
+     "level": 42,
+     "nickname": "Peppy",
+     "item": "Life Orb",
+     "moves": [
+      "Dynamicpunch",
+      "Rock Slide",
+      "Screech",
+      "U Turn"
+     ]
+    },
+    {
+     "species": "Gallade",
+     "level": 41,
+     "nickname": "GladAle",
+     "item": "Twistedspoon",
+     "moves": [
+      "Zen Headbutt",
+      "Karate Chop",
+      "Bulk Up",
+      "Thunderpunch"
+     ]
+    },
+    {
+     "species": "Toxicroak",
+     "level": 41,
+     "nickname": "Donatello",
+     "item": "Poison Barb",
+     "moves": [
+      "Slash",
+      "Swords Dance",
+      "Poison Jab",
+      "Sucker Punch"
+     ]
+    },
+    {
+     "species": "Poliwrath",
+     "level": 43,
+     "nickname": "TadSwole",
+     "item": "Mystic Water",
+     "moves": [
+      "Surf",
+      "Hypnosis",
+      "Dynamicpunch",
+      "Body Slam"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Pryce",
+   "team": [
+    {
+     "species": "Glalie",
+     "level": 43,
+     "nickname": "Nonpareil",
+     "item": "Focus Sash",
+     "moves": [
+      "Spikes",
+      "Explosion",
+      "Hail",
+      "Icy Wind"
+     ]
+    },
+    {
+     "species": "Lapras",
+     "level": 43,
+     "nickname": "Raspberry",
+     "item": "",
+     "moves": [
+      "Calm Mind",
+      "Surf",
+      "Thunderbolt",
+      "Ice Beam"
+     ]
+    },
+    {
+     "species": "Sneasel",
+     "level": 45,
+     "nickname": "SneaSalt",
+     "item": "Nevermeltice",
+     "moves": [
+      "Swords Dance",
+      "Icicle Crash",
+      "Night Slash",
+      "Ice Shard"
+     ]
+    },
+    {
+     "species": "Gyarados",
+     "level": 44,
+     "nickname": "Akami",
+     "item": "Mystic Water",
+     "moves": [
+      "Waterfall",
+      "Thrash",
+      "Fly",
+      "Hidden Power"
+     ]
+    },
+    {
+     "species": "Mamoswine",
+     "level": 45,
+     "nickname": "Baconator",
+     "item": "Soft Sand",
+     "moves": [
+      "Icicle Crash",
+      "Earthquake",
+      "Stomp",
+      "Hidden Power"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Jasmine",
+   "team": [
+    {
+     "species": "Magnezone",
+     "level": 46,
+     "nickname": "Polaris",
+     "item": "Magnet",
+     "moves": [
+      "Rain Dance",
+      "Thunder",
+      "Volt Switch",
+      "Flash Cannon"
+     ]
+    },
+    {
+     "species": "Steelix",
+     "level": 46,
+     "nickname": "ShinyHulud",
+     "item": "Choice Band",
+     "moves": [
+      "Stone Edge",
+      "Earthquake",
+      "Iron Tail"
+     ]
+    },
+    {
+     "species": "Skarmory",
+     "level": 47,
+     "nickname": "Vultron",
+     "item": "Leftovers",
+     "moves": [
+      "Toxic",
+      "Roost",
+      "Steel Wing",
+      "Drill Peck"
+     ]
+    },
+    {
+     "species": "Rhyperior",
+     "level": 48,
+     "nickname": "Wrecker",
+     "item": "Choice Scarf",
+     "moves": [
+      "Rock Slide",
+      "Earthquake",
+      "Megahorn",
+      "Body Slam"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Morty",
+   "team": [
+    {
+     "species": "Haunter",
+     "level": 44,
+     "nickname": "HarryPoltr",
+     "item": "Eviolite",
+     "moves": [
+      "Sucker Punch",
+      "Ice Punch",
+      "Shadow Claw",
+      "Curse"
+     ]
+    },
+    {
+     "species": "Mismagius",
+     "level": 47,
+     "nickname": "Melisandre",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Attract",
+      "Nasty Plot",
+      "Moonblast",
+      "Shadow Ball"
+     ]
+    },
+    {
+     "species": "Parasect",
+     "level": 48,
+     "nickname": "BeetleJuce",
+     "item": "Silverpowder",
+     "moves": [
+      "Spore",
+      "X Scissor",
+      "Giga Drain",
+      "Night Shade"
+     ]
+    },
+    {
+     "species": "Wyrdeer",
+     "level": 48,
+     "nickname": "NecroDancr",
+     "item": "Black Belt",
+     "moves": [
+      "Zen Headbutt",
+      "Double Edge",
+      "Agility",
+      "Double Kick"
+     ]
+    },
+    {
+     "species": "Gengar",
+     "level": 49,
+     "nickname": "Jung-Gar",
+     "item": "Wide Lens",
+     "moves": [
+      "Hex",
+      "Hypnosis",
+      "Shadow Ball",
+      "Dream Eater"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Petra",
+   "team": [
+    {
+     "species": "Abomasnow",
+     "level": 44,
+     "nickname": "Everest",
+     "item": "Choice Scarf",
+     "moves": [
+      "Blizzard",
+      "Petal Dance",
+      "Earthquake"
+     ]
+    },
+    {
+     "species": "Sneasler",
+     "level": 46,
+     "nickname": "Kilimanja",
+     "item": "Razor Claw",
+     "moves": [
+      "Poison Jab",
+      "Night Slash",
+      "Slash",
+      "Low Kick"
+     ]
+    },
+    {
+     "species": "Avalugg",
+     "level": 44,
+     "nickname": "Aconcagua",
+     "item": "Focus Sash",
+     "moves": [
+      "Rock Slide",
+      "Earthquake",
+      "Avalanche",
+      "Mirror Coat"
+     ]
+    },
+    {
+     "species": "Braviary",
+     "level": 44,
+     "nickname": "Denali",
+     "item": "",
+     "moves": [
+      "Air Slash",
+      "Psychic M",
+      "Roost",
+      "Night Shade"
+     ]
+    },
+    {
+     "species": "Froslass",
+     "level": 48,
+     "nickname": "Blanc",
+     "item": "Spell Tag",
+     "moves": [
+      "Destiny Bond",
+      "Shadow Ball",
+      "Ice Shard",
+      "Ice Beam"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Clair",
+   "team": [
+    {
+     "species": "Dragonair",
+     "level": 47,
+     "nickname": "GordianRa",
+     "item": "Eviolite",
+     "moves": [
+      "Wrap",
+      "Fire Blast",
+      "Rest",
+      "Thunder Wave"
+     ]
+    },
+    {
+     "species": "Gyarados",
+     "level": 48,
+     "nickname": "AdaGyros",
+     "item": "Choice Band",
+     "moves": [
+      "Earthquake",
+      "Strength",
+      "Waterfall",
+      "Fly"
+     ]
+    },
+    {
+     "species": "Kingdra",
+     "level": 50,
+     "nickname": "DarkGin",
+     "item": "Chesto Berry",
+     "moves": [
+      "Dragon Dance",
+      "Outrage",
+      "Waterfall",
+      "Rest"
+     ]
+    },
+    {
+     "species": "Tauros",
+     "level": 46,
+     "nickname": "RoastU",
+     "item": "Muscle Band",
+     "moves": [
+      "Earthquake",
+      "Double Edge",
+      "Flame Charge",
+      "Iron Head"
+     ]
+    },
+    {
+     "species": "Dragonair",
+     "level": 50,
+     "nickname": "OrganRaid",
+     "item": "Eviolite",
+     "moves": [
+      "Dragon Dance",
+      "Rest",
+      "Sleep Talk",
+      "Dragon Claw"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Silas",
+   "team": [
+    {
+     "species": "Ledian",
+     "level": 48,
+     "nickname": "Tinnire",
+     "item": "",
+     "moves": [
+      "Air Slash",
+      "Close Combat",
+      "X Scissor",
+      "Bug Bite"
+     ]
+    },
+    {
+     "species": "Slowbro",
+     "level": 46,
+     "nickname": "Speleo",
+     "item": "",
+     "moves": [
+      "Shell Smash",
+      "Surf",
+      "Headbutt",
+      "Psychic M"
+     ]
+    },
+    {
+     "species": "Ariados",
+     "level": 48,
+     "nickname": "Inoscula",
+     "item": "Wide Lens",
+     "moves": [
+      "Hypnosis",
+      "Dream Eater",
+      "Giga Drain",
+      "Scary Face"
+     ]
+    },
+    {
+     "species": "Kleavor",
+     "level": 48,
+     "nickname": "Logsidian",
+     "item": "Silverpowder",
+     "moves": [
+      "Rock Slide",
+      "Agility",
+      "X Scissor",
+      "Swords Dance"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sandra",
+   "team": [
+    {
+     "species": "Granbull",
+     "level": 50,
+     "nickname": "Rusty",
+     "item": "Muscle Band",
+     "moves": [
+      "Play Rough",
+      "Crunch",
+      "Body Slam",
+      "Screech"
+     ]
+    },
+    {
+     "species": "Azumarill",
+     "level": 48,
+     "nickname": "Babble",
+     "item": "",
+     "moves": [
+      "Surf",
+      "Moonblast",
+      "Aqua Jet",
+      "Rollout"
+     ]
+    },
+    {
+     "species": "Togekiss",
+     "level": 49,
+     "nickname": "Clutch",
+     "item": "",
+     "moves": [
+      "Roost",
+      "Air Slash",
+      "Extrasensory",
+      "Thunder Wave"
+     ]
+    },
+    {
+     "species": "Clefable",
+     "level": 50,
+     "nickname": "Supernova",
+     "item": "Pink Bow",
+     "moves": [
+      "Moonblast",
+      "Thunderbolt",
+      "Calm Mind",
+      "Tri Attack"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Remy",
+   "team": [
+    {
+     "species": "Ampharos",
+     "level": 49,
+     "nickname": "CandlPower",
+     "item": "",
+     "moves": [
+      "Flash",
+      "Thunderbolt",
+      "Power Gem",
+      "Thunder Wave"
+     ]
+    },
+    {
+     "species": "Corsola",
+     "level": 45,
+     "nickname": "Cnidaran",
+     "item": "Leftovers",
+     "moves": [
+      "Mirror Coat",
+      "Surf",
+      "Toxic",
+      "Recover"
+     ]
+    },
+    {
+     "species": "Tentacruel",
+     "level": 48,
+     "nickname": "Snare",
+     "item": "",
+     "moves": [
+      "Whirlpool",
+      "Surf",
+      "Poison Jab",
+      "Recover"
+     ]
+    },
+    {
+     "species": "Shuckle",
+     "level": 45,
+     "nickname": "Rumbler",
+     "item": "Chesto Berry",
+     "moves": [
+      "Rest",
+      "Defense Curl",
+      "Rollout",
+      "Wrap"
+     ]
+    },
+    {
+     "species": "Lanturn",
+     "level": 50,
+     "nickname": "Unfathom",
+     "item": "Chesto Berry",
+     "moves": [
+      "Surf",
+      "Thunderbolt",
+      "Rest",
+      "Sleep Talk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Amos",
+   "team": [
+    {
+     "species": "Bronzong",
+     "level": 48,
+     "nickname": "Overtone",
+     "item": "Metal Coat",
+     "moves": [
+      "Zen Headbutt",
+      "Thunder",
+      "Mirror Coat",
+      "Rain Dance"
+     ]
+    },
+    {
+     "species": "Electrode",
+     "level": 48,
+     "nickname": "EggStatic",
+     "item": "Leftovers",
+     "moves": [
+      "Leech Seed",
+      "Thunder",
+      "Giga Drain",
+      "Volt Switch"
+     ]
+    },
+    {
+     "species": "Typhlosion",
+     "level": 49,
+     "nickname": "Everbright",
+     "item": "Charcoal",
+     "moves": [
+      "Shadow Ball",
+      "Fire Blast",
+      "Will O Wisp",
+      "Thunderpunch"
+     ]
+    },
+    {
+     "species": "Decidueye",
+     "level": 49,
+     "nickname": "Argus",
+     "item": "Miracle Seed",
+     "moves": [
+      "Aura Sphere",
+      "Energy Ball",
+      "Air Slash",
+      "Close Combat"
+     ]
+    },
+    {
+     "species": "Samurott",
+     "level": 49,
+     "nickname": "Bulwark",
+     "item": "Mystic Water",
+     "moves": [
+      "Swords Dance",
+      "Crunch",
+      "Waterfall",
+      "Slash"
+     ]
+    },
+    {
+     "species": "Gallade",
+     "level": 51,
+     "nickname": "Oathkeeper",
+     "item": "",
+     "moves": [
+      "Zen Headbutt",
+      "Hi Jump Kick",
+      "Agility",
+      "Swords Dance"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Andrea",
+   "team": [
+    {
+     "species": "Forretress",
+     "level": 48,
+     "nickname": "KiloJaal",
+     "item": "Focus Sash",
+     "moves": [
+      "Spikes",
+      "Explosion",
+      "U Turn"
+     ]
+    },
+    {
+     "species": "Gabite",
+     "level": 46,
+     "nickname": "Richtogre",
+     "item": "",
+     "moves": [
+      "Bulldoze",
+      "Dragon Claw",
+      "Swords Dance"
+     ]
+    },
+    {
+     "species": "Weavile",
+     "level": 48,
+     "nickname": "Chaorctic",
+     "item": "",
+     "moves": [
+      "Ice Punch",
+      "Night Slash",
+      "Low Kick",
+      "Ice Shard"
+     ]
+    },
+    {
+     "species": "Honchkrow",
+     "level": 50,
+     "nickname": "Fujita",
+     "item": "",
+     "moves": [
+      "Drill Peck",
+      "Dark Pulse",
+      "Night Shade",
+      "Roar"
+     ]
+    },
+    {
+     "species": "Luxray",
+     "level": 51,
+     "nickname": "Dynamp",
+     "item": "",
+     "moves": [
+      "Crunch",
+      "Spark",
+      "Double Edge",
+      "Dragonbreath"
+     ]
+    },
+    {
+     "species": "Jolteon",
+     "level": 53,
+     "nickname": "Indrage",
+     "item": "",
+     "moves": [
+      "Thunderbolt",
+      "Double Kick",
+      "Shadow Ball",
+      "Quick Attack"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tyrus",
+   "team": [
+    {
+     "species": "Ninetales",
+     "level": 51,
+     "nickname": "NineLives",
+     "item": "Focus Sash",
+     "moves": [
+      "Hypnosis",
+      "Flamethrower",
+      "Psychic M",
+      "Will O Wisp"
+     ]
+    },
+    {
+     "species": "Magmortar",
+     "level": 54,
+     "nickname": "Culverin",
+     "item": "Air Balloon",
+     "moves": [
+      "Sunny Day",
+      "Thunderbolt",
+      "Solar Beam",
+      "Fire Blast"
+     ]
+    },
+    {
+     "species": "Sunflora",
+     "level": 55,
+     "nickname": "Helia",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Sunny Day",
+      "Growth",
+      "Solar Beam",
+      "Flamethrower"
+     ]
+    },
+    {
+     "species": "Octillery",
+     "level": 55,
+     "nickname": "Levi",
+     "item": "Scope Lens",
+     "moves": [
+      "Flamethrower",
+      "Octazooka",
+      "Hyper Beam",
+      "Rock Blast"
+     ]
+    },
+    {
+     "species": "Arcanine",
+     "level": 53,
+     "nickname": "Dauntless",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Body Slam",
+      "Extremespeed",
+      "Flare Blitz",
+      "Rock Slide"
+     ]
+    },
+    {
+     "species": "Flareon",
+     "level": 55,
+     "nickname": "Empyre",
+     "item": "Leftovers",
+     "moves": [
+      "Flare Blitz",
+      "Flame Charge",
+      "Rock Smash",
+      "Close Combat"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nemo",
+   "team": [
+    {
+     "species": "Feraligatr",
+     "level": 53,
+     "nickname": "Trapjaw",
+     "item": "Expert Belt",
+     "moves": [
+      "Crunch",
+      "Waterfall",
+      "Ice Punch",
+      "Dragon Dance"
+     ]
+    },
+    {
+     "species": "Braviary",
+     "level": 55,
+     "nickname": "Polly",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Psychic M",
+      "Drill Peck",
+      "Calm Mind",
+      "Roost"
+     ]
+    },
+    {
+     "species": "Slowking",
+     "level": 56,
+     "nickname": "Hipocampus",
+     "item": "Life Orb",
+     "moves": [
+      "Nasty Plot",
+      "Psychic M",
+      "Surf",
+      "Flamethrower"
+     ]
+    },
+    {
+     "species": "Goodra",
+     "level": 55,
+     "nickname": "AcidTide",
+     "item": "Leftovers",
+     "moves": [
+      "Dragon Pulse",
+      "Iron Head",
+      "Hidden Power",
+      "Sludge Bomb"
+     ]
+    },
+    {
+     "species": "Quagsire",
+     "level": 56,
+     "nickname": "MudBud",
+     "item": "Leftovers",
+     "moves": [
+      "Aqua Jet",
+      "Belly Drum",
+      "Earthquake",
+      "Curse"
+     ]
+    },
+    {
+     "species": "Vaporeon",
+     "level": 57,
+     "nickname": "Tidechaser",
+     "item": "Leftovers",
+     "moves": [
+      "Scald",
+      "Reflect",
+      "Ice Beam",
+      "Toxic"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Andrea",
+   "team": [
+    {
+     "species": "Magnezone",
+     "level": 57,
+     "nickname": "Agausstus",
+     "item": "Air Balloon",
+     "moves": [
+      "Tri Attack",
+      "Thunderbolt",
+      "Flash Cannon",
+      "Volt Switch"
+     ]
+    },
+    {
+     "species": "Garchomp",
+     "level": 55,
+     "nickname": "Richtogre",
+     "item": "Leftovers",
+     "moves": [
+      "Flamethrower",
+      "Dragon Claw",
+      "Earthquake",
+      "Rock Slide"
+     ]
+    },
+    {
+     "species": "Weavile",
+     "level": 55,
+     "nickname": "Chaorctic",
+     "item": "Muscle Band",
+     "moves": [
+      "Ice Punch",
+      "Night Slash",
+      "Low Kick",
+      "Ice Shard"
+     ]
+    },
+    {
+     "species": "Honchkrow",
+     "level": 56,
+     "nickname": "Fujita",
+     "item": "Blackglasses",
+     "moves": [
+      "Drill Peck",
+      "Dark Pulse",
+      "Sucker Punch",
+      "Haze"
+     ]
+    },
+    {
+     "species": "Luxray",
+     "level": 57,
+     "nickname": "Dynamp",
+     "item": "Magnet",
+     "moves": [
+      "Crunch",
+      "Wild Charge",
+      "Outrage",
+      "Play Rough"
+     ]
+    },
+    {
+     "species": "Jolteon",
+     "level": 57,
+     "nickname": "Indrage",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Thunderbolt",
+      "Hyper Beam",
+      "Shadow Ball",
+      "Quick Attack"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Vesper",
+   "team": [
+    {
+     "species": "Lugia",
+     "level": 60,
+     "nickname": "Gaelstrom",
+     "item": "",
+     "moves": [
+      "Recover",
+      "Aeroblast",
+      "Whirlpool",
+      "Ancientpower"
+     ]
+    },
+    {
+     "species": "Nidoking",
+     "level": 55,
+     "nickname": "Seismark",
+     "item": "Poison Barb",
+     "moves": [
+      "Sludge Bomb",
+      "Earthquake",
+      "Poison Jab",
+      "Thunder"
+     ]
+    },
+    {
+     "species": "Skarmory",
+     "level": 58,
+     "nickname": "Lyrica",
+     "item": "Leftovers",
+     "moves": [
+      "Drill Peck",
+      "Iron Head",
+      "Curse",
+      "Roost"
+     ]
+    },
+    {
+     "species": "Dragonite",
+     "level": 56,
+     "nickname": "Lazuli",
+     "item": "Life Orb",
+     "moves": [
+      "Outrage",
+      "Waterfall",
+      "Fly",
+      "Roost"
+     ]
+    },
+    {
+     "species": "Scizor",
+     "level": 58,
+     "nickname": "FerrItself",
+     "item": "Metal Coat",
+     "moves": [
+      "Bullet Punch",
+      "Swords Dance",
+      "X Scissor",
+      "Iron Head"
+     ]
+    },
+    {
+     "species": "Ho Oh",
+     "level": 60,
+     "nickname": "Eversol",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Recover",
+      "Sacred Fire",
+      "Brave Bird",
+      "Ancientpower"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kurt",
+   "team": [
+    {
+     "species": "Heracross",
+     "level": 57,
+     "nickname": "Ohmu",
+     "item": "",
+     "moves": [
+      "Megahorn",
+      "Swords Dance",
+      "Close Combat",
+      "Earthquake"
+     ]
+    },
+    {
+     "species": "Umbreon",
+     "level": 56,
+     "nickname": "Howl",
+     "item": "",
+     "moves": [
+      "Recover",
+      "Curse",
+      "Sucker Punch",
+      "Toxic"
+     ]
+    },
+    {
+     "species": "Ursaluna",
+     "level": 57,
+     "nickname": "Okkoto",
+     "item": "",
+     "moves": [
+      "Earthquake",
+      "Facade",
+      "Rest",
+      "Sleep Talk"
+     ]
+    },
+    {
+     "species": "Wyrdeer",
+     "level": 58,
+     "nickname": "Yubaba",
+     "item": "",
+     "moves": [
+      "Hypnosis",
+      "Zen Headbutt",
+      "Hi Jump Kick",
+      "Body Slam"
+     ]
+    },
+    {
+     "species": "Kleavor",
+     "level": 59,
+     "nickname": "Piccolo",
+     "item": "",
+     "moves": [
+      "Rock Slide",
+      "X Scissor",
+      "Quick Attack",
+      "Swords Dance"
+     ]
+    },
+    {
+     "species": "Celebi",
+     "level": 60,
+     "nickname": "",
+     "item": "Leftovers",
+     "moves": [
+      "Calm Mind",
+      "Psychic M",
+      "Energy Ball",
+      "Recover"
+     ]
+    }
+   ]
+  }
+ ],
+ "expert": [
+  {
+   "name": "Camden",
+   "team": [
+    {
+     "species": "Scizor",
+     "level": 8,
+     "nickname": "",
+     "item": "",
+     "moves": [
+      "Cut",
+      "Leer",
+      "Quick Attack",
+      "Focus Energy"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Petry",
+   "team": [
+    {
+     "species": "Cranidos",
+     "level": 12,
+     "nickname": "",
+     "item": "Silk Scarf",
+     "moves": [
+      "Rock Smash",
+      "Headbutt",
+      "Agility",
+      "Rock Throw"
+     ]
+    },
+    {
+     "species": "Shieldon",
+     "level": 12,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Mirror Coat",
+      "Tackle",
+      "Screech",
+      "Rock Smash"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Growlithe",
+     "level": 10,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Slowpoke",
+     "level": 9,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Grimer",
+     "level": 9,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Eevee",
+     "level": 9,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Murkrow",
+     "level": 11,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Rowlet",
+     "level": 12,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Slowpoke",
+     "level": 10,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Yanma",
+     "level": 12,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Oddish",
+     "level": 9,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Geodude",
+     "level": 9,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Eevee",
+     "level": 10,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Cyndaquil",
+     "level": 12,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Tangela",
+     "level": 10,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Growlithe",
+     "level": 9,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Eevee",
+     "level": 9,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Swinub",
+     "level": 9,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Togetic",
+     "level": 8,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    },
+    {
+     "species": "Oshawott",
+     "level": 12,
+     "nickname": "",
+     "item": "Oran Berry",
+     "moves": []
+    }
+   ]
+  },
+  {
+   "name": "Ursula",
+   "team": [
+    {
+     "species": "Pineco",
+     "level": 10,
+     "nickname": "Silky",
+     "item": "Rocky Helmet",
+     "moves": [
+      "Bug Bite",
+      "Protect",
+      "String Shot"
+     ]
+    },
+    {
+     "species": "Exeggcute",
+     "level": 12,
+     "nickname": "Coco",
+     "item": "Oran Berry",
+     "moves": [
+      "Stun Spore",
+      "Mega Drain",
+      "Confusion"
+     ]
+    },
+    {
+     "species": "Aipom",
+     "level": 12,
+     "nickname": "George",
+     "item": "Oran Berry",
+     "moves": [
+      "Tackle",
+      "Astonish",
+      "Mud Slap",
+      "Screech"
+     ]
+    },
+    {
+     "species": "Mankey",
+     "level": 12,
+     "nickname": "Ankeymay",
+     "item": "Oran Berry",
+     "moves": [
+      "Low Kick",
+      "Focus Energy",
+      "Leer"
+     ]
+    },
+    {
+     "species": "Furret",
+     "level": 13,
+     "nickname": "Kitty",
+     "item": "Oran Berry",
+     "moves": [
+      "Headbutt"
+     ]
+    },
+    {
+     "species": "Heracross",
+     "level": 13,
+     "nickname": "Hercules",
+     "item": "",
+     "moves": [
+      "Endure",
+      "Reversal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Silas",
+   "team": [
+    {
+     "species": "Ledian",
+     "level": 15,
+     "nickname": "Tinnire",
+     "item": "",
+     "moves": [
+      "Air Slash",
+      "Supersonic",
+      "Fury Strikes",
+      "Bug Bite"
+     ]
+    },
+    {
+     "species": "Slowpoke",
+     "level": 15,
+     "nickname": "Speleo",
+     "item": "",
+     "moves": [
+      "Curse",
+      "Water Gun",
+      "Rain Dance",
+      "Rest"
+     ]
+    },
+    {
+     "species": "Ariados",
+     "level": 15,
+     "nickname": "Inoscula",
+     "item": "",
+     "moves": [
+      "Scary Face",
+      "Poison Sting",
+      "Bug Bite",
+      "Baton Pass"
+     ]
+    },
+    {
+     "species": "Pinsir",
+     "level": 13,
+     "nickname": "Sirrator",
+     "item": "Oran Berry",
+     "moves": [
+      "Rage",
+      "Seismic Toss",
+      "Bulk Up",
+      "Bite"
+     ]
+    },
+    {
+     "species": "Bayleef",
+     "level": 16,
+     "nickname": "Saura",
+     "item": "Lum Berry",
+     "moves": [
+      "Razor Leaf",
+      "Healinglight",
+      "Poisonpowder",
+      "Tackle"
+     ]
+    },
+    {
+     "species": "Kleavor",
+     "level": 16,
+     "nickname": "Logsidian",
+     "item": "Metal Coat",
+     "moves": [
+      "Cut",
+      "Focus Energy",
+      "Agility",
+      "Leer"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bugsy",
+   "team": [
+    {
+     "species": "Yanma",
+     "level": 16,
+     "nickname": "Sonic",
+     "item": "",
+     "moves": [
+      "Sonic Boom",
+      "Confuse Ray",
+      "Gust",
+      "U Turn"
+     ]
+    },
+    {
+     "species": "Parasect",
+     "level": 16,
+     "nickname": "Mickey",
+     "item": "",
+     "moves": [
+      "Spore",
+      "Slash",
+      "Giga Drain",
+      "Swords Dance"
+     ]
+    },
+    {
+     "species": "Slugma",
+     "level": 17,
+     "nickname": "Helix",
+     "item": "",
+     "moves": [
+      "Ember",
+      "Rock Throw",
+      "Amnesia",
+      "Recover"
+     ]
+    },
+    {
+     "species": "Scyther",
+     "level": 18,
+     "nickname": "Whiplash",
+     "item": "Focus Sash",
+     "moves": [
+      "Counter",
+      "Agility",
+      "Wing Attack",
+      "U Turn"
+     ]
+    },
+    {
+     "species": "Scyther",
+     "level": 18,
+     "nickname": "Stryder",
+     "item": "Scope Lens",
+     "moves": [
+      "Slash",
+      "Focus Energy",
+      "U Turn",
+      "Hidden Power"
+     ]
+    },
+    {
+     "species": "Scyther",
+     "level": 18,
+     "nickname": "Manny",
+     "item": "Eviolite",
+     "moves": [
+      "Quick Attack",
+      "Bug Bite",
+      "Pursuit",
+      "U Turn"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sandra",
+   "team": [
+    {
+     "species": "Marill",
+     "level": 20,
+     "nickname": "Babble",
+     "item": "",
+     "moves": [
+      "Bubble Beam",
+      "Rollout",
+      "Charm"
+     ]
+    },
+    {
+     "species": "Togetic",
+     "level": 20,
+     "nickname": "Clutch",
+     "item": "",
+     "moves": [
+      "Extrasensory",
+      "Drain Kiss",
+      "Metronome"
+     ]
+    },
+    {
+     "species": "Snubbull",
+     "level": 20,
+     "nickname": "Rusty",
+     "item": "",
+     "moves": [
+      "Play Rough",
+      "Bite",
+      "Scary Face",
+      "Screech"
+     ]
+    },
+    {
+     "species": "Zorua",
+     "level": 20,
+     "nickname": "Vanguard",
+     "item": "Spell Tag",
+     "moves": [
+      "Hone Claws",
+      "Slash",
+      "Astonish",
+      "Transform"
+     ]
+    },
+    {
+     "species": "Ponyta",
+     "level": 21,
+     "nickname": "Surmount",
+     "item": "Pink Bow",
+     "moves": [
+      "Confusion",
+      "Healinglight",
+      "Disarm Voice",
+      "Stomp"
+     ]
+    },
+    {
+     "species": "Clefairy",
+     "level": 21,
+     "nickname": "Supernova",
+     "item": "Pink Bow",
+     "moves": [
+      "Moonblast",
+      "Thunder Wave",
+      "Encore",
+      "Tri Attack"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Beth",
+   "team": [
+    {
+     "species": "Dunsparce",
+     "level": 16,
+     "nickname": "Par Four",
+     "item": "Leftovers",
+     "moves": [
+      "Sandstorm",
+      "Protect",
+      "Roost",
+      "Headbutt"
+     ]
+    },
+    {
+     "species": "Rhyhorn",
+     "level": 17,
+     "nickname": "Ivory",
+     "item": "Salac Berry",
+     "moves": [
+      "Sandstorm",
+      "Rock Throw",
+      "Dig",
+      "Strength"
+     ]
+    },
+    {
+     "species": "Hippopotas",
+     "level": 16,
+     "nickname": "Dusty",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Mud Slap",
+      "Stomp",
+      "Magnitude",
+      "Sandstorm"
+     ]
+    },
+    {
+     "species": "Larvitar",
+     "level": 18,
+     "nickname": "Sonic",
+     "item": "Choice Scarf",
+     "moves": [
+      "Headbutt",
+      "Rock Throw"
+     ]
+    },
+    {
+     "species": "Wooper",
+     "level": 18,
+     "nickname": "de Pal",
+     "item": "",
+     "moves": [
+      "Mud Slap",
+      "Water Pulse",
+      "Amnesia",
+      "Sandstorm"
+     ]
+    },
+    {
+     "species": "Gligar",
+     "level": 18,
+     "nickname": "Scorpius",
+     "item": "Poison Barb",
+     "moves": [
+      "Sandstorm",
+      "Aerial Ace",
+      "Dig",
+      "Poison Sting"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tyrus",
+   "team": [
+    {
+     "species": "Magmar",
+     "level": 20,
+     "nickname": "Culverin",
+     "item": "Oran Berry",
+     "moves": [
+      "Sunny Day",
+      "Strength",
+      "Flame Charge",
+      "Smokescreen"
+     ]
+    },
+    {
+     "species": "Sunflora",
+     "level": 21,
+     "nickname": "Helia",
+     "item": "Oran Berry",
+     "moves": [
+      "Sunny Day",
+      "Growth",
+      "Razor Leaf",
+      "Leech Seed"
+     ]
+    },
+    {
+     "species": "Octillery",
+     "level": 22,
+     "nickname": "Levi",
+     "item": "Zoom Lens",
+     "moves": [
+      "Ember",
+      "Octazooka",
+      "Smokescreen"
+     ]
+    },
+    {
+     "species": "Vulpix",
+     "level": 24,
+     "nickname": "NineLives",
+     "item": "Oran Berry",
+     "moves": [
+      "Hypnosis",
+      "Fire Spin",
+      "Charm",
+      "Night Shade"
+     ]
+    },
+    {
+     "species": "Growlithe",
+     "level": 20,
+     "nickname": "Dauntless",
+     "item": "Oran Berry",
+     "moves": [
+      "Ember",
+      "Rock Throw",
+      "Roar",
+      "Bite"
+     ]
+    },
+    {
+     "species": "Flareon",
+     "level": 24,
+     "nickname": "Empyre",
+     "item": "",
+     "moves": [
+      "Sunny Day",
+      "Flame Charge",
+      "Rock Smash",
+      "Dig"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Slowpoke",
+     "level": 24,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Curse",
+      "Headbutt",
+      "Water Gun",
+      "Disable"
+     ]
+    },
+    {
+     "species": "Growlithe",
+     "level": 25,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Double Kick",
+      "Ember",
+      "Leer",
+      "Safeguard"
+     ]
+    },
+    {
+     "species": "Murkrow",
+     "level": 25,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Night Shade",
+      "Wing Attack",
+      "Pursuit",
+      "Haze"
+     ]
+    },
+    {
+     "species": "Grimer",
+     "level": 24,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Minimize",
+      "Mud Slap",
+      "Defense Curl",
+      "Venoshock"
+     ]
+    },
+    {
+     "species": "Eevee",
+     "level": 22,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Bite",
+      "Quick Attack",
+      "Leer",
+      "Swift"
+     ]
+    },
+    {
+     "species": "Dartrix",
+     "level": 27,
+     "nickname": "",
+     "item": "Miracle Seed",
+     "moves": [
+      "Wing Attack",
+      "Energy Ball",
+      "Roost",
+      "Night Shade"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Tangela",
+     "level": 24,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Sleep Powder",
+      "Growth",
+      "Mega Drain",
+      "Poisonpowder"
+     ]
+    },
+    {
+     "species": "Slowpoke",
+     "level": 25,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Curse",
+      "Headbutt",
+      "Water Gun",
+      "Disable"
+     ]
+    },
+    {
+     "species": "Yanma",
+     "level": 25,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Sonic Boom",
+      "Double Team",
+      "Protect",
+      "Bug Bite"
+     ]
+    },
+    {
+     "species": "Geodude",
+     "level": 24,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Magnitude",
+      "Rock Smash",
+      "Rollout",
+      "Defense Curl"
+     ]
+    },
+    {
+     "species": "Eevee",
+     "level": 22,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Bite",
+      "Quick Attack",
+      "Leer",
+      "Swift"
+     ]
+    },
+    {
+     "species": "Quilava",
+     "level": 27,
+     "nickname": "",
+     "item": "Charcoal",
+     "moves": [
+      "Flame Charge",
+      "Smokescreen",
+      "Dig",
+      "Quick Attack"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Growlithe",
+     "level": 24,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Double Kick",
+      "Ember",
+      "Leer",
+      "Safeguard"
+     ]
+    },
+    {
+     "species": "Tangela",
+     "level": 25,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Sleep Powder",
+      "Growth",
+      "Mega Drain",
+      "Poisonpowder"
+     ]
+    },
+    {
+     "species": "Togetic",
+     "level": 25,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Dizzy Punch",
+      "Encore",
+      "Disarm Voice",
+      "Charm"
+     ]
+    },
+    {
+     "species": "Eevee",
+     "level": 22,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Bite",
+      "Quick Attack",
+      "Leer",
+      "Swift"
+     ]
+    },
+    {
+     "species": "Swinub",
+     "level": 25,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Magnitude",
+      "Ice Shard",
+      "Bite",
+      "Icy Wind"
+     ]
+    },
+    {
+     "species": "Dewott",
+     "level": 27,
+     "nickname": "",
+     "item": "Mystic Water",
+     "moves": [
+      "Leer",
+      "Rage",
+      "Aqua Jet",
+      "Bite"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Whitney",
+   "team": [
+    {
+     "species": "Clefairy",
+     "level": 28,
+     "nickname": "Resonator",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Attract",
+      "Hyper Voice",
+      "Metronome",
+      "Sing"
+     ]
+    },
+    {
+     "species": "Nidoqueen",
+     "level": 28,
+     "nickname": "BriarRose",
+     "item": "Chesto Berry",
+     "moves": [
+      "Attract",
+      "Rest",
+      "Body Slam",
+      "Bulldoze"
+     ]
+    },
+    {
+     "species": "Furret",
+     "level": 28,
+     "nickname": "Ursula",
+     "item": "Kings Rock",
+     "moves": [
+      "Agility",
+      "Headbutt",
+      "Dig",
+      "Attract"
+     ]
+    },
+    {
+     "species": "Snorlax",
+     "level": 28,
+     "nickname": "Scorn",
+     "item": "Leftovers",
+     "moves": [
+      "Rollout",
+      "Defense Curl",
+      "Attract",
+      "Rage"
+     ]
+    },
+    {
+     "species": "Ditto",
+     "level": 28,
+     "nickname": "Refract",
+     "item": "Choice Scarf",
+     "moves": [
+      "Transform"
+     ]
+    },
+    {
+     "species": "Miltank",
+     "level": 29,
+     "nickname": "UddrDefeat",
+     "item": "Lum Berry",
+     "moves": [
+      "Rollout",
+      "Defense Curl",
+      "Fresh Snack",
+      "Body Slam"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Li",
+   "team": [
+    {
+     "species": "Bellsprout",
+     "level": 100,
+     "nickname": "Stalk",
+     "item": "Focus Sash",
+     "moves": [
+      "Sleep Powder",
+      "Wrap",
+      "Leech Seed"
+     ]
+    },
+    {
+     "species": "Haunter",
+     "level": 31,
+     "nickname": "Mortalon",
+     "item": "Focus Sash",
+     "moves": [
+      "Shadow Claw",
+      "Curse",
+      "Safeguard",
+      "Hypnosis"
+     ]
+    },
+    {
+     "species": "Sudowoodo",
+     "level": 28,
+     "nickname": "Petrus",
+     "item": "Focus Sash",
+     "moves": [
+      "Rock Throw",
+      "Counter",
+      "Low Kick",
+      "Feint Attack"
+     ]
+    },
+    {
+     "species": "Noctowl",
+     "level": 28,
+     "nickname": "Specter",
+     "item": "Focus Sash",
+     "moves": [
+      "Shadow Claw",
+      "Wing Attack",
+      "Confuse Ray",
+      "Pay Day"
+     ]
+    },
+    {
+     "species": "Xatu",
+     "level": 28,
+     "nickname": "Lithos",
+     "item": "Focus Sash",
+     "moves": [
+      "Ancientpower",
+      "Psybeam",
+      "Night Shade",
+      "Safeguard"
+     ]
+    },
+    {
+     "species": "Victreebel",
+     "level": 31,
+     "nickname": "Dendron",
+     "item": "Focus Sash",
+     "moves": [
+      "Leech Seed",
+      "Razor Leaf",
+      "Poison Jab",
+      "Wrap"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Falkner",
+   "team": [
+    {
+     "species": "Mantine",
+     "level": 33,
+     "nickname": "Catalina",
+     "item": "Focus Sash",
+     "moves": [
+      "Rain Dance",
+      "Water Pulse",
+      "Hurricane",
+      "Roost"
+     ]
+    },
+    {
+     "species": "Gligar",
+     "level": 33,
+     "nickname": "Stratofor",
+     "item": "Soft Sand",
+     "moves": [
+      "Protect",
+      "Aerial Ace",
+      "Bulldoze",
+      "Toxic"
+     ]
+    },
+    {
+     "species": "Murkrow",
+     "level": 30,
+     "nickname": "Cacophony",
+     "item": "Focus Sash",
+     "moves": [
+      "Perish Song",
+      "Protect",
+      "Fly",
+      "Confuse Ray"
+     ]
+    },
+    {
+     "species": "Xatu",
+     "level": 32,
+     "nickname": "Nighthawk",
+     "item": "Soft Sand",
+     "moves": [
+      "Double Team",
+      "Calm Mind",
+      "Psybeam",
+      "Rain Dance"
+     ]
+    },
+    {
+     "species": "Jumpluff",
+     "level": 30,
+     "nickname": "Bodenseed",
+     "item": "Scope Lens",
+     "moves": [
+      "Hurricane",
+      "Sleep Powder",
+      "Leech Seed",
+      "Rain Dance"
+     ]
+    },
+    {
+     "species": "Noctowl",
+     "level": 33,
+     "nickname": "Hawker",
+     "item": "Scope Lens",
+     "moves": [
+      "Aerial Ace",
+      "Mud Slap",
+      "Roost",
+      "Hurricane"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Arcanine",
+     "level": 37,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Flame Charge",
+      "Bite",
+      "Roar",
+      "Double Kick"
+     ]
+    },
+    {
+     "species": "Slowbro",
+     "level": 38,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Water Pulse",
+      "Zen Headbutt",
+      "Curse",
+      "Thunder Wave"
+     ]
+    },
+    {
+     "species": "Honchkrow",
+     "level": 37,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Drill Peck",
+      "Dark Pulse",
+      "Roost",
+      "Night Shade"
+     ]
+    },
+    {
+     "species": "Muk",
+     "level": 38,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Sludge Bomb",
+      "Curse",
+      "Rock Smash",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Sylveon",
+     "level": 37,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Drain Kiss",
+      "Calm Mind",
+      "Shadow Ball",
+      "Charm"
+     ]
+    },
+    {
+     "species": "Decidueye",
+     "level": 40,
+     "nickname": "",
+     "item": "Miracle Seed",
+     "moves": [
+      "Petal Dance",
+      "Air Slash",
+      "Roost",
+      "Night Shade"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Slowbro",
+     "level": 37,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Surf",
+      "Psychic M",
+      "Rest",
+      "Sleep Talk"
+     ]
+    },
+    {
+     "species": "Tangrowth",
+     "level": 38,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Razor Leaf",
+      "Poisonpowder",
+      "Protect",
+      "Giga Drain"
+     ]
+    },
+    {
+     "species": "Yanmega",
+     "level": 37,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Bug Buzz",
+      "Air Slash",
+      "Ancientpower",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Graveler",
+     "level": 38,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Magnitude",
+      "Rock Blast",
+      "Strength",
+      "Explosion"
+     ]
+    },
+    {
+     "species": "Glaceon",
+     "level": 37,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Icy Wind",
+      "Mirror Coat",
+      "Shadow Ball",
+      "Barrier"
+     ]
+    },
+    {
+     "species": "Typhlosion",
+     "level": 40,
+     "nickname": "",
+     "item": "Charcoal",
+     "moves": [
+      "Smokescreen",
+      "Flamethrower",
+      "Dig",
+      "Swift"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rival",
+   "team": [
+    {
+     "species": "Tangrowth",
+     "level": 37,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Razor Leaf",
+      "Toxic",
+      "Protect",
+      "Rock Slide"
+     ]
+    },
+    {
+     "species": "Arcanine",
+     "level": 38,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Flamethrower",
+      "Double Kick",
+      "Bite",
+      "Roar"
+     ]
+    },
+    {
+     "species": "Togetic",
+     "level": 37,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Thunder Wave",
+      "Air Slash",
+      "Charm",
+      "Metronome"
+     ]
+    },
+    {
+     "species": "Piloswine",
+     "level": 38,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Magnitude",
+      "Ice Shard",
+      "Body Slam",
+      "Fury Strikes"
+     ]
+    },
+    {
+     "species": "Espeon",
+     "level": 37,
+     "nickname": "",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Psybeam",
+      "Calm Mind",
+      "Shadow Ball",
+      "Mud Slap"
+     ]
+    },
+    {
+     "species": "Samurott",
+     "level": 40,
+     "nickname": "",
+     "item": "Mystic Water",
+     "moves": [
+      "Slash",
+      "Surf",
+      "Crunch",
+      "Night Slash"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Amos",
+   "team": [
+    {
+     "species": "Bronzor",
+     "level": 27,
+     "nickname": "Overtone",
+     "item": "Metal Coat",
+     "moves": [
+      "Confusion",
+      "Screech",
+      "Rain Dance",
+      "Iron Head"
+     ]
+    },
+    {
+     "species": "Voltorb",
+     "level": 29,
+     "nickname": "EggStatic",
+     "item": "Leftovers",
+     "moves": [
+      "Thunder Wave",
+      "Rollout",
+      "Thundershock",
+      "Volt Switch"
+     ]
+    },
+    {
+     "species": "Quilava",
+     "level": 30,
+     "nickname": "Everbright",
+     "item": "Charcoal",
+     "moves": [
+      "Flame Charge",
+      "Defense Curl",
+      "Dig",
+      "Rollout"
+     ]
+    },
+    {
+     "species": "Dartrix",
+     "level": 30,
+     "nickname": "Argus",
+     "item": "Miracle Seed",
+     "moves": [
+      "Roost",
+      "Energy Ball",
+      "Wing Attack",
+      "Razor Leaf"
+     ]
+    },
+    {
+     "species": "Dewott",
+     "level": 30,
+     "nickname": "Bulwark",
+     "item": "Mystic Water",
+     "moves": [
+      "Aqua Tail",
+      "Slash",
+      "Headbutt",
+      "Water Pulse"
+     ]
+    },
+    {
+     "species": "Gallade",
+     "level": 32,
+     "nickname": "Oathkeeper",
+     "item": "",
+     "moves": [
+      "Psybeam",
+      "Karate Chop",
+      "Calm Mind",
+      "Bulk Up"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Andrea",
+   "team": [
+    {
+     "species": "Forretress",
+     "level": 30,
+     "nickname": "Kilojoul",
+     "item": "Focus Sash",
+     "moves": [
+      "Spikes",
+      "Explosion",
+      "U Turn"
+     ]
+    },
+    {
+     "species": "Luxio",
+     "level": 27,
+     "nickname": "Dynamp",
+     "item": "",
+     "moves": [
+      "Roar",
+      "Bite",
+      "Spark"
+     ]
+    },
+    {
+     "species": "Gible",
+     "level": 23,
+     "nickname": "Richtogre",
+     "item": "",
+     "moves": [
+      "Bulldoze",
+      "Bite",
+      "Dragonbreath",
+      "Mud Slap"
+     ]
+    },
+    {
+     "species": "Murkrow",
+     "level": 27,
+     "nickname": "Fujita",
+     "item": "",
+     "moves": [
+      "Wing Attack",
+      "Pursuit",
+      "Night Shade",
+      "Haze"
+     ]
+    },
+    {
+     "species": "Sneasel",
+     "level": 29,
+     "nickname": "Chaorctic",
+     "item": "",
+     "moves": [
+      "Ice Shard",
+      "Pursuit",
+      "Quick Attack",
+      "Hidden Power"
+     ]
+    },
+    {
+     "species": "Jolteon",
+     "level": 33,
+     "nickname": "Indrage",
+     "item": "",
+     "moves": [
+      "Spark",
+      "Double Kick",
+      "Thunder Wave",
+      "Thundershock"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sybil",
+   "team": [
+    {
+     "species": "Dusknoir",
+     "level": 32,
+     "nickname": "Kenophobia",
+     "item": "Leftovers",
+     "moves": [
+      "Shadow Claw",
+      "Will O Wisp",
+      "Curse",
+      "Pain Split"
+     ]
+    },
+    {
+     "species": "Gengar",
+     "level": 30,
+     "nickname": "Te No Me",
+     "item": "Lum Berry",
+     "moves": [
+      "Shadow Claw",
+      "Destiny Bond",
+      "Mean Look",
+      "Sucker Punch"
+     ]
+    },
+    {
+     "species": "Misdreavus",
+     "level": 33,
+     "nickname": "Sabrina",
+     "item": "",
+     "moves": [
+      "Thunder Wave",
+      "Psychic M",
+      "Shadow Ball",
+      "Hex"
+     ]
+    },
+    {
+     "species": "Stantler",
+     "level": 33,
+     "nickname": "Pallbearer",
+     "item": "Zoom Lens",
+     "moves": [
+      "Hi Jump Kick",
+      "Hypnosis",
+      "Stomp",
+      "U Turn"
+     ]
+    },
+    {
+     "species": "Drifblim",
+     "level": 33,
+     "nickname": "Galeful",
+     "item": "Leftovers",
+     "moves": [
+      "Will O Wisp",
+      "Calm Mind",
+      "Shadow Ball",
+      "Minimize"
+     ]
+    },
+    {
+     "species": "Typhlosion",
+     "level": 36,
+     "nickname": "Charon",
+     "item": "Spell Tag",
+     "moves": [
+      "Flame Charge",
+      "Shadow Ball",
+      "Swift",
+      "Calm Mind"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Remy",
+   "team": [
+    {
+     "species": "Ampharos",
+     "level": 39,
+     "nickname": "CandlPower",
+     "item": "Brightpowder",
+     "moves": [
+      "Flash",
+      "Thunderpunch",
+      "Swift",
+      "Thunder Wave"
+     ]
+    },
+    {
+     "species": "Jumpluff",
+     "level": 39,
+     "nickname": "Cassavane",
+     "item": "Big Root",
+     "moves": [
+      "Seed Bomb",
+      "Giga Drain",
+      "Hidden Power",
+      "Hurricane"
+     ]
+    },
+    {
+     "species": "Shuckle",
+     "level": 38,
+     "nickname": "Rumbler",
+     "item": "Chesto Berry",
+     "moves": [
+      "Rest",
+      "Defense Curl",
+      "Rollout",
+      "Wrap"
+     ]
+    },
+    {
+     "species": "Corsola",
+     "level": 38,
+     "nickname": "Cnidaran",
+     "item": "Lum Berry",
+     "moves": [
+      "Rock Blast",
+      "Water Pulse",
+      "Toxic",
+      "Recover"
+     ]
+    },
+    {
+     "species": "Tentacruel",
+     "level": 38,
+     "nickname": "Snare",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Whirlpool",
+      "Poison Jab",
+      "Rapid Spin",
+      "Recover"
+     ]
+    },
+    {
+     "species": "Lanturn",
+     "level": 40,
+     "nickname": "Unfathom",
+     "item": "Chesto Berry",
+     "moves": [
+      "Surf",
+      "Thunderbolt",
+      "Rest",
+      "Sleep Talk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nemo",
+   "team": [
+    {
+     "species": "Feraligatr",
+     "level": 38,
+     "nickname": "Trapjaw",
+     "item": "",
+     "moves": [
+      "Crunch",
+      "Waterfall",
+      "Scary Face",
+      "Bulldoze"
+     ]
+    },
+    {
+     "species": "Rufflet",
+     "level": 40,
+     "nickname": "Polly",
+     "item": "",
+     "moves": [
+      "Fly",
+      "Wing Attack",
+      "Double Edge",
+      "Charm"
+     ]
+    },
+    {
+     "species": "Slowking",
+     "level": 37,
+     "nickname": "Hipocampus",
+     "item": "",
+     "moves": [
+      "Nasty Plot",
+      "Psychic M",
+      "Bubble Beam"
+     ]
+    },
+    {
+     "species": "Quagsire",
+     "level": 36,
+     "nickname": "MudBud",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Aqua Jet",
+      "Belly Drum",
+      "Earthquake",
+      "Body Slam"
+     ]
+    },
+    {
+     "species": "Sliggoo",
+     "level": 38,
+     "nickname": "AcidTide",
+     "item": "",
+     "moves": [
+      "Hidden Power",
+      "Iron Head",
+      "Protect",
+      "Sludge Bomb"
+     ]
+    },
+    {
+     "species": "Vaporeon",
+     "level": 40,
+     "nickname": "Tidechaser",
+     "item": "Leftovers",
+     "moves": [
+      "Scald",
+      "Reflect",
+      "Ice Beam",
+      "Toxic"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chuck",
+   "team": [
+    {
+     "species": "Primeape",
+     "level": 41,
+     "nickname": "Peppy",
+     "item": "Life Orb",
+     "moves": [
+      "Dynamicpunch",
+      "Rock Slide",
+      "Screech",
+      "U Turn"
+     ]
+    },
+    {
+     "species": "Gallade",
+     "level": 42,
+     "nickname": "GladAle",
+     "item": "Twistedspoon",
+     "moves": [
+      "Zen Headbutt",
+      "Karate Chop",
+      "Bulk Up",
+      "Thunderpunch"
+     ]
+    },
+    {
+     "species": "Toxicroak",
+     "level": 42,
+     "nickname": "Donatello",
+     "item": "Poison Barb",
+     "moves": [
+      "Slash",
+      "Swords Dance",
+      "Poison Jab",
+      "Sucker Punch"
+     ]
+    },
+    {
+     "species": "Electivire",
+     "level": 42,
+     "nickname": "PunchThru",
+     "item": "Magnet",
+     "moves": [
+      "Wild Charge",
+      "Thunderpunch",
+      "Karate Chop",
+      "Hidden Power"
+     ]
+    },
+    {
+     "species": "Staraptor",
+     "level": 42,
+     "nickname": "FethrWeght",
+     "item": "Shell Bell",
+     "moves": [
+      "Double Edge",
+      "Brave Bird",
+      "Close Combat",
+      "Roost"
+     ]
+    },
+    {
+     "species": "Poliwrath",
+     "level": 43,
+     "nickname": "TadSwole",
+     "item": "Mystic Water",
+     "moves": [
+      "Surf",
+      "Hypnosis",
+      "Dynamicpunch",
+      "Body Slam"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Pryce",
+   "team": [
+    {
+     "species": "Glalie",
+     "level": 43,
+     "nickname": "Nonpareil",
+     "item": "Focus Sash",
+     "moves": [
+      "Spikes",
+      "Explosion",
+      "Hail",
+      "Icy Wind"
+     ]
+    },
+    {
+     "species": "Lapras",
+     "level": 43,
+     "nickname": "Raspberry",
+     "item": "",
+     "moves": [
+      "Calm Mind",
+      "Surf",
+      "Thunderbolt",
+      "Ice Beam"
+     ]
+    },
+    {
+     "species": "Sneasel",
+     "level": 45,
+     "nickname": "SneaSalt",
+     "item": "Nevermeltice",
+     "moves": [
+      "Swords Dance",
+      "Icicle Crash",
+      "Night Slash",
+      "Ice Shard"
+     ]
+    },
+    {
+     "species": "Gyarados",
+     "level": 45,
+     "nickname": "Akami",
+     "item": "Mystic Water",
+     "moves": [
+      "Waterfall",
+      "Thrash",
+      "Fly",
+      "Hidden Power"
+     ]
+    },
+    {
+     "species": "Jynx",
+     "level": 45,
+     "nickname": "DameBlanch",
+     "item": "Soft Sand",
+     "moves": [
+      "Calm Mind",
+      "Psychic M",
+      "Ice Beam",
+      "Hidden Power"
+     ]
+    },
+    {
+     "species": "Mamoswine",
+     "level": 45,
+     "nickname": "Baconator",
+     "item": "Soft Sand",
+     "moves": [
+      "Icicle Crash",
+      "Earthquake",
+      "Stomp",
+      "Hidden Power"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Jasmine",
+   "team": [
+    {
+     "species": "Magnezone",
+     "level": 46,
+     "nickname": "Polaris",
+     "item": "Damp Rock",
+     "moves": [
+      "Rain Dance",
+      "Thunder",
+      "Volt Switch",
+      "Flash Cannon"
+     ]
+    },
+    {
+     "species": "Steelix",
+     "level": 46,
+     "nickname": "ShinyHulud",
+     "item": "Choice Band",
+     "moves": [
+      "Stone Edge",
+      "Earthquake",
+      "Iron Tail"
+     ]
+    },
+    {
+     "species": "Skarmory",
+     "level": 47,
+     "nickname": "Vultron",
+     "item": "Leftovers",
+     "moves": [
+      "Toxic",
+      "Roost",
+      "Steel Wing",
+      "Drill Peck"
+     ]
+    },
+    {
+     "species": "Ampharos",
+     "level": 48,
+     "nickname": "Amphy",
+     "item": "Choice Scarf",
+     "moves": [
+      "Thunderbolt",
+      "Power Gem",
+      "Dazzlingleam",
+      "Dragon Pulse"
+     ]
+    },
+    {
+     "species": "Lucario",
+     "level": 48,
+     "nickname": "Stainless",
+     "item": "Metal Coat",
+     "moves": [
+      "Nasty Plot",
+      "Aura Sphere",
+      "Swift",
+      "Hidden Power"
+     ]
+    },
+    {
+     "species": "Rhyperior",
+     "level": 48,
+     "nickname": "Wrecker",
+     "item": "Choice Scarf",
+     "moves": [
+      "Rock Slide",
+      "Earthquake",
+      "Megahorn",
+      "Body Slam"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Morty",
+   "team": [
+    {
+     "species": "Haunter",
+     "level": 48,
+     "nickname": "HarryPoltr",
+     "item": "Eviolite",
+     "moves": [
+      "Sucker Punch",
+      "Will O Wisp",
+      "Shadow Ball",
+      "Curse"
+     ]
+    },
+    {
+     "species": "Mismagius",
+     "level": 47,
+     "nickname": "Melisandre",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Attract",
+      "Nasty Plot",
+      "Moonblast",
+      "Shadow Ball"
+     ]
+    },
+    {
+     "species": "Parasect",
+     "level": 48,
+     "nickname": "BeetleJuce",
+     "item": "Focus Sash",
+     "moves": [
+      "Spore",
+      "X Scissor",
+      "Giga Drain",
+      "Dream Eater"
+     ]
+    },
+    {
+     "species": "Wyrdeer",
+     "level": 48,
+     "nickname": "NecroDancr",
+     "item": "Black Belt",
+     "moves": [
+      "Zen Headbutt",
+      "Double Edge",
+      "Agility",
+      "Hi Jump Kick"
+     ]
+    },
+    {
+     "species": "Annihilape",
+     "level": 48,
+     "nickname": "DownNSnout",
+     "item": "Focus Sash",
+     "moves": [
+      "Close Combat",
+      "Shadow Claw",
+      "Bulldoze",
+      "Rock Slide"
+     ]
+    },
+    {
+     "species": "Gengar",
+     "level": 49,
+     "nickname": "Jung-Gar",
+     "item": "Wide Lens",
+     "moves": [
+      "Shadow Ball",
+      "Hypnosis",
+      "Shadow Ball",
+      "Dream Eater"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Petra",
+   "team": [
+    {
+     "species": "Abomasnow",
+     "level": 45,
+     "nickname": "Everest",
+     "item": "Choice Scarf",
+     "moves": [
+      "Blizzard",
+      "Petal Dance",
+      "Earthquake"
+     ]
+    },
+    {
+     "species": "Glaceon",
+     "level": 45,
+     "nickname": "Vinson",
+     "item": "Leftovers",
+     "moves": [
+      "Ice Beam",
+      "Toxic",
+      "Attract",
+      "Barrier"
+     ]
+    },
+    {
+     "species": "Sneasler",
+     "level": 46,
+     "nickname": "Kilimanja",
+     "item": "Razor Claw",
+     "moves": [
+      "Poison Jab",
+      "Night Slash",
+      "Slash",
+      "Low Kick"
+     ]
+    },
+    {
+     "species": "Avalugg",
+     "level": 48,
+     "nickname": "Aconcagua",
+     "item": "Focus Sash",
+     "moves": [
+      "Rock Slide",
+      "Earthquake",
+      "Avalanche",
+      "Mirror Coat"
+     ]
+    },
+    {
+     "species": "Braviary",
+     "level": 47,
+     "nickname": "Denali",
+     "item": "",
+     "moves": [
+      "Air Slash",
+      "Psychic M",
+      "Roost",
+      "Night Shade"
+     ]
+    },
+    {
+     "species": "Froslass",
+     "level": 48,
+     "nickname": "Blanc",
+     "item": "Spell Tag",
+     "moves": [
+      "Destiny Bond",
+      "Shadow Ball",
+      "Ice Shard",
+      "Ice Beam"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Clair",
+   "team": [
+    {
+     "species": "Dragonair",
+     "level": 47,
+     "nickname": "GordianRa",
+     "item": "Eviolite",
+     "moves": [
+      "Wrap",
+      "Aqua Tail",
+      "Rest",
+      "Thunder Wave"
+     ]
+    },
+    {
+     "species": "Gyarados",
+     "level": 48,
+     "nickname": "AdaGyros",
+     "item": "Choice Band",
+     "moves": [
+      "Earthquake",
+      "Strength",
+      "Waterfall",
+      "Fly"
+     ]
+    },
+    {
+     "species": "Kingdra",
+     "level": 50,
+     "nickname": "DarkGin",
+     "item": "Chesto Berry",
+     "moves": [
+      "Dragon Dance",
+      "Outrage",
+      "Waterfall",
+      "Rest"
+     ]
+    },
+    {
+     "species": "Tauros",
+     "level": 46,
+     "nickname": "RoastU",
+     "item": "Muscle Band",
+     "moves": [
+      "Earthquake",
+      "Double Edge",
+      "Flame Charge",
+      "Iron Head"
+     ]
+    },
+    {
+     "species": "Dragonair",
+     "level": 50,
+     "nickname": "OrganRaid",
+     "item": "Eviolite",
+     "moves": [
+      "Dragon Dance",
+      "Rest",
+      "Sleep Talk",
+      "Dragon Claw"
+     ]
+    },
+    {
+     "species": "Dragonair",
+     "level": 50,
+     "nickname": "GrainAdor",
+     "item": "Zoom Lens",
+     "moves": [
+      "Blizzard",
+      "Thunder",
+      "Fire Blast",
+      "Hyper Beam"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Silas",
+   "team": [
+    {
+     "species": "Ledian",
+     "level": 48,
+     "nickname": "Tinnire",
+     "item": "",
+     "moves": [
+      "Air Slash",
+      "Close Combat",
+      "X Scissor",
+      "Bug Bite"
+     ]
+    },
+    {
+     "species": "Slowbro",
+     "level": 46,
+     "nickname": "Speleo",
+     "item": "",
+     "moves": [
+      "Shell Smash",
+      "Surf",
+      "Headbutt",
+      "Psychic M"
+     ]
+    },
+    {
+     "species": "Ariados",
+     "level": 48,
+     "nickname": "Inoscula",
+     "item": "Wide Lens",
+     "moves": [
+      "Hypnosis",
+      "Dream Eater",
+      "Giga Drain",
+      "Scary Face"
+     ]
+    },
+    {
+     "species": "Minsir",
+     "level": 48,
+     "nickname": "Sirrator",
+     "item": "Lum Berry",
+     "moves": [
+      "Crunch",
+      "Megahorn",
+      "Thrash",
+      "Swords Dance"
+     ]
+    },
+    {
+     "species": "Meganium",
+     "level": 48,
+     "nickname": "Saura",
+     "item": "Metal Coat",
+     "moves": [
+      "Play Rough",
+      "Leech Life",
+      "Ancientpower",
+      "Petal Dance"
+     ]
+    },
+    {
+     "species": "Kleavor",
+     "level": 48,
+     "nickname": "Logsidian",
+     "item": "Silverpowder",
+     "moves": [
+      "Rock Slide",
+      "Agility",
+      "X Scissor",
+      "Swords Dance"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sandra",
+   "team": [
+    {
+     "species": "Granbull",
+     "level": 50,
+     "nickname": "Rusty",
+     "item": "Muscle Band",
+     "moves": [
+      "Play Rough",
+      "Crunch",
+      "Body Slam",
+      "Screech"
+     ]
+    },
+    {
+     "species": "Azumarill",
+     "level": 48,
+     "nickname": "Babble",
+     "item": "",
+     "moves": [
+      "Surf",
+      "Moonblast",
+      "Aqua Jet",
+      "Rollout"
+     ]
+    },
+    {
+     "species": "Togekiss",
+     "level": 49,
+     "nickname": "Clutch",
+     "item": "",
+     "moves": [
+      "Roost",
+      "Air Slash",
+      "Extrasensory",
+      "Thunder Wave"
+     ]
+    },
+    {
+     "species": "Zoroark",
+     "level": 49,
+     "nickname": "Vanguard",
+     "item": "Scope Lens",
+     "moves": [
+      "Hone Claws",
+      "Slash",
+      "Shadow Claw",
+      "Extrasensory"
+     ]
+    },
+    {
+     "species": "Rapidash",
+     "level": 49,
+     "nickname": "Surmount",
+     "item": "Pink Bow",
+     "moves": [
+      "Zen Headbutt",
+      "Play Rough",
+      "Hypnosis",
+      "Extremespeed"
+     ]
+    },
+    {
+     "species": "Clefable",
+     "level": 50,
+     "nickname": "Supernova",
+     "item": "Pink Bow",
+     "moves": [
+      "Moonblast",
+      "Thunderbolt",
+      "Calm Mind",
+      "Tri Attack"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Remy",
+   "team": [
+    {
+     "species": "Ampharos",
+     "level": 49,
+     "nickname": "CandlPower",
+     "item": "Quick Claw",
+     "moves": [
+      "Flash",
+      "Thunderbolt",
+      "Power Gem",
+      "Thunder Wave"
+     ]
+    },
+    {
+     "species": "Jumpluff",
+     "level": 49,
+     "nickname": "Cassavane",
+     "item": "Big Root",
+     "moves": [
+      "Seed Bomb",
+      "Leech Seed",
+      "Sleep Powder",
+      "Fly"
+     ]
+    },
+    {
+     "species": "Corsola",
+     "level": 48,
+     "nickname": "Cnidaran",
+     "item": "Leftovers",
+     "moves": [
+      "Mirror Coat",
+      "Surf",
+      "Toxic",
+      "Recover"
+     ]
+    },
+    {
+     "species": "Tentacruel",
+     "level": 48,
+     "nickname": "Snare",
+     "item": "Poison Barb",
+     "moves": [
+      "Whirlpool",
+      "Surf",
+      "Poison Jab",
+      "Recover"
+     ]
+    },
+    {
+     "species": "Shuckle",
+     "level": 48,
+     "nickname": "Rumbler",
+     "item": "Chesto Berry",
+     "moves": [
+      "Rest",
+      "Defense Curl",
+      "Rollout",
+      "Wrap"
+     ]
+    },
+    {
+     "species": "Lanturn",
+     "level": 50,
+     "nickname": "Unfathom",
+     "item": "Chesto Berry",
+     "moves": [
+      "Surf",
+      "Thunderbolt",
+      "Rest",
+      "Sleep Talk"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Amos",
+   "team": [
+    {
+     "species": "Bronzong",
+     "level": 48,
+     "nickname": "Overtone",
+     "item": "Metal Coat",
+     "moves": [
+      "Zen Headbutt",
+      "Thunder",
+      "Mirror Coat",
+      "Rain Dance"
+     ]
+    },
+    {
+     "species": "Electrode",
+     "level": 48,
+     "nickname": "EggStatic",
+     "item": "Leftovers",
+     "moves": [
+      "Leech Seed",
+      "Thunder",
+      "Giga Drain",
+      "Volt Switch"
+     ]
+    },
+    {
+     "species": "Typhlosion",
+     "level": 49,
+     "nickname": "Everbright",
+     "item": "Charcoal",
+     "moves": [
+      "Shadow Ball",
+      "Fire Blast",
+      "Earth Power",
+      "Thunderpunch"
+     ]
+    },
+    {
+     "species": "Decidueye",
+     "level": 49,
+     "nickname": "Argus",
+     "item": "Miracle Seed",
+     "moves": [
+      "Aura Sphere",
+      "Energy Ball",
+      "Air Slash",
+      "Close Combat"
+     ]
+    },
+    {
+     "species": "Samurott",
+     "level": 49,
+     "nickname": "Bulwark",
+     "item": "Mystic Water",
+     "moves": [
+      "Swords Dance",
+      "Crunch",
+      "Waterfall",
+      "Slash"
+     ]
+    },
+    {
+     "species": "Gallade",
+     "level": 51,
+     "nickname": "Oathkeeper",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Zen Headbutt",
+      "Hi Jump Kick",
+      "Agility",
+      "Swords Dance"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Andrea",
+   "team": [
+    {
+     "species": "Forretress",
+     "level": 48,
+     "nickname": "KiloJaal",
+     "item": "Focus Sash",
+     "moves": [
+      "Spikes",
+      "Explosion",
+      "U Turn"
+     ]
+    },
+    {
+     "species": "Gabite",
+     "level": 46,
+     "nickname": "Richtogre",
+     "item": "",
+     "moves": [
+      "Bulldoze",
+      "Dragon Claw",
+      "Swords Dance"
+     ]
+    },
+    {
+     "species": "Weavile",
+     "level": 48,
+     "nickname": "Chaorctic",
+     "item": "",
+     "moves": [
+      "Ice Punch",
+      "Night Slash",
+      "Low Kick",
+      "Ice Shard"
+     ]
+    },
+    {
+     "species": "Honchkrow",
+     "level": 50,
+     "nickname": "Fujita",
+     "item": "",
+     "moves": [
+      "Drill Peck",
+      "Dark Pulse",
+      "Night Shade",
+      "Roar"
+     ]
+    },
+    {
+     "species": "Luxray",
+     "level": 51,
+     "nickname": "Dynamp",
+     "item": "",
+     "moves": [
+      "Crunch",
+      "Spark",
+      "Double Edge",
+      "Dragonbreath"
+     ]
+    },
+    {
+     "species": "Jolteon",
+     "level": 53,
+     "nickname": "Indrage",
+     "item": "",
+     "moves": [
+      "Thunderbolt",
+      "Double Kick",
+      "Shadow Ball",
+      "Quick Attack"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tyrus",
+   "team": [
+    {
+     "species": "Ninetales",
+     "level": 51,
+     "nickname": "NineLives",
+     "item": "Focus Sash",
+     "moves": [
+      "Hypnosis",
+      "Flamethrower",
+      "Psychic M",
+      "Will O Wisp"
+     ]
+    },
+    {
+     "species": "Sunflora",
+     "level": 55,
+     "nickname": "Helia",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Giga Drain",
+      "Growth",
+      "Solar Beam",
+      "Flamethrower"
+     ]
+    },
+    {
+     "species": "Octillery",
+     "level": 55,
+     "nickname": "Levi",
+     "item": "Scope Lens",
+     "moves": [
+      "Flamethrower",
+      "Octazooka",
+      "Hyper Beam",
+      "Rock Blast"
+     ]
+    },
+    {
+     "species": "Arcanine",
+     "level": 53,
+     "nickname": "Dauntless",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Body Slam",
+      "Extremespeed",
+      "Flare Blitz",
+      "Rock Slide"
+     ]
+    },
+    {
+     "species": "Magmortar",
+     "level": 54,
+     "nickname": "Culverin",
+     "item": "Air Balloon",
+     "moves": [
+      "Sunny Day",
+      "Thunderbolt",
+      "Solar Beam",
+      "Fire Blast"
+     ]
+    },
+    {
+     "species": "Flareon",
+     "level": 55,
+     "nickname": "Empyre",
+     "item": "Leftovers",
+     "moves": [
+      "Flare Blitz",
+      "Flame Charge",
+      "Strength",
+      "Close Combat"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nemo",
+   "team": [
+    {
+     "species": "Feraligatr",
+     "level": 56,
+     "nickname": "Trapjaw",
+     "item": "Expert Belt",
+     "moves": [
+      "Crunch",
+      "Waterfall",
+      "Ice Punch",
+      "Dragon Dance"
+     ]
+    },
+    {
+     "species": "Braviary",
+     "level": 56,
+     "nickname": "Polly",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Psychic M",
+      "Drill Peck",
+      "Calm Mind",
+      "Roost"
+     ]
+    },
+    {
+     "species": "Slowking",
+     "level": 57,
+     "nickname": "Hipocampus",
+     "item": "Life Orb",
+     "moves": [
+      "Nasty Plot",
+      "Psychic M",
+      "Surf",
+      "Flamethrower"
+     ]
+    },
+    {
+     "species": "Goodra",
+     "level": 56,
+     "nickname": "AcidTide",
+     "item": "Leftovers",
+     "moves": [
+      "Dragon Pulse",
+      "Iron Head",
+      "Hidden Power",
+      "Sludge Bomb"
+     ]
+    },
+    {
+     "species": "Quagsire",
+     "level": 56,
+     "nickname": "MudBud",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Aqua Jet",
+      "Belly Drum",
+      "Earthquake",
+      "Curse"
+     ]
+    },
+    {
+     "species": "Vaporeon",
+     "level": 57,
+     "nickname": "Tidechaser",
+     "item": "Leftovers",
+     "moves": [
+      "Scald",
+      "Reflect",
+      "Ice Beam",
+      "Toxic"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Andrea",
+   "team": [
+    {
+     "species": "Magnezone",
+     "level": 57,
+     "nickname": "Agausstus",
+     "item": "Air Balloon",
+     "moves": [
+      "Tri Attack",
+      "Thunderbolt",
+      "Flash Cannon",
+      "Volt Switch"
+     ]
+    },
+    {
+     "species": "Garchomp",
+     "level": 55,
+     "nickname": "Richtogre",
+     "item": "Focus Sash",
+     "moves": [
+      "Flamethrower",
+      "Dragon Claw",
+      "Earthquake",
+      "Rock Slide"
+     ]
+    },
+    {
+     "species": "Weavile",
+     "level": 55,
+     "nickname": "Chaorctic",
+     "item": "Life Orb",
+     "moves": [
+      "Ice Punch",
+      "Night Slash",
+      "Poison Barb",
+      "Low Kick"
+     ]
+    },
+    {
+     "species": "Honchkrow",
+     "level": 56,
+     "nickname": "Fujita",
+     "item": "Blackglasses",
+     "moves": [
+      "Drill Peck",
+      "Dark Pulse",
+      "Sucker Punch",
+      "Haze"
+     ]
+    },
+    {
+     "species": "Luxray",
+     "level": 57,
+     "nickname": "Dynamp",
+     "item": "Magnet",
+     "moves": [
+      "Crunch",
+      "Wild Charge",
+      "Outrage",
+      "Play Rough"
+     ]
+    },
+    {
+     "species": "Jolteon",
+     "level": 57,
+     "nickname": "Indrage",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Thunderbolt",
+      "Hyper Beam",
+      "Shadow Ball",
+      "Quick Attack"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Vesper",
+   "team": [
+    {
+     "species": "Lugia",
+     "level": 60,
+     "nickname": "Gaelstrom",
+     "item": "",
+     "moves": [
+      "Recover",
+      "Aeroblast",
+      "Whirlpool",
+      "Surf"
+     ]
+    },
+    {
+     "species": "Nidoking",
+     "level": 60,
+     "nickname": "Seismark",
+     "item": "Poison Barb",
+     "moves": [
+      "Sludge Bomb",
+      "Earthquake",
+      "Poison Jab",
+      "Thunder"
+     ]
+    },
+    {
+     "species": "Skarmory",
+     "level": 60,
+     "nickname": "Lyrica",
+     "item": "Leftovers",
+     "moves": [
+      "Drill Peck",
+      "Iron Head",
+      "Curse",
+      "Roost"
+     ]
+    },
+    {
+     "species": "Dragonite",
+     "level": 60,
+     "nickname": "Lazuli",
+     "item": "Life Orb",
+     "moves": [
+      "Outrage",
+      "Waterfall",
+      "Fly",
+      "Roost"
+     ]
+    },
+    {
+     "species": "Scizor",
+     "level": 60,
+     "nickname": "FerrItself",
+     "item": "Metal Coat",
+     "moves": [
+      "Bullet Punch",
+      "Swords Dance",
+      "X Scissor",
+      "Iron Head"
+     ]
+    },
+    {
+     "species": "Ho Oh",
+     "level": 60,
+     "nickname": "Eversol",
+     "item": "Sitrus Berry",
+     "moves": [
+      "Recover",
+      "Sacred Fire",
+      "Brave Bird",
+      "Earthquake"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kurt",
+   "team": [
+    {
+     "species": "Heracross",
+     "level": 60,
+     "nickname": "Ohmu",
+     "item": "",
+     "moves": [
+      "Megahorn",
+      "Double Edge",
+      "Close Combat",
+      "Earthquake"
+     ]
+    },
+    {
+     "species": "Umbreon",
+     "level": 60,
+     "nickname": "Howl",
+     "item": "",
+     "moves": [
+      "Recover",
+      "Curse",
+      "Sucker Punch",
+      "Toxic"
+     ]
+    },
+    {
+     "species": "Ursaluna",
+     "level": 60,
+     "nickname": "Okkoto",
+     "item": "",
+     "moves": [
+      "Earthquake",
+      "Facade",
+      "Rest",
+      "Sleep Talk"
+     ]
+    },
+    {
+     "species": "Wyrdeer",
+     "level": 60,
+     "nickname": "Yubaba",
+     "item": "",
+     "moves": [
+      "Hypnosis",
+      "Zen Headbutt",
+      "Hi Jump Kick",
+      "Body Slam"
+     ]
+    },
+    {
+     "species": "Kleavor",
+     "level": 60,
+     "nickname": "Piccolo",
+     "item": "",
+     "moves": [
+      "Rock Slide",
+      "X Scissor",
+      "Double Edge",
+      "Wing Attack"
+     ]
+    },
+    {
+     "species": "Celebi",
+     "level": 60,
+     "nickname": "",
+     "item": "Leftovers",
+     "moves": [
+      "Calm Mind",
+      "Psychic M",
+      "Energy Ball",
+      "Moonblast"
+     ]
+    }
+   ]
+  }
+ ]
+}

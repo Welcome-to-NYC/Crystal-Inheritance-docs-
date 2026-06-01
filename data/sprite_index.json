@@ -1,0 +1,3100 @@
+{
+ "pikachu": {
+  "sprite": "sprites/Pikachu.png",
+  "key": "Pikachu",
+  "types": [
+   "electric"
+  ],
+  "name": "Pikachu",
+  "nationalNo": 25
+ },
+ "raichu": {
+  "sprite": "sprites/Raichu.png",
+  "key": "Raichu",
+  "types": [
+   "electric"
+  ],
+  "name": "Raichu",
+  "nationalNo": 26
+ },
+ "alolanraichu": {
+  "sprite": "sprites/Raichu_Alolan.png",
+  "key": "Raichu_Alolan",
+  "types": [
+   "electric",
+   "psychic"
+  ],
+  "name": "Alolan Raichu",
+  "nationalNo": 26
+ },
+ "raichualolan": {
+  "sprite": "sprites/Raichu_Alolan.png",
+  "key": "Raichu_Alolan",
+  "types": [
+   "electric",
+   "psychic"
+  ],
+  "name": "Alolan Raichu",
+  "nationalNo": 26
+ },
+ "nidorina": {
+  "sprite": "sprites/Nidorina.png",
+  "key": "Nidorina",
+  "types": [
+   "poison"
+  ],
+  "name": "Nidorina",
+  "nationalNo": 30
+ },
+ "nidoqueen": {
+  "sprite": "sprites/Nidoqueen.png",
+  "key": "Nidoqueen",
+  "types": [
+   "poison",
+   "ground"
+  ],
+  "name": "Nidoqueen",
+  "nationalNo": 31
+ },
+ "nidoran": {
+  "sprite": "sprites/Nidoran.png",
+  "key": "Nidoran",
+  "types": [
+   "poison"
+  ],
+  "name": "Nidoran",
+  "nationalNo": 32
+ },
+ "nidorino": {
+  "sprite": "sprites/Nidorino.png",
+  "key": "Nidorino",
+  "types": [
+   "poison"
+  ],
+  "name": "Nidorino",
+  "nationalNo": 33
+ },
+ "nidoking": {
+  "sprite": "sprites/Nidoking.png",
+  "key": "Nidoking",
+  "types": [
+   "poison",
+   "ground"
+  ],
+  "name": "Nidoking",
+  "nationalNo": 34
+ },
+ "clefairy": {
+  "sprite": "sprites/Clefairy.png",
+  "key": "Clefairy",
+  "types": [
+   "fairy"
+  ],
+  "name": "Clefairy",
+  "nationalNo": 35
+ },
+ "clefable": {
+  "sprite": "sprites/Clefable.png",
+  "key": "Clefable",
+  "types": [
+   "fairy"
+  ],
+  "name": "Clefable",
+  "nationalNo": 36
+ },
+ "vulpix": {
+  "sprite": "sprites/Vulpix.png",
+  "key": "Vulpix",
+  "types": [
+   "fire"
+  ],
+  "name": "Vulpix",
+  "nationalNo": 37
+ },
+ "alolanvulpix": {
+  "sprite": "sprites/Vulpix_Alolan.png",
+  "key": "Vulpix_Alolan",
+  "types": [
+   "ice"
+  ],
+  "name": "Alolan Vulpix",
+  "nationalNo": 37
+ },
+ "vulpixalolan": {
+  "sprite": "sprites/Vulpix_Alolan.png",
+  "key": "Vulpix_Alolan",
+  "types": [
+   "ice"
+  ],
+  "name": "Alolan Vulpix",
+  "nationalNo": 37
+ },
+ "ninetales": {
+  "sprite": "sprites/Ninetales.png",
+  "key": "Ninetales",
+  "types": [
+   "fire"
+  ],
+  "name": "Ninetales",
+  "nationalNo": 38
+ },
+ "alolanninetales": {
+  "sprite": "sprites/Ninetales_Alolan.png",
+  "key": "Ninetales_Alolan",
+  "types": [
+   "ice",
+   "fairy"
+  ],
+  "name": "Alolan Ninetales",
+  "nationalNo": 38
+ },
+ "ninetalesalolan": {
+  "sprite": "sprites/Ninetales_Alolan.png",
+  "key": "Ninetales_Alolan",
+  "types": [
+   "ice",
+   "fairy"
+  ],
+  "name": "Alolan Ninetales",
+  "nationalNo": 38
+ },
+ "zubat": {
+  "sprite": "sprites/Zubat.png",
+  "key": "Zubat",
+  "types": [
+   "poison",
+   "flying"
+  ],
+  "name": "Zubat",
+  "nationalNo": 41
+ },
+ "golbat": {
+  "sprite": "sprites/Golbat.png",
+  "key": "Golbat",
+  "types": [
+   "poison",
+   "flying"
+  ],
+  "name": "Golbat",
+  "nationalNo": 42
+ },
+ "oddish": {
+  "sprite": "sprites/Oddish.png",
+  "key": "Oddish",
+  "types": [
+   "grass",
+   "poison"
+  ],
+  "name": "Oddish",
+  "nationalNo": 43
+ },
+ "gloom": {
+  "sprite": "sprites/Gloom.png",
+  "key": "Gloom",
+  "types": [
+   "grass",
+   "poison"
+  ],
+  "name": "Gloom",
+  "nationalNo": 44
+ },
+ "vileplume": {
+  "sprite": "sprites/Vileplume.png",
+  "key": "Vileplume",
+  "types": [
+   "grass",
+   "poison"
+  ],
+  "name": "Vileplume",
+  "nationalNo": 45
+ },
+ "paras": {
+  "sprite": "sprites/Paras.png",
+  "key": "Paras",
+  "types": [
+   "bug",
+   "grass"
+  ],
+  "name": "Paras",
+  "nationalNo": 46
+ },
+ "parasect": {
+  "sprite": "sprites/Parasect.png",
+  "key": "Parasect",
+  "types": [
+   "bug",
+   "grass"
+  ],
+  "name": "Parasect",
+  "nationalNo": 47
+ },
+ "mankey": {
+  "sprite": "sprites/Mankey.png",
+  "key": "Mankey",
+  "types": [
+   "fighting"
+  ],
+  "name": "Mankey",
+  "nationalNo": 56
+ },
+ "primeape": {
+  "sprite": "sprites/Primeape.png",
+  "key": "Primeape",
+  "types": [
+   "fighting"
+  ],
+  "name": "Primeape",
+  "nationalNo": 57
+ },
+ "growlithe": {
+  "sprite": "sprites/Growlithe.png",
+  "key": "Growlithe",
+  "types": [
+   "fire"
+  ],
+  "name": "Growlithe",
+  "nationalNo": 58
+ },
+ "hisuiangrowlithe": {
+  "sprite": "sprites/Growlithe_Hisuian.png",
+  "key": "Growlithe_Hisuian",
+  "types": [
+   "fire",
+   "rock"
+  ],
+  "name": "Hisuian Growlithe",
+  "nationalNo": 58
+ },
+ "growlithehisuian": {
+  "sprite": "sprites/Growlithe_Hisuian.png",
+  "key": "Growlithe_Hisuian",
+  "types": [
+   "fire",
+   "rock"
+  ],
+  "name": "Hisuian Growlithe",
+  "nationalNo": 58
+ },
+ "arcanine": {
+  "sprite": "sprites/Arcanine.png",
+  "key": "Arcanine",
+  "types": [
+   "fire"
+  ],
+  "name": "Arcanine",
+  "nationalNo": 59
+ },
+ "hisuianarcanine": {
+  "sprite": "sprites/Arcanine_Hisuian.png",
+  "key": "Arcanine_Hisuian",
+  "types": [
+   "fire",
+   "rock"
+  ],
+  "name": "Hisuian Arcanine",
+  "nationalNo": 59
+ },
+ "arcaninehisuian": {
+  "sprite": "sprites/Arcanine_Hisuian.png",
+  "key": "Arcanine_Hisuian",
+  "types": [
+   "fire",
+   "rock"
+  ],
+  "name": "Hisuian Arcanine",
+  "nationalNo": 59
+ },
+ "poliwag": {
+  "sprite": "sprites/Poliwag.png",
+  "key": "Poliwag",
+  "types": [
+   "water"
+  ],
+  "name": "Poliwag",
+  "nationalNo": 60
+ },
+ "poliwhirl": {
+  "sprite": "sprites/Poliwhirl.png",
+  "key": "Poliwhirl",
+  "types": [
+   "water"
+  ],
+  "name": "Poliwhirl",
+  "nationalNo": 61
+ },
+ "poliwrath": {
+  "sprite": "sprites/Poliwrath.png",
+  "key": "Poliwrath",
+  "types": [
+   "water",
+   "fighting"
+  ],
+  "name": "Poliwrath",
+  "nationalNo": 62
+ },
+ "abra": {
+  "sprite": "sprites/Abra.png",
+  "key": "Abra",
+  "types": [
+   "psychic"
+  ],
+  "name": "Abra",
+  "nationalNo": 63
+ },
+ "kadabra": {
+  "sprite": "sprites/Kadabra.png",
+  "key": "Kadabra",
+  "types": [
+   "psychic"
+  ],
+  "name": "Kadabra",
+  "nationalNo": 64
+ },
+ "alakazam": {
+  "sprite": "sprites/Alakazam.png",
+  "key": "Alakazam",
+  "types": [
+   "psychic"
+  ],
+  "name": "Alakazam",
+  "nationalNo": 65
+ },
+ "machop": {
+  "sprite": "sprites/Machop.png",
+  "key": "Machop",
+  "types": [
+   "fighting"
+  ],
+  "name": "Machop",
+  "nationalNo": 66
+ },
+ "machoke": {
+  "sprite": "sprites/Machoke.png",
+  "key": "Machoke",
+  "types": [
+   "fighting"
+  ],
+  "name": "Machoke",
+  "nationalNo": 67
+ },
+ "machamp": {
+  "sprite": "sprites/Machamp.png",
+  "key": "Machamp",
+  "types": [
+   "fighting"
+  ],
+  "name": "Machamp",
+  "nationalNo": 68
+ },
+ "bellsprout": {
+  "sprite": "sprites/Bellsprout.png",
+  "key": "Bellsprout",
+  "types": [
+   "grass",
+   "poison"
+  ],
+  "name": "Bellsprout",
+  "nationalNo": 69
+ },
+ "weepinbell": {
+  "sprite": "sprites/Weepinbell.png",
+  "key": "Weepinbell",
+  "types": [
+   "grass",
+   "poison"
+  ],
+  "name": "Weepinbell",
+  "nationalNo": 70
+ },
+ "victreebel": {
+  "sprite": "sprites/Victreebel.png",
+  "key": "Victreebel",
+  "types": [
+   "grass",
+   "poison"
+  ],
+  "name": "Victreebel",
+  "nationalNo": 71
+ },
+ "tentacool": {
+  "sprite": "sprites/Tentacool.png",
+  "key": "Tentacool",
+  "types": [
+   "water",
+   "poison"
+  ],
+  "name": "Tentacool",
+  "nationalNo": 72
+ },
+ "tentacruel": {
+  "sprite": "sprites/Tentacruel.png",
+  "key": "Tentacruel",
+  "types": [
+   "water",
+   "poison"
+  ],
+  "name": "Tentacruel",
+  "nationalNo": 73
+ },
+ "geodude": {
+  "sprite": "sprites/Geodude.png",
+  "key": "Geodude",
+  "types": [
+   "rock",
+   "ground"
+  ],
+  "name": "Geodude",
+  "nationalNo": 74
+ },
+ "alolangeodude": {
+  "sprite": "sprites/Geodude_Alolan.png",
+  "key": "Geodude_Alolan",
+  "types": [
+   "rock",
+   "electric"
+  ],
+  "name": "Alolan Geodude",
+  "nationalNo": 74
+ },
+ "geodudealolan": {
+  "sprite": "sprites/Geodude_Alolan.png",
+  "key": "Geodude_Alolan",
+  "types": [
+   "rock",
+   "electric"
+  ],
+  "name": "Alolan Geodude",
+  "nationalNo": 74
+ },
+ "graveler": {
+  "sprite": "sprites/Graveler.png",
+  "key": "Graveler",
+  "types": [
+   "rock",
+   "ground"
+  ],
+  "name": "Graveler",
+  "nationalNo": 75
+ },
+ "alolangraveler": {
+  "sprite": "sprites/Graveler_Alolan.png",
+  "key": "Graveler_Alolan",
+  "types": [
+   "rock",
+   "electric"
+  ],
+  "name": "Alolan Graveler",
+  "nationalNo": 75
+ },
+ "graveleralolan": {
+  "sprite": "sprites/Graveler_Alolan.png",
+  "key": "Graveler_Alolan",
+  "types": [
+   "rock",
+   "electric"
+  ],
+  "name": "Alolan Graveler",
+  "nationalNo": 75
+ },
+ "golem": {
+  "sprite": "sprites/Golem.png",
+  "key": "Golem",
+  "types": [
+   "rock",
+   "ground"
+  ],
+  "name": "Golem",
+  "nationalNo": 76
+ },
+ "alolangolem": {
+  "sprite": "sprites/Golem_Alolan.png",
+  "key": "Golem_Alolan",
+  "types": [
+   "rock",
+   "electric"
+  ],
+  "name": "Alolan Golem",
+  "nationalNo": 76
+ },
+ "golemalolan": {
+  "sprite": "sprites/Golem_Alolan.png",
+  "key": "Golem_Alolan",
+  "types": [
+   "rock",
+   "electric"
+  ],
+  "name": "Alolan Golem",
+  "nationalNo": 76
+ },
+ "ponyta": {
+  "sprite": "sprites/Ponyta.png",
+  "key": "Ponyta",
+  "types": [
+   "fire"
+  ],
+  "name": "Ponyta",
+  "nationalNo": 77
+ },
+ "galarianponyta": {
+  "sprite": "sprites/Ponyta_Galarian.png",
+  "key": "Ponyta_Galarian",
+  "types": [
+   "psychic"
+  ],
+  "name": "Galarian Ponyta",
+  "nationalNo": 77
+ },
+ "ponytagalarian": {
+  "sprite": "sprites/Ponyta_Galarian.png",
+  "key": "Ponyta_Galarian",
+  "types": [
+   "psychic"
+  ],
+  "name": "Galarian Ponyta",
+  "nationalNo": 77
+ },
+ "rapidash": {
+  "sprite": "sprites/Rapidash.png",
+  "key": "Rapidash",
+  "types": [
+   "fire"
+  ],
+  "name": "Rapidash",
+  "nationalNo": 78
+ },
+ "galarianrapidash": {
+  "sprite": "sprites/Rapidash_Galarian.png",
+  "key": "Rapidash_Galarian",
+  "types": [
+   "psychic",
+   "fairy"
+  ],
+  "name": "Galarian Rapidash",
+  "nationalNo": 78
+ },
+ "rapidashgalarian": {
+  "sprite": "sprites/Rapidash_Galarian.png",
+  "key": "Rapidash_Galarian",
+  "types": [
+   "psychic",
+   "fairy"
+  ],
+  "name": "Galarian Rapidash",
+  "nationalNo": 78
+ },
+ "slowpoke": {
+  "sprite": "sprites/Slowpoke.png",
+  "key": "Slowpoke",
+  "types": [
+   "water",
+   "psychic"
+  ],
+  "name": "Slowpoke",
+  "nationalNo": 79
+ },
+ "galarianslowpoke": {
+  "sprite": "sprites/Slowpoke_Galarian.png",
+  "key": "Slowpoke_Galarian",
+  "types": [
+   "psychic"
+  ],
+  "name": "Galarian Slowpoke",
+  "nationalNo": 79
+ },
+ "slowpokegalarian": {
+  "sprite": "sprites/Slowpoke_Galarian.png",
+  "key": "Slowpoke_Galarian",
+  "types": [
+   "psychic"
+  ],
+  "name": "Galarian Slowpoke",
+  "nationalNo": 79
+ },
+ "slowbro": {
+  "sprite": "sprites/Slowbro.png",
+  "key": "Slowbro",
+  "types": [
+   "water",
+   "psychic"
+  ],
+  "name": "Slowbro",
+  "nationalNo": 80
+ },
+ "galarianslowbro": {
+  "sprite": "sprites/Slowbro_Galarian.png",
+  "key": "Slowbro_Galarian",
+  "types": [
+   "poison",
+   "psychic"
+  ],
+  "name": "Galarian Slowbro",
+  "nationalNo": 80
+ },
+ "slowbrogalarian": {
+  "sprite": "sprites/Slowbro_Galarian.png",
+  "key": "Slowbro_Galarian",
+  "types": [
+   "poison",
+   "psychic"
+  ],
+  "name": "Galarian Slowbro",
+  "nationalNo": 80
+ },
+ "magnemite": {
+  "sprite": "sprites/Magnemite.png",
+  "key": "Magnemite",
+  "types": [
+   "electric",
+   "steel"
+  ],
+  "name": "Magnemite",
+  "nationalNo": 81
+ },
+ "magneton": {
+  "sprite": "sprites/Magneton.png",
+  "key": "Magneton",
+  "types": [
+   "electric",
+   "steel"
+  ],
+  "name": "Magneton",
+  "nationalNo": 82
+ },
+ "grimer": {
+  "sprite": "sprites/Grimer.png",
+  "key": "Grimer",
+  "types": [
+   "poison"
+  ],
+  "name": "Grimer",
+  "nationalNo": 88
+ },
+ "alolangrimer": {
+  "sprite": "sprites/Grimer_Alolan.png",
+  "key": "Grimer_Alolan",
+  "types": [
+   "poison",
+   "dark"
+  ],
+  "name": "Alolan Grimer",
+  "nationalNo": 88
+ },
+ "grimeralolan": {
+  "sprite": "sprites/Grimer_Alolan.png",
+  "key": "Grimer_Alolan",
+  "types": [
+   "poison",
+   "dark"
+  ],
+  "name": "Alolan Grimer",
+  "nationalNo": 88
+ },
+ "muk": {
+  "sprite": "sprites/Muk.png",
+  "key": "Muk",
+  "types": [
+   "poison"
+  ],
+  "name": "Muk",
+  "nationalNo": 89
+ },
+ "alolanmuk": {
+  "sprite": "sprites/Muk_Alolan.png",
+  "key": "Muk_Alolan",
+  "types": [
+   "poison",
+   "dark"
+  ],
+  "name": "Alolan Muk",
+  "nationalNo": 89
+ },
+ "mukalolan": {
+  "sprite": "sprites/Muk_Alolan.png",
+  "key": "Muk_Alolan",
+  "types": [
+   "poison",
+   "dark"
+  ],
+  "name": "Alolan Muk",
+  "nationalNo": 89
+ },
+ "gastly": {
+  "sprite": "sprites/Gastly.png",
+  "key": "Gastly",
+  "types": [
+   "ghost",
+   "poison"
+  ],
+  "name": "Gastly",
+  "nationalNo": 92
+ },
+ "haunter": {
+  "sprite": "sprites/Haunter.png",
+  "key": "Haunter",
+  "types": [
+   "ghost",
+   "poison"
+  ],
+  "name": "Haunter",
+  "nationalNo": 93
+ },
+ "gengar": {
+  "sprite": "sprites/Gengar.png",
+  "key": "Gengar",
+  "types": [
+   "ghost",
+   "poison"
+  ],
+  "name": "Gengar",
+  "nationalNo": 94
+ },
+ "onix": {
+  "sprite": "sprites/Onix.png",
+  "key": "Onix",
+  "types": [
+   "rock",
+   "ground"
+  ],
+  "name": "Onix",
+  "nationalNo": 95
+ },
+ "voltorb": {
+  "sprite": "sprites/Voltorb.png",
+  "key": "Voltorb",
+  "types": [
+   "electric"
+  ],
+  "name": "Voltorb",
+  "nationalNo": 100
+ },
+ "hisuianvoltorb": {
+  "sprite": "sprites/Voltorb_Hisuian.png",
+  "key": "Voltorb_Hisuian",
+  "types": [
+   "electric",
+   "grass"
+  ],
+  "name": "Hisuian Voltorb",
+  "nationalNo": 100
+ },
+ "voltorbhisuian": {
+  "sprite": "sprites/Voltorb_Hisuian.png",
+  "key": "Voltorb_Hisuian",
+  "types": [
+   "electric",
+   "grass"
+  ],
+  "name": "Hisuian Voltorb",
+  "nationalNo": 100
+ },
+ "electrode": {
+  "sprite": "sprites/Electrode.png",
+  "key": "Electrode",
+  "types": [
+   "electric"
+  ],
+  "name": "Electrode",
+  "nationalNo": 101
+ },
+ "hisuianelectrode": {
+  "sprite": "sprites/Electrode_Hisuian.png",
+  "key": "Electrode_Hisuian",
+  "types": [
+   "electric",
+   "grass"
+  ],
+  "name": "Hisuian Electrode",
+  "nationalNo": 101
+ },
+ "electrodehisuian": {
+  "sprite": "sprites/Electrode_Hisuian.png",
+  "key": "Electrode_Hisuian",
+  "types": [
+   "electric",
+   "grass"
+  ],
+  "name": "Hisuian Electrode",
+  "nationalNo": 101
+ },
+ "exeggcute": {
+  "sprite": "sprites/Exeggcute.png",
+  "key": "Exeggcute",
+  "types": [
+   "grass",
+   "psychic"
+  ],
+  "name": "Exeggcute",
+  "nationalNo": 102
+ },
+ "exeggutor": {
+  "sprite": "sprites/Exeggutor.png",
+  "key": "Exeggutor",
+  "types": [
+   "grass",
+   "psychic"
+  ],
+  "name": "Exeggutor",
+  "nationalNo": 103
+ },
+ "alolanexeggutor": {
+  "sprite": "sprites/Exeggutor_Alolan.png",
+  "key": "Exeggutor_Alolan",
+  "types": [
+   "grass",
+   "dragon"
+  ],
+  "name": "Alolan Exeggutor",
+  "nationalNo": 103
+ },
+ "exeggutoralolan": {
+  "sprite": "sprites/Exeggutor_Alolan.png",
+  "key": "Exeggutor_Alolan",
+  "types": [
+   "grass",
+   "dragon"
+  ],
+  "name": "Alolan Exeggutor",
+  "nationalNo": 103
+ },
+ "hitmonlee": {
+  "sprite": "sprites/Hitmonlee.png",
+  "key": "Hitmonlee",
+  "types": [
+   "fighting"
+  ],
+  "name": "Hitmonlee",
+  "nationalNo": 106
+ },
+ "hitmonchan": {
+  "sprite": "sprites/Hitmonchan.png",
+  "key": "Hitmonchan",
+  "types": [
+   "fighting"
+  ],
+  "name": "Hitmonchan",
+  "nationalNo": 107
+ },
+ "koffing": {
+  "sprite": "sprites/Koffing.png",
+  "key": "Koffing",
+  "types": [
+   "poison"
+  ],
+  "name": "Koffing",
+  "nationalNo": 109
+ },
+ "weezing": {
+  "sprite": "sprites/Weezing.png",
+  "key": "Weezing",
+  "types": [
+   "poison"
+  ],
+  "name": "Weezing",
+  "nationalNo": 110
+ },
+ "galarianweezing": {
+  "sprite": "sprites/Weezing_Galarian.png",
+  "key": "Weezing_Galarian",
+  "types": [
+   "poison",
+   "fairy"
+  ],
+  "name": "Galarian Weezing",
+  "nationalNo": 110
+ },
+ "weezinggalarian": {
+  "sprite": "sprites/Weezing_Galarian.png",
+  "key": "Weezing_Galarian",
+  "types": [
+   "poison",
+   "fairy"
+  ],
+  "name": "Galarian Weezing",
+  "nationalNo": 110
+ },
+ "rhyhorn": {
+  "sprite": "sprites/Rhyhorn.png",
+  "key": "Rhyhorn",
+  "types": [
+   "ground",
+   "rock"
+  ],
+  "name": "Rhyhorn",
+  "nationalNo": 111
+ },
+ "rhydon": {
+  "sprite": "sprites/Rhydon.png",
+  "key": "Rhydon",
+  "types": [
+   "ground",
+   "rock"
+  ],
+  "name": "Rhydon",
+  "nationalNo": 112
+ },
+ "chansey": {
+  "sprite": "sprites/Chansey.png",
+  "key": "Chansey",
+  "types": [
+   "normal"
+  ],
+  "name": "Chansey",
+  "nationalNo": 113
+ },
+ "tangela": {
+  "sprite": "sprites/Tangela.png",
+  "key": "Tangela",
+  "types": [
+   "grass"
+  ],
+  "name": "Tangela",
+  "nationalNo": 114
+ },
+ "horsea": {
+  "sprite": "sprites/Horsea.png",
+  "key": "Horsea",
+  "types": [
+   "water"
+  ],
+  "name": "Horsea",
+  "nationalNo": 116
+ },
+ "seadra": {
+  "sprite": "sprites/Seadra.png",
+  "key": "Seadra",
+  "types": [
+   "water"
+  ],
+  "name": "Seadra",
+  "nationalNo": 117
+ },
+ "scyther": {
+  "sprite": "sprites/Scyther.png",
+  "key": "Scyther",
+  "types": [
+   "bug",
+   "flying"
+  ],
+  "name": "Scyther",
+  "nationalNo": 123
+ },
+ "jynx": {
+  "sprite": "sprites/Jynx.png",
+  "key": "Jynx",
+  "types": [
+   "ice",
+   "psychic"
+  ],
+  "name": "Jynx",
+  "nationalNo": 124
+ },
+ "electabuzz": {
+  "sprite": "sprites/Electabuzz.png",
+  "key": "Electabuzz",
+  "types": [
+   "electric"
+  ],
+  "name": "Electabuzz",
+  "nationalNo": 125
+ },
+ "magmar": {
+  "sprite": "sprites/Magmar.png",
+  "key": "Magmar",
+  "types": [
+   "fire"
+  ],
+  "name": "Magmar",
+  "nationalNo": 126
+ },
+ "pinsir": {
+  "sprite": "sprites/Pinsir.png",
+  "key": "Pinsir",
+  "types": [
+   "bug"
+  ],
+  "name": "Pinsir",
+  "nationalNo": 127
+ },
+ "tauros": {
+  "sprite": "sprites/Tauros.png",
+  "key": "Tauros",
+  "types": [
+   "normal"
+  ],
+  "name": "Tauros",
+  "nationalNo": 128
+ },
+ "magikarp": {
+  "sprite": "sprites/Magikarp.png",
+  "key": "Magikarp",
+  "types": [
+   "water"
+  ],
+  "name": "Magikarp",
+  "nationalNo": 129
+ },
+ "gyarados": {
+  "sprite": "sprites/Gyarados.png",
+  "key": "Gyarados",
+  "types": [
+   "water",
+   "flying"
+  ],
+  "name": "Gyarados",
+  "nationalNo": 130
+ },
+ "lapras": {
+  "sprite": "sprites/Lapras.png",
+  "key": "Lapras",
+  "types": [
+   "water",
+   "ice"
+  ],
+  "name": "Lapras",
+  "nationalNo": 131
+ },
+ "ditto": {
+  "sprite": "sprites/Ditto.png",
+  "key": "Ditto",
+  "types": [
+   "normal"
+  ],
+  "name": "Ditto",
+  "nationalNo": 132
+ },
+ "eevee": {
+  "sprite": "sprites/Eevee.png",
+  "key": "Eevee",
+  "types": [
+   "normal"
+  ],
+  "name": "Eevee",
+  "nationalNo": 133
+ },
+ "vaporeon": {
+  "sprite": "sprites/Vaporeon.png",
+  "key": "Vaporeon",
+  "types": [
+   "water"
+  ],
+  "name": "Vaporeon",
+  "nationalNo": 134
+ },
+ "jolteon": {
+  "sprite": "sprites/Jolteon.png",
+  "key": "Jolteon",
+  "types": [
+   "electric"
+  ],
+  "name": "Jolteon",
+  "nationalNo": 135
+ },
+ "flareon": {
+  "sprite": "sprites/Flareon.png",
+  "key": "Flareon",
+  "types": [
+   "fire"
+  ],
+  "name": "Flareon",
+  "nationalNo": 136
+ },
+ "porygon": {
+  "sprite": "sprites/Porygon.png",
+  "key": "Porygon",
+  "types": [
+   "normal"
+  ],
+  "name": "Porygon",
+  "nationalNo": 137
+ },
+ "snorlax": {
+  "sprite": "sprites/Snorlax.png",
+  "key": "Snorlax",
+  "types": [
+   "normal"
+  ],
+  "name": "Snorlax",
+  "nationalNo": 143
+ },
+ "dratini": {
+  "sprite": "sprites/Dratini.png",
+  "key": "Dratini",
+  "types": [
+   "dragon"
+  ],
+  "name": "Dratini",
+  "nationalNo": 147
+ },
+ "dragonair": {
+  "sprite": "sprites/Dragonair.png",
+  "key": "Dragonair",
+  "types": [
+   "dragon"
+  ],
+  "name": "Dragonair",
+  "nationalNo": 148
+ },
+ "dragonite": {
+  "sprite": "sprites/Dragonite.png",
+  "key": "Dragonite",
+  "types": [
+   "dragon",
+   "flying"
+  ],
+  "name": "Dragonite",
+  "nationalNo": 149
+ },
+ "chikorita": {
+  "sprite": "sprites/Chikorita.png",
+  "key": "Chikorita",
+  "types": [
+   "grass"
+  ],
+  "name": "Chikorita",
+  "nationalNo": 152
+ },
+ "bayleef": {
+  "sprite": "sprites/Bayleef.png",
+  "key": "Bayleef",
+  "types": [
+   "grass"
+  ],
+  "name": "Bayleef",
+  "nationalNo": 153
+ },
+ "meganium": {
+  "sprite": "sprites/Meganium.png",
+  "key": "Meganium",
+  "types": [
+   "grass"
+  ],
+  "name": "Meganium",
+  "nationalNo": 154
+ },
+ "ancestormeganium": {
+  "sprite": "sprites/Meganium_Ancestor.png",
+  "key": "Meganium_Ancestor",
+  "types": [
+   "grass"
+  ],
+  "name": "Ancestor Meganium",
+  "nationalNo": 154
+ },
+ "meganiumancestor": {
+  "sprite": "sprites/Meganium_Ancestor.png",
+  "key": "Meganium_Ancestor",
+  "types": [
+   "grass"
+  ],
+  "name": "Ancestor Meganium",
+  "nationalNo": 154
+ },
+ "ancestormeganiumancestor": {
+  "sprite": "sprites/Meganium_Ancestor.png",
+  "key": "Meganium_Ancestor",
+  "types": [
+   "grass"
+  ],
+  "name": "Ancestor Meganium",
+  "nationalNo": 154
+ },
+ "meganiumancestorancestor": {
+  "sprite": "sprites/Meganium_Ancestor.png",
+  "key": "Meganium_Ancestor",
+  "types": [
+   "grass"
+  ],
+  "name": "Ancestor Meganium",
+  "nationalNo": 154
+ },
+ "cyndaquil": {
+  "sprite": "sprites/Cyndaquil.png",
+  "key": "Cyndaquil",
+  "types": [
+   "fire"
+  ],
+  "name": "Cyndaquil",
+  "nationalNo": 155
+ },
+ "quilava": {
+  "sprite": "sprites/Quilava.png",
+  "key": "Quilava",
+  "types": [
+   "fire"
+  ],
+  "name": "Quilava",
+  "nationalNo": 156
+ },
+ "typhlosion": {
+  "sprite": "sprites/Typhlosion.png",
+  "key": "Typhlosion",
+  "types": [
+   "fire"
+  ],
+  "name": "Typhlosion",
+  "nationalNo": 157
+ },
+ "hisuiantyphlosion": {
+  "sprite": "sprites/Typhlosion_Hisuian.png",
+  "key": "Typhlosion_Hisuian",
+  "types": [
+   "fire",
+   "ghost"
+  ],
+  "name": "Hisuian Typhlosion",
+  "nationalNo": 157
+ },
+ "typhlosionhisuian": {
+  "sprite": "sprites/Typhlosion_Hisuian.png",
+  "key": "Typhlosion_Hisuian",
+  "types": [
+   "fire",
+   "ghost"
+  ],
+  "name": "Hisuian Typhlosion",
+  "nationalNo": 157
+ },
+ "totodile": {
+  "sprite": "sprites/Totodile.png",
+  "key": "Totodile",
+  "types": [
+   "water"
+  ],
+  "name": "Totodile",
+  "nationalNo": 158
+ },
+ "croconaw": {
+  "sprite": "sprites/Croconaw.png",
+  "key": "Croconaw",
+  "types": [
+   "water"
+  ],
+  "name": "Croconaw",
+  "nationalNo": 159
+ },
+ "feraligatr": {
+  "sprite": "sprites/Feraligatr.png",
+  "key": "Feraligatr",
+  "types": [
+   "water"
+  ],
+  "name": "Feraligatr",
+  "nationalNo": 160
+ },
+ "ancestorferaligatr": {
+  "sprite": "sprites/Feraligatr_Ancestor.png",
+  "key": "Feraligatr_Ancestor",
+  "types": [
+   "water"
+  ],
+  "name": "Ancestor Feraligatr",
+  "nationalNo": 160
+ },
+ "feraligatrancestor": {
+  "sprite": "sprites/Feraligatr_Ancestor.png",
+  "key": "Feraligatr_Ancestor",
+  "types": [
+   "water"
+  ],
+  "name": "Ancestor Feraligatr",
+  "nationalNo": 160
+ },
+ "ancestorferaligatrancestor": {
+  "sprite": "sprites/Feraligatr_Ancestor.png",
+  "key": "Feraligatr_Ancestor",
+  "types": [
+   "water"
+  ],
+  "name": "Ancestor Feraligatr",
+  "nationalNo": 160
+ },
+ "feraligatrancestorancestor": {
+  "sprite": "sprites/Feraligatr_Ancestor.png",
+  "key": "Feraligatr_Ancestor",
+  "types": [
+   "water"
+  ],
+  "name": "Ancestor Feraligatr",
+  "nationalNo": 160
+ },
+ "sentret": {
+  "sprite": "sprites/Sentret.png",
+  "key": "Sentret",
+  "types": [
+   "normal"
+  ],
+  "name": "Sentret",
+  "nationalNo": 161
+ },
+ "furret": {
+  "sprite": "sprites/Furret.png",
+  "key": "Furret",
+  "types": [
+   "normal"
+  ],
+  "name": "Furret",
+  "nationalNo": 162
+ },
+ "hoothoot": {
+  "sprite": "sprites/Hoothoot.png",
+  "key": "Hoothoot",
+  "types": [
+   "normal",
+   "flying"
+  ],
+  "name": "Hoothoot",
+  "nationalNo": 163
+ },
+ "noctowl": {
+  "sprite": "sprites/Noctowl.png",
+  "key": "Noctowl",
+  "types": [
+   "normal",
+   "flying"
+  ],
+  "name": "Noctowl",
+  "nationalNo": 164
+ },
+ "immortalnoctowl": {
+  "sprite": "sprites/Noctowl_Immortal.png",
+  "key": "Noctowl_Immortal",
+  "types": [
+   "normal",
+   "flying"
+  ],
+  "name": "Immortal Noctowl",
+  "nationalNo": 164
+ },
+ "noctowlimmortal": {
+  "sprite": "sprites/Noctowl_Immortal.png",
+  "key": "Noctowl_Immortal",
+  "types": [
+   "normal",
+   "flying"
+  ],
+  "name": "Immortal Noctowl",
+  "nationalNo": 164
+ },
+ "immortalnoctowlimmortal": {
+  "sprite": "sprites/Noctowl_Immortal.png",
+  "key": "Noctowl_Immortal",
+  "types": [
+   "normal",
+   "flying"
+  ],
+  "name": "Immortal Noctowl",
+  "nationalNo": 164
+ },
+ "noctowlimmortalimmortal": {
+  "sprite": "sprites/Noctowl_Immortal.png",
+  "key": "Noctowl_Immortal",
+  "types": [
+   "normal",
+   "flying"
+  ],
+  "name": "Immortal Noctowl",
+  "nationalNo": 164
+ },
+ "ledyba": {
+  "sprite": "sprites/Ledyba.png",
+  "key": "Ledyba",
+  "types": [
+   "bug",
+   "flying"
+  ],
+  "name": "Ledyba",
+  "nationalNo": 165
+ },
+ "ledian": {
+  "sprite": "sprites/Ledian.png",
+  "key": "Ledian",
+  "types": [
+   "bug",
+   "flying"
+  ],
+  "name": "Ledian",
+  "nationalNo": 166
+ },
+ "spinarak": {
+  "sprite": "sprites/Spinarak.png",
+  "key": "Spinarak",
+  "types": [
+   "bug",
+   "poison"
+  ],
+  "name": "Spinarak",
+  "nationalNo": 167
+ },
+ "ariados": {
+  "sprite": "sprites/Ariados.png",
+  "key": "Ariados",
+  "types": [
+   "bug",
+   "poison"
+  ],
+  "name": "Ariados",
+  "nationalNo": 168
+ },
+ "crobat": {
+  "sprite": "sprites/Crobat.png",
+  "key": "Crobat",
+  "types": [
+   "poison",
+   "flying"
+  ],
+  "name": "Crobat",
+  "nationalNo": 169
+ },
+ "chinchou": {
+  "sprite": "sprites/Chinchou.png",
+  "key": "Chinchou",
+  "types": [
+   "water",
+   "electric"
+  ],
+  "name": "Chinchou",
+  "nationalNo": 170
+ },
+ "lanturn": {
+  "sprite": "sprites/Lanturn.png",
+  "key": "Lanturn",
+  "types": [
+   "water",
+   "electric"
+  ],
+  "name": "Lanturn",
+  "nationalNo": 171
+ },
+ "togetic": {
+  "sprite": "sprites/Togetic.png",
+  "key": "Togetic",
+  "types": [
+   "fairy",
+   "flying"
+  ],
+  "name": "Togetic",
+  "nationalNo": 176
+ },
+ "natu": {
+  "sprite": "sprites/Natu.png",
+  "key": "Natu",
+  "types": [
+   "psychic",
+   "flying"
+  ],
+  "name": "Natu",
+  "nationalNo": 177
+ },
+ "xatu": {
+  "sprite": "sprites/Xatu.png",
+  "key": "Xatu",
+  "types": [
+   "psychic",
+   "flying"
+  ],
+  "name": "Xatu",
+  "nationalNo": 178
+ },
+ "ancestorxatu": {
+  "sprite": "sprites/Xatu_Ancestor.png",
+  "key": "Xatu_Ancestor",
+  "types": [
+   "psychic",
+   "flying"
+  ],
+  "name": "Ancestor Xatu",
+  "nationalNo": 178
+ },
+ "xatuancestor": {
+  "sprite": "sprites/Xatu_Ancestor.png",
+  "key": "Xatu_Ancestor",
+  "types": [
+   "psychic",
+   "flying"
+  ],
+  "name": "Ancestor Xatu",
+  "nationalNo": 178
+ },
+ "ancestorxatuancestor": {
+  "sprite": "sprites/Xatu_Ancestor.png",
+  "key": "Xatu_Ancestor",
+  "types": [
+   "psychic",
+   "flying"
+  ],
+  "name": "Ancestor Xatu",
+  "nationalNo": 178
+ },
+ "xatuancestorancestor": {
+  "sprite": "sprites/Xatu_Ancestor.png",
+  "key": "Xatu_Ancestor",
+  "types": [
+   "psychic",
+   "flying"
+  ],
+  "name": "Ancestor Xatu",
+  "nationalNo": 178
+ },
+ "mareep": {
+  "sprite": "sprites/Mareep.png",
+  "key": "Mareep",
+  "types": [
+   "electric"
+  ],
+  "name": "Mareep",
+  "nationalNo": 179
+ },
+ "flaaffy": {
+  "sprite": "sprites/Flaaffy.png",
+  "key": "Flaaffy",
+  "types": [
+   "electric"
+  ],
+  "name": "Flaaffy",
+  "nationalNo": 180
+ },
+ "ampharos": {
+  "sprite": "sprites/Ampharos.png",
+  "key": "Ampharos",
+  "types": [
+   "electric"
+  ],
+  "name": "Ampharos",
+  "nationalNo": 181
+ },
+ "bellossom": {
+  "sprite": "sprites/Bellossom.png",
+  "key": "Bellossom",
+  "types": [
+   "grass"
+  ],
+  "name": "Bellossom",
+  "nationalNo": 182
+ },
+ "marill": {
+  "sprite": "sprites/Marill.png",
+  "key": "Marill",
+  "types": [
+   "water",
+   "fairy"
+  ],
+  "name": "Marill",
+  "nationalNo": 183
+ },
+ "azumarill": {
+  "sprite": "sprites/Azumarill.png",
+  "key": "Azumarill",
+  "types": [
+   "water",
+   "fairy"
+  ],
+  "name": "Azumarill",
+  "nationalNo": 184
+ },
+ "sudowoodo": {
+  "sprite": "sprites/Sudowoodo.png",
+  "key": "Sudowoodo",
+  "types": [
+   "rock"
+  ],
+  "name": "Sudowoodo",
+  "nationalNo": 185
+ },
+ "politoed": {
+  "sprite": "sprites/Politoed.png",
+  "key": "Politoed",
+  "types": [
+   "water"
+  ],
+  "name": "Politoed",
+  "nationalNo": 186
+ },
+ "hoppip": {
+  "sprite": "sprites/Hoppip.png",
+  "key": "Hoppip",
+  "types": [
+   "grass",
+   "flying"
+  ],
+  "name": "Hoppip",
+  "nationalNo": 187
+ },
+ "skiploom": {
+  "sprite": "sprites/Skiploom.png",
+  "key": "Skiploom",
+  "types": [
+   "grass",
+   "flying"
+  ],
+  "name": "Skiploom",
+  "nationalNo": 188
+ },
+ "jumpluff": {
+  "sprite": "sprites/Jumpluff.png",
+  "key": "Jumpluff",
+  "types": [
+   "grass",
+   "flying"
+  ],
+  "name": "Jumpluff",
+  "nationalNo": 189
+ },
+ "aipom": {
+  "sprite": "sprites/Aipom.png",
+  "key": "Aipom",
+  "types": [
+   "normal"
+  ],
+  "name": "Aipom",
+  "nationalNo": 190
+ },
+ "sunkern": {
+  "sprite": "sprites/Sunkern.png",
+  "key": "Sunkern",
+  "types": [
+   "grass"
+  ],
+  "name": "Sunkern",
+  "nationalNo": 191
+ },
+ "sunflora": {
+  "sprite": "sprites/Sunflora.png",
+  "key": "Sunflora",
+  "types": [
+   "grass"
+  ],
+  "name": "Sunflora",
+  "nationalNo": 192
+ },
+ "yanma": {
+  "sprite": "sprites/Yanma.png",
+  "key": "Yanma",
+  "types": [
+   "bug",
+   "flying"
+  ],
+  "name": "Yanma",
+  "nationalNo": 193
+ },
+ "wooper": {
+  "sprite": "sprites/Wooper.png",
+  "key": "Wooper",
+  "types": [
+   "water",
+   "ground"
+  ],
+  "name": "Wooper",
+  "nationalNo": 194
+ },
+ "quagsire": {
+  "sprite": "sprites/Quagsire.png",
+  "key": "Quagsire",
+  "types": [
+   "water",
+   "ground"
+  ],
+  "name": "Quagsire",
+  "nationalNo": 195
+ },
+ "espeon": {
+  "sprite": "sprites/Espeon.png",
+  "key": "Espeon",
+  "types": [
+   "psychic"
+  ],
+  "name": "Espeon",
+  "nationalNo": 196
+ },
+ "umbreon": {
+  "sprite": "sprites/Umbreon.png",
+  "key": "Umbreon",
+  "types": [
+   "dark"
+  ],
+  "name": "Umbreon",
+  "nationalNo": 197
+ },
+ "murkrow": {
+  "sprite": "sprites/Murkrow.png",
+  "key": "Murkrow",
+  "types": [
+   "dark",
+   "flying"
+  ],
+  "name": "Murkrow",
+  "nationalNo": 198
+ },
+ "slowking": {
+  "sprite": "sprites/Slowking.png",
+  "key": "Slowking",
+  "types": [
+   "water",
+   "psychic"
+  ],
+  "name": "Slowking",
+  "nationalNo": 199
+ },
+ "galarianslowking": {
+  "sprite": "sprites/Slowking_Galarian.png",
+  "key": "Slowking_Galarian",
+  "types": [
+   "poison",
+   "psychic"
+  ],
+  "name": "Galarian Slowking",
+  "nationalNo": 199
+ },
+ "slowkinggalarian": {
+  "sprite": "sprites/Slowking_Galarian.png",
+  "key": "Slowking_Galarian",
+  "types": [
+   "poison",
+   "psychic"
+  ],
+  "name": "Galarian Slowking",
+  "nationalNo": 199
+ },
+ "misdreavus": {
+  "sprite": "sprites/Misdreavus.png",
+  "key": "Misdreavus",
+  "types": [
+   "ghost"
+  ],
+  "name": "Misdreavus",
+  "nationalNo": 200
+ },
+ "unown": {
+  "sprite": "sprites/Unown.png",
+  "key": "Unown",
+  "types": [
+   "psychic"
+  ],
+  "name": "Unown",
+  "nationalNo": 201
+ },
+ "girafarig": {
+  "sprite": "sprites/Girafarig.png",
+  "key": "Girafarig",
+  "types": [
+   "normal",
+   "psychic"
+  ],
+  "name": "Girafarig",
+  "nationalNo": 203
+ },
+ "pineco": {
+  "sprite": "sprites/Pineco.png",
+  "key": "Pineco",
+  "types": [
+   "bug"
+  ],
+  "name": "Pineco",
+  "nationalNo": 204
+ },
+ "forretress": {
+  "sprite": "sprites/Forretress.png",
+  "key": "Forretress",
+  "types": [
+   "bug",
+   "steel"
+  ],
+  "name": "Forretress",
+  "nationalNo": 205
+ },
+ "dunsparce": {
+  "sprite": "sprites/Dunsparce.png",
+  "key": "Dunsparce",
+  "types": [
+   "normal"
+  ],
+  "name": "Dunsparce",
+  "nationalNo": 206
+ },
+ "gligar": {
+  "sprite": "sprites/Gligar.png",
+  "key": "Gligar",
+  "types": [
+   "ground",
+   "flying"
+  ],
+  "name": "Gligar",
+  "nationalNo": 207
+ },
+ "steelix": {
+  "sprite": "sprites/Steelix.png",
+  "key": "Steelix",
+  "types": [
+   "steel",
+   "ground"
+  ],
+  "name": "Steelix",
+  "nationalNo": 208
+ },
+ "snubbull": {
+  "sprite": "sprites/Snubbull.png",
+  "key": "Snubbull",
+  "types": [
+   "fairy"
+  ],
+  "name": "Snubbull",
+  "nationalNo": 209
+ },
+ "granbull": {
+  "sprite": "sprites/Granbull.png",
+  "key": "Granbull",
+  "types": [
+   "fairy"
+  ],
+  "name": "Granbull",
+  "nationalNo": 210
+ },
+ "qwilfish": {
+  "sprite": "sprites/Qwilfish.png",
+  "key": "Qwilfish",
+  "types": [
+   "water",
+   "poison"
+  ],
+  "name": "Qwilfish",
+  "nationalNo": 211
+ },
+ "hisuianqwilfish": {
+  "sprite": "sprites/Qwilfish_Hisuian.png",
+  "key": "Qwilfish_Hisuian",
+  "types": [
+   "dark",
+   "poison"
+  ],
+  "name": "Hisuian Qwilfish",
+  "nationalNo": 211
+ },
+ "qwilfishhisuian": {
+  "sprite": "sprites/Qwilfish_Hisuian.png",
+  "key": "Qwilfish_Hisuian",
+  "types": [
+   "dark",
+   "poison"
+  ],
+  "name": "Hisuian Qwilfish",
+  "nationalNo": 211
+ },
+ "scizor": {
+  "sprite": "sprites/Scizor.png",
+  "key": "Scizor",
+  "types": [
+   "bug",
+   "steel"
+  ],
+  "name": "Scizor",
+  "nationalNo": 212
+ },
+ "shuckle": {
+  "sprite": "sprites/Shuckle.png",
+  "key": "Shuckle",
+  "types": [
+   "bug",
+   "rock"
+  ],
+  "name": "Shuckle",
+  "nationalNo": 213
+ },
+ "heracross": {
+  "sprite": "sprites/Heracross.png",
+  "key": "Heracross",
+  "types": [
+   "bug",
+   "fighting"
+  ],
+  "name": "Heracross",
+  "nationalNo": 214
+ },
+ "sneasel": {
+  "sprite": "sprites/Sneasel.png",
+  "key": "Sneasel",
+  "types": [
+   "dark",
+   "ice"
+  ],
+  "name": "Sneasel",
+  "nationalNo": 215
+ },
+ "hisuiansneasel": {
+  "sprite": "sprites/Sneasel_Hisuian.png",
+  "key": "Sneasel_Hisuian",
+  "types": [
+   "fighting",
+   "poison"
+  ],
+  "name": "Hisuian Sneasel",
+  "nationalNo": 215
+ },
+ "sneaselhisuian": {
+  "sprite": "sprites/Sneasel_Hisuian.png",
+  "key": "Sneasel_Hisuian",
+  "types": [
+   "fighting",
+   "poison"
+  ],
+  "name": "Hisuian Sneasel",
+  "nationalNo": 215
+ },
+ "teddiursa": {
+  "sprite": "sprites/Teddiursa.png",
+  "key": "Teddiursa",
+  "types": [
+   "normal"
+  ],
+  "name": "Teddiursa",
+  "nationalNo": 216
+ },
+ "ursaring": {
+  "sprite": "sprites/Ursaring.png",
+  "key": "Ursaring",
+  "types": [
+   "normal"
+  ],
+  "name": "Ursaring",
+  "nationalNo": 217
+ },
+ "slugma": {
+  "sprite": "sprites/Slugma.png",
+  "key": "Slugma",
+  "types": [
+   "fire"
+  ],
+  "name": "Slugma",
+  "nationalNo": 218
+ },
+ "magcargo": {
+  "sprite": "sprites/Magcargo.png",
+  "key": "Magcargo",
+  "types": [
+   "fire",
+   "rock"
+  ],
+  "name": "Magcargo",
+  "nationalNo": 219
+ },
+ "ancestormagcargo": {
+  "sprite": "sprites/Magcargo_Ancestor.png",
+  "key": "Magcargo_Ancestor",
+  "types": [
+   "fire",
+   "rock"
+  ],
+  "name": "Ancestor Magcargo",
+  "nationalNo": 219
+ },
+ "magcargoancestor": {
+  "sprite": "sprites/Magcargo_Ancestor.png",
+  "key": "Magcargo_Ancestor",
+  "types": [
+   "fire",
+   "rock"
+  ],
+  "name": "Ancestor Magcargo",
+  "nationalNo": 219
+ },
+ "ancestormagcargoancestor": {
+  "sprite": "sprites/Magcargo_Ancestor.png",
+  "key": "Magcargo_Ancestor",
+  "types": [
+   "fire",
+   "rock"
+  ],
+  "name": "Ancestor Magcargo",
+  "nationalNo": 219
+ },
+ "magcargoancestorancestor": {
+  "sprite": "sprites/Magcargo_Ancestor.png",
+  "key": "Magcargo_Ancestor",
+  "types": [
+   "fire",
+   "rock"
+  ],
+  "name": "Ancestor Magcargo",
+  "nationalNo": 219
+ },
+ "swinub": {
+  "sprite": "sprites/Swinub.png",
+  "key": "Swinub",
+  "types": [
+   "ice",
+   "ground"
+  ],
+  "name": "Swinub",
+  "nationalNo": 220
+ },
+ "piloswine": {
+  "sprite": "sprites/Piloswine.png",
+  "key": "Piloswine",
+  "types": [
+   "ice",
+   "ground"
+  ],
+  "name": "Piloswine",
+  "nationalNo": 221
+ },
+ "corsola": {
+  "sprite": "sprites/Corsola.png",
+  "key": "Corsola",
+  "types": [
+   "water",
+   "rock"
+  ],
+  "name": "Corsola",
+  "nationalNo": 222
+ },
+ "galariancorsola": {
+  "sprite": "sprites/Corsola_Galarian.png",
+  "key": "Corsola_Galarian",
+  "types": [
+   "ghost"
+  ],
+  "name": "Galarian Corsola",
+  "nationalNo": 222
+ },
+ "corsolagalarian": {
+  "sprite": "sprites/Corsola_Galarian.png",
+  "key": "Corsola_Galarian",
+  "types": [
+   "ghost"
+  ],
+  "name": "Galarian Corsola",
+  "nationalNo": 222
+ },
+ "remoraid": {
+  "sprite": "sprites/Remoraid.png",
+  "key": "Remoraid",
+  "types": [
+   "water"
+  ],
+  "name": "Remoraid",
+  "nationalNo": 223
+ },
+ "octillery": {
+  "sprite": "sprites/Octillery.png",
+  "key": "Octillery",
+  "types": [
+   "water"
+  ],
+  "name": "Octillery",
+  "nationalNo": 224
+ },
+ "mantine": {
+  "sprite": "sprites/Mantine.png",
+  "key": "Mantine",
+  "types": [
+   "water",
+   "flying"
+  ],
+  "name": "Mantine",
+  "nationalNo": 226
+ },
+ "skarmory": {
+  "sprite": "sprites/Skarmory.png",
+  "key": "Skarmory",
+  "types": [
+   "steel",
+   "flying"
+  ],
+  "name": "Skarmory",
+  "nationalNo": 227
+ },
+ "houndour": {
+  "sprite": "sprites/Houndour.png",
+  "key": "Houndour",
+  "types": [
+   "dark",
+   "fire"
+  ],
+  "name": "Houndour",
+  "nationalNo": 228
+ },
+ "houndoom": {
+  "sprite": "sprites/Houndoom.png",
+  "key": "Houndoom",
+  "types": [
+   "dark",
+   "fire"
+  ],
+  "name": "Houndoom",
+  "nationalNo": 229
+ },
+ "kingdra": {
+  "sprite": "sprites/Kingdra.png",
+  "key": "Kingdra",
+  "types": [
+   "water",
+   "dragon"
+  ],
+  "name": "Kingdra",
+  "nationalNo": 230
+ },
+ "phanpy": {
+  "sprite": "sprites/Phanpy.png",
+  "key": "Phanpy",
+  "types": [
+   "ground"
+  ],
+  "name": "Phanpy",
+  "nationalNo": 231
+ },
+ "donphan": {
+  "sprite": "sprites/Donphan.png",
+  "key": "Donphan",
+  "types": [
+   "ground"
+  ],
+  "name": "Donphan",
+  "nationalNo": 232
+ },
+ "porygon2": {
+  "sprite": "sprites/Porygon2.png",
+  "key": "Porygon2",
+  "types": [
+   "normal"
+  ],
+  "name": "Porygon2",
+  "nationalNo": 233
+ },
+ "stantler": {
+  "sprite": "sprites/Stantler.png",
+  "key": "Stantler",
+  "types": [
+   "normal"
+  ],
+  "name": "Stantler",
+  "nationalNo": 234
+ },
+ "hitmontop": {
+  "sprite": "sprites/Hitmontop.png",
+  "key": "Hitmontop",
+  "types": [
+   "fighting"
+  ],
+  "name": "Hitmontop",
+  "nationalNo": 237
+ },
+ "miltank": {
+  "sprite": "sprites/Miltank.png",
+  "key": "Miltank",
+  "types": [
+   "normal"
+  ],
+  "name": "Miltank",
+  "nationalNo": 241
+ },
+ "blissey": {
+  "sprite": "sprites/Blissey.png",
+  "key": "Blissey",
+  "types": [
+   "normal"
+  ],
+  "name": "Blissey",
+  "nationalNo": 242
+ },
+ "raikou": {
+  "sprite": "sprites/Raikou.png",
+  "key": "Raikou",
+  "types": [
+   "electric"
+  ],
+  "name": "Raikou",
+  "nationalNo": 243
+ },
+ "entei": {
+  "sprite": "sprites/Entei.png",
+  "key": "Entei",
+  "types": [
+   "fire"
+  ],
+  "name": "Entei",
+  "nationalNo": 244
+ },
+ "suicune": {
+  "sprite": "sprites/Suicune.png",
+  "key": "Suicune",
+  "types": [
+   "water"
+  ],
+  "name": "Suicune",
+  "nationalNo": 245
+ },
+ "larvitar": {
+  "sprite": "sprites/Larvitar.png",
+  "key": "Larvitar",
+  "types": [
+   "rock",
+   "ground"
+  ],
+  "name": "Larvitar",
+  "nationalNo": 246
+ },
+ "pupitar": {
+  "sprite": "sprites/Pupitar.png",
+  "key": "Pupitar",
+  "types": [
+   "rock",
+   "ground"
+  ],
+  "name": "Pupitar",
+  "nationalNo": 247
+ },
+ "tyranitar": {
+  "sprite": "sprites/Tyranitar.png",
+  "key": "Tyranitar",
+  "types": [
+   "rock",
+   "dark"
+  ],
+  "name": "Tyranitar",
+  "nationalNo": 248
+ },
+ "lugia": {
+  "sprite": "sprites/Lugia.png",
+  "key": "Lugia",
+  "types": [
+   "psychic",
+   "flying"
+  ],
+  "name": "Lugia",
+  "nationalNo": 249
+ },
+ "hooh": {
+  "sprite": "sprites/Ho_Oh.png",
+  "key": "Ho_Oh",
+  "types": [
+   "fire",
+   "flying"
+  ],
+  "name": "Ho Oh",
+  "nationalNo": 250
+ },
+ "celebi": {
+  "sprite": "sprites/Celebi.png",
+  "key": "Celebi",
+  "types": [
+   "psychic",
+   "grass"
+  ],
+  "name": "Celebi",
+  "nationalNo": 251
+ },
+ "ralts": {
+  "sprite": "sprites/Ralts.png",
+  "key": "Ralts",
+  "types": [
+   "psychic",
+   "fairy"
+  ],
+  "name": "Ralts",
+  "nationalNo": 280
+ },
+ "kirlia": {
+  "sprite": "sprites/Kirlia.png",
+  "key": "Kirlia",
+  "types": [
+   "psychic",
+   "fairy"
+  ],
+  "name": "Kirlia",
+  "nationalNo": 281
+ },
+ "gardevoir": {
+  "sprite": "sprites/Gardevoir.png",
+  "key": "Gardevoir",
+  "types": [
+   "psychic",
+   "fairy"
+  ],
+  "name": "Gardevoir",
+  "nationalNo": 282
+ },
+ "duskull": {
+  "sprite": "sprites/Duskull.png",
+  "key": "Duskull",
+  "types": [
+   "ghost"
+  ],
+  "name": "Duskull",
+  "nationalNo": 355
+ },
+ "dusclops": {
+  "sprite": "sprites/Dusclops.png",
+  "key": "Dusclops",
+  "types": [
+   "ghost"
+  ],
+  "name": "Dusclops",
+  "nationalNo": 356
+ },
+ "snorunt": {
+  "sprite": "sprites/Snorunt.png",
+  "key": "Snorunt",
+  "types": [
+   "ice"
+  ],
+  "name": "Snorunt",
+  "nationalNo": 361
+ },
+ "glalie": {
+  "sprite": "sprites/Glalie.png",
+  "key": "Glalie",
+  "types": [
+   "ice"
+  ],
+  "name": "Glalie",
+  "nationalNo": 362
+ },
+ "starly": {
+  "sprite": "sprites/Starly.png",
+  "key": "Starly",
+  "types": [
+   "normal",
+   "flying"
+  ],
+  "name": "Starly",
+  "nationalNo": 396
+ },
+ "staravia": {
+  "sprite": "sprites/Staravia.png",
+  "key": "Staravia",
+  "types": [
+   "normal",
+   "flying"
+  ],
+  "name": "Staravia",
+  "nationalNo": 397
+ },
+ "staraptor": {
+  "sprite": "sprites/Staraptor.png",
+  "key": "Staraptor",
+  "types": [
+   "normal",
+   "flying"
+  ],
+  "name": "Staraptor",
+  "nationalNo": 398
+ },
+ "shinx": {
+  "sprite": "sprites/Shinx.png",
+  "key": "Shinx",
+  "types": [
+   "electric"
+  ],
+  "name": "Shinx",
+  "nationalNo": 403
+ },
+ "luxio": {
+  "sprite": "sprites/Luxio.png",
+  "key": "Luxio",
+  "types": [
+   "electric"
+  ],
+  "name": "Luxio",
+  "nationalNo": 404
+ },
+ "luxray": {
+  "sprite": "sprites/Luxray.png",
+  "key": "Luxray",
+  "types": [
+   "electric"
+  ],
+  "name": "Luxray",
+  "nationalNo": 405
+ },
+ "cranidos": {
+  "sprite": "sprites/Cranidos.png",
+  "key": "Cranidos",
+  "types": [
+   "rock"
+  ],
+  "name": "Cranidos",
+  "nationalNo": 408
+ },
+ "rampardos": {
+  "sprite": "sprites/Rampardos.png",
+  "key": "Rampardos",
+  "types": [
+   "rock"
+  ],
+  "name": "Rampardos",
+  "nationalNo": 409
+ },
+ "shieldon": {
+  "sprite": "sprites/Shieldon.png",
+  "key": "Shieldon",
+  "types": [
+   "rock",
+   "steel"
+  ],
+  "name": "Shieldon",
+  "nationalNo": 410
+ },
+ "bastiodon": {
+  "sprite": "sprites/Bastiodon.png",
+  "key": "Bastiodon",
+  "types": [
+   "rock",
+   "steel"
+  ],
+  "name": "Bastiodon",
+  "nationalNo": 411
+ },
+ "ambipom": {
+  "sprite": "sprites/Ambipom.png",
+  "key": "Ambipom",
+  "types": [
+   "normal"
+  ],
+  "name": "Ambipom",
+  "nationalNo": 424
+ },
+ "drifloon": {
+  "sprite": "sprites/Drifloon.png",
+  "key": "Drifloon",
+  "types": [
+   "ghost",
+   "flying"
+  ],
+  "name": "Drifloon",
+  "nationalNo": 425
+ },
+ "drifblim": {
+  "sprite": "sprites/Drifblim.png",
+  "key": "Drifblim",
+  "types": [
+   "ghost",
+   "flying"
+  ],
+  "name": "Drifblim",
+  "nationalNo": 426
+ },
+ "mismagius": {
+  "sprite": "sprites/Mismagius.png",
+  "key": "Mismagius",
+  "types": [
+   "ghost"
+  ],
+  "name": "Mismagius",
+  "nationalNo": 429
+ },
+ "honchkrow": {
+  "sprite": "sprites/Honchkrow.png",
+  "key": "Honchkrow",
+  "types": [
+   "dark",
+   "flying"
+  ],
+  "name": "Honchkrow",
+  "nationalNo": 430
+ },
+ "bronzor": {
+  "sprite": "sprites/Bronzor.png",
+  "key": "Bronzor",
+  "types": [
+   "steel",
+   "psychic"
+  ],
+  "name": "Bronzor",
+  "nationalNo": 436
+ },
+ "bronzong": {
+  "sprite": "sprites/Bronzong.png",
+  "key": "Bronzong",
+  "types": [
+   "steel",
+   "psychic"
+  ],
+  "name": "Bronzong",
+  "nationalNo": 437
+ },
+ "spiritomb": {
+  "sprite": "sprites/Spiritomb.png",
+  "key": "Spiritomb",
+  "types": [
+   "ghost",
+   "dark"
+  ],
+  "name": "Spiritomb",
+  "nationalNo": 442
+ },
+ "gible": {
+  "sprite": "sprites/Gible.png",
+  "key": "Gible",
+  "types": [
+   "dragon",
+   "ground"
+  ],
+  "name": "Gible",
+  "nationalNo": 443
+ },
+ "gabite": {
+  "sprite": "sprites/Gabite.png",
+  "key": "Gabite",
+  "types": [
+   "dragon",
+   "ground"
+  ],
+  "name": "Gabite",
+  "nationalNo": 444
+ },
+ "garchomp": {
+  "sprite": "sprites/Garchomp.png",
+  "key": "Garchomp",
+  "types": [
+   "dragon",
+   "ground"
+  ],
+  "name": "Garchomp",
+  "nationalNo": 445
+ },
+ "riolu": {
+  "sprite": "sprites/Riolu.png",
+  "key": "Riolu",
+  "types": [
+   "fighting"
+  ],
+  "name": "Riolu",
+  "nationalNo": 447
+ },
+ "lucario": {
+  "sprite": "sprites/Lucario.png",
+  "key": "Lucario",
+  "types": [
+   "fighting",
+   "steel"
+  ],
+  "name": "Lucario",
+  "nationalNo": 448
+ },
+ "hippopotas": {
+  "sprite": "sprites/Hippopotas.png",
+  "key": "Hippopotas",
+  "types": [
+   "ground"
+  ],
+  "name": "Hippopotas",
+  "nationalNo": 449
+ },
+ "hippowdon": {
+  "sprite": "sprites/Hippowdon.png",
+  "key": "Hippowdon",
+  "types": [
+   "ground"
+  ],
+  "name": "Hippowdon",
+  "nationalNo": 450
+ },
+ "croagunk": {
+  "sprite": "sprites/Croagunk.png",
+  "key": "Croagunk",
+  "types": [
+   "poison",
+   "fighting"
+  ],
+  "name": "Croagunk",
+  "nationalNo": 453
+ },
+ "toxicroak": {
+  "sprite": "sprites/Toxicroak.png",
+  "key": "Toxicroak",
+  "types": [
+   "poison",
+   "fighting"
+  ],
+  "name": "Toxicroak",
+  "nationalNo": 454
+ },
+ "snover": {
+  "sprite": "sprites/Snover.png",
+  "key": "Snover",
+  "types": [
+   "grass",
+   "ice"
+  ],
+  "name": "Snover",
+  "nationalNo": 459
+ },
+ "abomasnow": {
+  "sprite": "sprites/Abomasnow.png",
+  "key": "Abomasnow",
+  "types": [
+   "grass",
+   "ice"
+  ],
+  "name": "Abomasnow",
+  "nationalNo": 460
+ },
+ "weavile": {
+  "sprite": "sprites/Weavile.png",
+  "key": "Weavile",
+  "types": [
+   "dark",
+   "ice"
+  ],
+  "name": "Weavile",
+  "nationalNo": 461
+ },
+ "magnezone": {
+  "sprite": "sprites/Magnezone.png",
+  "key": "Magnezone",
+  "types": [
+   "electric",
+   "steel"
+  ],
+  "name": "Magnezone",
+  "nationalNo": 462
+ },
+ "rhyperior": {
+  "sprite": "sprites/Rhyperior.png",
+  "key": "Rhyperior",
+  "types": [
+   "ground",
+   "rock"
+  ],
+  "name": "Rhyperior",
+  "nationalNo": 464
+ },
+ "tangrowth": {
+  "sprite": "sprites/Tangrowth.png",
+  "key": "Tangrowth",
+  "types": [
+   "grass"
+  ],
+  "name": "Tangrowth",
+  "nationalNo": 465
+ },
+ "electivire": {
+  "sprite": "sprites/Electivire.png",
+  "key": "Electivire",
+  "types": [
+   "electric"
+  ],
+  "name": "Electivire",
+  "nationalNo": 466
+ },
+ "magmortar": {
+  "sprite": "sprites/Magmortar.png",
+  "key": "Magmortar",
+  "types": [
+   "fire"
+  ],
+  "name": "Magmortar",
+  "nationalNo": 467
+ },
+ "togekiss": {
+  "sprite": "sprites/Togekiss.png",
+  "key": "Togekiss",
+  "types": [
+   "fairy",
+   "flying"
+  ],
+  "name": "Togekiss",
+  "nationalNo": 468
+ },
+ "yanmega": {
+  "sprite": "sprites/Yanmega.png",
+  "key": "Yanmega",
+  "types": [
+   "bug",
+   "flying"
+  ],
+  "name": "Yanmega",
+  "nationalNo": 469
+ },
+ "leafeon": {
+  "sprite": "sprites/Leafeon.png",
+  "key": "Leafeon",
+  "types": [
+   "grass"
+  ],
+  "name": "Leafeon",
+  "nationalNo": 470
+ },
+ "glaceon": {
+  "sprite": "sprites/Glaceon.png",
+  "key": "Glaceon",
+  "types": [
+   "ice"
+  ],
+  "name": "Glaceon",
+  "nationalNo": 471
+ },
+ "gliscor": {
+  "sprite": "sprites/Gliscor.png",
+  "key": "Gliscor",
+  "types": [
+   "ground",
+   "flying"
+  ],
+  "name": "Gliscor",
+  "nationalNo": 472
+ },
+ "mamoswine": {
+  "sprite": "sprites/Mamoswine.png",
+  "key": "Mamoswine",
+  "types": [
+   "ice",
+   "ground"
+  ],
+  "name": "Mamoswine",
+  "nationalNo": 473
+ },
+ "porygonz": {
+  "sprite": "sprites/Porygon_Z.png",
+  "key": "Porygon_Z",
+  "types": [
+   "normal"
+  ],
+  "name": "Porygon Z",
+  "nationalNo": 474
+ },
+ "gallade": {
+  "sprite": "sprites/Gallade.png",
+  "key": "Gallade",
+  "types": [
+   "psychic",
+   "fighting"
+  ],
+  "name": "Gallade",
+  "nationalNo": 475
+ },
+ "dusknoir": {
+  "sprite": "sprites/Dusknoir.png",
+  "key": "Dusknoir",
+  "types": [
+   "ghost"
+  ],
+  "name": "Dusknoir",
+  "nationalNo": 477
+ },
+ "froslass": {
+  "sprite": "sprites/Froslass.png",
+  "key": "Froslass",
+  "types": [
+   "ice",
+   "ghost"
+  ],
+  "name": "Froslass",
+  "nationalNo": 478
+ },
+ "rotom": {
+  "sprite": "sprites/Rotom.png",
+  "key": "Rotom",
+  "types": [
+   "electric",
+   "ghost"
+  ],
+  "name": "Rotom",
+  "nationalNo": 479
+ },
+ "heatran": {
+  "sprite": "sprites/Heatran.png",
+  "key": "Heatran",
+  "types": [
+   "fire",
+   "steel"
+  ],
+  "name": "Heatran",
+  "nationalNo": 485
+ },
+ "oshawott": {
+  "sprite": "sprites/Oshawott.png",
+  "key": "Oshawott",
+  "types": [
+   "water"
+  ],
+  "name": "Oshawott",
+  "nationalNo": 501
+ },
+ "dewott": {
+  "sprite": "sprites/Dewott.png",
+  "key": "Dewott",
+  "types": [
+   "water"
+  ],
+  "name": "Dewott",
+  "nationalNo": 502
+ },
+ "samurott": {
+  "sprite": "sprites/Samurott.png",
+  "key": "Samurott",
+  "types": [
+   "water"
+  ],
+  "name": "Samurott",
+  "nationalNo": 503
+ },
+ "hisuiansamurott": {
+  "sprite": "sprites/Samurott_Hisuian.png",
+  "key": "Samurott_Hisuian",
+  "types": [
+   "water",
+   "dark"
+  ],
+  "name": "Hisuian Samurott",
+  "nationalNo": 503
+ },
+ "samurotthisuian": {
+  "sprite": "sprites/Samurott_Hisuian.png",
+  "key": "Samurott_Hisuian",
+  "types": [
+   "water",
+   "dark"
+  ],
+  "name": "Hisuian Samurott",
+  "nationalNo": 503
+ },
+ "basculin": {
+  "sprite": "sprites/Basculin.png",
+  "key": "Basculin",
+  "types": [
+   "water"
+  ],
+  "name": "Basculin",
+  "nationalNo": 550
+ },
+ "zorua": {
+  "sprite": "sprites/Zorua.png",
+  "key": "Zorua",
+  "types": [
+   "dark"
+  ],
+  "name": "Zorua",
+  "nationalNo": 570
+ },
+ "zoroark": {
+  "sprite": "sprites/Zoroark.png",
+  "key": "Zoroark",
+  "types": [
+   "dark"
+  ],
+  "name": "Zoroark",
+  "nationalNo": 571
+ },
+ "rufflet": {
+  "sprite": "sprites/Rufflet.png",
+  "key": "Rufflet",
+  "types": [
+   "normal",
+   "flying"
+  ],
+  "name": "Rufflet",
+  "nationalNo": 627
+ },
+ "braviary": {
+  "sprite": "sprites/Braviary.png",
+  "key": "Braviary",
+  "types": [
+   "normal",
+   "flying"
+  ],
+  "name": "Braviary",
+  "nationalNo": 628
+ },
+ "sylveon": {
+  "sprite": "sprites/Sylveon.png",
+  "key": "Sylveon",
+  "types": [
+   "fairy"
+  ],
+  "name": "Sylveon",
+  "nationalNo": 700
+ },
+ "goomy": {
+  "sprite": "sprites/Goomy.png",
+  "key": "Goomy",
+  "types": [
+   "dragon"
+  ],
+  "name": "Goomy",
+  "nationalNo": 704
+ },
+ "sliggoo": {
+  "sprite": "sprites/Sliggoo.png",
+  "key": "Sliggoo",
+  "types": [
+   "dragon"
+  ],
+  "name": "Sliggoo",
+  "nationalNo": 705
+ },
+ "goodra": {
+  "sprite": "sprites/Goodra.png",
+  "key": "Goodra",
+  "types": [
+   "dragon"
+  ],
+  "name": "Goodra",
+  "nationalNo": 706
+ },
+ "bergmite": {
+  "sprite": "sprites/Bergmite.png",
+  "key": "Bergmite",
+  "types": [
+   "ice"
+  ],
+  "name": "Bergmite",
+  "nationalNo": 712
+ },
+ "avalugg": {
+  "sprite": "sprites/Avalugg.png",
+  "key": "Avalugg",
+  "types": [
+   "ice"
+  ],
+  "name": "Avalugg",
+  "nationalNo": 713
+ },
+ "rowlet": {
+  "sprite": "sprites/Rowlet.png",
+  "key": "Rowlet",
+  "types": [
+   "grass",
+   "flying"
+  ],
+  "name": "Rowlet",
+  "nationalNo": 722
+ },
+ "dartrix": {
+  "sprite": "sprites/Dartrix.png",
+  "key": "Dartrix",
+  "types": [
+   "grass",
+   "flying"
+  ],
+  "name": "Dartrix",
+  "nationalNo": 723
+ },
+ "decidueye": {
+  "sprite": "sprites/Decidueye.png",
+  "key": "Decidueye",
+  "types": [
+   "grass",
+   "ghost"
+  ],
+  "name": "Decidueye",
+  "nationalNo": 724
+ },
+ "hisuiandecidueye": {
+  "sprite": "sprites/Decidueye_Hisuian.png",
+  "key": "Decidueye_Hisuian",
+  "types": [
+   "grass",
+   "fighting"
+  ],
+  "name": "Hisuian Decidueye",
+  "nationalNo": 724
+ },
+ "decidueyehisuian": {
+  "sprite": "sprites/Decidueye_Hisuian.png",
+  "key": "Decidueye_Hisuian",
+  "types": [
+   "grass",
+   "fighting"
+  ],
+  "name": "Hisuian Decidueye",
+  "nationalNo": 724
+ },
+ "wyrdeer": {
+  "sprite": "sprites/Wyrdeer.png",
+  "key": "Wyrdeer",
+  "types": [
+   "normal",
+   "psychic"
+  ],
+  "name": "Wyrdeer",
+  "nationalNo": 899
+ },
+ "kleavor": {
+  "sprite": "sprites/Kleavor.png",
+  "key": "Kleavor",
+  "types": [
+   "bug",
+   "rock"
+  ],
+  "name": "Kleavor",
+  "nationalNo": 900
+ },
+ "ursaluna": {
+  "sprite": "sprites/Ursaluna.png",
+  "key": "Ursaluna",
+  "types": [
+   "ground",
+   "normal"
+  ],
+  "name": "Ursaluna",
+  "nationalNo": 901
+ },
+ "ursalunabloodmoon": {
+  "sprite": "sprites/Ursaluna_Bloodmoon.png",
+  "key": "Ursaluna_Bloodmoon",
+  "types": [
+   "ground",
+   "normal"
+  ],
+  "name": "Ursaluna Bloodmoon",
+  "nationalNo": 901
+ },
+ "basculegion": {
+  "sprite": "sprites/Basculegion.png",
+  "key": "Basculegion",
+  "types": [
+   "water",
+   "ghost"
+  ],
+  "name": "Basculegion",
+  "nationalNo": 902
+ },
+ "sneasler": {
+  "sprite": "sprites/Sneasler.png",
+  "key": "Sneasler",
+  "types": [
+   "fighting",
+   "poison"
+  ],
+  "name": "Sneasler",
+  "nationalNo": 903
+ },
+ "overqwil": {
+  "sprite": "sprites/Overqwil.png",
+  "key": "Overqwil",
+  "types": [
+   "dark",
+   "poison"
+  ],
+  "name": "Overqwil",
+  "nationalNo": 904
+ },
+ "annihilape": {
+  "sprite": "sprites/Annihilape.png",
+  "key": "Annihilape",
+  "types": [
+   "fighting",
+   "ghost"
+  ],
+  "name": "Annihilape",
+  "nationalNo": 979
+ },
+ "farigiraf": {
+  "sprite": "sprites/Farigiraf.png",
+  "key": "Farigiraf",
+  "types": [
+   "normal",
+   "psychic"
+  ],
+  "name": "Farigiraf",
+  "nationalNo": 981
+ },
+ "dudunsparce": {
+  "sprite": "sprites/Dudunsparce.png",
+  "key": "Dudunsparce",
+  "types": [
+   "normal"
+  ],
+  "name": "Dudunsparce",
+  "nationalNo": 982
+ }
+}

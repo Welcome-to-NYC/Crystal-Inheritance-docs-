@@ -1,0 +1,1413 @@
+{
+ "regions": [
+  {
+   "name": "Modern Johto",
+   "locations": [
+    {
+     "location": "Azalea Town",
+     "time": "",
+     "grass": [],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "Town",
+     "special": "Azalea Gym Bug Collector"
+    },
+    {
+     "location": "Tinder Garden",
+     "time": "",
+     "grass": [],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": "Cyndaquil Rowlet Oshawott"
+    },
+    {
+     "location": "Ilex Forest",
+     "time": "Day",
+     "grass": [
+      "Spinarak",
+      "Ledyba",
+      "Bellsprout",
+      "Pikachu",
+      "Hoothoot",
+      "Paras",
+      "Nidoran"
+     ],
+     "rodGroup": "Pond",
+     "surf": "Poliwag, Wooper, Poliwhirl",
+     "smashGroup": "Forest",
+     "special": ""
+    },
+    {
+     "location": "Ilex Forest",
+     "time": "Morning/Nite",
+     "grass": [
+      "Spinarak",
+      "Ledyba",
+      "Oddish",
+      "Pikachu",
+      "Hoothoot",
+      "Paras",
+      "Rowlet"
+     ],
+     "rodGroup": "Pond",
+     "surf": "Poliwag, Wooper, Poliwhirl",
+     "smashGroup": "Forest",
+     "special": ""
+    },
+    {
+     "location": "Slowpoke Well Entrace, B1F",
+     "time": "",
+     "grass": [
+      "Zubat",
+      "Slowpoke",
+      "Wooper"
+     ],
+     "rodGroup": "Lake",
+     "surf": "Slowpoke",
+     "smashGroup": "Rock",
+     "special": ""
+    },
+    {
+     "location": "Slowpoke Well B2F, B3F",
+     "time": "",
+     "grass": [
+      "Zubat",
+      "Slowpoke",
+      "Wooper",
+      "Swinub"
+     ],
+     "rodGroup": "Lake",
+     "surf": "Slowpoke",
+     "smashGroup": "Rock",
+     "special": "Slowbro (Shell Smash)"
+    },
+    {
+     "location": "Route 33",
+     "time": "Day",
+     "grass": [
+      "Sentret",
+      "Growlithe",
+      "Hoppip",
+      "Nidoran",
+      "Vulpix"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "Town",
+     "special": ""
+    },
+    {
+     "location": "Route 33",
+     "time": "Morning/Nite",
+     "grass": [
+      "Hoothoot",
+      "Growlithe",
+      "Hoppip",
+      "Nidoran",
+      "Sentret",
+      "Houndour"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "Town",
+     "special": ""
+    },
+    {
+     "location": "Union Cave",
+     "time": "",
+     "grass": [
+      "Geodude",
+      "Onix",
+      "Teddiursa",
+      "Machop",
+      "Phanpy",
+      "Dunsparce"
+     ],
+     "rodGroup": "Lake",
+     "surf": "Wooper, Quagsire",
+     "smashGroup": "Rock",
+     "special": ""
+    },
+    {
+     "location": "Union Cave B1F (N and S)",
+     "time": "",
+     "grass": [
+      "Slugma",
+      "Geodude",
+      "Onix",
+      "Machop",
+      "Koffing",
+      "Grimer",
+      "Hisuian Growlithe"
+     ],
+     "rodGroup": "Lake",
+     "surf": "Wooper, Quagsire",
+     "smashGroup": "Rock",
+     "special": "Gift egg: Cranidos or Shieldon"
+    },
+    {
+     "location": "Union Cave B2F",
+     "time": "",
+     "grass": [
+      "Magcargo",
+      "Graveler",
+      "Onix",
+      "Machop",
+      "Weezing",
+      "Larvitar"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Ruins of Alph Outside",
+     "time": "",
+     "grass": [
+      "Wooper",
+      "Natu",
+      "Gastly",
+      "Sentret",
+      "Abra"
+     ],
+     "rodGroup": "Pond",
+     "surf": "Wooper, Quagsire",
+     "smashGroup": "",
+     "special": "Gift Unown"
+    },
+    {
+     "location": "National Park",
+     "time": "Day",
+     "grass": [
+      "Nidorino",
+      "Nidorina",
+      "Sunkern",
+      "Yanma",
+      "Pikachu",
+      "Pinsir"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "National Park",
+     "time": "Morning/Nite",
+     "grass": [
+      "Nidorino",
+      "Nidorina",
+      "Sunkern",
+      "Yanma",
+      "Pikachu",
+      "Murkrow",
+      "Drifloon"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Bug catching contest",
+     "time": "",
+     "grass": [
+      "Parasect line",
+      "Ledian line",
+      "Ariados line",
+      "Scyther",
+      "Pinsir",
+      "Yanma"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Route 35",
+     "time": "",
+     "grass": [
+      "Abra",
+      "Grimer",
+      "Mareep",
+      "Yanma",
+      "Snubbull"
+     ],
+     "rodGroup": "Pond",
+     "surf": "Poliwag, Poliwhirl",
+     "smashGroup": "Route",
+     "special": "Gift Sudowoodo with mail Game corner: Eevee, Chansey,"
+    },
+    {
+     "location": "Goldenrod",
+     "time": "",
+     "grass": [],
+     "rodGroup": "Shore",
+     "surf": "Tentacruel",
+     "smashGroup": "City",
+     "special": "Porygon Trade: Give Abra for Misdreavus"
+    },
+    {
+     "location": "Route 34",
+     "time": "",
+     "grass": [
+      "Snubbull",
+      "Ditto",
+      "Clefairy",
+      "Mankey",
+      "Skiploom",
+      "Marill"
+     ],
+     "rodGroup": "Shore",
+     "surf": "Wooper, Tentacruel",
+     "smashGroup": "Route",
+     "special": ""
+    },
+    {
+     "location": "Route Ka-Jo",
+     "time": "",
+     "grass": [
+      "Rhyhorn",
+      "Mankey",
+      "Ponyta",
+      "Magmar",
+      "Gligar",
+      "Hitmontop",
+      "Pinsir"
+     ],
+     "rodGroup": "Alpine Lake",
+     "surf": "Poliwhirl, Basculin",
+     "smashGroup": "Canyon",
+     "special": "Sudowoodo"
+    },
+    {
+     "location": "KaJo Acquifer",
+     "time": "",
+     "grass": [
+      "Rhyhorn",
+      "Mankey",
+      "Gligar",
+      "Dratini"
+     ],
+     "rodGroup": "Pond",
+     "surf": "Slowpoke, Totodile",
+     "smashGroup": "",
+     "special": "Static Minsir (Requires Surf, Strength)"
+    },
+    {
+     "location": "Magnet Train Tunnel",
+     "time": "",
+     "grass": [
+      "Voltorb",
+      "Rhyhorn",
+      "Magnemite",
+      "Electabuzz",
+      "Alolan Geodude",
+      "Gible"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": "Trade: Give Gastly for Drifloon Rotom"
+    },
+    {
+     "location": "Route 32",
+     "time": "Day",
+     "grass": [
+      "Furret",
+      "Weepinbell",
+      "Flaaffy",
+      "Skiploom",
+      "Voltorb",
+      "Hisuian Voltorb"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": "Static Bronzor"
+    },
+    {
+     "location": "Route 32",
+     "time": "Morning/Nite",
+     "grass": [
+      "Furret",
+      "Gloom",
+      "Flaaffy",
+      "Skiploom",
+      "Noctowl",
+      "Noctowl"
+     ],
+     "rodGroup": "Qwilfish",
+     "surf": "Wooper, Quagsire, Tentaccruel",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Violet City",
+     "time": "",
+     "grass": [],
+     "rodGroup": "Pond",
+     "surf": "Poliwag, Poliwhirl",
+     "smashGroup": "City",
+     "special": "Purchase: Eggs for Shieldon, Cranidos,"
+    },
+    {
+     "location": "Violet Catacombs",
+     "time": "",
+     "grass": [],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": "Ancestor Noctowl"
+    },
+    {
+     "location": "Route 36",
+     "time": "Day",
+     "grass": [
+      "Tangela",
+      "Stantler",
+      "Vulpix",
+      "Growlithe",
+      "Kadabra"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Route 36",
+     "time": "Morning/Nite",
+     "grass": [
+      "Tangela",
+      "Stantler",
+      "Vulpix",
+      "Growlithe",
+      "Gastly"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "Route",
+     "special": ""
+    },
+    {
+     "location": "Route 37",
+     "time": "Day",
+     "grass": [
+      "Tangela",
+      "Stantler",
+      "Furret",
+      "Houndour",
+      "Misdreavus"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "Route",
+     "special": ""
+    },
+    {
+     "location": "Route 37",
+     "time": "Morning/Nite",
+     "grass": [
+      "Tangela",
+      "Stantler",
+      "Furret",
+      "Houndour",
+      "Noctowl"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "Route",
+     "special": ""
+    },
+    {
+     "location": "Burned Tower",
+     "time": "",
+     "grass": [
+      "Furret",
+      "Grimer",
+      "Golbat",
+      "Vulpix",
+      "Koffing"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Ecruteak",
+     "time": "",
+     "grass": [],
+     "rodGroup": "Pond",
+     "surf": "Poliwag, Poliwhirl",
+     "smashGroup": "City",
+     "special": "Burned Tower Psy Shop"
+    },
+    {
+     "location": "Bellchime Path",
+     "time": "",
+     "grass": [],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Olivine City",
+     "time": "",
+     "grass": [],
+     "rodGroup": "Shore",
+     "surf": "",
+     "smashGroup": "City",
+     "special": "Raikou Remoraid, Magikarp, Seadra, Chinchou, Octillery, Mantine,"
+    },
+    {
+     "location": "Olivine Fish Market",
+     "time": "",
+     "grass": [],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": "Qwilfish, Dratini, Corsola, Shuckle,Basculin"
+    },
+    {
+     "location": "Route 40",
+     "time": "",
+     "grass": [
+      "Tentacool",
+      "Galarian",
+      "Corsola Tentacruel"
+     ],
+     "rodGroup": "Ocean",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Route 41",
+     "time": "",
+     "grass": [
+      "Tentacruel",
+      "Galarian",
+      "Corsola Remoraid"
+     ],
+     "rodGroup": "Ocean",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Cianwood City",
+     "time": "",
+     "grass": [
+      "Lanturn",
+      "Corsola",
+      "Mantine"
+     ],
+     "rodGroup": "Ocean",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Whirl Islands",
+     "time": "",
+     "grass": [
+      "Golbat",
+      "Graveler",
+      "Jynx",
+      "Crobat"
+     ],
+     "rodGroup": "Whirl Islands",
+     "surf": "Seadra, Tentacruel, Octillery",
+     "smashGroup": "Rock",
+     "special": ""
+    },
+    {
+     "location": "Tin Tower 2-5F",
+     "time": "",
+     "grass": [
+      "Furret",
+      "Golbat",
+      "Magmar",
+      "Floors 6+",
+      "Golbat",
+      "Haunter",
+      "Kadabra"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": "Ho-Oh (must first defeat Morty)"
+    },
+    {
+     "location": "Route 38",
+     "time": "Day",
+     "grass": [
+      "Granbull",
+      "Magnemite",
+      "Ponyta",
+      "Weepinbell",
+      "Tauros"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Route 38",
+     "time": "Morning/Nite",
+     "grass": [
+      "Granbull",
+      "Magnemite",
+      "Ponyta",
+      "Gloom",
+      "Tauros"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "Route",
+     "special": "Suicune"
+    },
+    {
+     "location": "Route 39",
+     "time": "Day",
+     "grass": [
+      "Granbull",
+      "Magnemite",
+      "Furret",
+      "Weepinbell",
+      "Miltank"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Route 39",
+     "time": "Morning/Nite",
+     "grass": [
+      "Granbull",
+      "Magnemite",
+      "Furret",
+      "Gloom",
+      "Miltank"
+     ],
+     "rodGroup": "Polluted",
+     "surf": "Muk",
+     "smashGroup": "Route",
+     "special": ""
+    },
+    {
+     "location": "Route 42",
+     "time": "",
+     "grass": [
+      "Donphan",
+      "Skarmory",
+      "Azumarill",
+      "Flaaffy",
+      "Gligar",
+      "Primeape"
+     ],
+     "rodGroup": "Lake",
+     "surf": "Slowpoke, Poliwhirl, Quagsire",
+     "smashGroup": "Town",
+     "special": "Entei"
+    },
+    {
+     "location": "Mahogany Town",
+     "time": "",
+     "grass": [],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Route 43",
+     "time": "Day",
+     "grass": [
+      "Ampharos",
+      "Girafarig",
+      "Clefable",
+      "Ursaring",
+      "Scyther",
+      "Furret",
+      "Quagsire"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Route 43",
+     "time": "Morning/Nite",
+     "grass": [
+      "Ampharos",
+      "Girafarig",
+      "Clefable",
+      "Ursaring",
+      "Scyther",
+      "Noctowl",
+      "Quagsire"
+     ],
+     "rodGroup": "",
+     "surf": "Wooper, Quagsire",
+     "smashGroup": "Lake",
+     "special": ""
+    },
+    {
+     "location": "Lake of Rage",
+     "time": "",
+     "grass": [
+      "Scyther",
+      "Snorlax",
+      "Nidoking",
+      "Nidoqueen",
+      "Ursaring",
+      "Yanmega"
+     ],
+     "rodGroup": "Gyarados",
+     "surf": "Wooper, Quagsire",
+     "smashGroup": "Lake",
+     "special": "Bloodmoon Ursaluna"
+    }
+   ]
+  },
+  {
+   "name": "Historic Johto",
+   "locations": [
+    {
+     "location": "Anarres Forest",
+     "time": "Day",
+     "grass": [
+      "Yanma",
+      "Pineco",
+      "Bellsprout",
+      "Ledyba",
+      "Pineco",
+      "Tangela",
+      "Cyndaquil"
+     ],
+     "rodGroup": "Pond",
+     "surf": "Poliwag, Poliwhirl",
+     "smashGroup": "Forest",
+     "special": ""
+    },
+    {
+     "location": "Anarres Forest",
+     "time": "Morning/Nite",
+     "grass": [
+      "Hoothoot",
+      "Yanma",
+      "Oddish",
+      "Spinarak",
+      "Pineco",
+      "Tangela",
+      "Hisuian Voltorb"
+     ],
+     "rodGroup": "Pond",
+     "surf": "Poliwag, Poliwhirl",
+     "smashGroup": "Forest",
+     "special": "Ancestor Xatu"
+    },
+    {
+     "location": "Timeless Tapestry South",
+     "time": "",
+     "grass": [
+      "Ralts",
+      "Croagunk",
+      "Duskull",
+      "Shinx",
+      "Starly",
+      "Hippopotas",
+      "Rufflet"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Anarres Town",
+     "time": "",
+     "grass": [],
+     "rodGroup": "Pond",
+     "surf": "Poliwag, Poliwhirl",
+     "smashGroup": "Village",
+     "special": ""
+    },
+    {
+     "location": "Misty Basin",
+     "time": "",
+     "grass": [
+      "Slowpoke",
+      "Zubat",
+      "Wooper",
+      "Totodile",
+      "Galarian Slowpoke"
+     ],
+     "rodGroup": "Pond",
+     "surf": "Poliwag, Slowpoke",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Misty Basin B1F",
+     "time": "",
+     "grass": [
+      "Slowpoke",
+      "Zubat",
+      "Wooper",
+      "Snorunt",
+      "Galarian Slowpoke",
+      "Alolan Vulpix"
+     ],
+     "rodGroup": "Pond",
+     "surf": "Poliwag, Slowpoke, Poliwhirl",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Calm Coast",
+     "time": "",
+     "grass": [
+      "Snubbull",
+      "Marill",
+      "Ditto",
+      "Skiploom",
+      "Abra",
+      "Oshawott"
+     ],
+     "rodGroup": "Ocean",
+     "surf": "Tentacool, Mantine, Octillery",
+     "smashGroup": "Route",
+     "special": "Trade: Give Paras for Bergmite"
+    },
+    {
+     "location": "Gauldenrod",
+     "time": "",
+     "grass": [],
+     "rodGroup": "Shore",
+     "surf": "Tentacool, Mantine, Octillery",
+     "smashGroup": "City",
+     "special": "Gift egg: goomy, gible, zorua, riolu (Dorms)"
+    },
+    {
+     "location": "Gauldenrod Tunnel",
+     "time": "",
+     "grass": [
+      "Phanpy",
+      "Koffing",
+      "Gligar",
+      "Grimer",
+      "Alolan Grimer"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Serene Springs",
+     "time": "",
+     "grass": [
+      "Nidorino",
+      "Nidorina",
+      "Abra",
+      "Mareep",
+      "Snubbull",
+      "Slugma",
+      "Yanma"
+     ],
+     "rodGroup": "Pond",
+     "surf": "Wooper, Poliwhirl",
+     "smashGroup": "Kanto",
+     "special": "Ancestor Magcargo"
+    },
+    {
+     "location": "Stadium Grounds",
+     "time": "",
+     "grass": [
+      "Skiploom",
+      "Murkrow",
+      "Sunkern",
+      "Clefairy",
+      "Chikorita",
+      "Pikachu"
+     ],
+     "rodGroup": "Pond",
+     "surf": "Poliwag",
+     "smashGroup": "Kanto",
+     "special": "Toxicroack Ancestor Meganium"
+    },
+    {
+     "location": "Emperor's Garden",
+     "time": "",
+     "grass": [
+      "Furret",
+      "Togetic",
+      "Dunsparce",
+      "Misdreavus",
+      "Dratini",
+      "Skarmory",
+      "Eevee"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "Kanto",
+     "special": ""
+    },
+    {
+     "location": "Shimmer Saddle",
+     "time": "",
+     "grass": [
+      "Rhyhorn",
+      "Mankey",
+      "Skarmory",
+      "Hitmontop",
+      "Hitmonlee",
+      "Hitmonchan",
+      "Hippowdon"
+     ],
+     "rodGroup": "Alpine Lake",
+     "surf": "Poliwhirl, Basculin",
+     "smashGroup": "Canyon",
+     "special": "Zoroark Trades: Snubbull <> Hitmonlee (Dorms), Clefairy <> Hitmonchan"
+    },
+    {
+     "location": "Western Capital",
+     "time": "",
+     "grass": [],
+     "rodGroup": "Pond",
+     "surf": "Poliwag, Slowpoke",
+     "smashGroup": "Kanto",
+     "special": "(Stockroom)"
+    },
+    {
+     "location": "Cattle Cliffs East",
+     "time": "",
+     "grass": [
+      "Miltank",
+      "Tauros",
+      "Girafarig",
+      "Gligar",
+      "Magnemite"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Cattle Cliffs West",
+     "time": "",
+     "grass": [
+      "Miltank",
+      "Tauros",
+      "Girafarig",
+      "Magnemite",
+      "Magnemite"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Trader's Landing",
+     "time": "",
+     "grass": [],
+     "rodGroup": "Shore",
+     "surf": "Tentacruel, Mantine, Octillery",
+     "smashGroup": "",
+     "special": "Goomy OR Gible Egg (Disappears after Barbeau)"
+    },
+    {
+     "location": "Phantom Fjord",
+     "time": "",
+     "grass": [
+      "Golbat",
+      "Jynx",
+      "Haunter"
+     ],
+     "rodGroup": "Ocean",
+     "surf": "Seadra, Horsea, Gastly",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Vortex Caverns",
+     "time": "",
+     "grass": [
+      "Octillery",
+      "Seadra",
+      "Hisuian Qwilfish"
+     ],
+     "rodGroup": "Ocean",
+     "surf": "",
+     "smashGroup": "",
+     "special": "Lugia (Requires Waterfall)"
+    },
+    {
+     "location": "Sheltered Shores",
+     "time": "",
+     "grass": [
+      "Mantine",
+      "Corsola",
+      "Lanturn"
+     ],
+     "rodGroup": "Ocean",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Rusalka Ruins",
+     "time": "",
+     "grass": [
+      "Dusclops",
+      "Haunter",
+      "Glalie",
+      "Drifloon",
+      "Froslass"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": "Spiritomb"
+    },
+    {
+     "location": "Landing Docks",
+     "time": "",
+     "grass": [
+      "Tentracruel",
+      "Qwilfish",
+      "Octillery"
+     ],
+     "rodGroup": "Shore",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Swirling Sandbars",
+     "time": "",
+     "grass": [
+      "Tentracruel",
+      "Qwilfish",
+      "Octillery"
+     ],
+     "rodGroup": "Ocean",
+     "surf": "",
+     "smashGroup": "",
+     "special": "Overqwil"
+    },
+    {
+     "location": "Tranquil Tarn",
+     "time": "",
+     "grass": [
+      "Kirlia",
+      "Ponyta",
+      "Goomy",
+      "Sunflora",
+      "Rufflet",
+      "Staravia",
+      "Feraligatr"
+     ],
+     "rodGroup": "Pond",
+     "surf": "Lapras, Basculin, Gyarados",
+     "smashGroup": "Lake",
+     "special": "Ancestor Feraligatr"
+    },
+    {
+     "location": "Ancestral Glacier",
+     "time": "",
+     "grass": [
+      "Snover",
+      "Sneasel",
+      "Jynx",
+      "Piloswine",
+      "Vulpix, Alolan",
+      "Snorunt",
+      "Glalie"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "Ice",
+     "special": "Basculegion"
+    },
+    {
+     "location": "Enigma Glacier",
+     "time": "",
+     "grass": [
+      "Snover",
+      "Sneasel",
+      "Jynx",
+      "Piloswine",
+      "Vulpix, Alolan",
+      "Bergmite",
+      "Glalie"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "Ice",
+     "special": "Lucario"
+    },
+    {
+     "location": "Sinjoh Camp",
+     "time": "",
+     "grass": [],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Empire's Extent",
+     "time": "",
+     "grass": [
+      "Toxicroak",
+      "Braviary",
+      "Staravia",
+      "Luxio",
+      "Girafarig",
+      "Staraptor",
+      "Farigiraf"
+     ],
+     "rodGroup": "Pond",
+     "surf": "Slowbro, Poliwhirl, Qugasire",
+     "smashGroup": "Lake",
+     "special": ""
+    },
+    {
+     "location": "Eerie Hamlet",
+     "time": "",
+     "grass": [],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Rebel's Redoubt",
+     "time": "",
+     "grass": [],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": ""
+    },
+    {
+     "location": "Cinder Climb",
+     "time": "",
+     "grass": [
+      "Donphan",
+      "Magcargo",
+      "Graveler",
+      "Rhydon",
+      "Primeape",
+      "Machoke"
+     ],
+     "rodGroup": "Pond",
+     "surf": "Slowbro, Poliwhirl, Qugasire",
+     "smashGroup": "Route",
+     "special": ""
+    },
+    {
+     "location": "Clast's Cradle",
+     "time": "",
+     "grass": [
+      "Larvitar",
+      "Magmortar",
+      "Weezing",
+      "Gabite",
+      "Hippowdon",
+      "Dudunsparce",
+      "Steelix"
+     ],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "Rock",
+     "special": "Heatran"
+    },
+    {
+     "location": "Timeless Tapestry North",
+     "time": "",
+     "grass": [],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": "Celebi"
+    },
+    {
+     "location": "Brass Tower",
+     "time": "",
+     "grass": [],
+     "rodGroup": "",
+     "surf": "",
+     "smashGroup": "",
+     "special": "Noctowl, Flareon, Jolteon, Vaporeon"
+    }
+   ]
+  }
+ ],
+ "headbuttGroups": [
+  {
+   "group": "City",
+   "mons": "Hoothoot, Aipom, Heracross"
+  },
+  {
+   "group": "Canyon",
+   "mons": "Mankey, Gligar, Natu, Skarmory"
+  },
+  {
+   "group": "Town",
+   "mons": "Exeggcute, Aipom, Hoothoot, Heracross"
+  },
+  {
+   "group": "Route",
+   "mons": "Ariados, Ledian, Exeggcute, Murkrow, Pineco"
+  },
+  {
+   "group": "Kanto",
+   "mons": "Ariados, Aipom, Exeggcute, Murkrow, Pineco"
+  },
+  {
+   "group": "Lake",
+   "mons": "Ariados, Aipom, Exeggcute, Pineco"
+  },
+  {
+   "group": "Forest",
+   "mons": "Pineco"
+  },
+  {
+   "group": "Rock",
+   "mons": "Geodude, Shuckle"
+  },
+  {
+   "group": "Ice",
+   "mons": "Bergmite, Avalugg"
+  }
+ ],
+ "fishGroups": [
+  {
+   "group": "Pond",
+   "old": "Magikarp, Poliwag",
+   "good": "Poliwag, Poliwh",
+   "super": "Poliwhirl, Politoed"
+  },
+  {
+   "group": "Shore",
+   "old": "Remoraid, Horsea",
+   "good": "Tentacool, HorsTentacruel",
+   "super": ""
+  },
+  {
+   "group": "Ocean",
+   "old": "Chinchou, Tentacool",
+   "good": "Lanturn",
+   "super": "Lanturn"
+  },
+  {
+   "group": "Lake",
+   "old": "Magikarp",
+   "good": "Slowpoke",
+   "super": "Croconaw"
+  },
+  {
+   "group": "Alpine Lake",
+   "old": "Magikarp",
+   "good": "Totodile",
+   "super": "Croconaw"
+  },
+  {
+   "group": "Gyarados",
+   "old": "Magikarp",
+   "good": "Gyarados",
+   "super": "Gyarados"
+  },
+  {
+   "group": "Polluted",
+   "old": "Grimer",
+   "good": "Muk",
+   "super": "Muk"
+  },
+  {
+   "group": "Whirl Islands",
+   "old": "Magikarp",
+   "good": "Seadra, Octiller",
+   "super": "Octillery, Kingdra"
+  }
+ ],
+ "kimonoCabin": [
+  {
+   "area": "Cellar",
+   "reward": "Dratini"
+  },
+  {
+   "area": "Garden 1",
+   "reward": "Larvitar"
+  },
+  {
+   "area": "Attic",
+   "reward": "Sneasel"
+  },
+  {
+   "area": "Garden 2",
+   "reward": "Lapras"
+  },
+  {
+   "area": "Dreams",
+   "reward": "Eevee"
+  }
+ ],
+ "hiddenGrottos": [
+  {
+   "location": "Ilex Forest",
+   "item": "Ganlon Berry",
+   "common1": "Chikorita",
+   "common2": "Hisuian Voltorb",
+   "uncommon": "Togetic",
+   "rare": "Rowlet"
+  },
+  {
+   "location": "Route Kajo",
+   "item": "Liechi Berry",
+   "common1": "Hitmonchan",
+   "common2": "Hitmonlee",
+   "uncommon": "Sudowoodo",
+   "rare": "Oshawott"
+  },
+  {
+   "location": "Emperors Garden",
+   "item": "Salac Berry",
+   "common1": "Clefairy",
+   "common2": "Skiploom",
+   "uncommon": "Zorua",
+   "rare": "Riolu"
+  },
+  {
+   "location": "Lake of Rage",
+   "item": "Petaya Berry",
+   "common1": "Lapras",
+   "common2": "Chansey",
+   "uncommon": "Snorlax",
+   "rare": "Lucario"
+  }
+ ],
+ "olivineFishShop": [
+  {
+   "species": "Lv 100 Magikarp",
+   "item": "Leppa Berry",
+   "move": "Reversal"
+  },
+  {
+   "species": "Chinchou",
+   "item": "Leppa Berry",
+   "move": "Psybeam"
+  },
+  {
+   "species": "Corsola",
+   "item": "Leppa Berry",
+   "move": "Amnesia"
+  },
+  {
+   "species": "Shuckle",
+   "item": "Leppa Berry",
+   "move": "Shell Smash"
+  },
+  {
+   "species": "Remoraid",
+   "item": "Sitrus Berry",
+   "move": "Flash Cannon"
+  },
+  {
+   "species": "Mantine",
+   "item": "Sitrus Berry",
+   "move": "Mirror Coat"
+  },
+  {
+   "species": "Hisuian Qwilfish",
+   "item": "Sitrus Berry",
+   "move": "Explosion"
+  },
+  {
+   "species": "Basculin",
+   "item": "Berserk Gene",
+   "move": "Thrash"
+  },
+  {
+   "species": "Dratini",
+   "item": "Liechi Berry",
+   "move": "Extremespeed"
+  },
+  {
+   "species": "Seadra",
+   "item": "Salac Berry",
+   "move": "Poison Jab"
+  },
+  {
+   "species": "Tentacool",
+   "item": "Lum Berry",
+   "move": "Recover"
+  }
+ ],
+ "giftMons": [
+  {
+   "npc": "Azalea Bug Collector",
+   "species": "Ledyba",
+   "item": "Sitrus Berry",
+   "move": "Drain Punch"
+  },
+  {
+   "npc": "Ecruteak Psy Shop",
+   "species": "Gastly",
+   "item": "Petaya Berry",
+   "move": "Sucker Punch"
+  },
+  {
+   "npc": "Azalea Bug Collector",
+   "species": "Spinarak",
+   "item": "Lum Berry",
+   "move": "Mega Drain"
+  },
+  {
+   "npc": "Ecruteak Psy Shop",
+   "species": "Galarian Ponyta",
+   "item": "Apicot Berry",
+   "move": "Hypnosis"
+  },
+  {
+   "npc": "Azalea Bug Collector",
+   "species": "Paras",
+   "item": "Sitrus Berry",
+   "move": "Agility"
+  },
+  {
+   "npc": "Ecruteak Psy Shop",
+   "species": "Misdreavus",
+   "item": "Ganlon Berry",
+   "move": "Nasty Plot"
+  },
+  {
+   "npc": "Azalea Bug Collector",
+   "species": "Yanma",
+   "item": "Lum Berry",
+   "move": "Leech Life"
+  },
+  {
+   "npc": "Ecruteak Psy Shop",
+   "species": "Drifloon",
+   "item": "Leppa Berry",
+   "move": "Flame Charge"
+  }
+ ]
+}
